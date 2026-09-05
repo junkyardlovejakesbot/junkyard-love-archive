@@ -1,0 +1,35 @@
+“I found this perfect Porsche Cayenne diesel, white with red interior, low miles, great service history. I hit the lady up, we agreed on a price, everything was lining up… and then it all fell apart. She sold it to some random guy for a thousand dollars more. I was pissed. I was fighting it. But then this little Mercedes GLA shows up at work - cash, fixed it myself, gets way better gas mileage, and it’s literally everything I wanted, just packaged differently. It doesn’t always show up as you expect. I asked, you provided. God was like, ‘No dude, I got you, this is actually better.’” - Tim
+
+Tim Fraley - mechanic, musician, truth seeker, etc
+
+Tim returns! We explore the tension between discipline and radical self-compassion, balancing masculine action with feminine receptivity, yoga and breathwork, perspectives on wisdom texts, Tim’s eye-opening visit to a mosque, astrology as a cosmic roadmap - We celebrate synchronicities, ego death, the courage to pray, the power of gratitude, and the quiet leadership we should strive for. This one is funny, profound, and deeply human - a reminder that the path isn’t about perfection: it’s about staying open, staying gentle, and trusting the next step. It's my pleasure to welcome back to the podcast, unorthodox teacher: Tim Fraley.
+
+Notable quotes from the episode:
+
+“To really be whole, you need the feminine. A man needs the feminine… the action, the masculine, and then there’s the giving and the receiving, the feminine.” - Tim
+"You’re not a pu*sy if you don’t meditate perfectly today… Today wasn’t the day. Not every day you’re going to have enlightenment.” - Tim
+“For me, meditation really started as moving my body and stretching… reconnecting with self.” - Tim
+“Pray for your future self… God, shape me into the person I’m down here to be.” - Tim
+
+for more Tim: @ tangoteem87
+for more Jacob: @ jacobfromtheinternet
+
+00:00 – Welcome Back & Reconnecting on the Spiritual Path
+02:30 – What Does “On the Path” Really Mean? Spirituality vs Self-Improvement
+06:45 – The Pendulum Swing: Discipline, Cravings & Self-Compassion for Men
+11:20 – Balancing Masculine Drive & Feminine Grace
+16:50 – Meditation, Yoga, Breathwork & Reconnecting With Your Body
+23:40 – Prayer Practice, Gratitude & Praying for Your Future Self
+29:15 – Yoga as Union, The Body Keeps the Score & Releasing Tension
+36:10 – Astrology, the Bible & Finding Your Own Spiritual Language
+44:50 – Visiting a Mosque, Religious Similarities & Open-Minded Faith
+52:30 – Synchronicities, Signs from the Universe & The Celestine Prophecy
+57:40 – The Porsche Story: Surrender, Divine Timing & Trusting the Redirect
+1:08:20 – Ego Death, Nature Loves Courage & New Timelines
+1:15:50 – Working on Cruise Ships, Reputation & Man Plans God Laughs
+1:25:30 – Mentoring Young Men, Leadership & Being the Example
+1:35:45 – How Tim Prays: Knees, Gratitude, Ancestors & Body Prayer
+1:48:00 – Closing Wisdom & Final Thoughts
+
+
+#JunkyardLovePodcast #SpiritualGrowth #MensWork #MasculineFeminine #MeditationForMen #SelfCompassion #EgoDeath #Synchronicity #PrayerPractice #YogaAndSpirituality #AstrologyWisdom #SpiritualAwakening #Brotherhood #Surrender #GentleWarrior #UnorthodoxTeachers #RamDass #DavidGoggins #TerenceMcKenna #PorscheStory

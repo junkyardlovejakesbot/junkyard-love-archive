@@ -17,6 +17,7 @@ Site purpose: Make every published episode searchable by guest, topic, and spoke
 - [Guest index](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/)
 
 ## Episode markdown mirrors
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/surrendering-the-porsche-tim-fraley/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/surrendering-the-porsche-tim-fraley/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0124-sigmar-berg-conscious-breathing-break/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0124-sigmar-berg-conscious-breathing-break/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0123-endorphins-love-quantum-medicine-four-bodies/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0123-endorphins-love-quantum-medicine-four-bodies/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0122-laughing-like-a-hairy-oaf-barbara-mcafee/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0122-laughing-like-a-hairy-oaf-barbara-mcafee/episode.md)

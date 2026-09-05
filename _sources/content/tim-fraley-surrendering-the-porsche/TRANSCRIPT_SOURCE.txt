@@ -1,0 +1,9 @@
+Source: YouTube automatic captions en (captions.en.vtt / captions.en.json3); no official/manual en-US track available
+Video: https://www.youtube.com/watch?v=2Jkcg__K7Yw
+Turns: 100
+Word count: 22240
+Speaker map: auto-caption >> diarization segments + cue-level sticky content scoring assigned to Jacob/Tim (named speaker labels not present in auto captions)
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities unescaped; capitalized turn starts after merge; clear host/guest mislabels corrected and a few mixed turns split (path answer, pendulum answer, meditation quote, Porsche story, welcome open); Tim Reilly→Tim Fraley caption name fix in closing
+No sentence rewriting.
+Guest name spelling: Tim Fraley (matches YouTube/RSS).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.

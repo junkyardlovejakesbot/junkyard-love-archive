@@ -1,0 +1,5 @@
+Description source: YouTube (primary per archive rules; matches RSS narrative)
+YouTube chars: 3242
+RSS HTML chars: 3719
+RSS text chars: 3255
+Title source: YouTube
