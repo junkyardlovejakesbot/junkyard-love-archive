@@ -84,4 +84,6 @@ footer.site {
   font-family: system-ui, sans-serif;
 }
 .chapters li { margin: 0.25rem 0; }
-.about { white-space: pre-wrap; }
+.about { white-space: normal; }
+.about p { margin: 0 0 1rem; line-height: 1.65; }
+.about p:last-child { margin-bottom: 0; }
