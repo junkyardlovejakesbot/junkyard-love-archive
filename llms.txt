@@ -8,18 +8,14 @@ Site purpose: Make every published episode searchable by guest, topic, and spoke
 - Title: episode title
 - Guest: guest name
 - Date: publish date (YYYY-MM-DD)
-- URL: /episodes/<slug>/
+- URL: full episode URL on this site
 - Timestamp: [HH:MM:SS] from the transcript
 
-Example: Adding 'A Conscious Breathing Break' To Your Daily Vocabulary - Episode 0124 with Sigmar Berg — Sigmar Berg — 2026-09-01 — /episodes/0124-sigmar-berg-conscious-breathing-break/ — e.g. [00:11:20]
-
-Example: Episode 0123: Endorphins, Love, Quantum Medicine, & the Four Bodies Model with Dr. Cristine Hull — Dr. Cristine Hull — 2026-07-25 — /episodes/0123-endorphins-love-quantum-medicine-four-bodies/ — e.g. [00:09:30]
-
 ## Indexes
-- [Episode index](/episodes/)
-- [Guest index](/guests/)
-- [Home](/)
+- [Home](https://junkyardlovejakesbot.github.io/junkyard-love-archive/)
+- [Episode index](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/)
+- [Guest index](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/)
 
 ## Episode markdown mirrors
-- [/episodes/0124-sigmar-berg-conscious-breathing-break/episode.md](/episodes/0124-sigmar-berg-conscious-breathing-break/episode.md)
-- [/episodes/0123-endorphins-love-quantum-medicine-four-bodies/episode.md](/episodes/0123-endorphins-love-quantum-medicine-four-bodies/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0124-sigmar-berg-conscious-breathing-break/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0124-sigmar-berg-conscious-breathing-break/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0123-endorphins-love-quantum-medicine-four-bodies/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0123-endorphins-love-quantum-medicine-four-bodies/episode.md)
