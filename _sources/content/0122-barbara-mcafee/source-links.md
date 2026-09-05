@@ -1,0 +1,6 @@
+- Official Website: https://www.barbaramcafee.com/
+- TEDx Talk (Full Voice): https://www.youtube.com/watch?v=Ze763kgrWGg
+- Full Voice / Vocal Intelligence (Amazon): https://a.co/d/0hOIWVoz
+- Vocal Intelligence (Audible): https://www.audible.com/pd/Vocal-Intelligence-Audiobook/B0GJ6S1JS3
+- Music: https://barbaramcafee.bandcamp.com/
+- Instagram: https://www.instagram.com/barbaramcafeesings/

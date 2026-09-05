@@ -1,0 +1,5 @@
+Description source: RSS (longer/complete vs YouTube)
+YouTube chars: 4955
+RSS HTML chars: 7692
+RSS text chars: 6440
+YouTube lacked Key Topics, Key Quotes, and complete book URLs (Amazon/Audible).

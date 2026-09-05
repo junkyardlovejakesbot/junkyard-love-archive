@@ -1,0 +1,9 @@
+Source: YouTube automatic captions en (captions.en.vtt / captions.en.json3); no official/manual en-US track available
+Video: https://www.youtube.com/watch?v=29Z75N4XJhc
+Turns: 102
+Word count: 13263
+Speaker map: auto-caption >> diarization segments, assigned to Jacob/Barbara with sticky content scoring (named speaker labels not present in auto captions)
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities unescaped; capitalized turn starts after merge; a few clear host/guest mislabels corrected (and two mixed turns split) where auto diarization flipped speakers mid-exchange
+No sentence rewriting.
+Guest name spelling: Barbara McAfee (matches YouTube/RSS).
+Note: automatic diarization is imperfect; remaining short backchannels may still be swapped in places.
