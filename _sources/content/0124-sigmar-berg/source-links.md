@@ -1,0 +1,6 @@
+- Lovetuner: https://www.lovetuner.com
+- Instagram: https://www.instagram.com/lovetuner528hz/
+- Facebook: https://www.facebook.com/LOVETUNERMALIBU/
+- YouTube: https://www.youtube.com/@Lovetuner528hz
+- LinkedIn: https://www.linkedin.com/in/sigmar-b-310114b/
+- Book (One Journey): https://www.amazon.com/One-Journey-Lovetuner-Sigmar-Berg/dp/1960583743

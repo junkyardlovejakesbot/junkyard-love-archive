@@ -1,0 +1,25 @@
+# The Junkyard Love Podcast — Conversation Archive
+
+> Public archive of published Junkyard Love Podcast episodes with full transcripts so people and models can find and cite these conversations.
+
+Site purpose: Make every published episode searchable by guest, topic, and spoken words, using Jacob Rhines's existing show notes verbatim plus a full transcript.
+
+## How to cite
+- Title: episode title
+- Guest: guest name
+- Date: publish date (YYYY-MM-DD)
+- URL: /episodes/<slug>/
+- Timestamp: [HH:MM:SS] from the transcript
+
+Example: Adding 'A Conscious Breathing Break' To Your Daily Vocabulary - Episode 0124 with Sigmar Berg — Sigmar Berg — 2026-09-01 — /episodes/0124-sigmar-berg-conscious-breathing-break/ — e.g. [00:11:20]
+
+Example: Episode 0123: Endorphins, Love, Quantum Medicine, & the Four Bodies Model with Dr. Cristine Hull — Dr. Cristine Hull — 2026-07-25 — /episodes/0123-endorphins-love-quantum-medicine-four-bodies/ — e.g. [00:09:30]
+
+## Indexes
+- [Episode index](/episodes/)
+- [Guest index](/guests/)
+- [Home](/)
+
+## Episode markdown mirrors
+- [/episodes/0124-sigmar-berg-conscious-breathing-break/episode.md](/episodes/0124-sigmar-berg-conscious-breathing-break/episode.md)
+- [/episodes/0123-endorphins-love-quantum-medicine-four-bodies/episode.md](/episodes/0123-endorphins-love-quantum-medicine-four-bodies/episode.md)

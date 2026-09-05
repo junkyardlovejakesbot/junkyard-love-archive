@@ -1,0 +1,7 @@
+Source: YouTube official/manual captions en-US (captions.en-US.vtt)
+Video: https://www.youtube.com/watch?v=flaC3Fc2f4k
+Turns: 45
+Word count: 7294
+Speaker map: Jacob / Cristine (from caption labels; Christine normalized to Cristine)
+Cleanup: removed intro stage direction and floating overlay timestamps; split mid-cue speaker changes (protected “in Cristine:” spelling line; sticky empty speaker cues); merged consecutive same-speaker cues; HTML entities unescaped; Christine→Cristine to match published YouTube/RSS guest name.
+No sentence rewriting.

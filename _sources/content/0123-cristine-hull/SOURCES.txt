@@ -1,0 +1,5 @@
+Description source: RSS (longer/complete vs YouTube)
+YouTube chars: 4771
+RSS HTML chars: 7288
+RSS text chars: 6692
+YouTube lacked quotes/KEYWORDS section and lost href URLs on guest links.

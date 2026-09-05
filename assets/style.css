@@ -1,0 +1,87 @@
+/* Junkyard Love Podcast archive — minimal readable */
+:root {
+  --bg: #f7f4ef;
+  --fg: #1a1a1a;
+  --muted: #5a5a5a;
+  --accent: #8b3a2b;
+  --card: #fffdf9;
+  --border: #e0d8cc;
+  --link: #6b2d22;
+}
+* { box-sizing: border-box; }
+html { font-size: 18px; scroll-behavior: smooth; }
+body {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.65;
+  color: var(--fg);
+  background: var(--bg);
+}
+a { color: var(--link); }
+a:hover { text-decoration: underline; }
+.wrap { max-width: 42rem; margin: 0 auto; padding: 1.5rem 1.25rem 3rem; }
+header.site {
+  border-bottom: 1px solid var(--border);
+  background: var(--card);
+  margin-bottom: 2rem;
+}
+header.site .wrap { padding-top: 1rem; padding-bottom: 1rem; }
+header.site h1 { font-size: 1.15rem; margin: 0 0 0.35rem; font-weight: 700; }
+nav a { margin-right: 1rem; font-size: 0.95rem; text-decoration: none; }
+nav a:hover { text-decoration: underline; }
+h1, h2, h3 { line-height: 1.25; font-family: system-ui, -apple-system, sans-serif; }
+h1 { font-size: 1.75rem; }
+h2 { font-size: 1.25rem; margin-top: 2rem; border-bottom: 1px solid var(--border); padding-bottom: 0.35rem; }
+.meta { color: var(--muted); font-size: 0.95rem; font-family: system-ui, sans-serif; }
+.card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 1rem 1.15rem;
+  margin: 1rem 0;
+}
+.btn-row a {
+  display: inline-block;
+  margin: 0.25rem 0.5rem 0.25rem 0;
+  padding: 0.4rem 0.75rem;
+  background: var(--accent);
+  color: #fff;
+  text-decoration: none;
+  border-radius: 4px;
+  font-family: system-ui, sans-serif;
+  font-size: 0.9rem;
+}
+.btn-row a.secondary { background: transparent; color: var(--link); border: 1px solid var(--border); }
+ul.plain { padding-left: 1.2rem; }
+blockquote {
+  margin: 0.75rem 0;
+  padding: 0.5rem 0 0.5rem 1rem;
+  border-left: 3px solid var(--accent);
+  font-style: italic;
+  color: #2a2a2a;
+}
+.transcript p, .transcript .turn {
+  margin: 0.85rem 0;
+}
+.transcript .speaker {
+  font-weight: 700;
+  font-family: system-ui, sans-serif;
+  font-size: 0.9rem;
+  color: var(--accent);
+}
+.transcript time, .transcript .ts {
+  font-family: ui-monospace, monospace;
+  font-size: 0.85rem;
+  color: var(--muted);
+  text-decoration: none;
+}
+footer.site {
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+  color: var(--muted);
+  font-size: 0.9rem;
+  font-family: system-ui, sans-serif;
+}
+.chapters li { margin: 0.25rem 0; }
+.about { white-space: pre-wrap; }

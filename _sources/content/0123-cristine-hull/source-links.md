@@ -1,0 +1,5 @@
+- Website: https://www.cristinehull.com/
+- YouTube: https://www.youtube.com/@hhwholeness
+- Instagram: https://www.instagram.com/cristine.author/
+- LinkedIn: https://www.linkedin.com/in/cristinehullphd/
+- Facebook: https://www.facebook.com/cristine.price.18/

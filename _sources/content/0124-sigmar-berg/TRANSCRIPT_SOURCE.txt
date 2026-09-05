@@ -1,0 +1,10 @@
+Source: YouTube official/manual captions en-US (captions.en-US.vtt)
+Video: https://www.youtube.com/watch?v=mKL9TmXlABo
+Turns: 37
+Word count: 9478
+Speaker map: Speaker 1→Jacob, Speaker 2→Sigmar (from caption labels)
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker cues; HTML entities unescaped.
+No sentence rewriting.
+
+Light caption-garbage pass: Lovetuner / 528Hz / Sigmar / cigarette / breath (vs brass) / thoughts (vs SAR); split opening thank-you to Sigmar.
+No sentence rewriting beyond that.
