@@ -98,6 +98,7 @@ Plain static site. No domain configured yet — open `site/index.html` locally, 
 - **0031** Madi Allis of Vail Denim — `site/episodes/0031-madi-allis-of-vail-denim/`
 - **0030** Kelly St. Onge — Mathematics, Science, Quantum Physics and Unlocking The Universe With Knowledge — `site/episodes/0030-kelly-st-onge-mathematics-science-quantum-physics-and-unlocking-the-universe-with-knowledge/`
 - **0028** Yanis 'Kanideis' Pisarchuk — `site/episodes/0028-yanis-kanideis-pisarchuk/`
+- **0027** Mackenzie Thornquist — `site/episodes/0027-mackenzie-thornquist/`
 - **0100** JacobFromTheInternet (solo) — `site/episodes/0100-jacobfromtheinternet-mystical-experience/`
 
 ## Preview

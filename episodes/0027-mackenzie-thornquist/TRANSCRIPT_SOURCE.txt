@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en/en-orig (captions.en.vtt / captions.en.json3; also archived as source-yt.en*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=q-bT-N3PhD0
+Turns: 332
+Word count: 21678
+Speaker map: pause-gap segmentation + sticky Jacob/Mackenzie content scoring (named speaker labels not present in captions; auto diarization imperfect); formal host bumper present; host outro present
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light ASR name tidy (Mackenzie; Odesza←Odessa; Brockhampton; Dermot Kennedy; Myspace; Delta; Iceland/Thailand/Hawaii/Seattle/New York; Junkyard Love; Jake Rhines); outro forced to Jacob where clear; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Mackenzie Thornquist (YT/RSS title); also Mack T on episode 0042; slug mack-t (EXISTING — APPEND 0027 to 0042).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips. YT duration 6470s vs RSS/inventory 6439s (archive meta uses RSS duration). No published chapter timestamps in notes (YT chapters → archive picks). Title YT=RSS. About YT primary (~RSS). Inventory has_quotes=yes (inline “live music”; no Quotes list) / has_timestamps=no / has_hashtags=no / has_guest_links=no. Archive picks fills timestamped quotes/chapters/keywords/hashtags/bio. Guest page: mack-t (EXISTING APPEND). Same person as Mack T from 0042.
+Speaker balance: Jacob 169 turns/10938 words; Mackenzie 163 turns/10740 words.
+Heuristic speaker fixes: 1; post-splits: 0 ()

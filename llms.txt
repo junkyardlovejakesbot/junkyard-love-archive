@@ -101,6 +101,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0031 Madi Allis of Vail Denim](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0031-madi-allis-of-vail-denim/) — 2020-03-22
 - [0030 Kelly St. Onge — Mathematics, Science, Quantum Physics and Unlocking The Universe With Knowledge](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0030-kelly-st-onge-mathematics-science-quantum-physics-and-unlocking-the-universe-with-knowledge/) — 2020-03-18
 - [0028 Yanis 'Kanideis' Pisarchuk](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0028-yanis-kanideis-pisarchuk/) — 2020-03-11
+- [0027 Mackenzie Thornquist](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0027-mackenzie-thornquist/) — 2020-03-02
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -146,7 +147,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Kevin Foreman](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/kevin-foreman/)
 - [Landon 'Dirtyzen' Smith](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/landon-dirtyzen-smith/)
 - [Lynn Cherry](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/lynn-cherry/)
-- [Mack T](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/mack-t/)
+- [Mackenzie Thornquist (Mack T)](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/mack-t/)
 - [Madi Allis](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/madi-allis/)
 - [Marty Strong](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/marty-strong/)
 - [Matt McGee](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/matt-mcgee/)
@@ -287,3 +288,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0031-madi-allis-of-vail-denim/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0031-madi-allis-of-vail-denim/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0030-kelly-st-onge-mathematics-science-quantum-physics-and-unlocking-the-universe-with-knowledge/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0030-kelly-st-onge-mathematics-science-quantum-physics-and-unlocking-the-universe-with-knowledge/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0028-yanis-kanideis-pisarchuk/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0028-yanis-kanideis-pisarchuk/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0027-mackenzie-thornquist/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0027-mackenzie-thornquist/episode.md)

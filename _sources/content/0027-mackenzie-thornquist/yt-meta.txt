@@ -1,0 +1,7 @@
+title=Episode 027 with Mackenzie Thornquist
+upload_date=20200303
+duration=6470
+video_id=q-bT-N3PhD0
+rss_title=Episode 027 with Mackenzie Thornquist
+title_conflict=YT=RSS
+h1=Episode 027 with Mackenzie Thornquist

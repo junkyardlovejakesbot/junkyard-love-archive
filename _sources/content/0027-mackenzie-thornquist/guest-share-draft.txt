@@ -1,0 +1,10 @@
+Episode 0027: Episode 027 with Mackenzie Thornquist
+Guest: Mackenzie Thornquist
+Date: 2020-03-02
+YouTube: https://www.youtube.com/watch?v=q-bT-N3PhD0
+RSS: https://share.transistor.fm/s/9dd071e8
+Title conflict: YT=RSS
+Guest slug: mack-t (EXISTING — APPEND 0027; prior 0042 preserved)
+Guest display: Mackenzie Thornquist (Mack T)
+About: YT primary (~RSS/itunes:summary); footer stripped
+Guest links: none published (no email)
