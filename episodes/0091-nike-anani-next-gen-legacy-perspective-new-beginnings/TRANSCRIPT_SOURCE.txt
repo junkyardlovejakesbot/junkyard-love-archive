@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en-orig (captions.en-orig.vtt / captions.en-orig.json3); en track identical auto; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=9YMQPhmCl7c
+Turns: 63
+Word count: 8784
+Speaker map: pause-gap segmentation (~0.85–1.2s) + sticky content scoring with Jacob/Nike labels (named speaker labels not present in auto captions); bumper before ~55s forced to Jacob; bio/legacy-planning/inclusion/possibility narratives forced Nike where matched; host CTA/close forced Jacob; host-flip phrase splits where detected
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments (cap ~220 words); HTML entities/nbsp unescaped; capitalized turn starts after merge; light name/term fixes (Nike Anani, Lagos Nigeria, Deloitte, Junkyard Love, nikeanani.com, NextGen); dropped [Music]/end-bumper cue noise; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Nike Anani (matches YouTube/RSS/inventory); guest slug nike-anani; auto-captions often mishear as Nikki / Nikkier / Nikka / Nika.
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en-orig) used; no official/manual track; no >> speaker flips. YT duration 3389s matches RSS/inventory 3389s. No published chapter timestamps. YT≠RSS title: RSS appends " - Next Gen, Legacy Perspective, New Beginnings". H1 uses YouTube title. Inventory has_quotes=yes (published Quotes kept); has_timestamps=no / has_hashtags=no / has_guest_links=no — Archive picks fills chapters/keywords/hashtags/short bio (+ transcript quotes). Manual/heuristic speaker fixes applied: 14
+Postfix diarization: long guestish narratives reassigned to Nike; closing website/social line Nike; host schedule/CTA/close protected as Jacob.
+Postfix: split Jacob welcome vs Nike thank-you/bio opening blend; polished Archive pick quote windows.

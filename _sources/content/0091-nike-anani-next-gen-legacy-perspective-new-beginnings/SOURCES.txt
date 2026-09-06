@@ -1,0 +1,14 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (subtitle line + intro + Here’s her bio + bio paras + recording note; published quote couplet kept under Quotes, not mixed into About)
+YouTube chars: 2797
+RSS HTML chars: 2749
+Title source: YouTube / exact_public_title (9YMQPhmCl7c). YT≠RSS — RSS appends " - Next Gen, Legacy Perspective, New Beginnings".
+Title: 091 with Speaker, Author, and Family Business Consultant Nike Anani
+RSS title: 091 with Speaker, Author, and Family Business Consultant Nike Anani - Next Gen, Legacy Perspective, New Beginnings
+Chapters source: none published (inventory has_timestamps=no; no YT chapters)
+Guest links: none published in episode notes (inventory has_guest_links=no); on-air CTA nikeanani.com noted in Archive picks bio only
+Quotes: two published Nike quotes kept under Quotes (inventory has_quotes=yes)
+About: Jacob published description verbatim as spaced paras from YouTube
+Guest name spelling: Nike Anani (matches YouTube/RSS/inventory); guest slug nike-anani
+Duration: RSS itunes:duration 3389s (56:29); YT duration 3389s — using RSS/inventory 3389
+Publish date: RSS pubDate 2022-11-12 (YT upload_date 20221112); episode initially recorded 8-27-21 per notes
+Archive picks: added (transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published notes; kept separate from Jacob published About/Chapters/Quotes.

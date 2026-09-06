@@ -38,6 +38,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0094 John Lefebvre — Acid, Intellect, Money, and Morality](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0094-john-lefebvre-acid-intellect-money-and-morality/) — 2022-12-29
 - [0093 Solo — I Know Great Men Stuck In Costumes Of Sadness](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0093-i-know-great-men-stuck-in-costumes-of-sadness/) — 2022-12-12
 - [0092 Roman Merrell — A Complicated Historical Paradigm](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0092-roman-merrell-a-complicated-historical-paradigm/) — 2022-12-11
+- [0091 Nike Anani — Next Gen, Legacy Perspective, New Beginnings](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0091-nike-anani-next-gen-legacy-perspective-new-beginnings/) — 2022-11-12
 
 ## Guests
 - [Anne Riley](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/anne-riley/)
@@ -62,6 +63,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Meredith Bennett](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/meredith-bennett/)
 - [Nate Begle](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/nate-begle/)
 - [Nate Tanzman](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/nate-tanzman/)
+- [Nike Anani](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/nike-anani/)
 - [Rebecca Wild](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/rebecca-wild/)
 - [Roman Merrell](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/roman-merrell/)
 - [Ravinder Taylor](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/ravinder-taylor/)
@@ -111,3 +113,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0094-john-lefebvre-acid-intellect-money-and-morality/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0094-john-lefebvre-acid-intellect-money-and-morality/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0093-i-know-great-men-stuck-in-costumes-of-sadness/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0093-i-know-great-men-stuck-in-costumes-of-sadness/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0092-roman-merrell-a-complicated-historical-paradigm/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0092-roman-merrell-a-complicated-historical-paradigm/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0091-nike-anani-next-gen-legacy-perspective-new-beginnings/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0091-nike-anani-next-gen-legacy-perspective-new-beginnings/episode.md)
