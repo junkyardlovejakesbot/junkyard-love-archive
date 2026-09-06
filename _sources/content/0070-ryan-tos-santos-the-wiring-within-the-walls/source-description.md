@@ -1,0 +1,13 @@
+Ryan returns to The Junkyard Love Podcast full of experience, laughter, openness, and friendship. In this episode, Ryan and I explore technology, how the last year has changed us, ways in which we think, attention spans, family dychotomies, being in right relationship with self, trying to determine what's 'true' in the information age, the art of storytelling, learning how to learn, attention spans, confusion dished out by the media and Mr. Santos' firsthand experience contracting the virus early on. Ryan shares his youtube obsessions, some perspectives from being an electrician, his truth thus far of being a father and husband, we talk about the band at his wedding, how to come together amidst a pandemic, learning through experience, the pitfalls and intricacies of an elaborate mind, figuring out how to manage ADHD and medication, the beauty of emotions, the desire to be better putting you into a place of lack, anime, being a dork-dad, and friendship.
+
+I am grateful for this platform and space to share these types of personal inside conversations with others. Included in the episode is a 10 minute intro preface that will add to the experience of new and old listeners alike. If you'd like to hear my first chat with Ryan - checkout episode 006.
+
+If you enjoyed this episode - please consider sharing, liking, following, commenting or hitting subscribe. The Junkyard Love Podcast is entirely self-produced and ad-free, so any interaction helps. Much love much kindness to all, and we'll see ya next episode.
+
+## Quotes
+
+(none published in episode notes)
+
+## Guest links
+
+(none published in episode notes)
