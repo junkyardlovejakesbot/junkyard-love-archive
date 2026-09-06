@@ -1,0 +1,15 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?v=jaJ_enZhLDI
+[youtube] jaJ_enZhLDI: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] jaJ_enZhLDI: Downloading visionos player API JSON
+[youtube] jaJ_enZhLDI: Downloading m3u8 information
+[info] jaJ_enZhLDI: Downloading subtitles: en-orig, en
+[info] jaJ_enZhLDI: Downloading 1 format(s): 136+251
+[info] Writing video subtitles to: captions.en-orig.vtt
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: captions.en-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.86MiB/s (00:00:00)[download]    7.00KiB at    5.23MiB/s (00:00:00)[download]   15.00KiB at    9.55MiB/s (00:00:00)[download]   31.00KiB at    4.53MiB/s (00:00:00)[download]   63.00KiB at    4.93MiB/s (00:00:00)[download]  127.00KiB at    6.15MiB/s (00:00:00)[download]  255.00KiB at    4.58MiB/s (00:00:00)[download]  511.00KiB at    4.59MiB/s (00:00:00)[download] 1023.00KiB at    6.79MiB/s (00:00:00)[download]    1.13MiB at    7.40MiB/s (00:00:00)[download] 100% of    1.13MiB in 00:00:00 at 2.47MiB/s
+[info] Writing video subtitles to: captions.en.vtt
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: captions.en.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at  Unknown B/s (00:00:00)[download]   15.00KiB at    9.59MiB/s (00:00:00)[download]   31.00KiB at    4.69MiB/s (00:00:00)[download]   63.00KiB at    4.99MiB/s (00:00:00)[download]  127.00KiB at    6.77MiB/s (00:00:00)[download]  255.00KiB at   10.24MiB/s (00:00:00)[download]  511.00KiB at   16.55MiB/s (00:00:00)[download] 1023.00KiB at   26.96MiB/s (00:00:00)[download]    1.13MiB at   29.66MiB/s (00:00:00)[download] 100% of    1.13MiB in 00:00:00 at 4.47MiB/s

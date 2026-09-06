@@ -1,0 +1,10 @@
+Source: YouTube automatic captions en (captions.en.vtt / captions.en.json3); en-orig identical auto track; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=jaJ_enZhLDI
+Turns: 331
+Word count: 23819
+Speaker map: pause-gap segmentation + sticky Jacob/Brent content scoring; solo intro before ~22:36 forced to Jacob; gap-aware same-speaker merge (≤8s); interview portion Jacob↔Brent
+Cleanup: light dedupe of consecutive duplicate words; gap-aware merge; HTML entities/nbsp unescaped; capitalized turn starts; light name/term fixes (Jacob Rhines, Brent Spirit, kundalini, Junkyard); bumper/Foreign caption garbage dropped
+No sentence rewriting.
+Solo episode: guest_name null / solo true. No Junkyard Love guest page (checked site/guests/ — no jacob-* slug).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions used; no official/manual track. YT duration 7468s vs RSS 7468s. Published chapters @00:00:00 solocast intro and @00:22:36 interview start. YT≠RSS title; H1 uses YouTube. Manual speaker fixes/splits applied: 8+.

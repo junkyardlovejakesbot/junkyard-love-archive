@@ -1,0 +1,10 @@
+Description source: YouTube first (primary); RSS matches body with HTML formatting. YT plain used for About spaced paras.
+YouTube chars: 3238
+RSS HTML chars: 4220
+Title source: YouTube / exact_public_title. YT≠RSS — RSS inserts "with" and spaces "Jacob From The Internet". H1 uses YouTube title. Keep 0100 in slug/meta.
+Chapters source: YouTube chapters + description markers — 00:00:00 solocast intro; 00:22:36 The interview starts (inventory has_timestamps=yes)
+Guest links: Brent's Spiritual Awakening Show YT Dx__XZx3hwg (from published notes; inventory has_guest_links=yes)
+Quotes: Rumi worm/vineyard + Ethan Hawke creativity/path (from published description; inventory has_quotes=yes)
+About: Jacob published description verbatim as spaced paras from YouTube
+Solo episode: host-only / no Junkyard Love guest; guest_name null; solo true; no guest page (no jacob-* slug in site/guests/)
+Guest name spelling N/A (solo). Interview portion features Brent Spirit as other-show host (speaker label Brent only).
