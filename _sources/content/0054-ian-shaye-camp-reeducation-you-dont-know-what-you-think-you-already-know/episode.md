@@ -1,0 +1,355 @@
+# Episode 054 with Ian and Shaye of Camp ReEducation - You Don't Know What You Think You Already Know
+
+- Episode: 0054
+- Date: 2020-09-15
+- Duration: 58:19
+- Guests: [Ian](/guests/ian-camp-reeducation/) & [Shaye](/guests/shaye-camp-reeducation/) of Camp ReEducation
+- YouTube: https://www.youtube.com/watch?v=TroUc2oS7eU
+- RSS: https://share.transistor.fm/s/f348615d
+- Spotify (show): https://open.spotify.com/show/45J7CBdM8j29doqyBp2bFs
+- Apple (show): https://podcasts.apple.com/us/podcast/the-junkyard-love-podcast/id1489118788
+
+## About
+
+At the Junkyard Love Podcast... we love challenging our beliefs, we love knowledge, we love friendship, and we love learning in unorthodox ways. 'Camp ReEducation' checks those boxes quickly and with style. So I reached out to see if they wanted to chat about their podcast experience thus far. The conversation was awesome. Camp ReEducation, ran by the charismatic team Ian and Shaye, is a podcast journey into the world they thought they knew. A place to challenge their own beliefs, biases, and preconceived ideas. These dudes essentially choose a subject to fully immerse in for two weeks to see if they can oppose, bend, re-define and re-teach themselves about what they figure they already know. They are quite literally trying to re-educate themselves, which comes across incredibly humbling and hilarious for the listeners. Their non-serious but honest approach to these subjects certainly makes for an enjoyable listening experience and their friendly banter keeps a smirk on the face of any listener whilst at camp. In this episode of The JYLP I ask 'em about their backgrounds, what they've learned so far, why they do what they do, how they stumbled into the podcast world, and how they became friends.
+
+Shaye and Ian ask themselves impossible questions like -  "How do podcasts reflect the Zeitgeist of our age?" Can reality TV be art?" "Can Microdosing help you achieve transcendence and reach self-actualization?" and "What is beauty?"
+
+The three of us find a cadence and connection via our musical backgrounds and we talk about how their podcast journey has already changed and challenged their beliefs, how we can ALL approach re-learning and re-shaping our internal information databases, the basis of "truth" within each of us, language, differing philosophies, the beginner's mindset, and challenging our echo chambers. Camp ReEducation is available wherever you like to listen to podcasts. Give them a follow on social media and on here to browse through their growing camp catalog. Also - checkout Shayes band on Spotify - RetroLux. Enjoy the episode and don't forget to hit follow for new conversations weekly.
+
+## Chapters
+
+(none published in episode notes)
+
+## Quotes
+
+- "Nothing is for everyone, anymore"
+- "I think I feel more confident from this experience to try and believe something for a little while, with the understanding that I can be wrong with that belief and re-visit it later"
+- "(The Podcast) has been great to help me approach my cognitive dissonance abstractly, to be able to see it as something I'm trying to dissect for an audience, as opposed to something that's fundamental to who I am as a person."
+
+## Guest links (from published notes)
+
+(none published in episode notes)
+
+
+## Archive picks
+
+# Archive picks (not from published notes)
+
+Extracted from the YouTube auto-caption transcript and published About/quotes already on this episode. Labeled separately from Jacob’s published About / Chapters / Quotes / Hashtags.
+
+## Memorable quotes
+
+- [00:23:06] Ian: “the extent that like nothing is for everyone anymore um so it's like in that sense like everything is art for someone in some capacity so i mean”
+- [00:27:48] Ian: “me approach my like cognitive dissonance abstractly like to be able to kind of see it as something that i'm trying to dissect for an audience as opposed”
+- [00:07:46] Shaye: “music the band's called RetroLux and um it's me and a singer uh a really good friend of mine she lives in Toronto now so we're split apart”
+- [00:02:06] Shaye: “Ian had suggested it months and months ago and it took us forever to finally get the ball rolling but and i think the reason for that was”
+- [00:02:52] Shaye: “together we met in existentialism class and uh like within two we even have to explain that at some point i always make the joke we met in”
+- [00:02:06] Shaye: “concept is uh we do two-week immersions into various topics and we try and dive as deep as humanly possible while still currently having jobs um”
+- [00:00:06] Jacob: “and it's called The Social Dilemma you absolutely have to watch the staying documentary you have to change your life accordingly if you haven't drank any water today”
+- [00:41:08] Ian: “here like Shaye is Shaye's a brilliant uh linguist i mean he really i love the way he thinks about language so like i you know i warn”
+- [00:30:30] Ian: “feel like it's like a beginner's mind right it's like you're not it's like the student's mind like trying to continually continuously just remain open to experience and”
+- [00:25:20] Shaye: “reality tv reflect the Zeitgeist that was the that was the podcast one podcast one was what uh like how did yeah what are p how do podcasts”
+
+## Chapter-style timestamps
+
+- [00:00:06](#t-00-00-06) — Opening bumper — Junkyard Love
+- [00:01:37](#t-00-01-37) — Ask — Camp ReEducation origin
+- [00:02:06](#t-00-02-06) — Shaye — Ian suggested the show
+- [00:02:38](#t-00-02-38) — Camp topic — reality TV
+- [00:02:52](#t-00-02-52) — How Ian & Shaye met — Gainesville
+- [00:07:46](#t-00-07-46) — Shaye — RetroLux / indie electronic
+- [00:27:48](#t-00-27-48) — Cognitive dissonance / beliefs
+- [00:28:49](#t-00-28-49) — Language — Shaye the linguist
+- [00:58:11](#t-00-58-11) — Outro — knowledge is power
+
+## Keywords
+
+Ian, Shaye, Camp ReEducation, You Don't Know What You Think You Already Know, Junkyard Love Podcast episode 0054, JYLP 0054, RetroLux, podcasting, beliefs, cognitive dissonance, beginner's mindset, Zeitgeist, reality TV, microdosing, friendship, music, language, Jacob Rhines
+
+## Hashtags
+
+#Ian #Shaye #CampReEducation #JYLP0054 #JunkyardLove #RetroLux #Podcasting #CognitiveDissonance #BeginnersMindset #JYLP
+
+## Short guest bios (from episode speech + published About/links)
+
+Ian and Shaye of Camp ReEducation join Jacob on Junkyard Love episode 0054. Jacob's published notes describe their show as two-week immersions that challenge beliefs, biases, and preconceived ideas — subjects like podcasts/Zeitgeist, reality TV as art, microdosing, and beauty — with humble, hilarious banter. They talk backgrounds, friendship (Gainesville / existentialism class), musical paths (Shaye's band RetroLux on Spotify), re-learning, truth, language, and escaping echo chambers. Published first names only (no last names in YT/RSS notes); guest pages use camp-affiliated slugs.
+
+
+## Tags / keywords
+
+Ian, Shaye, Camp ReEducation, You Don't Know What You Think You Already Know, Junkyard Love Podcast episode 0054, JYLP 0054, RetroLux, podcasting, beliefs, cognitive dissonance, beginner's mindset, Zeitgeist, reality TV, microdosing, friendship, music, language, Jacob Rhines
+
+## Transcript
+
+[00:00:06] Jacob: Hello and welcome to the Junkyard Love podcast at what age do we learn how to have better conversations at what age should we learn to have better conversations with ourselves hey folks it's me the batman and welcome to the Junkyard Love Podcast today we have Ian and Shaye of Camp ReEducation i'm super pumped for the episode but before we get going i'm going to give you a recommendation today it's in the form of a documentary that documentary is on Netflix and it's called The Social Dilemma you absolutely have to watch the staying documentary you have to change your life accordingly if you haven't drank any water today get some water take care of yourself stretch your body unfurl your brow relax your shoulders let's get to it the Junkyard Love Podcast featuring Camp ReEducation Ian and Shaye let's go We kind of figured we would keep this um kind of conversational-ish and casual i thought it was cool that you guys were talking about uh you're now doing adult meeting people you're uh meeting new friends that way so we can almost even treat it like this just be inquisitive with one another um we could start with tell us about
+
+[00:01:37] Jacob: Camp ReEducation and then if you guys could squeeze some of your background as just individuals like what's led you to this too we'll get it going tell me about Camp ReEducation
+
+[00:01:38] Shaye: Sure um **** i feel like i always hand
+
+[00:01:50] Ian: This question off to you and you always do a really good job do you want to do that here as well that's so funny because i feel like i always hand it off to you because i never want to start but i love
+
+[00:02:00] Shaye: That you offered the baton to me so i will take it um
+
+[00:02:03] Jacob: Okay yeah so Camp ReEducation started uh
+
+[00:02:06] Shaye: Ian had suggested it months and months ago and it took us forever to finally get the ball rolling but and i think the reason for that was because he originally suggested the name hamster fight which made no sense to me and i didn't quite the concept wasn't totally there uh but now the concept is uh we do two-week immersions into various topics and we try and dive as deep as humanly possible while still currently having jobs um
+
+[00:02:35] Jacob: We've done crazy things so far we did
+
+[00:02:38] Shaye: Uh we've done micro dosing that was actually a four week immersion uh we've done makeup we've done podcasts we've done reality tv we're in the middle of one on friendship
+
+[00:02:49] Jacob: Right now which is already like such
+
+[00:02:52] Shaye: A crazy subject it's this one of these subjects that sounds so simple and then as soon as you start digging into it you on you peel back the layers of that onion you realize how complicated and intricate it really is um but yeah i guess about myself like i Ian and i both met in we met in Gainesville florida uh living together we met in existentialism class and uh like within two we even have to explain that at some point i always make the joke we met in the most like pretentious way possible in a college existentialism class like there's no worse way to meet someone and like how did you YouTube meet because as soon as that comes up you're like ah here we go uh we met in an existentialism class and that is like a trigger for people to leave the conversation they're like yeah this conversation is over man i can already tell it i don't want to talk to you see you later well i'm still here for it
+
+[00:03:48] Jacob: You're like oh no my uh my zoom is uh it's weird i can't hear you guys it's going through a tunnel i don't know [Laughter] yeah i feel like you guys have good chemistry going
+
+[00:03:59] Shaye: Yeah i don't know how that worked out because we uh we really i didn't really like Ian at all at first Ian's just such a funny guy and he can command a room and uh still now but especially back then i just loved attention and so Ian was just a lot better than me at getting it so he was my natural rival but then he was he was just so charming that i got over the jealousy and then it was just charmed myself and then two or three months later like i don't know why like i guess his apartment like was up the lease was up or something and he ended up moving in with me uh for like two or three months or something
+
+[00:04:36] Jacob: Well we got we got really close really fast and i was actually thinking about that during so you know like you mentioned the camp we're doing right now is adult friendship and um one of the things that we're kind of doing during this camp is i think reflecting on friends uh we've made in the past and um
+
+[00:04:52] Ian: I was thinking about hours and like what is it that bonded us together super quickly i mean like we became fast friends uh i mean we became friends really fast because i think like what two months after knowing you like we were living together living together and working together Ian got me a job at the University of Florida teaching um like basically teaching foreign exchange students english and um i don't know yeah i really don't know and then we spent like shortly after moving in together he got a job and left the country and we basically didn't see each other for six years seven years seven you guys text every day through saturday no we like honestly our friendship uh friendship was like on like a on definite pause um yeah for a long time we'd occasionally catch up and text but then as soon as we like started hanging out again uh right after Ian got back into the country it was as if nothing had happened you know just like oh yeah this guy what's up perfect that's great yeah it's really crazy that was that was
+
+[00:05:52] Ian: Crazy i actually i actually forgot about that to be complete yeah it's like as soon as i saw this guy again it's like we picked up right where we left off i mean your breakup right yeah just like you kept going yeah um i'm sorry go ahead go ahead no
+
+[00:06:06] Jacob: No i'm just going to dig in a little bit more um just about you guys individual background so that's how you met um yeah well you guys both have such good chemistry and you're able to pick that chemistry back up like nothing um do you guys have a lot of the same interest i mean i know i know a few of your interests just off the uh the top list that i saw over on Reddit but um you guys want to explain to the listeners a couple of your interests too and how they overlap there because i think i feel like with the podcast
+
+[00:06:34] Ian: For this i'm always trying to point out where people are the same and like a different bridges that we can cap because you can have nothing in common and then all of a sudden you're like wait you like little plastic dragon ball z figurines and that's just like you know so i feel
+
+[00:06:48] Jacob: Like you guys have a lot of those your chemistry is fantastic like i've said it multiple times now thanks man i appreciate it um Shaye you i just i just always want to defer to you i'm like yeah you start and then like once you pick up momentum i'll just i'm like drafting on you like it's a bicycle race or a triathlon or something that's great i love it um i like to think of it as you're just writing on my coattails but that's fine too uh yeah i don't know i mean we were both musicians we both like we actually have an incredibly similar backstory it's bizarre like both of us almost didn't graduate high school and then had this weird come to jesus moment and then went to college and then ended up becoming super academic afterwards we were like both had disciplinary problems and um super creative super outgoing people
+
+[00:07:34] Ian: And
+
+[00:07:36] Jacob: Yeah i don't know i know we were both recording music a lot what kind of music do you guys record what'd you get into i'm in a band so i do like uh
+
+[00:07:46] Shaye: Do it like indie electronic music the band's called RetroLux and um it's me and a singer uh a really good friend of mine she lives in Toronto now so we're split apart it's crazy all Ian and i are split apart as well so i'm in New York Ian's in Boston so all of our all of my like collaborations are remote now which i guess for most people now that's the norm which is interesting but um but yeah so i do like the indie electronic and i think Ian you do uh you were it was inter the kind of music you did was really interesting i thought i was i was kind of all over the place um so i my first band was actually a my first band was actually like an on a weird alternative band um and then like the music i got really serious with in high school was um i was in a screamo band at like the peak of uh like just the screamo phase and like the mid-2000s who'd you listen to screamo bandra oh my god um yeah i'm not i'm aging and like outing myself it's just like slipping away it's so insignificant um
+
+[00:08:49] Jacob: So i uh loved you know like just like all like the main the main stuff i guess like the used census fail from first to last um thursday uh just like you know you're the debate i don't want to say like the basics but like that's pretty much what it is it's like yeah it's like the starter pack screamo for kids
+
+[00:09:08] Shaye: Yes i fit in with all those i was nodding my head furiously i've purchased those shirts at hot topic myself oh my god right yeah just like oh yeah dude check out this sweet new used shirt
+
+[00:09:19] Ian: Yeah i would get i would get my school clothes at either hot topic or warped tour when they were floating around see i always wanted to be that kid i like remember there was no hot topic within driving distance of where i grew up and i remember being like 13 14 and demanding my mom take me shopping so i could buy some black clothes and we ended up in macy's and i was like no it's not the right kind like where's the where's the cool black clothes and i just didn't understand i didn't i never even heard of hot topic you know that was i was opposing my mom's just don't understand moms don't get it come on god i remember i remember my mom just being so worried about me going through that phase too like i remember one time i was watching uh like vh1s behind the music and it was about like Guns N' Roses and it was the part where they're like uh i don't know slash or axel i'm not sure of their names just like yeah and that's when the heroine started shooting heroin yeah
+
+[00:10:09] Ian: My mom like turned off the tv and she's like is this where you want to end up is this is this where you want to end up and i was like i mean like no like no kid watches that and like forget the music like heroin i'm putting this guitar down where i want to go like oh i can just buy heroin i thought i had to be a musician to do heroin like what am i doing well that's super cool i uh so i am a dj now i mean i'm it's weird i haven't been a dj for a few months now there's not exactly too many gigs um but i got into music myself i didn't have much of a musical background just kind of like an obsession i always had headphones in i was the walkman kid um i had so many songs on my mp3 player after the walkman i always listened to music always going to shows and stuff and then eventually after high school i decided i was like dude i think i could do that thing that guy's doing up there and i've been learning djing for um nine years or now so and i and i
+
+[00:11:08] Ian: I learned you know you learn of course some music and you kind of backhanded learn a lot of weird audio stuff and you music theory is so confusing to me but i have a part inside me that understands it whatever that means um but it's so last couple years i've been really exploring the musician side i've been trying to learn piano in my own way and i try to you know learn i eventually want to be a musician
+
+[00:11:32] Shaye: Is essentially where i'm at with my djing but it's been a really cool journey and it's really cool to talk to other musicians i feel like they always have great perspectives on things have you tried producing at all
+
+[00:11:43] Jacob: Yeah um i feel like i have just a ton
+
+[00:11:46] Ian: Of adhd and so a lot of times if it's not quick i don't want to pull up the same project so if sometimes i'll spend all day working on something just the same kick just looping it whatever but then the next day i don't want to pull it back up um that's how i was yeah but uh but i do a good amount of edits and stuff like for my dj sets i like adding in a bunch of spoken word stuff and adding you know making different mashups in that way i'll lean more into producing as i continue down the music world but
+
+[00:12:17] Jacob: Right now i'm just a novice learning you and i kind of went like the opposite way a little bit because um and Shaye and i have had this conversation too like uh after the screamo band um broke up after we broke up man the future is screaming with each other
+
+[00:12:35] Ian: Uh yeah it was it was uh i wanted to make like a screamo pun but i just could there's i couldn't think of one that i wanted to go with um but yeah like i started making a acoustic music and um did like a solo project and then music just started gradually getting more and more electronic and uh i was just kind of like i think i'm going to go ahead and bow out like it's just i can like become an engineer basically or i can just like respectfully say well it's been fun and uh you know i kind of went back to like Shaye had mentioned i was like maybe i should just go to college so
+
+[00:13:09] Ian: Yeah that's good it's funny because that was the exact opposite i was like things are going electronic and i was already recording a little bit in the studio and i was like i think i could do that and i started learning like midi and all the programming stuff and that was super fascinating and i wanted to really dive in and learn that and it's just so much easier when you don't have a space to practice it's just you in a room with all your controllers you can just do whatever and experiment and there's like very little opportunity cost because you don't need someone to come in and track you don't need a bassist you can just play a synth bass i mean obviously it doesn't sound the same but you can make something that sounds some way hopefully somewhat
+
+[00:13:47] Jacob: Interesting but
+
+[00:13:49] Ian: Yeah i always like the uh duncan trussell who's a comedian that i've noted him through uh joe rogan's podcast watching him on joe rogan's podcast he had this sentence that i was like that is so perfect he's like sometimes you just need to uh like be in a dark room with your synthesizer just crying and drooling over it or something along those lines and i was like yeah you know there is that emotional release of just being able to make some stuff on an electrical thing you know just some sound to come out of my fingers from this midi controller it's a really good thing i think it's a there's a lot of healing in that in a weird way it's totally meditative 100 you know especially sound design or like you like if you if you make your own synth and then you're just like all right like i spent 10 minutes like making a really cool synth sound like now what am i going to do with it and then you just like explore what this new sound is like and if anything cool or catchy or you know emotional can come out of that
+
+[00:14:42] Jacob: I was going to ask um do you guys have like a favorite song that you've written and like why i'll let you take that jake um well okay so i'm pretty new to songwriting i love songwriting i think it's the coolest thing some days i'm like very grandiose and i like to just to give myself confidence i'm like i'm secretly so good at songwriting i think that i'm terrible but some days i'm really in my head i'm like dude you're really good so um i write i write a lot of songs and
+
+[00:15:11] Ian: I'm still so fresh like the last two years of really actually trying to sit down and make something but i did have a couple months ago i had this like spoken word poetic piece that i had a few friends over and i performed it for them just my i basically captivated them in my basement here and said listen to my art and i played it for them and they were supportive of it so that is my favorite yeah i locked him i shut the doors and the dead bolt and everything and uh so that's my favorite song right now um and i don't even have a name for it but it's just like the spoken word piece
+
+[00:15:43] Jacob: I love that yeah what about you Shaye man i don't know you know like i m my musical my music background is split because i either do entirely electronic or just for myself
+
+[00:15:57] Ian: And for my close friends i'll write um songs on guitar so i wrote a song for my girlfriend recently and it's like the first song i've written in like a year or something where i'm like i actually sing and like i write lyrics because i never normally do that and uh i guess right now it's my favorite because it's so i'm like writing lyrics and singing yourself it's just so much more emotionally close i guess that's what you're talking about with the spoken word and i'm just so used to normally having um
+
+[00:16:27] Jacob: I'm just so used to normally having all of that outsourced to someone else and like i can create like an emotional canvas for someone else to imbue the more specific meaning and so for me to like actually write down some lyrics and like my girlfriend's really shy so i wrote this song called uh hide and seek and uh which is so lame and i know it's been done you know whatever you know but like what are you gonna do so and it's like the lyrics are just like oh
+
+[00:16:54] Ian: They're bored on creepy and i think like a lot of love songs they're like in the wrong light it's creepy you know it's only if it's if it's wanted but it's good but it's just like talking about um how uh it's like you can go ahead and play hide and seek but like i see you like you can try your best to hide from me but it doesn't work like i see who you are and like i love you and like you can put up all these walls and like try and hide yourself as like in your own way whatever that means for you but it doesn't matter you know i'm here i see you like i love you and uh it was really impactful for me and for our relationship and i don't know so for i don't know really i don't know that was really touching man i don't even know this yeah that sounds like a good song i think i really like the that i see you i think that's something that you know when you when you're experiencing love in a relationship it's
+
+[00:17:44] Ian: Something that you can communicate through is this like no really you can look them in the eye and say i see you and it means something way different than anybody else in the world saying that same thing to you at that moment right yeah we just uh so one of the
+
+[00:17:56] Shaye: Camps we did the immersions for the podcast was uh into microdosing and as it turned out we ended up just doing like a ton of macrodosing um and all right wait okay do you want to lay out the this journey for me like how it went i'm imagining the people haven't yet listened to that episode so maybe leave them with a little bit of well that one's out so they may have uh but i won't give it i won't give too
+
+[00:18:23] Jacob: Much away but um i mean yeah just um so i guess like a side story of this a spin-off of the whole camp was me and uh me and my girlfriend were uh laying in bed we decided we were gonna do a macro dose i had never really done like a high level acid trip and she had never really done it at all
+
+[00:18:41] Shaye: So we took some acid and put on a huge playlist that was all of grizzly bear's entire discography some andrew bird and we put on a big blank wall that she has in a room projector of planet earth with the audio off so it was just grizzly bear and then planet earth and there was just a point where we would just like stare at each other sobbing and like every time like she could see me looking at her there was that thing it's like no we really see each other and that's really kind of what that the feelings that made that song kind of come from
+
+[00:19:15] Jacob: Yeah wow i mean i imagine that's probably something that when you guys first set out to do that episode you didn't think that was going to be something that would come out of it like one of the most deep meaningful situations with your significant other oh sorry go
+
+[00:19:30] Ian: Ahead it's been crazy like we're constantly surprised i think with where what we think that it's going to be like and then what it ends up turning out to be that's what i was going to say too is like we every time and it's been really fun and i hope that comes through for anybody that listens to our podcast but i mean like you know the first one we started out doing we picked something really simple we were like all right like we'll kind of use this subject to also learn how to just make a podcast so we won't you know um really get in our own ways
+
+[00:20:00] Shaye: Too much and we did reality tv and the goal was to watch like two hours of reality tv every day and by the end
+
+[00:20:06] Ian: I was like watching the simple life like you know writing in my journal like oh i get it like paris hilton and nicole ritchie they're like a metaphor for the way like aristocrats like rule over and make life harder for middle america i get it so it just it goes on like
+
+[00:20:20] Jacob: These whole um like there's like all of these like thoughts and feelings that just kind of come out of left field and like a lot of it has been really teaching us more about ourselves
+
+[00:20:30] Shaye: I think too like yeah the reality tv one especially like there was this big question that uh really caught us by surprise which we just weren't expecting at all and it was the question of whether or not the criticism of reality tv because i feel like everyone criticizes reality tv as it's like you know it's garbage tv or whatever and we started to wonder if the criticism of reality tv itself was maybe sexist like it was or based in some kind of gender bias because a lot of the tv they're talking about are is like reality tv geared at women and that was this weird reflection that seems like it seems obvious to us now but at the time it was like wait are we like being really sexist all of a sudden like we didn't oh yeah we didn't even understand it because we were like haha reality tv it's so dumb and then we're like oh man this is like a medium that's like targeted towards women i mean they self-describe like and they market themselves sometimes as trash tv but still
+
+[00:21:27] Ian: Even considering that it was it was a question that like all of a sudden was like eye-opening and shocking and like we really had to pump the brakes for a minute during the immersion yeah that was that was an interesting moment and i mean uh i was it your friend that brought up the point as well that um
+
+[00:21:41] Shaye: We had interviewed a friend of chez who kind of brought up that like no one talks about reality tv shows for men the same way like viva la van and jackass like these shows that are just objectively way worse uh in terms of jus the stupidity that they kind of project or capture and those just kind of get ignored and like all the focus is on you know real housewives and um you know
+
+[00:22:04] Jacob: The bachelor
+
+[00:22:06] Shaye: Right yeah that is that's a super interesting perspective because i don't think i would have thought of either of those things the men's reality tv show i mean i grew up watching cky and all those guys just like drop kick each other in the face as a teenager and it's interesting
+
+[00:22:21] Jacob: Because it makes you kind of think
+
+[00:22:23] Shaye: You know it's almost just a reminder of not everything is for everyone i know that sounds so overly obvious but like we consume things that are in like the popular media as if it's like this is what everyone should like and it's just one layer and it's sometimes you got to be reminded of like when you actually indulge in it and you're it's not that it sucks it's just that it's not your thing a lot of the times yeah we ended up we ended up talking about that as well like um one of the one of the i don't know if i would call it like a realization or just conversation that we had shape but it was that uh that like uh who was it schoenberg that idea like oh if it's for art it's not for all and if it's uh for all then it's not art
+
+[00:23:06] Ian: And um we just kind of talked about like the atomization of culture in general and like we're at this area of like hyperspecificity to the extent that like nothing is for everyone anymore um so it's like in that sense like everything is art for someone in some capacity so i mean it was it really took us down a rabbit hole but it was super interesting to think about this thing that's relatively ubiquitous in like american culture so it was a blast to think about for two weeks it was also just shocking because we didn't see that coming we thought like the premise of the show is to check our biases and our preconceptions like that's like that's the whole idea we're-educating ourselves that's the point but i think even then i thought we still kind of thought we were going to go in be like just you know like go through the motions like try and see other perspectives but then we were like actually shocked to see this depth in this in this art form that is i don't know always ridiculed and always thought of as a lower common denominator but i don't know it now it just feels to me more akin to a weird like really progressive folk art
+
+[00:24:13] Ian: Where it's like hyper in your face but it's it is kind of for everyone it's like it's like graffiti it's aggressive and it's loud um but it's entertaining in its own way you know yeah that's so cool like
+
+[00:24:27] Jacob: You just by diving into the culture for two weeks you're like oh okay i get this much more have you guys changed a lot of so just from when you first had the conceptual idea of like oh we could do this and we're inquisitive and we're willing to try these things whatever um just then until now um have you guys like changed your approach towards how you're going to handle the upcoming episodes and the upcoming um immersions i'll let you take this one in
+
+[00:24:56] Ian: [Laughter] that's a really great tough question um you know what's so interesting is like when we first started these camps i was asking impossible questions so with every camp we try to give ourselves like some a guiding question to help us think about it moving forward so we're not just kind of groping blindly through the subject and mine have been apps like really difficult like my first
+
+[00:25:20] Shaye: Question was um Shaye what was my first question i already forgot it i think it was like how does reality tv reflect the Zeitgeist that was the that was the podcast one podcast one was what uh like how did yeah what are p how do podcasts reflect the Zeitgeist of our age i think reality tv was key in reality tv art can it be art right yeah uh microdosing was um when we did microdosing it was can micro dosing uh help you um achieve transcendence and
+
+[00:25:49] Jacob: Thus also uh like uh not support what's the one i'm looking for um i guess help you reach self-actualization and then for makeup camp it was i think it was like what is
+
+[00:26:02] Shaye: Beauty or something yeah so it's like that my question started really broadly and like as we've continued to do this i've kind of realized that like i really need to narrow my focus because i've just been super overwhelming myself um and it's it's kind of proven for good comedy because like halfway through i'm like why did i do this yeah you're like writing a book yeah i know i mean more or less that's what it was like um so like yeah but Shaye what about you
+
+[00:26:29] Jacob: How i've changed honestly uh
+
+[00:26:33] Ian: I think i feel more confident now just from this experience to try and believe something for a little while with the understanding that i can be wrong in that belief and then and revisit it later i think starting out i was really afraid to commit to an idea about something i don't already know a lot about which i think is a good thing in some ways i don't think it's good to commit so firmly to a belief without having a lot of grounding to it but i do think that for me was a little bit disabling and i think now i can proceed with
+
+[00:27:11] Jacob: Some confidence in some conviction in my understanding of things with the understanding that they can always be revisited that i'm gonna be wrong regardless of how much conviction i put in it or not i'm sometimes i'm gonna be wrong so now at least i can take a deep breath and continue with some confidence and then now just be like okay well that was a wrong idea like i messed up and now i can just acknowledge that and move on and there's no catastrophe you know now i'm just i'm still here yeah i like that's a great point go on going i was just gonna say too like
+
+[00:27:48] Ian: Maybe the most beneficial or the most fun part about this project and Shaye i'm not sure if you would agree or not maybe you would is that it's been great to kind of help me approach my like cognitive dissonance abstractly like to be able to kind of see it as something that i'm trying to dissect for an audience as opposed to just like something that's fundamental to who i am as a person um and that's when we kind of talked about like we've been learning a lot about ourselves it's like instead of you know you get into an argument with someone and uh i know they say something like um oh you know well all lives matter and then like there's just kind of that instinct where you're like it just kicks in and you're like wow **** um
+
+[00:28:27] Ian: Um not that we've been doing getting into stuff like that but like you know beliefs that i've had and then i'm having these experiences and like i'm having different uh opinions about them and it's different from what i thought and then just kind of being able to like you know feel that and then dissect it and be like what is this coming from um how can i explain this to people and that's really helped just kind of um kind i don't know like
+
+[00:28:49] Jacob: Dissect the self and be like oh okay like this is why i feel this way about this thing that's interesting hmm yeah that's brilliant man i because you know that's why like what your guys's podcast what you guys are doing really caught my eye is like i think right now especially in the world as individuals we all need to kind of take a look at why we think we know so much about what we think we know you know it's such a such a weird on so many weird it's not even the word there needs to be a new word beyond weird or what's going on everywhere in the world right now like we can't seem to make sense of it like we're yelling over each other's heads and between each other's legs but we think we're having like a logistical argument or something so i think it's really cool that you guys are taking a look in and like oh what do i know about this now and what do i know after emerging i'm immersing emerging myself in it for two weeks um i think that so for me exactly because i kind of
+
+[00:29:50] Jacob: Gained this over the last couple years i kind of gained this like remain in disbelief um uh sort of thing when i'm hosting the podcast i really try to like just be open to whatever and really just like almost believe at that moment anyway everything anybody's telling me at that moment so i can feel what it really feels like and through more episodes after the episodes and a couple weeks later after i've had time to sit on the content to sit on the conversations i can find areas where i'm like you know i don't actually believe that or um no i feel more stern of where i'm at it's almost the same thing that you guys were saying is it's almost solidifying who i am and desolidifying who i'm not in
+
+[00:30:30] Ian: Strange particular ways yeah i do really like that too it's uh i don't know i love it's such a i feel like it's like a beginner's mind right it's like you're not it's like the student's mind like trying to continually continuously just remain open to experience and i'm sure that i'm sure you learn a lot more with that mindset i imagine you have to yeah can we can we take a
+
+[00:30:53] Jacob: Side road and talk about like can you think of something that each of you how did you get to where you're even open to this because i think there's a lot of people who to even mold into the beginner's mind i'll say that the first 25 years of my life i mean it was i was always fairly growth mindset i was pretty um like self-determined in those sort of ways but i don't think that i was as open to
+
+[00:31:17] Ian: That beginner's mind as i am now i'm just like a total infant with new conversations now i'm like yeah just teach me and i think that awareness like noticing where we're sometimes a no doll or we think we have something figured out or a subject i think that's a huge great starting point for anybody who's maybe on the edge of like all right i'm going to try to get this beginner's mind going for myself so what
+
+[00:31:39] Jacob: Do you guys have on that beginner's mind how did you get there i feel like Ian's better at this if i'm asking the weird intricate questions no i mean i actually i um are we able to swear on here by the way because i threw it in **** man i mean flip yeah just so you're
+
+[00:31:57] Ian: Confused because i **** love this question i think this is such a great question and um like right off the bat there are like three things i want to say to kind of answer this question because it's like um three cars kind of trying to drive out of a tunnel simultaneously so i'm gonna try to walk through this in a way that's like logical and sensible so i mean um immediately based on your question about just like you know trying to be open to stuff like that's like the conversation mindset where you know if you look at i mean every sentence is essentially like a thesis right like that in of itself like is a claim um it's hot it's cold like there's an idea in there that and you're trying to you know like solidify it as a fact about an objective fact about the world um because in a way like you know you feeling a certain way is an objective fact and then another person can you know subjectively interpret that and be like well no it's a little it's a little cold um i don't really think you felt that way um because everything that you say is an interpretation on behalf of another person so you do if
+
+[00:33:07] Ian: You want to do something like this you have to kind of suspend that disbelief that you had said and you could be like okay like absolutely i can imagine myself feeling that way i'm cold but i could see why you're hot
+
+[00:33:17] Jacob: Um so it's just and that's something i feel like i learned in like linguistics uh when i took a linguistics courses in college and stuff like that and it's just like oh like language is just an attempt to kind of construct reality like i get it i get it now like we're all just kind of it's all a fairy tale that we live in and we're trying to like kind of communicate that story to another person so it's like we're all kind of it's almost like i imagine um if i were to try to make it like a more physical metaphor everyone's kind of living in a bubble um but the bubbles are um porous so it's like you kind of try to uh intermix that uh interpretation of the world with another person and then like you try to come to a mutual understanding of where you both are um and then the second one and i'll be really short was um i just remember reading and this is super cheesy but i read an einstein of uh bio i read einstein what the **** i read a biography of einstein and uh he wrote um in a letter to his first wife
+
+[00:34:22] Ian: Like may we never lose our childlike sense of curiosity about the world and uh i was like oh that's why he was a **** genius because he approached everything with a child's mind and was just like you know i don't fully understand how this works um and i think that like it's so easy to kind of and it's not you know it's not even easy it's the and Shaye and i've talked about this during asset camp it's the default mode network like it's a survival thing like um it's biological and we forget that we're animals sometimes because we're higher order animals but like our instinct to immediately categorize things as like yes no good bad hot cold big small um it was a was a biological survival technique so that we would be like okay tall grass equals big lion um you know dark water equals bad to drink um bitter fruit equals diarrhea um and that just kind of grew and expanded into you know like modern society so it's like we still have that lizard brain that uh is quick to judge um but we forget that
+
+[00:35:26] Jacob: Like we don't necessarily need that for
+
+[00:35:28] Ian: You know ideas or human relationships so that was very long-winded and i apologize but that's my best attempt to answer like a really difficult but fun question that was valiant me i loved it that was great
+
+[00:35:39] Jacob: Yeah your turn i was now i feel the eyes they're pointing at me now
+
+[00:35:47] Ian: Um i don't know i really like Ian's answer uh i'll just i'll just say ditto and then [Laughter] no but i think what Ian said about the kind of like the psycho-linguistic approach to it uh really resonated with me as well because i studied i studied like linguistics kind of through like a back road like i just like started learning other languages and then learning a ton about grammar and then kind of through grammar ended up learning a lot about linguistics and then kind of more like this psycho-linguistic approach but i think i think what you get when you when you kind of take that approach and you open up your mind you realize that you like all of language and like every word like kind of to bounce off what you're saying in every word is just an attempt at encapsulating an idea somehow so you say the word couch and well what exactly is couch like there is no one couch there is a range of things in which uh something could be a couch so you know even that's fluid which
+
+[00:36:39] Ian: You know it seems like such a concrete idea but you know obviously there's gray zones and every there's gray zones with everything so i and when you learn other languages you see that an idea that is so obvious and
+
+[00:36:50] Jacob: Distinguished in one language may be open-ended
+
+[00:36:56] Ian: And like blurry in another and then you realize that the framework for your interpretation of everything is just based on a lot of you're just
+
+[00:37:07] Shaye: You're what you've been exposed to so far especially your language i think this is like a little bit of like the superior warf hypothesis that like your language determines the way you view the world um which i like and i also don't like but i don't know i think coming from that perspective you start to see that
+
+[00:37:26] Jacob: Everything you know to be something is really it's just an approximation anyway so it's right yeah so as right as you can be or want to be it's like ultimately how much does it matter you know whatever we're all going to die and be wrong about tons of things so who cares um just to kind of yeah like um the
+
+[00:37:47] Ian: Stuff that Shaye was talking about uh initially was like linguistics 101 is one of the first and i think everyone should have to take like linguistics 101. like i mean can you imagine like being given this tool and you're never really taught how to use it like you've mastered it to an extent you know and it's just like you're using it well enough but maybe you're expelling like um too much energy to use it correctly but like there's that idea in linguistics of uh you know sense and reference and um you know when i say cat it's like the sense is you know okay whiskers tail um fur claws uh etc like those are your senses and like the reference is like oh i had a cat named hobie um in second grade and uh it's simple when you get into like concrete uh constructs or ideas like you know cat car couch like Shaye was mentioning but then it gets so much more complicated when you get into abstract ideas like you know love democracy justice fairness and then
+
+[00:38:45] Ian: Everybody's sense and reference is so different so i mean i almost feel like and this is you know maybe like a um this is like a criticism of post-modernism too right that like we have to first before we can even have the argument we have to establish a definition but i think there's benefit to that i think there's benefit to both people being like you know especially now with a lot of the division we see in america it's like all right well like what exactly is your sense of justice and then like what is your reference like what are you basing this off of um so you know especially with like the older generation like well life's not fair it's like where does that come from like where the **** that's the answer so that's it
+
+[00:39:22] Jacob: Yeah that's uh that's great man i really like where both of you guys took that because you know it's we're out of time especially with the internet and technology we're kind of just forced to look at our perceptions and we're kind of forced to i don't know if we're trying to make them all work you know like we're this big experiment of like of trying to make everybody's different views because we're not trying to discover like the truth as much as we're all trying to like explain the truths that feel right to us
+
+[00:39:53] Ian: As individuals as we go every day um yeah it's super interesting i so i have never learned another language i would like to at some point um my
+
+[00:40:05] Jacob: My fiancee is i say fiance weirdly because i just recently got engaged so it still it doesn't roll off the top congratulations
+
+[00:40:13] Ian: Thank you yes thank you i appreciate that uh very pumped about it but um she wants to eventually learn spanish and now there's just so many different ways to learn it that i think it's going to be cool when people are able to learn different languages and really
+
+[00:40:27] Jacob: Realize how
+
+[00:40:30] Ian: We see reality so differently like when i started learning anything about like eastern world philosophy or any like buddhism or hinduism there was like you know dao and these certain words that like when i heard the death when i heard certain people alan watts for example talk about these things i'm like i don't know what you're saying like there's not even like a setting for the subject that you're talking on but then once i started listening more and more i imagine this is a little bit kind of how our brains learn language it's like you start to understand the concept that you didn't have an arena
+
+[00:41:04] Jacob: For um you didn't have like a practice
+
+[00:41:08] Ian: Room that even existed for you to go in and understand the things that's super confusing but um learning language i think is a super cool thing and i imagine what it does to our brains is a lot of um this probably sends off similar signals and similar things of when we completely change our perception of what we thought we knew you know yeah and i'll like kind of humble brag for Shaye here like Shaye is Shaye's a brilliant uh linguist i mean he really i love the way he thinks about language so like i you know i warn anybody who wants to get into a debate with him about it because he thinks about it a lot and Shaye i know you speak spanish uh you speak a little bit of swedish you speak french um is there anything else in that like swiss army mouth of yours no not that i speak but i did take a really keen interest into esperanto for a little while and uh for anyone who's like a true language nerd uh they're excited that i'm mentioning probably their favorite constructed language but uh
+
+[00:42:04] Shaye: But um yeah no it's really interesting because what you were just describing especially about like the having like the space to understand that idea uh one of the guys we talked to uh in microdosing camp he's a science writer uh for the max planck institute he had this really awesome idea and i and i'll be totally honest i know i don't like i only i can tell my understanding of this idea is still pretty nation like i don't it's not totally part of me so forgive me if i don't explain it in the best way but his thesis was basically you
+
+[00:42:35] Ian: Can't teach someone you can't talk to someone something about i'm sorry you can't talk to someone about something they don't already know or is that you can't teach them that they have to already have a pretty good understanding of it for you for the for the language to make sense to them at all and i think that's basically what you're saying like if you can't if you don't have the understanding the word isn't going to make sense you know the language has to follow the i don't know i don't i don't know
+
+[00:43:03] Jacob: Exactly the experience the cognition something the understanding fundamentally yeah in my head i like to call it i
+
+[00:43:10] Ian: I think i think visually and so a lot of times in my head it's the setting the arena it's almost like a almost like the beginning of the conversation here's what we're talking about um but it's so hard to pinpoint i do know um i understand what you are saying though and i think that's a great place i think that a lot of a lot of our arguments now
+
+[00:43:31] Jacob: In the you know like the crazy news
+
+[00:43:34] Ian: World america whatever america is doing
+
+[00:43:36] Jacob: Right now um i think it's a lot of that people not understanding that they're in different arenas like we're like in different stadiums yelling at each other and thinking that like the sound is going over the top of them and we're having a perfect conversation it's just madness so what you guys are doing is super cool um so what tell me about the future plans that you guys have um i know right now you mentioned you're working on adult friendships but what's the plan to lean into how do you guys come up with your with your new subjects well i think
+
+[00:44:08] Ian: Really we just try right now we're trying to think of a couple different approaches uh what's interesting and kind of use universally relatable to some people so i think the friendship one is everyone right now especially with kovid they're a lot of people are really struggling to find meaningful connection and i ourselves included like i spend most of my time with my girlfriend now which is not how i ever used to be i'm a really social person and so now like investigating what friendship is the idea there is just as universal we also have uh i think like this part of like this like punk rock screamo band side of us that like wants to really push some boundaries so uh we have a uh should we talk about our big plans Ian for uh for our next camp or is that uh this one's been a little contentious with people like we're we've grown hesitant to talk about it because i mean i guess it's a sensitive issue um for a lot of people so i mean how like are you are you going to get uncomfortable if we talk about like demons and like uh evocation summon them let's
+
+[00:45:11] Jacob: Do this i have a ouija board right here i was just doing a ritual last night no i'm all ears i'm supremely open to new experiences and new knowledge i'm definitely want to hear all about this well i mean my listeners are also open they're not going to like come to try to cancel you guys or anything are really cool we'll wait to cancel us until we have a couple episodes out a couple more out but i mean you know you nailed it that's what we're gonna do we're gonna spend uh two weeks um every day
+
+[00:45:40] Ian: Trying to summon demons um and we're gonna try and find as many traditions that have evocation uh practices and just try them all
+
+[00:45:50] Jacob: With the kind of the background the background ideas that we identify as agnostic atheists some you know somewhere in that area and if we really are so strong in these
+
+[00:46:00] Ian: Convictions then this shouldn't be scary for us and it shouldn't be there should be nothing to worry about
+
+[00:46:09] Shaye: So we're effectively putting our money where our mouth is uh and i think some to some people it's terrifying for them because they truly believe that there'll be something there for me it feels almost like i feel bad because i feel like i'm making fun of someone but i really want to come at it with the perspective of like no i really want to try this and i really want to believe it which is different from Ian because we've already uh we've done a segment on this already like in anticipation for the episode called ignorance in a bottle where we talk about our preconceptions before we do any research on it so we don't kind of spoil our ignorance we keep our ignorance preserved and Ian's Ian has some reticence like he does he's already afraid uh so i have i and my thing isn't necessarily like a religious thing as well like my thing is you know you spend 32
+
+[00:46:56] Jacob: Years with your brain and you begin to develop an understanding of how it works and like i know what i need to avoid and like i know what uh like
+
+[00:47:06] Shaye: You i know how to outsmart my
+
+[00:47:09] Jacob: Impulses essentially and um i have an extremely overactive imagination so it's like i don't watch horror movies i'm not a big fan of gore like i avoid certain things i've got you know like a pretty a relatively addictive personality so they're like there's certain things i'm like okay i shouldn't i shouldn't **** with this so with demon summoning camp it's like i already know i'm gonna be like any bump in the night any like
+
+[00:47:32] Ian: Shadow cast i'm gonna be like oh **** it's the devil that's the they're here oh they demons me so it's just like i know that like it's gonna be like that for me for two weeks and then maybe for weeks after i mean like you're talking to a guy and like i will totally telling myself here in high school i saw i think it was the exorcism of emily rose and like i was so freaked out that like i was next because i was like i don't know why i was just such like a sweet supple boy for the for the demons i like snuck into my parents room and slept um at the foot of their bed because i guess satan doesn't possess you if you're with mommy and daddy like i don't know oh man i do i paranormal activity had that same effect on me that was it's funny looking at it now it seems like a corny movie to watch but it's at that time i'm like wait like a security camera movie and is that is that real are they were they sleeping and the covers came off you don't really know i think that's a really cool idea um i think that
+
+[00:48:36] Jacob: You'll be surprised at how it's almost like a lot of these subjects when you go into them you think you're learning about this aspect of that subject but you're almost are forced to learn about something completely different within the exact same experience um i think that even just observing you guys should also
+
+[00:48:56] Shaye: I'm sure you do um you know take notes of like of your fear every day like are you looking over your shoulder a little more are you know because i think even those words um i'm not sure what i think about all that myself but even those words you know have like
+
+[00:49:15] Jacob: Meanings that pop things into your mind that you weren't planning on thinking about that day for sure you know so that's i mean but we also play grand theft auto and we don't go driving our cars around and killing hookers and stuff so um yeah that's super cool how did you guys land on that one is really just the putting your money where your mouth is like we you know here's what we know strongly what we feel strongly let's try to push up against that or try to um even just like put a megaphone on that i yeah right well i think the idea was at first we were gonna do
+
+[00:49:50] Ian: We were looking at um different religious beliefs uh as atheists and then we looked at some of them and you know like some of them just don't feel like you can't you can't do islam like i feel like um there's no there's you kind of you kind of can't because i mean like just so touchy really quickly and then and then back out like one of the i remember um when we first met uh i was before i got you the job at the english language institute um i had a bunch of uh muslim students and it was ramadan so i observed ramadan with them because they were like oh we're hungry we're sleepy we're thirsty and i was like all right i'm going to observe ramadan with you and under the pretend set if i don't complain you can't complain and we learn the
+
+[00:50:32] Jacob: Lesson so i think necessarily yeah i think you're right that there's not necessarily like you can't just you know convert but you can uh observe or participate in some of the uh some of the orthopraxy right yeah i just mean i specifically just mean uh i don't i don't want to be a tourist in someone's religion especially a religion that in our country uh there are people who are targeted for those beliefs you know in a dangerous way so um so i you know i we want to avoid that and we want to be sensitive to people who have who have ex suffered um
+
+[00:51:06] Ian: So we were thinking about those and those religions see and christianity seems like such an easy target these days and uh you know judaism has also had you know its fair share of anti-semitism so then we're like what about satanism and then we're like what do we do with satanism and then eventually this idea of like demon summoning and then we're just like well that's really all we're interested in that's like that's the headline for satanism anyway let's just jump straight to that and then we almost kind of reverse engineering we're like well okay well pagans and witches do this as well from the little we understand so far we haven't started the camp yet so uh we're still you know we're still pretty ignorant about it um but we now we understand that there's like other traditions that do evocation that's not you know that's not even necessarily a christian belief it predates christianity i'm pretty sure for a long time so uh we're gonna try
+
+[00:51:54] Ian: All these things you know and just see kind of where it takes us and hopefully you know we get like some we get the punk rock energy going for some other people too because it does feel kind of counterculture and it is fun to relive this like rebellious younger side while also genuinely trying to learn yes as a fellow um young man who was emo and wore lots of tight black pants growing up himself i'm with you boys um i think that right now you know i keep saying right now especially but we're kind of at this weird edge in our civilization where we're not able to have important conversations because they're weirdo like they make us uncomfortable so we don't want to talk about them like uh i mean i even noticed i had a conversation with my with my friend who's black um on a podcast a couple episodes ago and basically like try to talk about the race thing and i was just my foot was in my mouth i was stumbling over the words i was like dude i don't know how to do this like this is this is weird um it's all
+
+[00:52:51] Ian: It's that's a whole nother complicated issue when it comes to those things but i think that the things that we're so solid about we
+
+[00:53:00] Jacob: Should defend them and the things that defend them by like uh challenging our own beliefs about them and like reassuring ourselves and the beliefs and the things that we don't know much about we should explore
+
+[00:53:11] Ian: I think that's fantastic and i think that's part of the reason we were so excited about this subject or just this project was um and uh i mean feel free to like back me up add on or subtract anything but like i think it was kind of this idea like you know there are enough podcasts that tell people you know um what to think like what if what about a podcast that like shows people how to unlearn and relearn um and like make it fun and because like i mean we i do think learning is fun like not to be like you know an episode of reading rainbow but um like learning new things is exciting because you're like oh like this is a whole
+
+[00:53:48] Jacob: Like i'm adding to my existence
+
+[00:53:52] Ian: And to my uh you know understanding of what it means to be human like i'm enriching uh my already relatively rich life like this is this is great that's like the best thing you could do yeah yeah and especially i feel like in the era of twitter where the loudest opinion regardless of its validity or how thought out it is gets the most attention we're trying to
+
+[00:54:17] Jacob: Ideally come out thought differently we're trying to not just say whatever comes out and just be controversial for the sake of controversial we're trying to be controversial for the sake of challenging preconceptions our own especially but challenging anyone else who might share those same preconceptions and not just be a loud controversial figure but be allowed thoughtful controversial figure you know i mean there really isn't a lot of that there's a lot of people who just like getting mad at something and then like if they can get two people behind them that say yeah then they're really super empowered right it's good um guys i think we're getting up here in time i think that it was a fantastic uh intro to your podcast and what you guys are doing and to you as individuals i know that i'm definitely i checked out a couple episodes um and did a little did a little research and checked it out i enjoy your guys's energy um i think you're both pretty damn funny um i think that the quality of the podcast is pretty good too um i like the little inserts and the sounds and it's just great it's well ran i really appreciated it and
+
+[00:55:25] Jacob: So i thought it was really cool that you guys reached back out to me when i said hey so i'm glad that you came on today guys thank you so much man this was such a great conversation and uh yeah i really we really both we were so excited when uh you contacted us because we listened to a couple episodes and i don't know the vibe is just awesome man i really appreciate what you're doing as well so thank you so much i was going to say something nice but i forgot i'll wait and you think of something okay just give me a second oh man i had it then i was like listening to Shaye and i'm like
+
+[00:56:01] Ian: How about instead you just uh give the
+
+[00:56:03] Jacob: Listeners all of you guys's info so if they want to go follow you guys podcasts write this so Camp ReEducation because they find that on Spotify all those yeah you can find it you can find Camp ReEducation anywhere you can listen to podcasts just plug it up we'll be there waiting for you with open arms we're so excited to have you we just can't wait to you know bring you into camp um we also have a website campaignyeducation. com um we absolutely love getting suggestions we have a page where if you listen to an episode and we got something wrong or if you just want to uh insult share i in a really funny way we would love to read that on the air and crack each other up so um feel free to do that as well am i missing anything no just i think you forgot to direct them to mostly point the insults in your direction i'm far too sensitive i cannot really handle that so thank you okay yes bring it on i'm uh in also just since i'm part of this conversation i'm emotional and soft so please don't insult me [Laughter]
+
+[00:57:05] Ian: Our beautiful boy jacob is off limits
+
+[00:57:06] Jacob: Okay yes i'm awful in limits uh cool guys this was super cool um i hope to stay in contact with you guys once in a while i really think what you're doing is super cool and uh i hope we get some new listeners for you out of this experience awesome thank you and likewise i wish i sounded as smart on my show as
+
+[00:57:23] Ian: I was able to sound on yours but uh Shaye doesn't give me any layups he's just like the kunta kinte he just smacks them all out i'm like come on man
+
+[00:57:30] Shaye: Yeah i edit how Ian however Ian however smart Ian sounds that's how i edit him to sound all right all right fellas well have a good rest of your day and uh i can't wait for the next episode of camp for education all right thank you brother thanks again man it was a great time yeah see you later so should we are we are we actually leaving or we just
+
+[00:58:11] Jacob: Knowledge is power

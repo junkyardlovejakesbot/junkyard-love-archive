@@ -1,0 +1,3 @@
+- "Nothing is for everyone, anymore"
+- "I think I feel more confident from this experience to try and believe something for a little while, with the understanding that I can be wrong with that belief and re-visit it later"
+- "(The Podcast) has been great to help me approach my cognitive dissonance abstractly, to be able to see it as something I'm trying to dissect for an audience, as opposed to something that's fundamental to who I am as a person."

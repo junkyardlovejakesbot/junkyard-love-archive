@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en/en-orig (captions.en.vtt / captions.en.json3; also archived as source-yt.en*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=TroUc2oS7eU
+Turns: 136
+Word count: 11509
+Speaker map: pause-gap segmentation + sticky Jacob/Ian/Shaye content scoring (named speaker labels not present in captions; dual-guest auto diarization imperfect)
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light ASR name tidy (Ian; Shaye from shay/shea; Camp ReEducation; RetroLux; Zeitgeist; The Social Dilemma); bumper/outro forced to Jacob where clear; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Ian and Shaye of Camp ReEducation (published first names only; ASR shay/shea); slugs ian-camp-reeducation + shaye-camp-reeducation.
+Note: automatic diarization is imperfect especially between Ian and Shaye (overlapping couple storytelling); remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips. YT duration 3529s vs RSS/inventory 3499s (archive meta uses RSS duration). No published chapter timestamps. Title YT=RSS. About YT~RSS (YT primary; footer stripped; published A few notable quotes split to Quotes). Inventory has_quotes=yes / has_hashtags=no / has_guest_links=no (Camp ReEducation / RetroLux kept inline in About). Archive picks fills timestamped quotes/chapters/keywords/hashtags/bios. Two guest pages: ian-camp-reeducation + shaye-camp-reeducation.
+Speaker balance: Jacob 56 turns/3621 words; Ian 56 turns/5820 words; Shaye 24 turns/2068 words.
+Heuristic speaker fixes: 0; post-splits: 2 (keep jacob intro into chat; split Jacob ask / Shaye camp intro)

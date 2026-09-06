@@ -1,0 +1,26 @@
+{
+  "episode_number": "0054",
+  "episodeNumber": 54,
+  "title": "Episode 054 with Ian and Shaye of Camp ReEducation - You Don't Know What You Think You Already Know",
+  "rss_title": "Episode 054 with Ian and Shaye of Camp ReEducation - You Don't Know What You Think You Already Know",
+  "guest": "Ian and Shaye of Camp ReEducation",
+  "guests": [
+    "Ian",
+    "Shaye"
+  ],
+  "datePublished": "2020-09-15",
+  "duration_seconds": 3499,
+  "duration_iso": "PT58M19S",
+  "duration_human": "58:19",
+  "youtube_url": "https://www.youtube.com/watch?v=TroUc2oS7eU",
+  "rss_url": "https://share.transistor.fm/s/f348615d",
+  "audio_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/f348615d/bf999b2c.mp3",
+  "spotify_show": "https://open.spotify.com/show/45J7CBdM8j29doqyBp2bFs",
+  "apple_show": "https://podcasts.apple.com/us/podcast/the-junkyard-love-podcast/id1489118788",
+  "slug": "0054-ian-shaye-camp-reeducation-you-dont-know-what-you-think-you-already-know",
+  "guest_slug": "ian-camp-reeducation",
+  "guest_slugs": [
+    "ian-camp-reeducation",
+    "shaye-camp-reeducation"
+  ]
+}

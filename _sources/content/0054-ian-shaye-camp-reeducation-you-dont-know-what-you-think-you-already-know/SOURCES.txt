@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (~RSS). YT footer stripped. Published quotes split out of About into Quotes.
+YouTube chars: 2765
+RSS HTML chars: 2770
+Title source: YouTube / exact_public_title (TroUc2oS7eU). YT!=RSS — RSS title is "Episode 054 with Ian and Shaye of Camp ReEducation - You Don't Know What You Think You Already Know"; archive H1 uses YouTube title.
+Title: Episode 054 with Ian and Shaye of Camp ReEducation - You Don't Know What You Think You Already Know
+RSS title: Episode 054 with Ian and Shaye of Camp ReEducation - You Don't Know What You Think You Already Know
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YT chapters
+Guest links: none as structured Guest links (inventory has_guest_links=no); About mentions @jasminejeanvisions inline
+Quotes: 3 published quotes from YT/RSS Couple quotes from my notes (inventory has_quotes=yes)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube; quotes section removed from About into Quotes
+Guest name spelling: Ian / Shaye of Camp ReEducation; separate guest pages ian-camp-reeducation + shaye-camp-reeducation (NEW; no last names published)
+Duration: RSS itunes:duration 3499s (58:19); YT info.json duration 3529s — using RSS/inventory 3499
+Publish date: RSS/inventory 2020-09-15 (YT upload_date 20200916)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bios) — extracted from YT auto-caption transcript + published About/quotes; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).

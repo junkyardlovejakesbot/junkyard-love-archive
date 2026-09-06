@@ -1,0 +1,15 @@
+At the Junkyard Love Podcast... we love challenging our beliefs, we love knowledge, we love friendship, and we love learning in unorthodox ways. 'Camp ReEducation' checks those boxes quickly and with style. So I reached out to see if they wanted to chat about their podcast experience thus far. The conversation was awesome. Camp ReEducation, ran by the charismatic team Ian and Shaye, is a podcast journey into the world they thought they knew. A place to challenge their own beliefs, biases, and preconceived ideas. These dudes essentially choose a subject to fully immerse in for two weeks to see if they can oppose, bend, re-define and re-teach themselves about what they figure they already know. They are quite literally trying to re-educate themselves, which comes across incredibly humbling and hilarious for the listeners. Their non-serious but honest approach to these subjects certainly makes for an enjoyable listening experience and their friendly banter keeps a smirk on the face of any listener whilst at camp. In this episode of The JYLP I ask 'em about their backgrounds, what they've learned so far, why they do what they do, how they stumbled into the podcast world, and how they became friends.
+
+Shaye and Ian ask themselves impossible questions like -  "How do podcasts reflect the Zeitgeist of our age?" Can reality TV be art?" "Can Microdosing help you achieve transcendence and reach self-actualization?" and "What is beauty?"
+
+The three of us find a cadence and connection via our musical backgrounds and we talk about how their podcast journey has already changed and challenged their beliefs, how we can ALL approach re-learning and re-shaping our internal information databases, the basis of "truth" within each of us, language, differing philosophies, the beginner's mindset, and challenging our echo chambers. Camp ReEducation is available wherever you like to listen to podcasts. Give them a follow on social media and on here to browse through their growing camp catalog. Also - checkout Shayes band on Spotify - RetroLux. Enjoy the episode and don't forget to hit follow for new conversations weekly.
+
+## Quotes
+
+- "Nothing is for everyone, anymore"
+- "I think I feel more confident from this experience to try and believe something for a little while, with the understanding that I can be wrong with that belief and re-visit it later"
+- "(The Podcast) has been great to help me approach my cognitive dissonance abstractly, to be able to see it as something I'm trying to dissect for an audience, as opposed to something that's fundamental to who I am as a person."
+
+## Guest links
+
+(none published in episode notes)

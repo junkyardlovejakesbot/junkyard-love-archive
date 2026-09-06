@@ -72,6 +72,7 @@ Plain static site. No domain configured yet — open `site/index.html` locally, 
 - **0057** Anna Cantwell — A Teacher Of The Human Spirit — `site/episodes/0057-anna-cantwell-a-teacher-of-the-human-spirit/`
 - **0056** Trevir Petitt & Jasmine Heagy — Get With The Picture, Grow Through It, And Laugh... — `site/episodes/0056-trevir-petitt-jasmine-heagy-get-with-the-picture-grow-through-it-and-laugh/`
 - **0055** Brian 'DJ Toasty' Andrew — Life Has No Sync Button — `site/episodes/0055-brian-dj-toasty-andrew-life-has-no-sync-button/`
+- **0054** Ian & Shaye of Camp ReEducation — You Don't Know What You Think You Already Know — `site/episodes/0054-ian-shaye-camp-reeducation-you-dont-know-what-you-think-you-already-know/`
 - **0100** JacobFromTheInternet (solo) — `site/episodes/0100-jacobfromtheinternet-mystical-experience/`
 
 ## Preview

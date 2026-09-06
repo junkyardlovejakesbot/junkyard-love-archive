@@ -75,6 +75,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0057 Anna Cantwell — A Teacher Of The Human Spirit](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0057-anna-cantwell-a-teacher-of-the-human-spirit/) — 2020-10-04
 - [0056 Trevir Petitt & Jasmine Heagy — Get With The Picture, Grow Through It, And Laugh...](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0056-trevir-petitt-jasmine-heagy-get-with-the-picture-grow-through-it-and-laugh/) — 2020-09-24
 - [0055 Brian 'DJ Toasty' Andrew — Life Has No Sync Button](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0055-brian-dj-toasty-andrew-life-has-no-sync-button/) — 2020-09-17
+- [0054 Ian & Shaye of Camp ReEducation — You Don't Know What You Think You Already Know](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0054-ian-shaye-camp-reeducation-you-dont-know-what-you-think-you-already-know/) — 2020-09-15
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -98,6 +99,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Erwan Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/erwan-davon/)
 - [Georgia Peach](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/georgia-peach/)
 - [Heather Hutchison](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/heather-hutchison/)
+- [Ian](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/ian-camp-reeducation/)
 - [Jasmine Heagy](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/jasmine-heagy/)
 - [Jeremy Sherman](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/jeremy-sherman/)
 - [Jerry Fu](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/jerry-fu/)
@@ -126,6 +128,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Ryan 'Tos' Santos](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/ryan-tos-santos/)
 - [Sandy Vo](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/sandy-vo/)
 - [Sean Blackwell](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/sean-blackwell/)
+- [Shaye](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/shaye-camp-reeducation/)
 - [Shiloh Rister](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/shiloh-rister/)
 - [Sigmar Berg](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/sigmar-berg/)
 - [Swami Nityananda](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/swami-nityananda/)
@@ -214,3 +217,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0057-anna-cantwell-a-teacher-of-the-human-spirit/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0057-anna-cantwell-a-teacher-of-the-human-spirit/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0056-trevir-petitt-jasmine-heagy-get-with-the-picture-grow-through-it-and-laugh/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0056-trevir-petitt-jasmine-heagy-get-with-the-picture-grow-through-it-and-laugh/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0055-brian-dj-toasty-andrew-life-has-no-sync-button/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0055-brian-dj-toasty-andrew-life-has-no-sync-button/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0054-ian-shaye-camp-reeducation-you-dont-know-what-you-think-you-already-know/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0054-ian-shaye-camp-reeducation-you-dont-know-what-you-think-you-already-know/episode.md)
