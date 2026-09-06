@@ -1,0 +1,15 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (bio + topics/Vervaeke + website + book mention + follow CTA). Guest website kept inline in About and also under Guest links (inventory has_guest_links=yes).
+YouTube chars: 1042
+RSS HTML chars: 1050
+Title source: YouTube / exact_public_title (UuEtPu9QQfU). YT≠RSS — RSS omits “The JYLP EP” prefix; otherwise same guest/role/topic title.
+Title: The JYLP EP081 with philosophical contemplator John Lee - Pondering The Beautiful Mysteries Of Being
+RSS title: 081 with philosophical contemplator John Lee - Pondering The Beautiful Mysteries Of Being
+Chapters source: none published in episode notes (inventory has_timestamps=no); YT info.json has auto chapters (Untitled / Is Consciousness Built through Evolution / Determinism / Stoned Ape Theory / How Did God Learn the Word / Man Search for Meaning by Victor Frenkel / Laws of Nature) — used only to seed Archive picks, not as published Chapters
+Guest links: published https://custommobile.app/ (inventory has_guest_links=yes); also remains inline in About
+Quotes: none published (inventory has_quotes=no)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube; YT≈RSS body
+Guest name spelling: John Lee; guest slug john-lee; inventory guest_name includes role prefix “philosophical contemplator”
+Duration: RSS itunes:duration 3324s (55:24); YT info.json duration 3325s — using RSS/inventory 3324
+Publish date: RSS pubDate 2021-12-13 (YT upload_date 20211214) — using RSS/inventory 2021-12-13
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.

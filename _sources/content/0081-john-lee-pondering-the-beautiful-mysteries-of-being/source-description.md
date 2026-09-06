@@ -1,0 +1,17 @@
+John is a father, a Software Project Manager, and a small business owner. Luckily for me, he really enjoys philosophical intellectual conversations.
+
+In this episode, we discuss morality, free-will, consciousness, religion, theism, atheism, choice, experience, Determinism, quantum-physics, thought experiments in dimensions and reality, technology and its endless limits, the expanding universe, the mysteries of our minds, the birth of language, the word “i”, god, purpose, meaning, Jordan Peterson, Truth, Values, Morals, being of service to others, picking your own path, advice for young people and reframing expectations. This conversation felt much like the “serious play” Professor John Vervaeke explores in his talks. I had a great time with John Lee discussing things that fascinate us both about this wondrous human experience.
+
+Checkout johns website here https://custommobile.app/
+
+books mentioned “Mans Search For Meaning” -Victor Frankyl
+
+follow @jacobfromtheinternet for podcast clips & trailers & all other creative endeavors
+
+## Quotes
+
+(none published in episode notes)
+
+## Guest links
+
+- Website — custommobile.app: https://custommobile.app/

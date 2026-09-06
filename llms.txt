@@ -48,6 +48,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0084 Jeremy Sherman — The Trying Self](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0084-jeremy-sherman-the-trying-self/) — 2022-02-03
 - [0083 Solo — Making Sense Of My Depression & Anxiety pt. 1](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0083-making-sense-of-my-depression-and-anxiety-pt-1/) — 2022-01-14
 - [0082 Sandy Vo — Towards A Path Of Peace](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0082-sandy-vo-towards-a-path-of-peace/) — 2021-12-27
+- [0081 John Lee — Pondering The Beautiful Mysteries Of Being](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0081-john-lee-pondering-the-beautiful-mysteries-of-being/) — 2021-12-13
 
 ## Guests
 - [Anne Riley](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/anne-riley/)
@@ -64,6 +65,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [David Crayk](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/david-crayk/)
 - [David Hulse](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/david-hulse/)
 - [Jeremy Sherman](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/jeremy-sherman/)
+- [John Lee](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/john-lee/)
 - [Jordenelle Tsugawa](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/jordenelle-tsugawa/)
 - [Julie Hoyle](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/julie-hoyle/)
 - [Keenan 'Hurricane' Harvey](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/keenan-harvey/)
@@ -139,3 +141,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0084-jeremy-sherman-the-trying-self/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0084-jeremy-sherman-the-trying-self/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0083-making-sense-of-my-depression-and-anxiety-pt-1/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0083-making-sense-of-my-depression-and-anxiety-pt-1/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0082-sandy-vo-towards-a-path-of-peace/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0082-sandy-vo-towards-a-path-of-peace/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0081-john-lee-pondering-the-beautiful-mysteries-of-being/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0081-john-lee-pondering-the-beautiful-mysteries-of-being/episode.md)
