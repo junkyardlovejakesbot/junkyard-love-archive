@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en-orig (captions.en-orig.vtt / captions.en-orig.json3); en track identical auto; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=b_uo4czTpjM
+Turns: 95
+Word count: 13632
+Speaker map: pause-gap segmentation (~1.8–2.5s; median caption gap ~1.92s) + marker-based Jacob/Devin flip splits + sticky content scoring (named speaker labels not present in auto captions); Jacob cold-open intro (Helga Pataki) forced through ~1:58; guest cannabis/ECS/terpene narratives forced Devin; host questions/CTA/bumper forced Jacob where matched
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments (cap ~200 words); HTML entities/nbsp unescaped; capitalized turn starts after merge; light name/term fixes (Devin Mullins [ASR Devon]; budtender; endocannabinoid; THC/CBD; indica/sativa; terpinolene; Missouri; Schedule One; delta-8; Junkyard Love; jacobfromtheinternet; Helga Pataki); dropped [Music]/trailing you cue noise; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Devin Mullins; guest slug devin-mullins; role Cannabis Industry Consultant.
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places. Episode audio has connection cutouts (Jacob notes in cold open).
+Issue: YouTube automatic captions (en-orig) freshly downloaded this run; no official/manual track; no >> speaker flips. RSS itunes:duration 4212s; YT info.json duration 4213s — using RSS/inventory 4212. No published chapter timestamps/hashtags/guest-links block (inventory has_timestamps=no, has_hashtags=no, has_guest_links=no). Inventory has_quotes=yes likely from Instagram-bio line “I love everybody” — treated as About text, not a Quotes block (Quotes = none published). YT has titled chapters (Cannabinoid Receptors / Endocannabinoid System / CBD vs THC / Indica vs Sativa / Terpenes / Terpinolene / The World Needs More Love / …) — used only to seed Archive picks, not as published Chapters. Title YT≠RSS — H1 uses YouTube (“JYLP Episode 077 w/…”); RSS is “Episode 077 with…”. About YT≈RSS. Publish date RSS 2021-09-30 (YT upload_date 20210930). Instagram @devdathug kept inline in About only. Archive picks fills timestamped quotes/chapters/keywords/hashtags/bio.
+Postfix diarization fixes: 5 ops (postfix_0077).
+Speaker balance: Jacob 22 turns/2614 words; Devin 73 turns/11018 words.

@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (bio + In this episode + Instagram CTA + subscribe/CTA). Instagram @devdathug kept inline in About only (inventory has_guest_links=no). No separate Quotes block in published notes (Instagram-bio “I love everybody” stays in About).
+YouTube chars: 1268
+RSS HTML chars: 1268
+Title source: YouTube / exact_public_title (b_uo4czTpjM). YT≠RSS — RSS uses “Episode 077 with…”; YouTube uses “JYLP Episode 077 w/…”.
+Title: JYLP Episode 077 w/ Cannabis Industry Consultant Devin Mullins - A Friendly Conversation About Weed
+RSS title: Episode 077 with Cannabis Industry Consultant Devin Mullins - A Friendly Conversation About Weed
+Chapters source: none published in episode notes (inventory has_timestamps=no); YT info.json has titled chapters (Devon Mullins / Cannabinoid Receptors / The Endocannabinoid System / CBD vs THC / Indica vs Sativa / Cons of Sativas / Indica or Hybrid / Terpenes / Terpinolene / The World Needs More Love) — used only to seed Archive picks, not as published Chapters
+Guest links: none as structured block (inventory has_guest_links=no); Instagram @devdathug remains inline in About
+Quotes: none published as Quotes block (inventory has_quotes=yes likely from Instagram-bio quotation in About)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube; YT≈RSS body
+Guest name spelling: Devin Mullins; guest slug devin-mullins; role Cannabis Industry Consultant
+Duration: RSS itunes:duration 4212s (1:10:12); YT info.json duration 4213s — using RSS/inventory 4212
+Publish date: RSS pubDate 2021-09-30 (YT upload_date 20210930) — using RSS/inventory 2021-09-30
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; no official en track).

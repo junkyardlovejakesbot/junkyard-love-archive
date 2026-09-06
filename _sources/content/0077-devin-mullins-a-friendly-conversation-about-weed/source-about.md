@@ -1,0 +1,11 @@
+Devin's Instagram bio simply reads "I love everybody". His presence and energy have always seemed to bring comfort and ease to people he's around, and he and I have always had great conversations, I was really excited to get him on the podcast. He's been working the last few years as a Cannabis Industry Consultant and currently works in Missouri managing a medicinal cannabis store. He shares from his experience working around cannabis as a Processor as well as from his history of being a Budtender and Cannabis Advocate for many years.
+
+In this episode - we lay out some basics for the beginner or newcomer to the world of weed and CBD, recreationally and medicinally. We break down the process of buying it legally, what to ask for, what terms to listen for, and how to approach the whole scenario. We cover some personal experiences through pot, some thoughts about the future of weed, and the potential benefits many can experience dipping their toes into these waters.
+
+If you have questions or inquires for Devin, check out his Instagram @devdathug -
+
+If you enjoyed the episode - please consider liking, reviewing, or sharing with a friend. Please subscribe for updates on new episodes (I've got lots of awesome guests coming!)
+
+See ya next episode!
+
+big love!
