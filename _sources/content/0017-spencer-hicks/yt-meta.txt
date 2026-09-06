@@ -1,0 +1,7 @@
+title=Episode 017 with Spencer Hicks
+upload_date=20191229
+duration=6555
+video_id=Ng6tF8sKCWw
+rss_title=Episode 017 with Spencer Hicks
+title_conflict=YT=RSS
+h1=Episode 017 with Spencer Hicks

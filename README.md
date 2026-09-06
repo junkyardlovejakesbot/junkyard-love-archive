@@ -108,6 +108,7 @@ Plain static site. No domain configured yet — open `site/index.html` locally, 
 - **0020** Megan Elam — `site/episodes/0020-megan-elam/`
 - **0019** Kendall Johns of Dead Crown — `site/episodes/0019-kendall-johns/`
 - **0018** Nate 'NastyNate' Tanzman — `site/episodes/0018-nate-nastynate-tanzman/`
+- **0017** Spencer Hicks — `site/episodes/0017-spencer-hicks/`
 - **0100** JacobFromTheInternet (solo) — `site/episodes/0100-jacobfromtheinternet-mystical-experience/`
 
 ## Preview

@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en/en-orig (captions.en.vtt / captions.en.json3; also archived as source-yt.en*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=Ng6tF8sKCWw
+Turns: 273
+Word count: 23059
+Speaker map: pause-gap segmentation + sticky Jacob/Spencer content scoring (named speaker labels not present in captions; auto diarization imperfect); host bumper/outro forced to Jacob where clear
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light ASR name tidy (Spencer Hicks; Frankfurt School; Absurdism; Nihilism; Marxism; Dungeons and Dragons; Sisyphus; Junkyard Love; Jacob Rhines; ASMR); bumper/outro forced to Jacob where clear; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Spencer Hicks (YT/RSS titles / inventory); slug spencer-hicks (APPEND).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips. YT duration 6555s (~1:49:15) vs RSS/inventory 6528s (~1:48:48) — ~27s delta, not substantial; transcript follows YT captions; archive meta uses RSS duration. No published chapter timestamps; no YT chapters. Title YT=RSS. About YT~RSS identical body ((3) series marker stripped; YT footer stripped). Inventory has_quotes=yes (inline "learn to vote out loud"; no Quotes list) / has_timestamps=no / has_hashtags=no / has_guest_links=no. Archive picks fills timestamped quotes/chapters/keywords/hashtags/bio. Guest page: spencer-hicks APPEND (0088, 0074, 0059, 0044, 0038, 0023, 0017).
+Speaker balance: Jacob 138 turns/13068 words; Spencer 135 turns/9991 words.
+Heuristic speaker fixes: 1; post-splits: 1 (split Jacob open / Spencer ASMR)

@@ -1,0 +1,9 @@
+Episode 0017: Episode 017 with Spencer Hicks
+Guest: Spencer Hicks
+Date: 2019-12-28
+YouTube: https://www.youtube.com/watch?v=Ng6tF8sKCWw
+RSS: https://share.transistor.fm/s/0dd2f3c2
+Title conflict: YT=RSS
+Guest slug: spencer-hicks (APPEND — exists with 0088, 0074, 0059, 0044, 0038, 0023)
+About: YT~RSS identical body; (3) series marker stripped; YT footer stripped; no guest contact/email
+Transcript: YouTube auto-captions (en/en-orig); YT duration 6555s vs RSS 6528s (~27s; meta uses RSS)
