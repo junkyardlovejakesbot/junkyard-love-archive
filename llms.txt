@@ -94,6 +94,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0038 Spencer Hicks — Mental and Physical Tips To Maintain Health At Home](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0038-spencer-hicks-mental-and-physical-tips-to-maintain-health-at-home/) — 2020-04-26
 - [0037 Rebecca Wyld — Habit Change and Happiness Actualization](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0037-rebecca-wyld-habit-change-and-happiness-actualization/) — 2020-04-23
 - [0036 Mika Woodruff — Sharpening Your Emotional Toolkit Through Writing, Grit, Gratitude and Resilience](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0036-mika-woodruff-sharpening-your-emotional-toolkit-through-writing-grit-gratitude-and-resilience/) — 2020-04-15
+- [0035 Ryan Reed — Hope, Ambition, Fortitude, Unlimited Beliefs, Putting Yourself On, Creating Hip-Hop, Producing Music and Reaching For Greatness](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0035-ryan-reed-hope-ambition-fortitude-unlimited-beliefs-putting-yourself-on-creating-hip-hop-producing-music-and-reaching-for-greatness/) — 2020-04-09
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -154,6 +155,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Roman Merrell](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/roman-merrell/)
 - [Ravinder Taylor](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/ravinder-taylor/)
 - [Ryan Baker](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/ryan-baker/)
+- [Ryan Reed](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/ryan-reed/)
 - [Ryan 'Tos' Santos](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/ryan-tos-santos/)
 - [Sandy Vo](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/sandy-vo/)
 - [Sean Blackwell](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/sean-blackwell/)
@@ -266,3 +268,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0038-spencer-hicks-mental-and-physical-tips-to-maintain-health-at-home/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0038-spencer-hicks-mental-and-physical-tips-to-maintain-health-at-home/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0037-rebecca-wyld-habit-change-and-happiness-actualization/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0037-rebecca-wyld-habit-change-and-happiness-actualization/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0036-mika-woodruff-sharpening-your-emotional-toolkit-through-writing-grit-gratitude-and-resilience/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0036-mika-woodruff-sharpening-your-emotional-toolkit-through-writing-grit-gratitude-and-resilience/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0035-ryan-reed-hope-ambition-fortitude-unlimited-beliefs-putting-yourself-on-creating-hip-hop-producing-music-and-reaching-for-greatness/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0035-ryan-reed-hope-ambition-fortitude-unlimited-beliefs-putting-yourself-on-creating-hip-hop-producing-music-and-reaching-for-greatness/episode.md)

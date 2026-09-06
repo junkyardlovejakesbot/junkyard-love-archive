@@ -1,0 +1,3 @@
+- "Realizing that if I'm going to do the things I said I'm going to do I need to grow up and be a fuckin man"
+- "I am not a creature of circumstance, rather a creator of circumstance"
+- "Stop trying so hard to be something you're not"
