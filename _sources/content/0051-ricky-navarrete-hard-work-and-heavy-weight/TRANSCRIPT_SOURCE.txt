@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en/en-orig (captions.en.vtt / captions.en.json3; also archived as source-yt.en*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=xRk-hGq_OhM
+Turns: 352
+Word count: 23115
+Speaker map: pause-gap segmentation + sticky Jacob/Ricky content scoring (named speaker labels not present in captions; auto diarization imperfect)
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light ASR name tidy (Ricky; Navarrete/Navarette; Cameron; Rachel; USPA; Monolith; Oregon State; Barnacle Boy; Jake Rhines; lo-fi); bumper/outro forced to Jacob where clear; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Ricky Navarrete (YT/RSS titles / inventory); published About body uses Navarette; slug ricky-navarrete (NEW).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips. YT duration 7143s vs RSS/inventory 7113s (archive meta uses RSS duration). No published chapter timestamps. Title YT≠RSS — H1 uses exact truncated YT title (…We...); slug/RSS use complete Weight. About YT~RSS (YT primary; footer stripped). Inventory has_quotes=no / has_timestamps=no / has_hashtags=no / has_guest_links=no. Archive picks fills timestamped quotes/chapters/keywords/hashtags/bio. Guest page: ricky-navarrete (NEW).
+Speaker balance: Jacob 184 turns/14408 words; Ricky 168 turns/8707 words.
+Heuristic speaker fixes: 3; post-splits: 1 (split Jacob ask / Ricky lifting)

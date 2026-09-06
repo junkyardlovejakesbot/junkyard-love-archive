@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (~RSS). YT footer stripped.
+YouTube chars: 1115
+RSS HTML chars: 975
+Title source: YouTube / exact_public_title (xRk-hGq_OhM). YT≠RSS — RSS title ends “Weight”; archive H1 uses exact truncated YT title; slug prefers complete RSS Weight phrase.
+Title: Episode 051 with Electrician and Competitive Powerlifter Ricky Navarrete - Hard Work and Heavy We...
+RSS title: Episode 051 with Electrician and Competitive Powerlifter Ricky Navarrete - Hard Work and Heavy Weight
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YT chapters
+Guest links: none as structured Guest links (inventory has_guest_links=no)
+Quotes: none published (inventory has_quotes=no)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube (single continuous paragraph; surname spelled Navarette in body)
+Guest name spelling: Ricky Navarrete; guest slug ricky-navarrete (NEW); About body keeps published Navarette
+Duration: RSS itunes:duration 7113s (1:58:33); YT info.json duration 7143s — using RSS/inventory 7113
+Publish date: RSS/inventory 2020-08-14 (YT upload_date 20200814)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).

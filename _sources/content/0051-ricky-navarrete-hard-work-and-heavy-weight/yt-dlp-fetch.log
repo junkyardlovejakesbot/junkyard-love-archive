@@ -1,0 +1,13 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?v=xRk-hGq_OhM
+[youtube] xRk-hGq_OhM: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] xRk-hGq_OhM: Downloading visionos player API JSON
+[youtube] xRk-hGq_OhM: Downloading m3u8 information
+[info] xRk-hGq_OhM: Downloading subtitles: en
+[info] xRk-hGq_OhM: Downloading 1 format(s): 271+251
+[info] Writing video description to: /workspace/junkyard-love-archive/content/0051-ricky-navarrete-hard-work-and-heavy-weight/source-yt.description
+[info] Writing video subtitles to: /workspace/junkyard-love-archive/content/0051-ricky-navarrete-hard-work-and-heavy-weight/source-yt.en.vtt
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: /workspace/junkyard-love-archive/content/0051-ricky-navarrete-hard-work-and-heavy-weight/source-yt.en.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.70MiB/s (00:00:00)[download]    7.00KiB at    5.04MiB/s (00:00:00)[download]   15.00KiB at    9.16MiB/s (00:00:00)[download]   31.00KiB at    4.90MiB/s (00:00:00)[download]   63.00KiB at    5.65MiB/s (00:00:00)[download]  127.00KiB at    7.35MiB/s (00:00:00)[download]  255.00KiB at   11.04MiB/s (00:00:00)[download]  511.00KiB at   17.38MiB/s (00:00:00)[download] 1023.00KiB at   27.92MiB/s (00:00:00)[download]    1.13MiB at   30.50MiB/s (00:00:00)[download] 100% of    1.13MiB in 00:00:00 at 3.40MiB/s
+[info] Writing video metadata as JSON to: /workspace/junkyard-love-archive/content/0051-ricky-navarrete-hard-work-and-heavy-weight/source-yt.info.json
