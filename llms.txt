@@ -40,6 +40,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0092 Roman Merrell — A Complicated Historical Paradigm](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0092-roman-merrell-a-complicated-historical-paradigm/) — 2022-12-11
 - [0091 Nike Anani — Next Gen, Legacy Perspective, New Beginnings](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0091-nike-anani-next-gen-legacy-perspective-new-beginnings/) — 2022-11-12
 - [0090 Will Andes — Being Boys, Becoming Men, And Bringing Peace](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0090-will-andes-being-boys-becoming-men-and-bringing-peace/) — 2022-09-27
+- [0089 Daniel T. Matalon — The World Game](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0089-daniel-t-matalon-the-world-game/) — 2022-08-30
 
 ## Guests
 - [Anne Riley](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/anne-riley/)
@@ -51,6 +52,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Dr. Cristine Hull](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/cristine-hull/)
 - [Craig Bennett](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/craig-bennett/)
 - [Curtis L. Harnagel](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/curtis-l-harnagel/)
+- [Daniel T. Matalon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/daniel-t-matalon/)
 - [David Crayk](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/david-crayk/)
 - [David Hulse](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/david-hulse/)
 - [Jordenelle Tsugawa](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/jordenelle-tsugawa/)
@@ -117,3 +119,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0092-roman-merrell-a-complicated-historical-paradigm/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0092-roman-merrell-a-complicated-historical-paradigm/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0091-nike-anani-next-gen-legacy-perspective-new-beginnings/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0091-nike-anani-next-gen-legacy-perspective-new-beginnings/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0090-will-andes-being-boys-becoming-men-and-bringing-peace/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0090-will-andes-being-boys-becoming-men-and-bringing-peace/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0089-daniel-t-matalon-the-world-game/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0089-daniel-t-matalon-the-world-game/episode.md)

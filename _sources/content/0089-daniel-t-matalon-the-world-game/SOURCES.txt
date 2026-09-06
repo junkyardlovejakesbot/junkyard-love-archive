@@ -1,0 +1,15 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (quoted bio + discuss para + links). RSS MarciaMartin.com vs YT MarshaMartin.com — About uses YT.
+YouTube chars: 2035
+RSS HTML chars: 2035
+Title source: YouTube / exact_public_title (51Kuhcn1JlE). YT=RSS — no title conflict.
+Title: 089 with Social Impact Investor and Organizational Strategist Daniel T. Matalon - The World Game
+RSS title: 089 with Social Impact Investor and Organizational Strategist Daniel T. Matalon - The World Game
+Chapters source: none published (inventory has_timestamps=no; no YT chapters)
+Guest links: published isthereenough.org + socials + mentioned MarshaMartin.com / George Carlin YT / IsThereEnough YouTube — inventory has_guest_links=yes
+Quotes: no conversation pull-quotes in notes (inventory has_quotes=yes likely from quoted bio paragraph) — Quotes block = none published
+Hashtags: #IsThereEnough appears in published About (inventory has_hashtags=yes)
+About: Jacob published description verbatim as spaced paras from YouTube
+Guest name spelling: Daniel T. Matalon (matches YouTube/RSS/inventory); guest slug daniel-t-matalon
+Duration: RSS itunes:duration 3660s (1:01:00); YT info.json duration 3667s — using RSS/inventory 3660
+Publish date: RSS pubDate 2022-08-30 (YT upload_date 20220830)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published links; kept separate from Jacob published About/Chapters/Quotes.

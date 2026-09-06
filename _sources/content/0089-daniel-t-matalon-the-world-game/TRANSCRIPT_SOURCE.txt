@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en-orig (captions.en-orig.vtt / captions.en-orig.json3); en track identical auto; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=51Kuhcn1JlE
+Turns: 71
+Word count: 10750
+Speaker map: pause-gap segmentation (~0.85–1.2s) + marker-based Jacob/Daniel flip splits + sticky content scoring (named speaker labels not present in auto captions); open bumper before ~0:18 forced to Jacob; guest World Game / IsThereEnough / Impact Launchpad narratives forced Daniel; closing CTA/airport forced Jacob where matched
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments (cap ~220 words); HTML entities/nbsp unescaped; capitalized turn starts after merge; light name/term fixes (Daniel T. Matalon, Buckminster Fuller, Hans Rosling, Impact Launchpad, isthereenough.org, thefirstagreement.com, Christie Thompson, Clubhouse, World Game); dropped [Music]/foreign cue noise; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Daniel T. Matalon (matches YouTube/RSS/inventory); guest slug daniel-t-matalon; captions mishear Matalon as “Madeleine” / “matt alone”.
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en-orig) used; no official/manual track; no >> speaker flips. RSS itunes:duration 3660s; YT info.json duration 3667s — using RSS/inventory 3660. No published chapter timestamps. Title YT=RSS (no conflict). H1 uses YouTube/exact_public_title. Inventory has_guest_links=yes; has_quotes=yes (quoted bio only — no pull-quotes; Quotes block notes none); has_hashtags=yes (#IsThereEnough in About); has_timestamps=no — Archive picks fills gaps (timestamped transcript quotes, chapters, keywords/hashtags, short bio). YT About spelling MarshaMartin.com vs RSS MarciaMartin.com — About uses YT.
+Postfix diarization fixes: 6 ops.
+Postfix diarization: bumper split + bio-read forced Jacob; guest narrative cues; 2 ops; words=10750.

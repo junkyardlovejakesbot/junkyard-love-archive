@@ -1,0 +1,8 @@
+- Website — isthereenough.org: https://isthereenough.org
+- MarshaMartin.com (mentioned): https://marshamartin.com
+- George Carlin — Saving The Planet (mentioned): https://www.youtube.com/watch?v=7W33HRc1A6c
+- IsThereEnough YouTube: https://www.youtube.com/c/IsThereEnough
+- Instagram — /danielmatalon/: https://www.instagram.com/danielmatalon/
+- LinkedIn — /in/danielmatalon/: https://www.linkedin.com/in/danielmatalon/
+- Facebook — /danieltmatalon: https://www.facebook.com/danieltmatalon
+- Twitter — /danielmatalon: https://twitter.com/danielmatalon
