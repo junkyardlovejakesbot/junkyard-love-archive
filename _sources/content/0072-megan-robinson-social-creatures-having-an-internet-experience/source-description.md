@@ -1,0 +1,11 @@
+Megan Robinson is a Videographer, Photographer, Traveling Production Assistant, and Live-Event Aficionado.
+
+In this episode - we discuss health, working in live-event environments, the effects of social media on society and ourselves, maintaining sanity through diverse conversations, news media and corresponding divisiveness, cancel culture, learning to understand one another, the future of communication, refusing the conversations handed to us, the responsibility of societies to adequately make sense of current happenings and projected futures, how our views and desires are painted by technology, the intricate web of the internet and its effects on human beings, and much more. She's a wonderful friend and I enjoy her company and conversations greatly.
+
+## Quotes
+
+(none published in episode notes)
+
+## Guest links
+
+(none published in episode notes)
