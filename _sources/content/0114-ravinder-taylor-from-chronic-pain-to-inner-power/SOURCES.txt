@@ -5,3 +5,4 @@ Title source: YouTube (prefer YT for H1; YT≠RSS — RSS title "0114 with Ravin
 Title: From Chronic Pain To Inner Power - with Psychotherapist, Hypnotherapist, & Author - Ravinder Taylor
 Chapters source: none published (YT/RSS; inventory has_timestamps=no)
 Guest links: from published YouTube notes with https:// expanded from RSS (Facebook/Instagram/X/Website/Amazon)
+Archive picks: added (timestamped quotes, chapter-style beats, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About/links; kept separate from Jacob published About/Chapters/Quotes/Hashtags (published notes already have polished quotes without timestamps — left Quotes block unchanged; Chapters/Hashtags '(none published…)' left unchanged). See source-archive-picks.md.
