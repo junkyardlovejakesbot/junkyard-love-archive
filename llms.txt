@@ -1,23 +1,31 @@
 # The Junkyard Love Podcast — Conversation Archive
 
-> Public archive of published Junkyard Love Podcast episodes with full transcripts so people and models can find and cite these conversations.
+> Mining the hearts and minds of unorthodox teachers. Longform conversations for lifelong learners.
 
-Site purpose: Make every published episode searchable by guest, topic, and spoken words, using Jacob Rhines's existing show notes verbatim plus a full transcript.
+Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 
-## How to cite
-- Title: episode title
-- Guest: guest name
-- Date: publish date (YYYY-MM-DD)
-- URL: full episode URL on this site
-- Timestamp: [HH:MM:SS] from the transcript
+## Episodes (processed)
+- [0124 Sigmar Berg — Conscious Breathing Break](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0124-sigmar-berg-conscious-breathing-break/) — 2026-09-01
+- [0123 Dr. Cristine Hull — Endorphins, Love, Quantum Medicine & the Four Bodies](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0123-endorphins-love-quantum-medicine-four-bodies/) — 2026-07-25
+- [0122 Barbara McAfee — Laughing Like a Hairy Oaf](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0122-laughing-like-a-hairy-oaf-barbara-mcafee/) — 2026-06-09
+- [Tim Fraley — Surrendering The Porsche](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/surrendering-the-porsche-tim-fraley/) — 2026-05-01
+- [David Hulse — I'm Not A Teacher, I'm A Reminder / Path To No Path](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/im-not-a-teacher-david-hulse/) — 2026-03-14
 
-## Indexes
-- [Home](https://junkyardlovejakesbot.github.io/junkyard-love-archive/)
-- [Episode index](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/)
-- [Guest index](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/)
+## Guests
+- [Barbara McAfee](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/barbara-mcafee/)
+- [Dr. Cristine Hull](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/cristine-hull/)
+- [David Hulse](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/david-hulse/)
+- [Sigmar Berg](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/sigmar-berg/)
+- [Tim Fraley](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/tim-fraley/)
+
+## Show links
+- YouTube: https://www.youtube.com/@TheJunkyardLovePodcast
+- Spotify: https://open.spotify.com/show/45J7CBdM8j29doqyBp2bFs
+- Apple: https://podcasts.apple.com/us/podcast/the-junkyard-love-podcast/id1489118788
 
 ## Episode markdown mirrors
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/surrendering-the-porsche-tim-fraley/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/surrendering-the-porsche-tim-fraley/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/im-not-a-teacher-david-hulse/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/im-not-a-teacher-david-hulse/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0124-sigmar-berg-conscious-breathing-break/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0124-sigmar-berg-conscious-breathing-break/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0123-endorphins-love-quantum-medicine-four-bodies/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0123-endorphins-love-quantum-medicine-four-bodies/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0122-laughing-like-a-hairy-oaf-barbara-mcafee/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0122-laughing-like-a-hairy-oaf-barbara-mcafee/episode.md)

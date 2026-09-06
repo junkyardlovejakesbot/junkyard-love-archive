@@ -1,0 +1,53 @@
+David, 80, has been teaching ministry for over 60 years. He has decades of experience as a minister, teacher, author, spiritual guide and sound healer - and has journeyed from a fundamentalist Christian upbringing to an inclusive spiritual vista that primarily champions love over fear. David is the founder and spiritual leader of the ‘Academy for Spiritual Awakening’ - a vibrant sanctuary blending things like Christian texts, Gnostic insights, Kabbalah, A Course in Miracles, and modern science to inspire transformation. David works extensively with ancient Solfeggio frequencies and tuning forks, his teachings and insights are weaved with various knowledge from qigong, meditation, 5D, building community, cellular shifts, unconditional love, star-seeds, and many more.
+
+In this episode we talk ancient frequencies, 'Babes, Adolescents, and Co-Creative Adults', the overlooked gaps in sacred stories, inner knowing vs. structured faith, DNA revelations from quiet reflection, heart-centered sound work, stages of inner maturation, physical manifestations of soul growth, disorders leading to renewal, experiencing divine encounters, universal memory, sound's role in vitality, ecstatic energy release, community sanctuaries, creating lasting impact, shaping our destinies through community and much, much more.
+
+
+Notable quotes from David in this episode:
+
+“The path you’re really on should be the path to no path. We don’t need to get something we don’t have. We need to remember what we’ve forgotten.”
+
+"Over the past six decades, I’ve moved beyond the traditional fundamentalist religious framework to embrace a broader, more inclusive understanding of spirituality."
+
+“Don’t believe everything I say just because I say it. Take what resonates with your own innate intelligence. That’s where your own ‘I AM’ code comes in.”
+
+“Transformation begins with chaos and disorder. The caterpillar doesn’t go through all that to become an enlightened caterpillar -it becomes a butterfly.”
+
+"He said, I'm the way. And I think they cut out the way. You know, there's at 18 years missing in the Bible that nobody wants to talk about in Christian. Them. Like, okay, that wasn't important. He didn't say anything for 18 years that maybe you need to know."
+
+“I want to work with what’s breaking through, not try to fix what’s breaking down.”
+
+"I'm sure that old caterpillar goes, what in the world is going on here? You know, I've been nibbling on this leaf, and now there's I've eaten all my resources. I have nowhere to go but what's happening inside of me? I don't know what's happening."
+
+Follow David Hulse here
+Academy for Spiritual Awakening → https://sanctuaryforawakening.com
+HeartLight Spiritual Center → https://www.heartlightcharlotte.org
+SomaEnergetics (Sound Healing) → https://somaenergetics.com
+Instagram: @academyforspiritualawakening
+Subscribe to stay up to date.
+
+TIMESTAMPS:
+0:00 – Welcome & Awakening as Process vs. Event
+3:30 – Western Product Mindset and the Missing 18 Years of Jesus
+8:20 – Reevaluating New Age Teachings and Paradigm Shifts
+14:10 – Gnosis, Innate Intelligence, and Suppressed Knowledge
+21:00 – The 1980s DNA Meditation Download
+29:00 – Discovering Solfeggio Frequencies & Tuning Forks
+39:30 – Spiritual Growth Stages: Babes, Adolescents, Co-Creative Adults
+47:30 – Cellular Awakening: Inner Becoming Outer
+56:00 – Caterpillar Chaos to Butterfly Transformation
+1:04:30 – David’s 17-Year-Old Awakening & Cosmic Story
+1:11:00 – Starseeds, Critical Mass, and Global Evolution
+1:15:30 – Gospel Roots, Sound Spirals & Energy as Currency
+1:17:30 – Coccyx Activation, Etheric Blueprint & Tuning Fork Practice
+1:18:30 – HeartLight Center, Academy Legacy, and Community Building
+1:19:00 – Forgotten Pre-Incarnation Contracts and Future Activations
+1:19:20 – Closing Wisdom: Walking Each Other Home
+
+
+
+
+KEYWORDS:
+spiritual awakening journey david hulse, solfeggio frequencies dna activation, tuning forks energy healing guide, cellular awakening symptoms explained, gnosis vs religious dogma, 5d consciousness transition podcast, caterpillar butterfly spiritual metaphor, pre incarnation contracts revelation, etheric blueprint sound therapy, energy currency manifestation techniques, spiritual stages babes adolescents adults, breakdown breakthrough motivation, junkyard love podcast full episode, ancient frequencies meditation practice, academy spiritual awakening review
+
+for new podcast updates: instagram @jacobfromtheinternet

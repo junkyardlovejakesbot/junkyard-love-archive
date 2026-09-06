@@ -1,0 +1,7 @@
+- “The path you’re really on should be the path to no path. We don’t need to get something we don’t have. We need to remember what we’ve forgotten.”
+- “Over the past six decades, I’ve moved beyond the traditional fundamentalist religious framework to embrace a broader, more inclusive understanding of spirituality.”
+- “Don’t believe everything I say just because I say it. Take what resonates with your own innate intelligence. That’s where your own ‘I AM’ code comes in.”
+- “Transformation begins with chaos and disorder. The caterpillar doesn’t go through all that to become an enlightened caterpillar -it becomes a butterfly.”
+- “He said, I'm the way. And I think they cut out the way. You know, there's at 18 years missing in the Bible that nobody wants to talk about in Christian. Them. Like, okay, that wasn't important. He didn't say anything for 18 years that maybe you need to know.”
+- “I want to work with what’s breaking through, not try to fix what’s breaking down.”
+- “I'm sure that old caterpillar goes, what in the world is going on here? You know, I've been nibbling on this leaf, and now there's I've eaten all my resources. I have nowhere to go but what's happening inside of me? I don't know what's happening.”

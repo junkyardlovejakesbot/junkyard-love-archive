@@ -1,0 +1,4 @@
+- Academy for Spiritual Awakening → https://sanctuaryforawakening.com
+- HeartLight Spiritual Center → https://www.heartlightcharlotte.org
+- SomaEnergetics (Sound Healing) → https://somaenergetics.com
+- Instagram: @academyforspiritualawakening
