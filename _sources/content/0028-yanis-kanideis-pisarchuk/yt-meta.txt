@@ -1,0 +1,7 @@
+title=Episode 028 with Yanis 'Kanideis' Pisarchuk
+upload_date=20200312
+duration=6106
+video_id=KeR8diOBDis
+rss_title=Episode 028 with Yanis 'Kanideis' Pisarchuk
+title_conflict=YT=RSS
+h1=Episode 028 with Yanis 'Kanideis' Pisarchuk

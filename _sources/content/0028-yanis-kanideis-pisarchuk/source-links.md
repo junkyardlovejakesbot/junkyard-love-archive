@@ -1,0 +1,2 @@
+- Instagram: https://www.instagram.com/kanideis/
+- HAFLIFE: https://www.haflifeent.com/

@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en/en-orig (captions.en.vtt / captions.en.json3; also archived as source-yt.en*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=KeR8diOBDis
+Turns: 299
+Word count: 20359
+Speaker map: pause-gap segmentation + sticky Jacob/Yanis content scoring (named speaker labels not present in captions; auto diarization imperfect); formal host bumper + recommendation present; host outro present
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light ASR name tidy (Yanis/Kanideis; Emily Fletcher; Stress Less, Accomplish More; Beautiful Mind(s); Jon Bellion; HAFLIFE; Junkyard Love; Jake Rhines); outro forced to Jacob where clear; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Yanis 'Kanideis' Pisarchuk (YT/RSS title; ASR you honest / Yanis can itis); slug yanis-kanideis-pisarchuk (NEW).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips. YT duration 6106s vs RSS/inventory 6075s (archive meta uses RSS duration). No published chapter timestamps in notes (YT chapters → archive picks). Title YT=RSS. About YT primary (~RSS). Inventory has_quotes=yes (inline “why’s”; no Quotes list) / has_timestamps=no / has_hashtags=no / has_guest_links=yes. Archive picks fills timestamped quotes/chapters/keywords/hashtags/bio. Guest page: yanis-kanideis-pisarchuk (NEW). Catalog has no 0029.
+Speaker balance: Jacob 142 turns/7238 words; Yanis 157 turns/13121 words.
+Heuristic speaker fixes: 7; post-splits: 1 (split bumper / yanis open)

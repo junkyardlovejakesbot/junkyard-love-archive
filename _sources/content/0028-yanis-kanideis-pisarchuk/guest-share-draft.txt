@@ -1,0 +1,9 @@
+Episode 0028: Episode 028 with Yanis 'Kanideis' Pisarchuk
+Guest: Yanis 'Kanideis' Pisarchuk
+Date: 2020-03-11
+YouTube: https://www.youtube.com/watch?v=KeR8diOBDis
+RSS: https://share.transistor.fm/s/2dfd5e64
+Title conflict: YT=RSS
+Guest slug: yanis-kanideis-pisarchuk (NEW)
+About: YT primary (~RSS/itunes:summary); footer stripped
+Guest links: Instagram @kanideis + HAFLIFE (no email)

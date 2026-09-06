@@ -1,0 +1,17 @@
+Description source: YouTube description primary (~itunes:summary / RSS plain). About spaced from YT body after footer strip. No dedicated quotes block (inline curly “why’s” only). Guest links Instagram + HAFLIFE; no guest contact/email.
+YouTube chars: 1792
+RSS HTML chars: 1661
+Title source: YT=RSS exact match. exact_public_title uses shared title. YT=RSS.
+Title: Episode 028 with Yanis 'Kanideis' Pisarchuk
+RSS title: Episode 028 with Yanis 'Kanideis' Pisarchuk
+YT title: Episode 028 with Yanis 'Kanideis' Pisarchuk
+Chapters source: none published in episode notes (inventory has_timestamps=no); YouTube chapter markers present → used in Archive picks
+Guest links: Instagram: https://www.instagram.com/kanideis/; HAFLIFE: https://www.haflifeent.com/ (inventory has_guest_links=yes); no personal email
+Quotes: no dedicated Quotes list block (inventory has_quotes=yes from inline curly “why’s” in About kept verbatim)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published YT description verbatim as spaced paras (footer The Junkyard Love Podcast / Episode details stripped)
+Guest name spelling: Yanis 'Kanideis' Pisarchuk; guest slug yanis-kanideis-pisarchuk (NEW)
+Duration: RSS itunes:duration 6075s (1:41:15); YT info.json duration 6106s — using RSS/inventory 6075
+Publish date: RSS/inventory 2020-03-11 (YT upload_date 20200312)
+Archive picks: added (timestamped transcript quotes, YT chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + YT chapters + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).
