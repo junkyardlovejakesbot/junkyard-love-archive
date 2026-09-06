@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en/en-orig (captions.en.vtt / captions.en.json3; also archived as source-yt.en*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=W_9LsPkj3wo
+Turns: 222
+Word count: 15743
+Speaker map: pause-gap segmentation + sticky Jacob/Spencer content scoring (named speaker labels not present in captions; auto diarization imperfect); host bumper forced to Jacob where clear
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light ASR name tidy (Spencer Hicks; Max Strom; Breathe to Heal; TED Talk; Junkyard Love); bumper/outro forced to Jacob where clear; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Spencer Hicks (YT/RSS titles / inventory); slug spencer-hicks (EXISTING — APPEND 0023 to 0088+0074+0059+0044+0038, do not wipe).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips. YT duration 4803s vs RSS/inventory 4776s (archive meta uses RSS duration). No published chapter timestamps; no YT chapters. Title YT=RSS. About YT~RSS identical body ((4) series marker stripped; YT footer stripped). Inventory has_quotes=no / has_timestamps=no / has_hashtags=no / has_guest_links=no. Archive picks fills timestamped quotes/chapters/keywords/hashtags/bio. Guest page: spencer-hicks (EXISTING APPEND).
+Speaker balance: Jacob 108 turns/7633 words; Spencer 114 turns/8110 words.
+Heuristic speaker fixes: 0; post-splits: 0 ()

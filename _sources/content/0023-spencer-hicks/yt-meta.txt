@@ -1,0 +1,7 @@
+title=Episode 023 with Spencer Hicks
+upload_date=20200202
+duration=4803
+video_id=W_9LsPkj3wo
+rss_title=Episode 023 with Spencer Hicks
+title_conflict=YT=RSS
+h1=Episode 023 with Spencer Hicks

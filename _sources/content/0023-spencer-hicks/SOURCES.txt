@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from YT/RSS plain description (~itunes:summary). (4) series marker stripped. YT footer stripped. No guest contact/email.
+YouTube chars: 1452
+RSS HTML chars: 1327
+Title source: YT=RSS exact match (W_9LsPkj3wo). H1/slug use Episode 023 with Spencer Hicks. YT=RSS.
+Title: Episode 023 with Spencer Hicks
+RSS title: Episode 023 with Spencer Hicks
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YT chapters
+Guest links: none published (inventory has_guest_links=no)
+Quotes: 0 published quotes (inventory has_quotes=no)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube/RSS
+Guest name spelling: Spencer Hicks; guest slug spencer-hicks (EXISTING — APPEND 0023; prior 0088+0074+0059+0044+0038 preserved)
+Duration: RSS itunes:duration 4776s (1:19:36); YT info.json duration 4803s — using RSS/inventory 4776
+Publish date: RSS/inventory 2020-02-02 (YT upload_date 20200202)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).

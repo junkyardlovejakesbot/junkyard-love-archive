@@ -105,6 +105,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0026 Scott Pisapia of Roots Basketball Academy](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0026-scott-pisapia-of-roots-basketball-academy/) — 2020-02-24
 - [0025 Jordenelle Tsugawa](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0025-jordenelle-tsugawa/) — 2020-02-18
 - [0024 Maxx V. Payne](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0024-maxx-v-payne/) — 2020-02-10
+- [0023 Spencer Hicks](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0023-spencer-hicks/) — 2020-02-02
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -297,3 +298,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0026-scott-pisapia-of-roots-basketball-academy/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0026-scott-pisapia-of-roots-basketball-academy/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0025-jordenelle-tsugawa/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0025-jordenelle-tsugawa/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0024-maxx-v-payne/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0024-maxx-v-payne/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0023-spencer-hicks/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0023-spencer-hicks/episode.md)

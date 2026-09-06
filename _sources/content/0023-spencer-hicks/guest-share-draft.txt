@@ -1,0 +1,9 @@
+Episode 0023: Episode 023 with Spencer Hicks
+Guest: Spencer Hicks
+Date: 2020-02-02
+YouTube: https://www.youtube.com/watch?v=W_9LsPkj3wo
+RSS: https://share.transistor.fm/s/0519bcf9
+Title conflict: YT=RSS
+Guest slug: spencer-hicks (EXISTING — APPEND 0023 to 0088+0074+0059+0044+0038, do not wipe)
+About: YT~RSS identical body; (4) series marker stripped; YT footer stripped; no guest contact/email
+Transcript: YouTube auto-captions (en/en-orig)
