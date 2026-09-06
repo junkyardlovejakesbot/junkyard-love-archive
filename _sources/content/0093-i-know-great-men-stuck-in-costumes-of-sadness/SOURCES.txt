@@ -1,0 +1,15 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (4 short paras). RSS body matches solocast text.
+YouTube chars: 474
+RSS HTML chars: 474
+Title source: YouTube / exact_public_title (V-JtA2fS4Y0). YT≠RSS — RSS omits leading "The JYLP Episode ". H1 uses YouTube title. Keep 0093 in slug/meta.
+Title: The JYLP Episode 093 - I Know Great Men Stuck In Costumes Of Sadness
+RSS title: 093 - I Know Great Men Stuck In Costumes Of Sadness
+Chapters source: none published (inventory has_timestamps=no; no YT chapters)
+Guest links: none published (inventory has_guest_links=no); spoken Instagram CTA in closing only
+Quotes: none published (inventory has_quotes=no)
+About: Jacob published description verbatim as spaced paras from YouTube
+Solo episode: host-only / no Junkyard Love guest; guest_name null; solo true; no guest page (match 0100 pattern)
+Guest name spelling N/A (solo)
+Duration: RSS itunes:duration 7646s (2:07:26); YT info.json duration 7646s — using RSS/inventory 7646
+Publish date: RSS pubDate 2022-12-12 (YT upload_date 20221213)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, episode framing note) — extracted from YT auto-caption transcript; kept separate from Jacob published About.

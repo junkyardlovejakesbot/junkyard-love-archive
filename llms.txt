@@ -36,6 +36,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0096 Jordenelle Tsugawa — The Forever Umbilical Cord, And Grand-Mother Ayahuasca](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0096-jordenelle-tsugawa-the-forever-umbilical-cord-and-grand-mother-ayahuasca/) — 2023-02-09
 - [0095 Bobby Barrz — The Only Real Game In Town Is Betting On Yourself](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0095-bobby-barrz-the-only-real-game-in-town-is-betting-on-yourself/) — 2023-02-04
 - [0094 John Lefebvre — Acid, Intellect, Money, and Morality](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0094-john-lefebvre-acid-intellect-money-and-morality/) — 2022-12-29
+- [0093 Solo — I Know Great Men Stuck In Costumes Of Sadness](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0093-i-know-great-men-stuck-in-costumes-of-sadness/) — 2022-12-12
 
 ## Guests
 - [Anne Riley](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/anne-riley/)
@@ -106,3 +107,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0096-jordenelle-tsugawa-the-forever-umbilical-cord-and-grand-mother-ayahuasca/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0096-jordenelle-tsugawa-the-forever-umbilical-cord-and-grand-mother-ayahuasca/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0095-bobby-barrz-the-only-real-game-in-town-is-betting-on-yourself/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0095-bobby-barrz-the-only-real-game-in-town-is-betting-on-yourself/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0094-john-lefebvre-acid-intellect-money-and-morality/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0094-john-lefebvre-acid-intellect-money-and-morality/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0093-i-know-great-men-stuck-in-costumes-of-sadness/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0093-i-know-great-men-stuck-in-costumes-of-sadness/episode.md)

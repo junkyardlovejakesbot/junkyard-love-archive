@@ -1,0 +1,10 @@
+Source: YouTube automatic captions en-orig (captions.en-orig.vtt / captions.en-orig.json3); en track identical auto; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=V-JtA2fS4Y0
+Turns: 184
+Word count: 24369
+Speaker map: solo solocast — all turns labeled Jacob; pause-gap segmentation (~0.85s) + word/time caps (~170 words / ~42s) + short-fragment merge; no guest diarization
+Cleanup: light dedupe of consecutive duplicate words; merged short fragments; HTML entities/nbsp unescaped; capitalized turn starts; light name/term fixes (Junkyard Love, Gabor Maté, Alan Watts, Dr Joe Dispenza, Jacob from the Internet); dropped foreign/Music cue noise; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Solo episode: guest_name null / solo true. No Junkyard Love guest page.
+Note: auto captions do not clearly capture the title phrase “costumes of sadness” / “great men”; armor / depression / brother themes are present.
+Issue: YouTube automatic captions (en-orig) used; no official/manual track. RSS itunes:duration 7646s; YT info.json duration 7646s. No published chapter timestamps/quotes/hashtags/links — Archive picks fills gaps. YT≠RSS title: YT includes leading "The JYLP Episode "; RSS omits it. H1 uses YouTube title.

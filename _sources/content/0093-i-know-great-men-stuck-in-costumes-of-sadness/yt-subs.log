@@ -1,0 +1,20 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?v=V-JtA2fS4Y0
+[youtube] V-JtA2fS4Y0: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] V-JtA2fS4Y0: Downloading visionos player API JSON
+[youtube] V-JtA2fS4Y0: Downloading m3u8 information
+[info] V-JtA2fS4Y0: Downloading subtitles: en, en-orig
+[info] V-JtA2fS4Y0: Downloading 1 format(s): 136+251
+[info] Writing video description to: source-yt.description
+[info] Writing video subtitles to: source-yt.en.json3
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: source-yt.en.json3
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at    5.55MiB/s (00:00:00)[download]   15.00KiB at    4.63MiB/s (00:00:00)[download]   31.00KiB at    3.81MiB/s (00:00:00)[download]   63.00KiB at    4.37MiB/s (00:00:00)[download]  127.00KiB at    5.95MiB/s (00:00:00)[download]  255.00KiB at    9.12MiB/s (00:00:00)[download]  511.00KiB at   13.70MiB/s (00:00:00)[download] 1023.00KiB at   21.68MiB/s (00:00:00)[download]    2.00MiB at   28.18MiB/s (00:00:00)[download]    2.55MiB at   31.86MiB/s (00:00:00)[download] 100% of    2.55MiB in 00:00:00 at 8.16MiB/s
+[info] Writing video subtitles to: source-yt.en-orig.json3
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: source-yt.en-orig.json3
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.90MiB/s (00:00:00)[download]    7.00KiB at    5.18MiB/s (00:00:00)[download]   15.00KiB at    9.42MiB/s (00:00:00)[download]   31.00KiB at    4.79MiB/s (00:00:00)[download]   63.00KiB at    5.62MiB/s (00:00:00)[download]  127.00KiB at    7.12MiB/s (00:00:00)[download]  255.00KiB at   10.61MiB/s (00:00:00)[download]  511.00KiB at   11.35MiB/s (00:00:00)[download] 1023.00KiB at   11.02MiB/s (00:00:00)[download]    2.00MiB at   12.47MiB/s (00:00:00)[download]    2.55MiB at   13.88MiB/s (00:00:00)[download] 100% of    2.55MiB in 00:00:00 at 4.59MiB/s
+[info] Writing video metadata as JSON to: source-yt.info.json
+[SubtitlesConvertor] Converting subtitles
+ERROR: Preprocessing: Error opening input files: Invalid data found when processing input
+ERROR: Preprocessing: Error opening input files: Invalid data found when processing input
