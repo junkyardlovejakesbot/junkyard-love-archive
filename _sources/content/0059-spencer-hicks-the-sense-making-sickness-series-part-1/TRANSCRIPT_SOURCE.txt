@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en-orig (captions.en-orig.vtt / captions.en-orig.json3); en track identical auto; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=T682qv1sOcQ
+Turns: 101
+Word count: 16116
+Speaker map: pause-gap segmentation (~1.8–2.5s) + marker-based Jacob/Spencer flip splits + sticky content scoring (named speaker labels not present in auto captions); Jacob bumper + ~10min audio essay forced through ~10:16; guest philosophy/truth/sovereignty narratives forced Spencer; host questions/CTA/bumper forced Jacob where matched
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments (cap ~200 words; opening bumper beats protected); HTML entities/nbsp unescaped; capitalized turn starts after merge; light name/term fixes (Spencer Hicks; sense-making; self-sovereignty; psychosomatic [ASR psychosemantic]; mind virus [ASR mayan virus]; Hannah Arendt; Friedrich/Nietzsche; Seneca; Stoicism; Philosophize This; Junkyard Love); dropped [Music]/trailing you cue noise; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Spencer Hicks; guest slug spencer-hicks (EXISTING — page already listed 0088 + 0074; APPEND 0059, do not wipe).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places. Long opening essay is host-only.
+Issue: YouTube automatic captions (en-orig) freshly downloaded this run; no official/manual track; no >> speaker flips. RSS itunes:duration 5645s; YT info.json duration 5675s — using RSS/inventory 5645. No published chapter timestamps/quotes/hashtags/guest links (inventory has_timestamps/quotes/hashtags/guest_links=no). Title YT=RSS — H1 uses shared title (“Episode 059 - The Sense Making Sickness - with Spencer Hicks - Series Part 1”). About YT≈RSS (YT primary; footer stripped; spaced verbatim paras). Publish date RSS/inventory 2020-10-20 (YT upload_date 20201020). Archive picks fills timestamped quotes/extra chapters/keywords/hashtags/bio. Guest page updated to list 0088 + 0074 + 0059 (newest-first; not wiped).
+Speaker balance: Jacob 35 turns/4700 words; Spencer 66 turns/11416 words.
+Postfix diarization fixes: 6 ops.

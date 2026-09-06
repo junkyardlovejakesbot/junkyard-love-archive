@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from YT/RSS plain description (identical body; YT footer after Cheers stripped). No quotes block in description.
+YouTube chars: 2966
+RSS HTML chars: 2966
+Title source: YouTube / RSS / exact_public_title (T682qv1sOcQ). YT=RSS — same title string.
+Title: Episode 059 - The Sense Making Sickness - with Spencer Hicks - Series Part 1
+RSS title: Episode 059 - The Sense Making Sickness - with Spencer Hicks - Series Part 1
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YT chapters
+Guest links: none published in episode notes (inventory has_guest_links=no); no structured Guest links section links
+Quotes: none published (inventory has_quotes=no)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube/RSS
+Guest name spelling: Spencer Hicks; guest slug spencer-hicks (EXISTING from 0088/0074 — page updated to APPEND 0059, not wiped)
+Duration: RSS itunes:duration 5645s (1:34:05); YT info.json duration 5675s — using RSS/inventory 5645
+Publish date: RSS pubDate 2020-10-20 (YT upload_date 20201020) — using RSS/inventory 2020-10-20
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).
