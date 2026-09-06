@@ -1,0 +1,7 @@
+Description source: YouTube (primary per archive rules; matches RSS narrative)
+YouTube chars: 4037
+RSS HTML chars: 4398
+Title source: YouTube
+Title: The Junkyard Love Podcast E 0117 with Blake Hull - Good morning, Blakey Boy - Grace, written in code
+Chapters source: YouTube/RSS (same stamps)
+Guest links: none in published notes

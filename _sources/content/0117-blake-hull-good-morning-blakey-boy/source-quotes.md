@@ -1,0 +1,6 @@
+- “When intellect finally kneels to emotion, that’s when growth begins.” - Blake, describing the moment logic yields to honesty.
+- “Emotions are information. You’d be stupid to ignore them.” - Blake quoting a college professor who first reframed feeling as intelligence.
+- “When Jesus flipped tables, that was dharmic anger — anger in service of love.” - Jacob, reframing anger as sacred energy rather than chaos.
+- “I feel most connected with you when you’re feeling.” - Blake recounting a moment in therapy that changed his understanding of connection and vulnerability.
+- “Maybe consciousness has always been doing this — reflecting itself through whatever new medium we invent.” - Jacob, near the close, connecting AI, identity, and awareness.
+- “Anger isn’t the problem. It’s what happens when we stop letting it teach us.” - Blake, redefining emotional intelligence through presence.

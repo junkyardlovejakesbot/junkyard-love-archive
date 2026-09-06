@@ -1,0 +1,10 @@
+Source: YouTube automatic captions en (captions.en.vtt / captions.en.json3); no official/manual en-US track available
+Video: https://www.youtube.com/watch?v=TVWs-RgXoWw
+Turns: 217
+Word count: 30171
+Speaker map: auto-caption >> diarization segments, assigned to Jacob/Blake with sticky content scoring (named speaker labels not present in auto captions)
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; Blake Hole→Blake Hull; bumper forced to Jacob; clear mid-turn host/guest splits where detected
+No sentence rewriting.
+Guest name spelling: Blake Hull (matches YouTube/RSS).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: Auto diarization imperfect (>> + sticky scoring); some mid-turn blends / short backchannels may still be swapped.; YT duration 9841s vs RSS 9842s (1s).; No guest links in published notes.; Manual speaker fixes/splits applied: 1

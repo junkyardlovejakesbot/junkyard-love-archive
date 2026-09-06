@@ -1,0 +1,5 @@
+In this conversation, I'm joined by mathematician, meditator, and machine learning engineer Blake Hull.
+
+We share stories of therapy, meditation, and Ram Dass, opening up after years of staying in the head, we unravel ideas of masculinity, expand on vulnerability, and dissect what it means to become safe in our own skin. We talk about anger as sacred energy, the strange geometry of emotion, and the daily ritual of saying “Good morning, Blakey Boy” - a quiet reminder that to heal isn't to change, it's to remember who you already are. This is a fluid dialogue that drifts through psychedelics, softness, the mathematics of love, friendship, wisdom - it's an episode that invites you to slow down, breathe, and feel something true. Together, The Great and Wonderful Blake Hull and I explore the space between intellect, emotion, and becoming what we are - I hope you'll join us.
+
+Themes: therapy · masculinity · meditation · Ram Dass · psychedelics · inner-child · emotional intelligence · spiritual growth
