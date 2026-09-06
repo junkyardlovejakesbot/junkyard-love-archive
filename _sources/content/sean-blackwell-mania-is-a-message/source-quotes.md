@@ -1,0 +1,9 @@
+- “People think delusions are random. But around the world, the same 13 spiritual delusions show up.” - Sean
+- “Breakdowns often happen because something in us finally refuses to stay buried.” - Sean
+- “I’ve met so many people who weren’t sick - they were overwhelmed by a truth they weren’t taught how to carry.” - Jacob
+- “The psyche speaks in myth and metaphor. Mania is often that language becoming audible.” - Sean
+- “What psychiatry calls a disorder can be the beginning of a profound inner journey.” - Sean
+- “Trauma doesn’t live in the mind. It lives in the body - and the body tries to heal in dramatic ways.” - Sean
+- “The body whispers for years, and when we don’t listen, it eventually sends a storm.” - Jacob
+- “When those energetic blockages release, the result can look like mania, visions, or symbolic delusions.” - Sean
+- “Sometimes healing looks like falling apart in ways we can’t cleanly explain.” - Jacob

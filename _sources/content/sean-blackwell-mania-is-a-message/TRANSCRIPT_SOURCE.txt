@@ -1,0 +1,10 @@
+Source: YouTube official/manual captions en-US (source-yt.en-US.vtt / source-yt.en-US.json3); auto en used only for bumper intro before official track starts (~00:00:18–00:00:23)
+Video: https://www.youtube.com/watch?v=2Vj3YHVRcNY
+Turns: 155
+Word count: 17193
+Speaker map: official caption labels Speaker 1 → Sean Blackwell, Speaker 2 → Jacob Rhines (unlabeled opening cues assigned to Jacob)
+Cleanup: split on embedded Speaker N markers; light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; short auto-caption intro bumper prepended
+No sentence rewriting.
+Guest name spelling: Sean Blackwell (matches YouTube/RSS).
+Note: published chapter list covers only ~first 21 minutes of the 1:34:17 episode (as published in RSS); YT description chapter stamps after 00:00:45 were malformed as HH:MM:SS past duration and were not used.
+Issue: official en-US track begins ~00:00:23 (conversation); podcast bumper taken from auto captions.

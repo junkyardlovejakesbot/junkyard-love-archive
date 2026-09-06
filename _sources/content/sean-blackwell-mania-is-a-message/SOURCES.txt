@@ -1,0 +1,6 @@
+Description source: YouTube title + resources/quotes/hashtags; About/bio + chapters from RSS (YT description lacks full Jacob about and has malformed chapter timestamps past duration)
+YouTube chars: 3067
+RSS HTML chars: 4836
+Title source: YouTube
+Title: What If Mania Is a Message? | Sean Blackwell on Bipolar, Trauma & Awakening
+Chapters source: RSS (15 stamps; published markers cover ~first 21 minutes of 1:34:17 episode)

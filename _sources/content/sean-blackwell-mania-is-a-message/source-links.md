@@ -1,0 +1,6 @@
+- Sean’s Website → https://www.bipolarawakenings.com/
+- Bipolar Awakenings (Book) → https://a.co/d/8UUU1rT
+- Am I Bipolar or Waking Up? → https://a.co/d/4qX7nR2
+- Sean’s YouTube → https://www.youtube.com/@bipolarawake
+- Sean on Spotify → https://open.spotify.com/show/2Xz36ES0eiX2c4L4SyCJno
+- Facebook → https://www.facebook.com/bipolarawakenings

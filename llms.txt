@@ -11,11 +11,13 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Tim Fraley — Surrendering The Porsche](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/surrendering-the-porsche-tim-fraley/) — 2026-05-01
 - [David Hulse — I'm Not A Teacher, I'm A Reminder / Path To No Path](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/im-not-a-teacher-david-hulse/) — 2026-03-14
 - [0119 Trey Jones — From Prison Overdose to Witness State](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0119-trey-jones-prison-overdose-witness-state/) — 2026-02-14
+- [Sean Blackwell — What If Mania Is a Message?](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/what-if-mania-is-a-message-sean-blackwell/) — 2025-11-23
 
 ## Guests
 - [Barbara McAfee](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/barbara-mcafee/)
 - [Dr. Cristine Hull](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/cristine-hull/)
 - [David Hulse](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/david-hulse/)
+- [Sean Blackwell](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/sean-blackwell/)
 - [Sigmar Berg](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/sigmar-berg/)
 - [Tim Fraley](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/tim-fraley/)
 - [Trey Jones](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/trey-jones/)
@@ -26,6 +28,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - Apple: https://podcasts.apple.com/us/podcast/the-junkyard-love-podcast/id1489118788
 
 ## Episode markdown mirrors
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/what-if-mania-is-a-message-sean-blackwell/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/what-if-mania-is-a-message-sean-blackwell/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/surrendering-the-porsche-tim-fraley/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/surrendering-the-porsche-tim-fraley/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/im-not-a-teacher-david-hulse/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/im-not-a-teacher-david-hulse/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0124-sigmar-berg-conscious-breathing-break/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0124-sigmar-berg-conscious-breathing-break/episode.md)
