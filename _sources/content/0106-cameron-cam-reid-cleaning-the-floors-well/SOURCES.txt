@@ -9,3 +9,4 @@ Quotes: none published (inventory has_quotes=no)
 About: Jacob published description verbatim as spaced paras; Hit-follow / see-ya outro omitted
 Guest name spelling: Reid (published YT/RSS/inventory; not Rei)
 About paras: rebuilt from RSS <p> (YT≈RSS text; YT single-newline merged bio paras); Hit-follow omitted; <br> in third RSS para split to spaced <p>
+Archive picks: added (timestamped quotes, chapter-style beats, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes/Guest links (published notes had none for chapters/quotes/links — left '(none published…)' unchanged). See source-archive-picks.md.
