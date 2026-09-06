@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from RSS plain (identical to YT after footer strip). Soft mid-sentence newlines joined. No guest contact/email.
+YouTube chars: 948
+RSS HTML chars: 811
+Title source: YT=RSS exact match (-Dfv_OLNZDE). H1/slug use Episode 008 with Nate 'NastyNate' Tanzman. YT=RSS.
+Title: Episode 008 with Nate 'NastyNate' Tanzman
+RSS title: Episode 008 with Nate 'NastyNate' Tanzman
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YT chapters
+Guest links: none published (inventory has_guest_links=no); @nastynate_jr remains inside About verbatim only
+Quotes: inventory has_quotes=yes — inline "out-loud" kept in About; no Quotes list block (0 list quotes)
+Hashtags: #itstime published inline at end of About (inventory has_hashtags=yes)
+About: Jacob published description verbatim as spaced paras from RSS (YT~RSS)
+Guest name spelling: Nate 'NastyNate' Tanzman; guest slug nate-tanzman (APPEND — 0111, 0053, 0034, 0018, 0008)
+Duration: RSS itunes:duration 5489s (1:31:29); YT info.json duration 5516s — using RSS/inventory 5489; YT~RSS within ~27s (not substantial)
+Publish date: RSS/inventory 2019-12-09 (YT upload_date 20191209)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).

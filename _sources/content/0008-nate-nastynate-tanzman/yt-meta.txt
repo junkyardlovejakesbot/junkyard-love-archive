@@ -1,0 +1,7 @@
+title=Episode 008 with Nate 'NastyNate' Tanzman
+upload_date=20191209
+duration=5516
+video_id=-Dfv_OLNZDE
+rss_title=Episode 008 with Nate 'NastyNate' Tanzman
+title_conflict=YT=RSS
+h1=Episode 008 with Nate 'NastyNate' Tanzman

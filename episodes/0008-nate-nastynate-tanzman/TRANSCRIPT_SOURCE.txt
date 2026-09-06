@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en/en-orig (captions.en.vtt / captions.en.json3; also archived as source-yt.en*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=-Dfv_OLNZDE
+Turns: 301
+Word count: 19269
+Speaker map: pause-gap segmentation + sticky Jacob/Nate content scoring (named speaker labels not present in captions; auto diarization imperfect); host bumper forced to Jacob where clear
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light ASR name tidy (Nate Tanzman; NastyNate; Junkyard Love; Jacob Rhines); bumper/outro forced to Jacob where clear; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Nate 'NastyNate' Tanzman (YT/RSS titles / inventory); slug nate-tanzman (APPEND).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips. YT duration 5516s (~1:31:56) vs RSS/inventory 5489s (~1:31:29) — ~27s delta, not substantial; transcript follows YT captions; archive meta uses RSS duration. No published chapter timestamps; no YT chapters. Title YT=RSS. About YT~RSS identical body (YT footer stripped). Inventory has_quotes=yes (inline out-loud; no Quotes list) / has_timestamps=no / has_hashtags=yes (#itstime) / has_guest_links=no. Archive picks fills timestamped quotes/chapters/keywords/hashtags/bio. Guest page: nate-tanzman APPEND (0111, 0053, 0034, 0018, 0008).
+Speaker balance: Jacob 151 turns/10458 words; Nate 150 turns/8811 words.
+Heuristic speaker fixes: 0; post-splits: 0 ()

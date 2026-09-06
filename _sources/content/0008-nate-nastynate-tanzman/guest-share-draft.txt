@@ -1,0 +1,9 @@
+Episode 0008: Episode 008 with Nate 'NastyNate' Tanzman
+Guest: Nate 'NastyNate' Tanzman
+Date: 2019-12-09
+YouTube: https://www.youtube.com/watch?v=-Dfv_OLNZDE
+RSS: https://share.transistor.fm/s/23e0b355
+Title conflict: YT=RSS
+Guest slug: nate-tanzman (APPEND — exists with 0111, 0053, 0034, 0018)
+About: YT~RSS identical body; YT footer stripped; no guest contact/email
+Transcript: YouTube auto-captions (en/en-orig); YT duration 5516s vs RSS 5489s (~27s; meta uses RSS)
