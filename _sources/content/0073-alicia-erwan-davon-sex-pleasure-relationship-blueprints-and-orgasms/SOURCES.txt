@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (≈RSS). See-ya outro omitted. Phone contact omitted from Guest links (hard rule no guest contact/email); public website/consult/Eventbrite kept.
+YouTube chars: 1557
+RSS HTML chars: 1562
+Title source: YouTube / exact_public_title (Me8_yV7Ugyc). YT≠RSS — RSS title is "Episode 073 with Alicia & Erwan Davon - Sex, Pleasure, Relationship-Blueprints, and Orgasms"; archive H1 uses YouTube title.
+Title: The JYLP episode 073 with Alicia & Erwan Davon - Sex, Pleasure, Relationship-Blueprints, and Orgasms
+RSS title: Episode 073 with Alicia & Erwan Davon - Sex, Pleasure, Relationship-Blueprints, and Orgasms
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YT chapters
+Guest links: from published YouTube/RSS notes (website / consult / Eventbrite); phone number omitted
+Quotes: none published (inventory has_quotes=no)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube
+Guest name spelling: Alicia Davon / Erwan Davon; separate guest pages alicia-davon + erwan-davon
+Duration: RSS itunes:duration 3423s (57:03); YT info.json duration 3424s — using RSS/inventory 3423
+Publish date: RSS pubDate 2021-05-06 (YT upload_date 20210506) — using RSS/inventory 2021-05-06
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bios) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).

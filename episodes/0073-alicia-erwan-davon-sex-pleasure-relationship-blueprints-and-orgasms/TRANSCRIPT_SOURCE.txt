@@ -1,0 +1,13 @@
+Source: YouTube automatic captions en/en-orig (captions.en.vtt / captions.en.json3; also archived as source-yt.en*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=Me8_yV7Ugyc
+Turns: 158
+Word count: 9533
+Speaker map: pause-gap segmentation + sticky Jacob/Alicia/Erwan content scoring (named speaker labels not present in captions; dual-guest auto diarization imperfect)
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light ASR name tidy (Erwan/Davon not Erwin/Devon); bumper/outro forced to Jacob where clear; opening/origin mash splits where detected
+No sentence rewriting.
+Guest name spelling: Alicia Davon / Erwan Davon (matches YouTube/RSS; ASR often Erwin/Irwan/Devon).
+Note: automatic diarization is imperfect especially between Alicia and Erwan (shared teaching "we" voice); remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips — turns segmented by pause gaps + sticky Jacob/Alicia/Erwan content scoring (imperfect; dual-guest harder). YT duration 3424s vs RSS/inventory 3423s (~-1s difference; archive meta uses RSS duration). No published chapter timestamps (inventory has_timestamps=no). YT≠RSS title (RSS drops "The JYLP episode 073" framing / uses "Episode 073"); archive H1 uses YouTube / exact_public_title. About YT≈RSS; see-ya outro omitted; phone contact omitted from Guest links (hard rule); website/consult/Eventbrite kept. Inventory has_quotes=no / has_hashtags=no / has_guest_links=yes. Archive picks fills timestamped quotes/chapters/keywords/hashtags/bios. Two guest pages: alicia-davon + erwan-davon.
+Speaker balance: Jacob 74 turns/3554 words; Alicia 38 turns/3259 words; Erwan 46 turns/2720 words.
+Heuristic speaker fixes: 6; post-splits: 2 (keep alicia; split Jacob prompt / Erwan 1995)
+Surgical post-pass fixes: 8 (alicia-origin reclaim + CTA tidy)

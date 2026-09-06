@@ -56,8 +56,10 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0076 Heather Hutchison — Seeing More Clearly](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0076-heather-hutchison-seeing-more-clearly/) — 2021-09-10
 - [0075 Bradley Roth — Being Most People Is Bad For Your Health](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0075-bradley-roth-being-most-people-is-bad-for-your-health/) — 2021-08-13
 - [0074 Spencer Hicks — Dialectics and Communication Breakdown](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0074-spencer-hicks-dialectics-and-communication-breakdown/) — 2021-07-15
+- [0073 Alicia & Erwan Davon — Sex, Pleasure, Relationship-Blueprints, and Orgasms](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0073-alicia-erwan-davon-sex-pleasure-relationship-blueprints-and-orgasms/) — 2021-05-06
 
 ## Guests
+- [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
 - [Anne Riley](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/anne-riley/)
 - [Barbara McAfee](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/barbara-mcafee/)
 - [Blake Hull](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/blake-hull/)
@@ -71,6 +73,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Daniel T. Matalon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/daniel-t-matalon/)
 - [David Crayk](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/david-crayk/)
 - [David Hulse](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/david-hulse/)
+- [Erwan Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/erwan-davon/)
 - [Heather Hutchison](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/heather-hutchison/)
 - [Jeremy Sherman](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/jeremy-sherman/)
 - [Jerry Fu](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/jerry-fu/)
@@ -160,3 +163,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0076-heather-hutchison-seeing-more-clearly/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0076-heather-hutchison-seeing-more-clearly/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0075-bradley-roth-being-most-people-is-bad-for-your-health/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0075-bradley-roth-being-most-people-is-bad-for-your-health/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0074-spencer-hicks-dialectics-and-communication-breakdown/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0074-spencer-hicks-dialectics-and-communication-breakdown/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0073-alicia-erwan-davon-sex-pleasure-relationship-blueprints-and-orgasms/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0073-alicia-erwan-davon-sex-pleasure-relationship-blueprints-and-orgasms/episode.md)
