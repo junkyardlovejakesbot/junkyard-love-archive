@@ -1,0 +1,9 @@
+Episode 0003: Episode 003 with Spencer Hicks
+Guest: Spencer Hicks
+Date: 2019-11-25
+YouTube: https://www.youtube.com/watch?v=xBXbCjWmYcA
+RSS: https://share.transistor.fm/s/75ec3d31
+Title conflict: YT=RSS
+Guest slug: spencer-hicks (EXISTING — APPEND 0003 to 0088+0074+0059+0044+0038+0023+0017+0011, do not wipe)
+About: RSS preferred (~YT); YT footer stripped; no guest contact/email
+Transcript: YouTube auto-captions (en/en-orig); YT duration 4813s vs RSS 4786s (~27s; meta uses RSS); YT chapters present

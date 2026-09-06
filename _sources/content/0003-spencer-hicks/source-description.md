@@ -1,0 +1,11 @@
+In this episode, I sit down with my friend Spencer Hicks. An amateur science boy and armchair philosopher, my conversations with Mr. Hicks consistently push the boundaries of my intelligence and constantly fill my glass.
+
+In this chat, Spencer and I dance around the meanings of ego, mindfulness and consciousness.
+
+## Quotes
+
+(none published — inventory has_quotes=no)
+
+## Guest links
+
+(none published in episode notes)

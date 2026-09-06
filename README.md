@@ -120,6 +120,7 @@ Plain static site. No domain configured yet — open `site/index.html` locally, 
 - **0006** Ryan 'Tos' Santos — `site/episodes/0006-ryan-tos-santos/`
 - **0005** Jaycie Randall — `site/episodes/0005-jaycie-randall/`
 - **0004** Zack Wyld of Wyld Productions — `site/episodes/0004-zack-wyld/`
+- **0003** Spencer Hicks — `site/episodes/0003-spencer-hicks/`
 - **0100** JacobFromTheInternet (solo) — `site/episodes/0100-jacobfromtheinternet-mystical-experience/`
 
 ## Preview

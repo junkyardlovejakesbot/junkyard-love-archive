@@ -123,6 +123,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0006 Ryan 'Tos' Santos](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0006-ryan-tos-santos/) — 2019-11-28
 - [0005 Jaycie Randall](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0005-jaycie-randall/) — 2019-11-27
 - [0004 Zack Wyld](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0004-zack-wyld/) — 2019-11-25
+- [0003 Spencer Hicks](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0003-spencer-hicks/) — 2019-11-25
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -216,7 +217,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Will Andes](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/will-andes/)
 - [Yanis 'Kanideis' Pisarchuk](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/yanis-kanideis-pisarchuk/)
 - [Zach Beach](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/zach-beach/)
-- [Zack Wyld of Wyld Productions](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/brandon-cruz/)
+- [Zack Wyld of Wyld Productions](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/zack-wyld/)
 
 ## Show links
 - YouTube: https://www.youtube.com/@TheJunkyardLovePodcast
@@ -342,3 +343,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0006-ryan-tos-santos/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0006-ryan-tos-santos/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0005-jaycie-randall/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0005-jaycie-randall/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0004-zack-wyld/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0004-zack-wyld/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0003-spencer-hicks/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0003-spencer-hicks/episode.md)

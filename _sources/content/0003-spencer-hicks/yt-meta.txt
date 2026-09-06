@@ -1,0 +1,7 @@
+title=Episode 003 with Spencer Hicks
+upload_date=20191125
+duration=4813
+video_id=xBXbCjWmYcA
+rss_title=Episode 003 with Spencer Hicks
+title_conflict=YT=RSS
+h1=Episode 003 with Spencer Hicks
