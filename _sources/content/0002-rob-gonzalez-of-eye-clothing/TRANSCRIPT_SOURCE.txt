@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en/en-orig (captions.en.vtt / captions.en.json3; also archived as source-yt.en*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=Z8C9RSb3YI8
+Turns: 146
+Word count: 9214
+Speaker map: pause-gap segmentation + sticky Jacob/Rob content scoring (named speaker labels not present in captions; auto diarization imperfect); host bumper/outro forced to Jacob where clear
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light ASR name tidy (Roberto/Rob Gonzalez; EYE Clothing; Junkyard Love; Jacob Rhines; Instagram; YouTube; Spotify; Vancouver); bumper/outro forced to Jacob where clear; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Rob Gonzalez of EYE Clothing / Roberto Gonzalez (YT/RSS titles / inventory / About); slug roberto-gonzalez (EXISTING from 0032 — APPEND 0002; do NOT create rob-gonzalez; do NOT wipe 0032).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips. YT duration 2679s (~44:39) vs RSS/inventory 2652s (~44:12) — ~27s delta, not substantial; transcript follows YT captions; archive meta uses RSS duration. No published chapter timestamps in notes; YouTube chapter markers present — Archive picks uses YT chapters. Title YT=RSS. About RSS preferred (near-identical YT wording; YT footer stripped). Inventory has_quotes=no / has_timestamps=no / has_hashtags=no / has_guest_links=no. Archive picks fills timestamped quotes/chapters/keywords/hashtags/bio. Guest page: roberto-gonzalez (EXISTING APPEND).
+Speaker balance: Jacob 76 turns/5146 words; Rob 70 turns/4068 words.
+Heuristic speaker fixes: 0; post-splits: 0 ()

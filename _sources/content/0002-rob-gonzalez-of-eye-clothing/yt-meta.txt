@@ -1,0 +1,7 @@
+title=Episode 002 with Rob Gonzalez of EYE Clothing
+upload_date=20191125
+duration=2679
+video_id=Z8C9RSb3YI8
+rss_title=Episode 002 with Rob Gonzalez of EYE Clothing
+title_conflict=YT=RSS
+h1=Episode 002 with Rob Gonzalez of EYE Clothing

@@ -124,6 +124,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0005 Jaycie Randall](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0005-jaycie-randall/) — 2019-11-27
 - [0004 Zack Wyld](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0004-zack-wyld/) — 2019-11-25
 - [0003 Spencer Hicks](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0003-spencer-hicks/) — 2019-11-25
+- [0002 Rob Gonzalez of EYE Clothing](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0002-rob-gonzalez-of-eye-clothing/) — 2019-11-24
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -191,7 +192,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Rebecca Wyld](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/rebecca-wyld/)
 - [Ricky Navarrete](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/ricky-navarrete/)
 - [Rikki Hall](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/rikki-hall/)
-- [Roberto Gonzalez](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/roberto-gonzalez/)
+- [Roberto Gonzalez (Rob / EYE Clothing)](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/roberto-gonzalez/)
 - [Roman Merrell](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/roman-merrell/)
 - ["rosetan" the band](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/rosetan-the-band/)
 - [Ravinder Taylor](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/ravinder-taylor/)
@@ -344,3 +345,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0005-jaycie-randall/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0005-jaycie-randall/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0004-zack-wyld/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0004-zack-wyld/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0003-spencer-hicks/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0003-spencer-hicks/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0002-rob-gonzalez-of-eye-clothing/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0002-rob-gonzalez-of-eye-clothing/episode.md)

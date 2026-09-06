@@ -121,6 +121,7 @@ Plain static site. No domain configured yet — open `site/index.html` locally, 
 - **0005** Jaycie Randall — `site/episodes/0005-jaycie-randall/`
 - **0004** Zack Wyld of Wyld Productions — `site/episodes/0004-zack-wyld/`
 - **0003** Spencer Hicks — `site/episodes/0003-spencer-hicks/`
+- **0002** Rob Gonzalez of EYE Clothing — `site/episodes/0002-rob-gonzalez-of-eye-clothing/`
 - **0100** JacobFromTheInternet (solo) — `site/episodes/0100-jacobfromtheinternet-mystical-experience/`
 
 ## Preview

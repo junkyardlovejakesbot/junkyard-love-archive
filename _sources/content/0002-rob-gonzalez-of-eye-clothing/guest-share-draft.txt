@@ -1,0 +1,10 @@
+Episode 0002: Episode 002 with Rob Gonzalez of EYE Clothing
+Guest: Rob Gonzalez of EYE Clothing (same person as Roberto Gonzalez / EYE Clothing)
+Date: 2019-11-24
+YouTube: https://www.youtube.com/watch?v=Z8C9RSb3YI8
+RSS: https://share.transistor.fm/s/3a4d4401
+Title conflict: YT=RSS
+Guest slug: roberto-gonzalez (EXISTING from 0032 — APPEND 0002; do NOT create rob-gonzalez; do NOT wipe 0032)
+Display H1: Roberto Gonzalez (Rob / EYE Clothing)
+About: RSS preferred (~YT); YT footer stripped; no guest contact/email
+Transcript: YouTube auto-captions (en/en-orig); YT duration 2679s vs RSS 2652s (~27s; meta uses RSS); YT chapters present
