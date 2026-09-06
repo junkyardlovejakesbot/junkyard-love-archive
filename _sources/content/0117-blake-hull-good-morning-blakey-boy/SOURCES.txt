@@ -5,3 +5,4 @@ Title source: YouTube
 Title: The Junkyard Love Podcast E 0117 with Blake Hull - Good morning, Blakey Boy - Grace, written in code
 Chapters source: YouTube/RSS (same stamps)
 Guest links: none in published notes
+Archive picks: added (timestamped quotes, chapter-style beats, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About/Chapters/Quotes; kept separate from Jacob published About/Chapters/Quotes/Hashtags (published notes already have polished quotes without timestamps and YouTube chapters — left those blocks unchanged; Guest links '(none published)' left unchanged). See source-archive-picks.md.
