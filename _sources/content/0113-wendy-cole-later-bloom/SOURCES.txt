@@ -5,3 +5,4 @@ Title source: YouTube (exact_public_title; YT≠RSS — RSS title "0113 with Tra
 Title: 'Later Bloom' - a conversation with Transition Mentor Wendy Cole - The Junkyard Love Podcast EP 0113
 Chapters source: none published (YT/RSS; inventory has_timestamps=no)
 Guest links: from published YouTube notes with https:// expanded; Demystifying URLs from YT clean links (not RSS mlsend trackers)
+Archive picks: added (timestamped quotes, chapter-style beats, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About/links; kept separate from Jacob published About/Chapters/Quotes/Hashtags (published notes already have polished quotes without timestamps — left Quotes block unchanged; Chapters/Hashtags '(none published…)' left unchanged). See source-archive-picks.md.
