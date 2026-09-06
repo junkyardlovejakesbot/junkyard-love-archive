@@ -1,0 +1,15 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (bio + books + topics + website + CTA). Guest website kept inline in About and also under Guest links (inventory has_guest_links=yes).
+YouTube chars: 1086
+RSS HTML chars: 1079
+Title source: YouTube / exact_public_title (2-fNRV8oSbA). YT≠RSS — RSS omits “The JYLP” prefix; otherwise same guest/role/topic title.
+Title: The JYLP 084 with Science Researcher, Writer, and Biosemiotician Jeremy Sherman - The Trying Self
+RSS title: 084 with Science Researcher, Writer, and Biosemiotician Jeremy Sherman - The Trying Self
+Chapters source: none published in episode notes (inventory has_timestamps=no); YT info.json has auto chapters (Untitled / Mid-Life Crisis / The Struggle for Existence / The Pet Rock Fad / Confirmation Biases / Social Persona / Do You Have an Authentic Self / Is Virtual Virtue a Virtue or a Vice / Is Virtual Vice a Virtue or a Vice) — used only to seed Archive picks, not as published Chapters
+Guest links: published https://jeremysherman.com/ (inventory has_guest_links=yes); also remains inline in About
+Quotes: none published (inventory has_quotes=no)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube; YT≈RSS body (minor comma + CTA wording)
+Guest name spelling: Jeremy Sherman; guest slug jeremy-sherman; inventory guest_name includes credential prefix
+Duration: RSS itunes:duration 4853s (1:20:53); YT info.json duration 4854s — using RSS/inventory 4853
+Publish date: RSS pubDate 2022-02-03 (YT upload_date 20220204) — using RSS/inventory 2022-02-03
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.

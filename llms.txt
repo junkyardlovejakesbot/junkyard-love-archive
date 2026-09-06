@@ -45,6 +45,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0087 Zach Beach — A Path Of Love](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0087-zach-beach-a-path-of-love/) — 2022-05-17
 - [0086 Mika Woodruff — The Individuals Innate Desire For Belonging And Understanding](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0086-mika-woodruff-the-individuals-innate-desire-for-belonging-and-understanding/) — 2022-04-29
 - [0085 Cetvies Cetvies — Censoring and Trafficking Humans](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0085-cetvies-cetvies-censoring-and-trafficking-humans/) — 2022-04-11
+- [0084 Jeremy Sherman — The Trying Self](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0084-jeremy-sherman-the-trying-self/) — 2022-02-03
 
 ## Guests
 - [Anne Riley](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/anne-riley/)
@@ -60,6 +61,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Daniel T. Matalon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/daniel-t-matalon/)
 - [David Crayk](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/david-crayk/)
 - [David Hulse](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/david-hulse/)
+- [Jeremy Sherman](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/jeremy-sherman/)
 - [Jordenelle Tsugawa](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/jordenelle-tsugawa/)
 - [Julie Hoyle](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/julie-hoyle/)
 - [Keenan 'Hurricane' Harvey](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/keenan-harvey/)
@@ -131,3 +133,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0087-zach-beach-a-path-of-love/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0087-zach-beach-a-path-of-love/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0086-mika-woodruff-the-individuals-innate-desire-for-belonging-and-understanding/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0086-mika-woodruff-the-individuals-innate-desire-for-belonging-and-understanding/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0085-cetvies-cetvies-censoring-and-trafficking-humans/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0085-cetvies-cetvies-censoring-and-trafficking-humans/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0084-jeremy-sherman-the-trying-self/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0084-jeremy-sherman-the-trying-self/episode.md)

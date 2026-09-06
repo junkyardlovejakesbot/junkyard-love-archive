@@ -1,0 +1,11 @@
+Source: YouTube automatic captions en-orig (captions.en-orig.vtt / captions.en-orig.json3); en track identical auto; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=2-fNRV8oSbA
+Turns: 92
+Word count: 14097
+Speaker map: pause-gap segmentation (~2.1–2.8s; median caption gap ~2.08s) + marker-based Jacob/Jeremy flip splits + sticky content scoring (named speaker labels not present in auto captions); bumper before ~0:18 forced to Jacob; guest trying/evolution/self narratives forced Jeremy; closing CTA/bumper forced Jacob where matched
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments (cap ~220 words); HTML entities/nbsp unescaped; capitalized turn starts after merge; light name/term fixes (Jeremy Sherman; Terrence Deacon; jeremysherman.com; Junkyard Love; jacobfromtheinternet; panpsychism); dropped [Music]/foreign cue noise; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Jeremy Sherman (matches YouTube/RSS/inventory); guest slug jeremy-sherman.
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en-orig) used; no official/manual track; no >> speaker flips. RSS itunes:duration 4853s; YT info.json duration 4854s — using RSS/inventory 4853. No published chapter timestamps/quotes/hashtags in episode notes (inventory has_timestamps/quotes/hashtags=no); YT has untitled+auto chapters (Mid-Life Crisis / Struggle for Existence / Pet Rock / Confirmation Biases / Authentic Self / Virtual Virtue) — used only to seed Archive picks, not as published Chapters. Title YT≠RSS — H1 uses YouTube/exact_public_title (“The JYLP 084 with…”); RSS omits “The JYLP” prefix. About YT≈RSS (YT adds comma before “and is a one-time”; CTA “hitting subscribe” vs RSS “a subscribe”). Publish date RSS 2022-02-03 (YT upload_date 20220204). Inventory has_guest_links=yes — website https://jeremysherman.com/ kept inline in About and listed under Guest links. Archive picks fills gaps.
+Postfix diarization fixes: 4 ops.
