@@ -77,6 +77,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0055 Brian 'DJ Toasty' Andrew — Life Has No Sync Button](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0055-brian-dj-toasty-andrew-life-has-no-sync-button/) — 2020-09-17
 - [0054 Ian & Shaye of Camp ReEducation — You Don't Know What You Think You Already Know](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0054-ian-shaye-camp-reeducation-you-dont-know-what-you-think-you-already-know/) — 2020-09-15
 - [0053 Matt Young & Nate Tanzman — How To Build Confidence And Create Your Own Luck](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0053-matt-young-nate-tanzman-how-to-build-confidence-and-create-your-own-luck/) — 2020-08-24
+- [0052 Rikki Hall — Chest Pressure, Intrusive Thoughts, and Space Aliens](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0052-rikki-hall-chest-pressure-intrusive-thoughts-and-space-aliens/) — 2020-08-17
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -124,6 +125,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Nate Tanzman](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/nate-tanzman/)
 - [Nike Anani](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/nike-anani/)
 - [Rebecca Wild](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/rebecca-wild/)
+- [Rikki Hall](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/rikki-hall/)
 - [Roman Merrell](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/roman-merrell/)
 - [Ravinder Taylor](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/ravinder-taylor/)
 - [Ryan Baker](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/ryan-baker/)
@@ -221,3 +223,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0055-brian-dj-toasty-andrew-life-has-no-sync-button/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0055-brian-dj-toasty-andrew-life-has-no-sync-button/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0054-ian-shaye-camp-reeducation-you-dont-know-what-you-think-you-already-know/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0054-ian-shaye-camp-reeducation-you-dont-know-what-you-think-you-already-know/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0053-matt-young-nate-tanzman-how-to-build-confidence-and-create-your-own-luck/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0053-matt-young-nate-tanzman-how-to-build-confidence-and-create-your-own-luck/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0052-rikki-hall-chest-pressure-intrusive-thoughts-and-space-aliens/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0052-rikki-hall-chest-pressure-intrusive-thoughts-and-space-aliens/episode.md)

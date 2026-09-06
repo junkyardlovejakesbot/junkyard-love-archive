@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en/en-orig (captions.en.vtt / captions.en.json3; also archived as source-yt.en*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=rxwFlZgLKGE
+Turns: 246
+Word count: 26957
+Speaker map: pause-gap segmentation + sticky Jacob/Rikki content scoring (named speaker labels not present in captions; auto diarization imperfect)
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light ASR name tidy (Rikki from ricky/rickie; Woodland; Hawaii; LA Kings; True Crime; OCD; Alan Watts; Vance Aussie; Willy Wonka); bumper/outro forced to Jacob where clear; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Rikki Hall; slug rikki-hall (NEW).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips. YT duration 7574s vs RSS/inventory 7544s (archive meta uses RSS duration). No published chapter timestamps. Title YT=RSS. About YT~RSS (YT primary; footer stripped; published Some savage quotes split to Quotes). Inventory has_quotes=yes / has_timestamps=no / has_hashtags=no / has_guest_links=no (@rikki_hall kept inline in About). Archive picks fills timestamped quotes/chapters/keywords/hashtags/bio. Guest page: rikki-hall (NEW).
+Speaker balance: Jacob 109 turns/9646 words; Rikki 137 turns/17311 words.
+Heuristic speaker fixes: 12; post-splits: 8 (split Jacob ask / Rikki implants; split Jacob ask / Rikki implants; split Jacob ask / Rikki intrusive; split Jacob ask / Rikki intrusive; split Jacob ask / Rikki intrusive; split Jacob ask / Rikki intrusive; split Jacob ask / Rikki intrusive; split Jacob ask / Rikki intrusive)

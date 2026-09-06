@@ -1,0 +1,7 @@
+- "As soon as I woke up from my surgery, I could breathe"
+- "Am I ever gonna be satisfied? No, but love your body for what it is"
+- "You really have to find that healthy relationship with how you look and what you eat and how you wanna treat yourself and your body and your mind"
+- "When bad thoughts come in, we over-analyze it, but when good thoughts come in, we don’t even think about it."
+- "We’re just too aware of being alive"
+- "Because you’re aware of it, you’re not gonna do it"
+- "It’s so hard when someone doesn’t understand your anxiety. If you wanna talk about intrusive thoughts, and they call you crazy, say you’re wild.. but when somebody does (want to talk about it), it makes you feel so much better."
