@@ -1,0 +1,13 @@
+Source: YouTube automatic captions en-orig (captions.en-orig.vtt / captions.en-orig.json3); en track identical auto; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=asQ8hYEsOzU
+Turns: 66
+Word count: 10082
+Speaker map: pause-gap segmentation (~1.8–2.5s) + marker-based Jacob/Shiloh flip splits + sticky content scoring (named speaker labels not present in auto captions); Jacob bumper/pre-roll forced through ~3:13 (Georgia Peach passing note + into episode); guest COVID/loss/music/dog narratives forced Shiloh; host questions/CTA/bumper forced Jacob where matched. Georgia Peach (dog co-guest) has no spoken dialogue turns — listed as co-guest on pages/JSON-LD only.
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments (cap ~200 words); HTML entities/nbsp unescaped; capitalized turn starts after merge; light name/term fixes (Shiloh Rister not Reister; Georgia Peach; Junkyard Love; COVID; MySpace; SoundCloud; Marilyn Manson; Warped Tour; AC/DC); dropped [Music]/trailing you cue noise; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Shiloh Rister & Georgia Peach; guest slugs shiloh-rister + georgia-peach (new); Georgia Peach is Shiloh's dog companion (co-listed dual guest).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places. Dual-guest listing includes the dog; transcript speakers are Jacob/Shiloh only.
+Issue: YouTube automatic captions (en-orig) freshly downloaded this run; no official/manual track; no >> speaker flips. RSS itunes:duration 4139s; YT info.json duration 4141s — using RSS/inventory 4139. Inventory has_timestamps=no / has_quotes=no / has_hashtags=no / has_guest_links=no. Title YT≈RSS aligned (“Episode 063 with…”). About YT≈RSS (YT primary; spaced into narrative + CTA paras). Publish date RSS/inventory 2020-12-13 (YT upload_date 20201214). Instagram @Shyrister mentioned in About; no structured Guest links block. Archive picks fills timestamped quotes/extra chapters/keywords/hashtags/bios. Two guest pages: shiloh-rister + georgia-peach.
+Postfix diarization fixes: 7 ops.
+Speaker balance: Jacob 42 turns/7013 words; Shiloh 24 turns/3069 words.
+Surgical post-pass fixes: 8 (split okay-usually / hello-shiloh @ 00:05:58; Jacob->Shiloh CNA @ 00:07:42; Shiloh->Jacob loss-framing @ 00:35:23; Jacob->Shiloh clayton-loss @ 00:36:40; split she-passed / thanks-sharing @ 00:38:56; split world-need dogs 3way @ 01:03:59; split how-old @ 01:05:20; complete pleasure @ 01:07:49)
