@@ -5,3 +5,4 @@ Title source: YouTube (exact_public_title / youtube-uploads.tsv)
 Title: The JYLP Episode 0104 with Author and Spiritual Coach Julie Hoyle - 'Awakening From The Lucid Dream'
 Chapters source: none published (inventory has_timestamps=no; no YT chapters)
 Guest links: Amazon author store, Talking True YouTube, Kundalini sessions, Linktree (from published notes)
+Archive picks: added (timestamped quotes, chapter-style beats, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About/links; kept separate from Jacob published About/Chapters/Quotes (published notes had polished quotes without timestamps and no chapters; left unchanged). See source-archive-picks.md.
