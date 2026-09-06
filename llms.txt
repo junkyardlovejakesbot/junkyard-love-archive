@@ -65,6 +65,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0067 Intuitive Healer Jaycie Randall — A Path From The Past](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0067-jaycie-randall-a-path-from-the-past/) — 2021-02-05
 - [0066 Tim Fraley — Writin' Songs, Lentin' Booze and Upgradin' Society](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0066-tim-fraley-writin-songs-lentin-booze-and-upgradin-society/) — 2021-02-01
 - [0065 Josh Gebhardt — It's Open Mic Night For Being Yourself](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0065-josh-gebhardt-its-open-mic-night-for-being-yourself/) — 2021-01-29
+- [0064 Tyler Milliken — Bumping Elbows With Leaders, Censorship and New Norms](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0064-tyler-milliken-bumping-elbows-with-leaders-censorship-and-new-norms/) — 2021-01-26
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -114,6 +115,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Sigmar Berg](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/sigmar-berg/)
 - [Swami Nityananda](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/swami-nityananda/)
 - [Tim Fraley](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/tim-fraley/)
+- [Tyler Milliken](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/tyler-milliken/)
 - [Trey Jones](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/trey-jones/)
 - [Wendy Cole](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/wendy-cole/)
 - [Will Andes](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/will-andes/)
@@ -185,3 +187,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0067-jaycie-randall-a-path-from-the-past/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0067-jaycie-randall-a-path-from-the-past/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0066-tim-fraley-writin-songs-lentin-booze-and-upgradin-society/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0066-tim-fraley-writin-songs-lentin-booze-and-upgradin-society/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0065-josh-gebhardt-its-open-mic-night-for-being-yourself/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0065-josh-gebhardt-its-open-mic-night-for-being-yourself/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0064-tyler-milliken-bumping-elbows-with-leaders-censorship-and-new-norms/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0064-tyler-milliken-bumping-elbows-with-leaders-censorship-and-new-norms/episode.md)

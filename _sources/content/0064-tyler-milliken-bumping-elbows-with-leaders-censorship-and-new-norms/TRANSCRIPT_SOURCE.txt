@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en-orig (captions.en-orig.vtt / captions.en-orig.json3); en track identical auto; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=wJo3nq03Gaw
+Turns: 111
+Word count: 16599
+Speaker map: pause-gap segmentation (~1.8–2.5s) + marker-based Jacob/Tyler flip splits + sticky content scoring (named speaker labels not present in auto captions); Jacob bumper/intro forced through ~1:06; guest social-decorum/censorship/ratings/Aldi/patience narratives forced Tyler; host questions/CTA/bumper forced Jacob where matched
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments (cap ~200 words); HTML entities/nbsp unescaped; capitalized turn starts after merge; light name/term fixes (Tyler Milliken; Junkyard Love; COVID; Demolition Man; Christy Howard; Aldi; Netflix; Hulu; Amazon; Slack; Microsoft Teams; LGBTQ; unapologetic patience); dropped [Music]/trailing you cue noise; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Tyler Milliken; guest slug tyler-milliken (new); role Live Event Production Manager, Director and Coordinator per published About.
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en-orig) freshly downloaded this run; no official/manual track; no >> speaker flips. RSS itunes:duration 5675s; YT info.json duration 5675s — using RSS/inventory 5675. Inventory has_timestamps=no / has_quotes=no / has_hashtags=no / has_guest_links=no. Title YT≠RSS — H1 uses YouTube/exact_public_title (“The JYLP Episode 064 with…”); RSS omits “The JYLP” prefix. About YT≈RSS (YT primary; single published paragraph). Publish date RSS/inventory 2021-01-26 (YT upload_date 20210126). No published quotes/chapters/hashtags/guest links. Archive picks fills timestamped quotes/extra chapters/keywords/hashtags/bio. Guest page new.
+Postfix diarization fixes: 12 ops.
+Speaker balance: Jacob 43 turns/6039 words; Tyler 68 turns/10560 words.

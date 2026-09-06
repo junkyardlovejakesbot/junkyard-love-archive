@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (single bio/topics paragraph). Inventory has_guest_links=no / has_quotes=no.
+YouTube chars: 1087
+RSS HTML chars: 1087
+Title source: YouTube / exact_public_title (wJo3nq03Gaw). YT≠RSS — RSS omits “The JYLP” prefix; otherwise same guest/topic title.
+Title: The JYLP Episode 064 with Tyler Milliken - Bumping Elbows With Leaders, Censorship and New Norms
+RSS title: Episode 064 with Tyler Milliken - Bumping Elbows With Leaders, Censorship and New Norms
+Chapters source: none published (inventory has_timestamps=no; YT info.json chapters=None)
+Guest links: none as structured Guest links (inventory has_guest_links=no)
+Quotes: none published (inventory has_quotes=no)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube; YT≈RSS body (YT primary)
+Guest name spelling: Tyler Milliken; guest slug tyler-milliken (NEW)
+Duration: RSS itunes:duration 5675s (1:34:35); YT info.json duration 5675s — using RSS/inventory 5675
+Publish date: RSS/inventory 2021-01-26 (YT upload_date 20210126)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps from transcript beats, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).
