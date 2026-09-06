@@ -3,8 +3,8 @@
 - Episode: 0020
 - Date: 2020-01-10
 - Duration: 2:04:52 (7492s)
-- Guest: [Megan Elam](/guests/megan-elam/)
-- YouTube: https://www.youtube.com/watch?v=oUcyl3f3L4Y
+- Guest: [Megan Elam](guests/megan-elam/)
+- YouTube: https://www.youtube.com/watch?v=oUcyl3f3L4Y (truncated ~1:13:41; full audio via RSS)
 - RSS: https://share.transistor.fm/s/cb0cec30
 - Audio: https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/cb0cec30/a67ddd77.mp3
 
@@ -38,497 +38,705 @@ Meggy's open-hearted demeanor, willingness to learn, drive, humor, joyful spirit
 
 (none published in episode notes)
 
-
 ## Archive picks
 
-# Archive picks (not from published notes)
+# Archive picks (from full RSS MP3 ASR transcript + published About)
 
-Extracted from the YouTube auto-caption transcript and published About already on this episode. Labeled separately from Jacob’s published About / Chapters / Quotes / Hashtags.
+Extracted from the faster-whisper transcript of the full published MP3 (not truncated YouTube) and Jacob’s published About. Labeled separately from Jacob’s published About / Chapters / Quotes / Hashtags. Automatic diarization is imperfect (Jacob/Megan may be swapped in places).
 
 ## Memorable quotes
 
-- [00:00:01] Jacob: “folks today we have the Megalodon herself we've gotten Megan Elam in the stew today I've been called Megalodon and so long I'll call you that I also”
-- [00:02:33] Megan: “obviously let's start with speech pathology um but I do I guess we have to set the stage for people who don't know you so do you want”
-- [00:06:06] Megan: “undergrad I was working at Starbucks and I had what we call a regular sohe Pete like if a person came in like daily like we called him”
-- [01:09:04] Megan: “not realize I had a mentor like at all I had no idea like Lisa was my boss she was my friend like I trusted”
-- [00:13:30] Megan: “then I got hired on at family house which um in my head was gonna be good on my resume it was gonna be a 8 - you”
-- [00:07:11] Megan: “to hire me on as a paraeducator specifically working with students like who are in like speech therapy so I kind of go out like a little like”
-- [00:18:20] Megan: “development it was the Spartan Race Hey oh yeah”
-- [00:21:15] Megan: “them you have to do burpees it's like fifteen burpees thirty bird I know that because I did a lot of burpees yeah horrible but it's so”
-- [00:46:49] Megan: “sure that we get to Ghana which is kind of extension the Family House I know the wonderful Lisa my son led you to tell me about Ghana”
-- [00:01:04] Megan: “you recently moved to Portland not so recently now I guess yeah key believe it's almost been two and half years that's weird actually yeah cuz I moved”
-- [00:03:00] Megan: “went to School for nursing I lived in Portland but in a dorm room at Concordia University I was there for a year to get my undergrad found”
-- [01:10:07] Megan: “therapy I'm going for school counseling which was not even like a thought my mind up until like this last year I reach su now and so I”
+- [00:00:01] Jacob: “folks, today we have the Megalodon herself. We've got Megan Elam in the stew today. I haven't been called Megalodon in so long. You used to. I also”
+- [00:02:47] Megan: “Obviously. Let's start with speech pathology”
+- [00:06:00] Megan: “undergad is working at Starbucks”
+- [01:09:36] Megan: “not realize I had a mentor”
+- [00:15:30] Megan: “don't know, I mentioned Family House, I think I mentioned K through 7th grade, it is a non-profit a private school, it hasn't been for me to learn”
+- [00:18:40] Megan: “development was the Spartan Race”
+- [00:46:55] Megan: “sure that we get to Ghana which is kind of extension of Family House I say that's Family House the wonderful Lisa Mesh and led you to Tell”
+- [00:01:01] Jacob: “you recently moved to Portland”
+- [00:04:04] Megan: “a test to get into nursing school. And I remember I could not pass that test”
+- [01:23:39] Megan: “and we're gonna do Whole30 we're gonna do January 6th is before what's your opinion on Whole30 like you've also done a bunch of like um it's a”
+- [01:27:04] Megan: “Change your diet and I was like I don't eat because I don't eat bad I don't go to McDonald's every day fast food every My fast food”
+- [00:08:47] Jacob: “wasn't free, but your drinks were, but you're going to be free. So I felt like it was very, you just learned very good customer service and how”
 
 ## Chapter-style timestamps
 
 - [00:00:01](#t-00-00-01) — Opening — Megalodon / Megan Elam intro
-- [00:01:04](#t-00-01-04) — Portland move / belonging in the city
-- [00:02:33](#t-00-02-33) — Speech pathology path / nursing pivot
-- [00:06:06](#t-00-06-06) — Starbucks regular → mentor Lisa hire
-- [00:13:30](#t-00-13-30) — Family House Academy paraeducator years
-- [00:18:51](#t-00-18-51) — Spartan Race trials & burpees
-- [00:46:49](#t-00-46-49) — Ghana trip — school for kids with disabilities
-- [01:10:07](#t-01-10-07) — Mentor gratitude ages 21–24 / Lisa
-- [01:12:15](#t-01-12-15) — Fulfillment at Family House / closing reflection
+- [00:01:01](#t-00-01-01) — Portland move / belonging in the city
+- [00:02:47](#t-00-02-47) — Speech pathology path / nursing pivot
+- [00:06:00](#t-00-06-00) — Starbucks regular → mentor Lisa hire
+- [00:15:30](#t-00-15-30) — Family House Academy paraeducator years
+- [00:18:40](#t-00-18-40) — Spartan Race trials & burpees
+- [00:46:55](#t-00-46-55) — Ghana trip — school for kids with disabilities
+- [01:09:36](#t-01-09-36) — Mentor gratitude ages 21–24 / Lisa
+- [01:23:39](#t-01-23-39) — Whole30 / diet & eating habits
+- [01:38:14](#t-01-38-14) — Saying no / implementing change / health
 
 ## Keywords
 
-Megan Elam, Episode 020 with Megan Elam, Junkyard Love Podcast episode 0020, JYLP 0020, speech pathology, paraeducator, Family House Academy, Starbucks mentor, Lisa Mushett, Spartan Race, Ghana, school counseling, Portland, Kelso, Jacob Rhines
+Megan Elam, Episode 020 with Megan Elam, Junkyard Love Podcast episode 0020, JYLP 0020, speech pathology, paraeducator, Family House Academy, Starbucks mentor, Lisa Mushett, Spartan Race, Ghana, school counseling, Whole30, Portland, Kelso, Jacob Rhines
 
 ## Hashtags
 
-#MeganElam #JYLP0020 #JunkyardLove #SpeechPathology #FamilyHouseAcademy #SpartanRace #Ghana #SchoolCounseling #JYLP
+#MeganElam #JYLP0020 #JunkyardLove #SpeechPathology #FamilyHouseAcademy #SpartanRace #Ghana #SchoolCounseling #Whole30 #JYLP
 
-## Short guest bio (from episode speech + published About/links)
+## Short guest bio (from episode speech + published About)
 
-Megan Elam appears on Junkyard Love episode 0020 — a longtime close friend of Jacob (nickname Megalodon). She shares her path from nursing-school prereqs into speech pathology, how a Starbucks regular (Lisa) hired her as a paraeducator at Family House Academy, Spartan Race trials and burpees, a trip to Ghana to teach at a school for kids with disabilities, mentor gratitude from ages 21–24, and her pivot toward school counseling and working with children rather than adults. Published About also covers Whole30/diet talk that falls past the truncated YouTube upload. Inventory has_quotes=no / has_timestamps=no / has_hashtags=no / has_guest_links=no. Guest slug megan-elam is NEW (distinct from megan-hawkins and megan-robinson). No guest contact/email.
+Megan Elam appears on Junkyard Love episode 0020 — a longtime close friend of Jacob (nickname Megalodon). Full RSS/MP3 ASR covers the complete ~2:05 conversation (YouTube upload was truncated ~1:14). She shares her path from nursing-school prereqs into speech pathology, how a Starbucks regular (Lisa) hired her as a paraeducator at Family House Academy, Spartan Race trials and burpees, a trip to Ghana to teach at a school for kids with disabilities, mentor gratitude from ages 21–24, her pivot toward school counseling and working with children rather than adults, plus Whole30/diet and eating-habits talk from the previously missing second hour. Inventory has_quotes=no / has_timestamps=no / has_hashtags=no / has_guest_links=no. Guest slug megan-elam is NEW (distinct from megan-hawkins and megan-robinson). No guest contact/email. Auto diarization imperfect.
 
 
 ## Transcript
 
-[00:00:01] Jacob: Okay well folks today we have the Megalodon herself we've gotten Megan Elam in the stew today I've been called Megalodon and so long I'll call you that I also want to also wanted to say stew I really like you notice how like a lot of young people studio I'm in this date Oh people might call me yes we've got Megan women here today Megan has been one of my very close friends for quite some time we've lived together we've been BFF jill's me her and Shelley just the trio of awesomeness and Bentleys I guess he's the fourth person worked Rio - Bentley is also with us today we didn't get him a mic but he agreed to breathe as loudly as he can near Megan's so you guys can hear him so Megan man how are you how are you today doing
+[00:00:01] Jacob: Well folks, today we have the Megalodon herself. We've got Megan Elam in the stew today. I haven't been called Megalodon in so long. You used to. I also wanted I also wanted to say stew. I really like you know it's how like a lot of young people stew.
 
-[00:00:57] Megan: Good doing Christmas my mom tonight is
+[00:00:21] Megan: I mean stew. Oh.
 
-[00:01:00] Jacob: Very excited be fun down in Vancouver
+[00:00:23] Jacob: I think they call me stew. I was like, where did you, call me stew. Yes, we have Megan Elam in here today. Megan has been one of my very close friends for quite some time.
 
-[00:01:04] Megan: Yes you came all the way up here to hang out with me for a few but it'll be back on the way home because you recently moved to Portland not so recently now I guess yeah key believe it's almost been two and half years that's weird actually yeah cuz I moved
+[00:00:31] Megan: I'm doing Christmas with my mom tonight.
 
-[00:01:18] Jacob: Out from Castle Rock with you guys and then went straight to Portland and it's been almost two and a half years yeah next September we got be three well like two not quite two enough years but and how do you feel do you feel like you belong in Portland yet um I love Portland I think it's like at the right time of my life um being like single and living in like a studio in downtown Portland just that's something I always wanted to do and accomplish um but it's very interesting being in a big city because you don't have like that sense of community like you do in real small town so I love Portland
+[00:01:01] Jacob: Yes. Very exciting. That down in Vancouver. Yes. You came all the way up here to hang out with me for a few. But I did. It'll be back on the way home because you recently moved to Portland.
 
-[00:01:52] Megan: I probably after I'm going to be moving out of Portland actually in September ish and I don't know if I'll move back to downtown we'll see I'm thinking Vancouver but it's been really fun it's fun being close to every yeah we'll see how much you miss it like you have such a good location like you're so close to all these cool yeah I just walked everything like walk I like walk my workout to Orangetheory and it's like two minutes from my front door plenty of places go get a get a bite to eat and stuff too and you can also walk - there's that Dyke right by your house - it's always good to be able to like oh I'm gonna go for a run I don't have to drive there I can just walk to the start of my run literally I just walk out my front door and it's the run like it started yeah we're not important is
+[00:01:11] Megan: Not so recently now I guess. Yeah.
 
-[00:02:33] Megan: Getting so busy and it's such a cliche thing to say I suppose but it seems like it's leaking towards this way yeah if you live in Portland they always talk about it's the all the Californians are moving to Portland and taking over that's what they always say don't really get me to Portland Oh yet but well Californians are also just extending their arm through AI and technology to the rest of the world so California is everywhere now Well Meghan I want to definitely talk About kind of like more of your profession a lot of things that you're that you're really stinking good at obviously let's start with speech pathology um but I do I guess we have to set the stage for people who don't know you so do you want to give a little bit of your background
+[00:01:29] Jacob: Like you belong in Portland yet?
 
-[00:03:00] Megan: Like of what you know in that in that field and like what you've done schooling oneself so I'm from Kelso Washington obviously went to school with Jake I originally went to School for nursing I lived in Portland but in a dorm room at Concordia University I was there for a year to get my undergrad found out really fast how expensive a private university is I came back to Kelso decided to do the whole work live with my mom and do the prereqs at our Community College Lower Columbia um decided once I finished that I we had to do you know take a tea's test to get in the nursing school which I know Shaylee knows all about I'm sure you do too basically have to take a test to get into nursing school and I remember I could not pass that test really I don't know is it hard like how long does it take it's not hard it's just it's math reading writing critical thinking science and it's on a computer and it tells you every time you get an answer wrong so it's almost like mentally you
+[00:01:31] Megan: Um, I love Portland. I think it's like at the right time of my life, um, being like single and living
 
-[00:04:23] Megan: Get something wrong and you're like yeah like five more wrong and I don't pass you're so stressed yeah dude if you only have one left in your you still have 50 more questions yeah stress that you're gonna feel for those other 50 questions each section so it's like science you can only miss a certain amount and Matt you only miss a certain amount and so I couldn't pass that test so I had to sit down and like really fight with myself like because I felt like I was feeling like I couldn't get through school I had to sit down and say like is this what I really want like do I really want to be a nurse and the answer was no III think I wanted to be a nurse because that's what my mom did and she could do that like support herself fully on her own and I hope that's something that I wanted to be able to do as well so I sat down one summer and I was just like I'm going to like consider other options we were actually like my Papa's birthday dinner and my cousin Jessica brought up speech pathology and I had never really heard of it I mean I
+[00:01:38] Jacob: In like a studio in downtown Portland. That's something I always wanted to do and accomplish. Um, but it's very interesting being in a big city because you don't have like that sense of community like you do in a small town.
 
-[00:05:21] Megan: Knew it was something you know there was like a career out there about it but I kind of researched a little bit more and basically speech pathologist is someone who works with either children or adults on their speech so it can be kids with disabilities it can be adults who've gotten in car accidents and need to relearn how to speak there's a lot of different opportunities you can work in a hospital a school have your own private practice so I was intrigued so I went to Portland State University and got my undergrad in speech pathology at the time I was so done with school though because I think I was on your five at that point and I was like I'm gonna take a year off I'm gonna be the one person it takes only one year off and then go back one person is the one person everyone else doesn't go back
+[00:01:50] Megan: So I love Portland. Um, I probably after I'm going to be moving out of Portland
 
-[00:06:02] Jacob: Right of course I didn't do that I
+[00:01:55] Jacob: Is actually in September ish. Um, and I don't know if I'll move back to downtown. We'll see. I'm thinking. But it's been really fun. It's fun being close to everything. Yeah. We'll see how much you miss it. Like you have such a cool location like so close to all these cool. Yeah. I just walked everything. I just walked. I like walked my workout to Orangetheory and it's like two minutes from my front door. Plenty of places. Go get a bite to eat and stuff to walk to. There's thatny the dike right by your house too. I was good to be able to be able to be to be able to be able. I don't have to drive there. I could just walk to the start of my run. I just walk out my. I just walk out my front door and it's the run.
 
-[00:06:06] Megan: Magically said while I was doing my undergrad I was working at Starbucks and I had what we call a regular sohe Pete like if a person came in like daily like we called him a regular someone who was in Monday through Friday like 5:30 on the dot every morning or 6 a. m. or something like that so I had just graduated I was quitting Starbucks her name's Lisa Mushett-Jen she's actually one of my regular customers and she had
+[00:02:47] Megan: Like it started. Like I'm a true Portland. Obviously. Let's start with speech pathology.
 
-[00:06:34] Jacob: Been throughout the two year three years
+[00:03:40] Jacob: I'm a little bit of a private university. he came back to Cal so decided to a private university is came back to
 
-[00:06:36] Megan: I was at Starbucks constantly asking school in my life and all these different things very brief like conversations yeah she's just suddenly I feel like yeah and when you're working the window Starbucks it like especially at 5:30 or 6:00 in the morning you can't be like oh the weather today it's like alright still dark you're not awake yet
+[00:03:49] Megan: Cal so decided to do the whole work with my mom and do the pre-rex at our community college
 
-[00:06:54] Jacob: Either right you know so long story
+[00:03:53] Jacob: Lower Columbia. Decided that I decided to do I had to take a t's test to get into the school. Which I know she is. Little bit.
 
-[00:06:58] Megan: Short she basically like chased me down one day and I had no idea that she was the director of a non-profit for a
+[00:04:04] Megan: Basically, I've taken a test to get into nursing school. And I remember I could not pass that test.
 
-[00:07:06] Jacob: Kindergarten through seventh grade and
+[00:04:09] Jacob: It's not hard.
 
-[00:07:11] Megan: She wanted to hire me on as a paraeducator specifically working with students like who are in like speech therapy so I kind of go out like a little like my feet wet with that um and yeah that's kind of my speech therapy jig so you got into you got into the job through the Lisa mushroom but did you did you have schooling on speed path speech pathology at that point yeah so my undergrad is I have my bachelor's of science specializing in speech and hearing sciences so I had to do classes like audiology phonetics I do anatomy
+[00:04:12] Megan: It's It's reading, writing, critical thinking science and it's on a computer and it tells you every time you get an answers lifestyle wrong
 
-[00:07:47] Jacob: And physiology of the throat mouth or
+[00:04:37] Jacob: The
 
-[00:07:49] Megan: Throat mouth and something else so yes the answer is yes but I wasn't like trained in actually being like a
+[00:05:07] Megan: I'm going to consider other options. we were actually like my papa's birthday dinner and my cousin jessica brought up speech pathology and I had never really heard of a I knew there was a career out there about it but I knew it was a little bit more
 
-[00:07:57] Jacob: Therapist right so but she knew probably
+[00:05:45] Jacob: And then go back to one person
 
-[00:08:00] Megan: Like okay your skills will lay into what well and at the time I was like oh this is perfect like I'm gonna get a job and it's gonna be specifically working with students or you know students who are in speech therapy this is gonna look great on a resume then when I go into grad school so funny have that mindset we have it's like it's also super fulfilling and yeah it's great but we're like yeah our resume needs to do just one day we'll need that on our resume totally well but beforehand that's that was my ideas like oh yeah look great on horizon it's gonna look much better than Starbucks does look really good on your resume though they do yes one of my good friends who owns her own private practice for she's a dentist and she
+[00:06:00] Megan: Everyone else doesn't go back I was magically so while I was doing my undergad is working at Starbucks
 
-[00:08:43] Jacob: Said if a someone who applies work to
+[00:06:10] Jacob: And I had what we call a regular
 
-[00:08:46] Megan: Starbucks it's an automatic interview those Starbucks people are such good ok what do you think about that like not as just has an X Starbucks employee like what do you think about that like you feel like you learned some pretty valuable things while working at Starbucks yeah I feel Starbucks was such
+[00:06:25] Megan: So I had just graduated I was quitting Starbucks and I was like oh my god I'm going to be, I- now I'm So I kind of got like a little like my feet wet with fat. And yeah, that's kind of a speech therapy, um, and, um, and, um, Lisa Musher. But did you, did you have school in school and speech pathology at that point? Uh, yeah. So my undergrad is, I, I have my bachelor's of science, um, specializing in speech and hearing sciences. So I do,, audiology, phonetics. Um, I do anatomy and physiology of the throat mouth or throat, something else. The answer is yes, but I wasn't like trained in actually being like a therapist.
 
-[00:09:01] Jacob: A good it's changed a lot though since I've been there I've been I was there in 2015 oh yeah mm no like 2013 I think 2015 so out there it's changed a lot but when I
+[00:07:57] Jacob: Right. But she knew probably like, okay, your skills, will be lay into what
 
-[00:09:18] Megan: Was there Starbucks was all about the customer it was very like the customer's always right you need to do whatever it takes to make the customer right we were allowed to hand out free drinks left and right like if you didn't make it through the drive-through within 5 minutes we had timers like you got free drinks like the food wasn't free but your drinks were gonna be Friday so I felt like it was very you just learned very good customer service and how to interact and socialize with people which is a really good people school I feel like that business model is now biting them in the butt I think you were fighting our whole culture and the society in the butt because everyone's just like entitled Zak now no and they don't see that I've noticed like Ali I'll be in the DRI Starbucks drive-through and I'm thinking like it's been eight minutes or whatever and you know they're like not nice and I get to the window they're just like five ninety five and that's like it's like oh man oh hi or no nothing I don't know
+[00:08:19] Megan: And she said, um, um, she said, um, someone who applies work to Starbucks.
 
-[00:10:11] Megan: I guess I don't have a good day have you are you one of those people that goes to the start like Starbucks drive-through in the mornings no I like my coffee but now again I don't know I just drink my black coffee now and I also am someone who works in his basement for a living so I can just walk downstairs in a robe if I want to I really have to go to Starbucks but I do I do go through the drive-thru like from time to time and I will say my experience although it's randomly throughout the day at random times a random Starbucks is typically pretty good that's a good and there's something about though going like first thing in the morning you can go in your robe a lot of people did where can I go to my birthday suit is that allowed no well Starbucks a change of
+[00:08:47] Jacob: It's an automatic interview. What, what do you think about that like, like, not as just as an ex Starbucks employee? Like, what do you think about that? Like you, you, like you've learned some pretty valuable things while working at Starbucks. Like, if you didn't make it through the drive, the drive three within five minutes, we had timers like, like the food wasn't free, but your drinks were, but you're going to be free. So I felt like it was very, you just learned very good customer service and how to interact and socialize with people.
 
-[00:10:54] Jacob: Policy because customer is always right no you're pinpointing me out why can't it be naked in your Lobby in any way so
+[00:09:44] Megan: Which is a really good people skill.
 
-[00:11:04] Megan: Less dear alien from Starbucks and coffee more speech pathology yes so
+[00:09:46] Jacob: But I feel like that business model is now biting them in the butt? Kind of biting our whole culture in the society in the but because everyone's just like entitled.
 
-[00:11:12] Jacob: Where we at
+[00:09:59] Megan: I don't know what to do.
 
-[00:11:13] Megan: So I basically I went to school I did go to school for that so I you know got my prereqs for it I got like the base my undergrad to be an actual speech therapist you do have to go to graduate school just at the time my mind was so I
+[00:10:09] Jacob: I don't know what to do.
 
-[00:11:25] Jacob: Was taking ooh I was thinking like for college classes commuting to Portland and working two jobs and so I was just like I'm and so how we were still like hanging out we were still fine I was like freshly 2122 so you like we were out every weekend just how do we survive
+[00:10:17] Megan: I don't know what to do..
 
-[00:11:42] Megan: These things I don't know I mean I remember I would like go out on the nights I worked and be like at Starbucks at what I think I'd to be there at 3:30 in the morning and I would just be like fresh from like the bar even cuz we're officially 20 we just smell like alcohol one time when I was when time when I was working at mr. formal I might've told this one thing right in Santos podcast but I actually I was I was very hungover on a Sunday I was like 19 or something at this point but I was so hungover as us talking to this young couple who was getting married I vomited in my mouth like I didn't like I was he spewed on them or anything this is terrible but like I had just put a hand up and say excuse me I had to walk out of my store like just insane but that was just who we were when we are just wild just a minute once in a while you've got to go to work a little hungover I did it more than most people unfortunately but lesson
+[00:10:21] Jacob: But I don't know what to do.
 
-[00:12:35] Megan: Learned well and then as you get older you suddenly can't do that anymore so like Starbucks yeah like you're just making coffee like I can do that when I worked at cold stone I'm just scooping ice cream I probably do that imagine working out like if you had to work at Subway in the morning hungover and smell back versus Starbucks oh man yeah at least when I got to work I had like free coffee all day I'm just gonna caffeinated myself and survive I suppose correct but yeah so I was doing a lot so I finally was like I'm taking um at least in my head I was taking a year off and that was gonna meet I'm gonna take the year and then want to get into graduate school for speech therapy you have to of course the GRE exam which is basically like a pre grad school exam you have to do a bunch of entrance essays and interviews and all these different things and then you also have to have a certain grade point average all the things so I was like I'm
+[00:10:31] Megan: I don't know what to do.
 
-[00:13:30] Megan: Gonna spend this year and I'm going to get I'm going to take the GRE like prep classes I'm gonna do all these you know get my essay paper together and get whatever I needed to do to go to grad school but then I got hired on at family house which um in my head was gonna be good on my resume it was gonna be a 8 - you know school starts at 8:00 a. m. gets over at like what 3 and 8 to 3 p. m. job like I'm free by 5:00 in the latest yes Working in the school helping kids doing basically that yeah and you're naturally good at these things too like just human interaction and you're great at but you're great with kids too so yeah so that was my idea little did I know Family House is a huge community so that I mean it's not how it played out at all which benefited me in the future which we'll probably get to a little bit but yeah so then I was working with students taking them to their speech therapy
+[00:10:39] Jacob: I don't know what to do.
 
-[00:14:31] Jacob: Sessions occupational therapy working with them in the classrooms or doing different things like teaching them like when to raise your hand when not to or let simple things like how to go to the grocery store and how to make a grocery list and what does that look like and what doesn't you know how do you learn money and it wasn't just it wasn't just speech it was I was doing a few things I
+[00:10:47] Megan: I don't know what to do. Anyway, so less derail, Starbucks and coffee, more speech path. Well, I'm going to be a little bit more I got like the base my undergrad to be an actual speech therapist.
 
-[00:14:53] Megan: Was helping I mean I was helping in the classroom because my title is a paraeducator right but I was specifically working with kids cuz Lisa knew like what my goal in the end was so she was like targeting she also wanted to help benefit me so she's like let's set you up with the students who are in this and then you're gonna learn from it so I also got to sit in on a lot of sessions with speech therapists who are
+[00:11:32] Jacob: You do have to go to graduate school. The time my mind was so I was taking I was taking like four college classes commuting to Portland and working two jobs. I think I had to be there at 3 30 in the morning and I would just be like fresh from like the
 
-[00:15:15] Jacob: Doing the job and most of it was private practice so I was like well this could be really cool cuz I could have my own private practice my own my own everything but yeah that was kind of I was I did that for two years and
+[00:11:56] Megan: When I was working at Mr. Forma, I might have told us on the Ryan Santos podcast, but I actually I was I was very hung over on a Sunday. I was so hung over as I was talking to this young couple who was getting married.
 
-[00:15:32] Megan: Then it led me differently but that's
+[00:12:10] Jacob: I vomited in my mouth like I. I didn't like obviously spewed on them or anything. This is terrible, but like I had just put a hand up and say, excuse me,
 
-[00:15:35] Jacob: Kind of my speech therapy background um
+[00:12:28] Megan: I had to walk the walk out of my store. Like it was just insane. But that was just who we were. I think you have to go through that like just Wild Street for just a minute. Once in a while, you've got to go to work a little hungover. I did it more than most people.
 
-[00:15:38] Megan: It was really good but I definitely
+[00:12:32] Jacob: Unfortunately, but learned. Well, and then as you get older, you suddenly can't do that. You know, oh yeah.
 
-[00:15:41] Jacob: Changed yeah it's two directions I feel like yeah like you were thrown into a few things you know but like you learned so much that you probably wouldn't have learned without that experience like being able to have that opportunity to like learn all the things that you did with that I mean it's like a like maybe it wasn't your end-all be-all of like okay I finally have all this money but like the satisfaction of that job for one and then just the I didn't expect to learn this today about what I can take forward into my future about what I can like how I can help other kids in the future in these ways yes and for those people who don't
+[00:12:40] Megan: Like you're just making coffee like I can do that when I worked at Coldstone. I'm just
 
-[00:16:18] Megan: Know I should probably mention in Family House Academy is a I think I mentioned K through seventh grade it is a nonprofit at private school um it is in the middle it's on Carol's Road so it's kind of like surrounded by trees it's two houses
+[00:12:45] Jacob: Giving ice cream. I can't probably do that. Imagine working out like a like if you had to work a subway in the morning hungover
 
-[00:16:33] Jacob: It's not an actual school so when you walk into like the class quote-unquote classroom it's a family room but there's like tables for obviously for the students do their work and there's whiteboards but there's also a kitchen sink and a couch and a rug and like very
+[00:12:51] Megan: Over versus Starbucks. Yeah, at least when I got to work at like free coffee allt a day. I was like, I'm taking at least in my head. I was taking a year off and that was going to be be it. I'm going to take the year and then to get into graduate school for speech therapy.
 
-[00:16:49] Megan: Comforting for so many types of people
+[00:13:08] Jacob: You have to do, of course, the G. I'm going to take the year and then to
 
-[00:16:51] Jacob: Yes it's a holistic approach so and it's
+[00:13:14] Megan: Get into graduate school for speech therapy. You have to do, of course, the G. exam, which is basically like a pre grad school exam. You have to do a bunch of
 
-[00:16:54] Megan: Also integrated so they obviously we have they have like grades kindergarten through I think its seventh grade kids kind of got the options once they got to middle school high school de'keither transition into public school or do you like part time or not but what was cool
+[00:13:21] Jacob: Entrance essays and. And then you also have to have a certain grade point average.
 
-[00:17:11] Jacob: Is integrated so it was based on their
+[00:13:27] Megan: All the things. So I was like, I'm this year and I'm going to to get over. I'm going to take the G. I'm going to take the year and then I'm going to
 
-[00:17:13] Megan: Level like their academic level um so
+[00:13:37] Jacob: Get into graduate school for speech.
 
-[00:17:16] Jacob: Like if a second grader was you know doing really good academically they might move up into like the fourth grade group because that's just where they need to be they're a little bit higher in the math or the English so it was
+[00:13:39] Megan: To get into graduate school for speech therapy. I'm going to take the year and then to
 
-[00:17:28] Megan: Very based on that they're also heavily
+[00:13:45] Jacob: Get into graduate school for speech therapy.
 
-[00:17:31] Jacob: Based on like just physical activity getting up and moving and making sure like you talk out your
+[00:13:48] Megan: I'm going to take the year and then to get into graduate school for speech therapy. And then to get into graduate school for speech. And then to get then to get into graduate school for the G. exam. And then to and then to get into graduate school for the G. exam.
 
-[00:17:38] Megan: Problems cuz it's like if a kid comes in the room and say like I don't know their parents are divorcing like that's obviously the first thing that they're gonna be thinking about the last thing they want to do is learn what 2+2 is so
+[00:14:40] Jacob: .
 
-[00:17:49] Jacob: It's very like people-oriented lots of
+[00:15:00] Megan: And then to get into graduate school for
 
-[00:17:54] Megan: Different backgrounds so when I came into Family House I had no idea I was just again 8 to 5 job like in the classroom and I had no idea it's a huge
+[00:15:03] Jacob: G.
 
-[00:18:07] Jacob: Community and you can even speak on this I would come home crying mm-hmm a lot I would come home and be like it's so hard
+[00:15:30] Megan: It led me differently,-, but that's kind of speach therapy, it was really good, but it definitely changed, it was really good, but it definitely changed, I feel like you were thrown into a few things, you learned so much that you probably wouldn't have learned without that experience, like being able to have that opportunity to learn all the things that you did, it's like it's like an end all the time to be all of all this money, but the satisfaction of that job for one, and then just the, I didn't expect to learn this today, about what I can take into my future, how I can be able to help other kids in the future in these ways and for those people who don't know, I mentioned Family House, I think I mentioned K through 7th grade, it is a non-profit a private school, it hasn't been for me to learn what I can do, so maybe it's not a private school, but it's not for me to be able to
 
-[00:18:20] Megan: It's just there's a lot like and it wasn't even like that the job was hard I mean it was hard but I didn't know I was getting myself into a community which like challenged me like personally it challenged me with students it challenged me with my relationships I mean we were doing so many different things like our professional development it was the Spartan Race Hey oh yeah
+[00:17:16] Jacob: If a second grader was you know doing really good academically they might move up into the fourth grade group because that's just either a little bit higher in the math or the English so it was very based on um they're also heavily based on like physical activity getting up and moving um and making sure you talk out your problems because it's like if a kid comes in on this I would like a lot I would come home and be like it's so hard it's um it's
 
-[00:18:47] Jacob: Dude you guys have such a good team environment that stuff too which if you
+[00:18:40] Megan: Doing so many different things like our professional development was the Spartan Race
 
-[00:18:51] Megan: Don't know the Spartan Race it's like what 30 obstacles I know you've done it
+[00:18:45] Jacob: Right oh yeah that's cool yeah dude you guys had such a good team environment with that
 
-[00:18:54] Jacob: Yeah I don't remember how many else go with this I mean it's all an obstacle because then you if you don't do an obstacle you face dude I have never have you ever done the javelin have you have you gotten the job oh we're both that is
+[00:18:50] Megan: Um the Spartan Race it's like obstacles yeah I don't remember how many obstacles this I've done I've done so many of these like you've done a ton yeah like I have never wanted this damn javelin and what I need what we need to do is we need to set up a thing in the backyard
 
-[00:19:09] Megan: One thing okay so one part in this spot Spartan Race I've done I've done so many of these like you've done a ton yeah like I have never once this damn javelin you what I mean what we need to do is we need to set up a thing in the backyard here in me and you will just go yeah super great at throwing javelins I don't thanks gone it is Gerren how Darren how's it going it I don't know I don't quote me on that we probably should have asked him that but all right up Jaron has a guy that would make me feel better
+[00:19:21] Jacob: Here in me and you will just get super great at throwing javelins but you know I don't think it's gotten it is jaren oh jaren hasn't gotten it I don't know I don me on that- we probably should have asked himt that but um all right if jaren hasn't gotten it that would make me feel better right because he's like super fit I know jaren if you haven't got it we're gonna we're gonna set up a course in backyard don't worry we'll practice so yeah so you guys did a lot of the training that's how you would the team building and in connecting and like pushing each other to to be the best versions of each other obviously that's who you are as a having that as your community as workplace especially when you didn't know it was like that like a lot of people would normally be like oh I want to get in on that but you didn't know it was that so you didn't know that I mean realistically just who you are as a person like you do actually work pretty dang well when you're being pushed in oh I work so I mean my first
 
-[00:19:35] Jacob: Right Jane if you haven't got it we're gonna we're gonna set up a course the mecca don't worry apprentice so yeah so you guys did a lot of the training I mean that's how you would the team-building and in connecting and pushing each other to be the best versions of each other obviously that's pretty intense having that as your community as your workplace especially when you didn't know it was like that like a lot of people would normally be like oh I want to get in on that but you didn't know is that so you didn't know that I mean realistically just who you are as a person like you do actually work pretty dang well when you're being pushed and pushed I like I mean the my first year I think I
+[00:20:33] Jacob: Because I think I think it's a 5k right no I think it's a 5k which I think
 
-[00:20:12] Megan: Dropped like thirty pounds and because well I was like terrified of running terrified so the Spartan thing like freaked me out and we of course Lisa like she doesn't want to start with the suit or the what's the sprint which is just three and a half miles she wanted to start with a super weight super tender the Super's limit that goes the sprint the super the beast well cuz I
+[00:21:03] Megan: Um at the there's a motocross track down yeah and so they set it up and it's like you got to go under barbed wire you've got to you run five miles eight miles whatever it is but also inb do a bunch of obstacles you're on three the super the or the sprint the super and the beast within the year so within one year you have to do all three so Lisa had us start with the super and I was not a runner so the thought of running eight to 12 miles like gave me an anxiety talk to yeah oh yeah little did I like I just had to get out there and do it like I was just I was all anxious about it and I just need to be able to put it back the first few times I actually panic attack really like oh yeah cuz they were so a family has a team we're training and they were like okay in order to two racing you need to run 12 miles which we was me 12 miles and I remember being at work all sweating cuz I'm like 12 I've never
 
-[00:20:35] Jacob: Think it's 3.5 K right is this five miles no I think it's a 5k which is three and a half miles oh you're right oh yeah and then the super don't quote me on that one I think it's like eight to twelve because
+[00:22:52] Megan: Never been not happening so she had us after we got off work all the kids went home we put on our running clothes and we ran from Tamo Shanner to Lake Sacajawea over the bridge we ran all of Lake Sacajawea and back and we were getting to Lake Sacajawea because at that point we were already and I just had me and like the people as well as brutal from like okay the thoughts that you are feeling when you're like there's no way like these people are not like this crazy like when you're thinking that like how did you jump from just they just tell you they're encouraging you. We stopped that was part of it so we stopped and I'm just literally like breathing hard and I'm crying like I'm actually crying and I remember I think it was Lisa and Chelsea one of them was like rubbing my back and the other was like you got this like you're capable like you've never done it before
 
-[00:20:48] Megan: The beast is supposed to be like 12 to 15 or something like they all do them differently though I think they probably do make the obstacle a little differently yeah and they're all that so they travel so this if you have an apartment again they travel around the u. s. and they set up obstacle courses at like different locations so we've both done ones at the there's a motocross
+[00:24:28] Jacob: But you're going to do it and you're going to finish and so they just kept like the positive mindset in my head okay you got to stop telling yourself you can you can't because I kept in my whole time I kept thinking I have no escape like I have no way of like calling someone to come pick which I can't be saying I was like there's no way of getting out and so I just kind of like panicked but then they just continued actually I remember Taylor at the time was behind me and he kept every time I tried to stop he just pushes his hand forward and like push just not in like barely tap my just that low reminder I'm right behind you I kept running so yeah I finished that and then from there on out it honestly changed my mindset I was like I just ran 12 miles or however many miles I don't know I remember I think it was like around 12 and I kept doing it. Yeah it's definitely mental you know like it's there's no doubt that like just by being in shape and stretching and stuff like this I'm agile and my body can handle it for sure
 
-[00:21:05] Jacob: Track down in Los Google yeah and so they set it up and it's like you got to go under barbed wire you've got it you run five miles eight miles whatever it is but also in between you've gotta do a
+[00:25:59] Jacob: A lot and that I did not say I'm 17 my dad didn't tell me so he's like you're fine he's like we're gonna go camping and we're gonna go on a little hike the next morning
 
-[00:21:15] Megan: Bunch of obstacles you're on like muddy ropes you're on all these things boulders underneath a barbed wire carrying a bucket of rocks for a little bit and if you fail any things or you're not able do able to do them you have to do burpees it's like fifteen burpees thirty bird I know that because I did a lot of burpees yeah horrible but it's so
+[00:26:14] Megan: I come in like just a Conc and so I was so mad at him but it ended up being good I guess he had to give me my feet were like bleeding because I was in running shoes I was in hiking shoes it was almost it's like again it's mental you like panic and then you're fine but now like like those same moments so like at mile seven mile nine whatever it is when you hit that spot where you're like all I want to do is just break down and cry right now like now if you have that thing like for one if you even have it you're like I'm good I already know what I'm capable of I'm capable way more atילו and you also like even out um after a while after you have a lot of these victories like oh I just did this part race oh I did the trifecta and I did this you stop even having those little spots that come up where at mile four at mile seven this fall this is messed-up I'm panicking like this like dread that starts happening yes it, it starts to go, after you have a little more victories
 
-[00:21:35] Jacob: Satisfying once you've completed it yeah how many do how many did you guys do as it oh we got our trifecta but that
+[00:27:25] Jacob: Yes um for sure so a lot of like big team building obviously it's a huge community yes um did you guys do
 
-[00:21:41] Megan: Was so in order to get your trifecta metal from Spartan you have to complete
+[00:28:05] Megan: , the core of Family House is community service so when you sign your child up for community service um, you're signing yourself your family up for community service including the adult so when I was there we had groups and they pair you in the very beginning so it's like what are you gonna do this year for community service and we each there강 each there's like 12 groups all 12 of us have to come up with a community service project it can be anything can be community society can be picking up trash, it can be a sock donation, it can be feeding the homeless, it can be a soup drive, it can be to be anything so that part's really cool because you get the kids that are involved in the community at such a young age and I think they kind of the more about the community changes their scope of where they live at the time when I was there love overwhelming, overwhelming, was a huge topic, it's for homeless trying to think it's an it's an organization that basically helps the homeless it's like they have shelter and clothing and all that stuff so we were very involved with
 
-[00:21:47] Jacob: All three the super the or the sprint
+[00:29:13] Jacob: Love overwhelming but the community like Longview Coastal as a whole người is very like it was very debatable like a lot of people debated on that yeah I remember what that was about but I just know that well it's no different now because now I see online it's a lot about the civic circle yeah man our. Our town has some really gross views on homelessness really like a lot of loud opinions a lot of loud jokes a lot of I don't know a little hard to explain I guess with our town and but it does have some interesting things when it comes to like hard opinions on things as you know I don't believe in that because there's this I've been almost not wanting to go to the I think to have a proper I think to have a proper I would do to go down there and talk to them I need to know what's going on need to know the ordinance like all these things I don't have weeks and weeks in the life to have a very solid opinion on what's going on there and I, I just don't have time to do that stuff so I don't know
 
-[00:21:49] Megan: The super and the beast within a within the year so within one year you have to all three so Lisa had us start with the super and I was not a runner so the thought of running eight to 12 miles like gave me an anxiety talk just thinking about it well and then she's probably know you're fine oh yeah she's like we're just gonna go run ten miles cuz she'd be like freaking out wakes up every Christmas thing runs a crisp 50 she just wakes up and runs and I always envied it yeah they're always they're always running oh yeah little did I know like I just had to get out there and do it like I was just I was all anxious about it and I just needed to keep trying and eventually I did it yeah right the first few times I actually have panic attack really like oh yeah cuz she they were so at the Family House as a team we're training and they were like okay in order to feel good about racing you need to run 12 miles I which we all thought
+[00:30:38] Jacob: Kind of cool story with that do you really please stuff just confuses me so like I don't know what to think about it well because my family owns businesses you so as a business owner a lot of people the homeless they just think of it as a negative it's people who are on drugs people who are garbage around people who are
 
-[00:22:46] Jacob: That was me 12 miles and I remember being at work all day like sweating cuz I'm like 12 my I've never ran 12 miles I've never been I think at the time I had only ran like maybe 4 or 5 so the
+[00:31:01] Megan: Alcoholics etc um so part of it when I was at Family House I did a lot with a theming and one night we were doing this like food drive she was telling me about her family� she asked me for my name was and I said Megan she's like
 
-[00:22:57] Megan: Thought of running 12 is just like not happening um so she had us after we got off work all the kids went home we put on our running clothes and we ran from
+[00:31:27] Jacob: You just look so familiar and I was like oh like I mean I live here you know so maybe you've seen me around she's like what's your last name and I'm like uh and she goes I knew it and I'm like thinking what like what um she was my dance teacher when I like five years old not five probably like seven or eight I was in tap and she was my tap teacher and she's like I remember like yesterday you were in your little red dress you were in my students a high step and I looked at her and she's like I have to be like I'm so happy to be here you know I was so happy to be with you Unless and doesn. Doesn't know what to do and it just like broke my heart because I was like I was a teacher for you, and so you know so you obviously not that you would before but if you would have had judgments toward them you would have shattered that you'd be like oh you're not a homeless lady you're my teacher you're my dance teacher like so I think to look at you know all those tents like
 
-[00:23:11] Jacob: Tam-o-shanter to Lake Sacagawea over the
+[00:33:50] Jacob: When you see those tents like oh like oh that looks so trashy well I'd there is
 
-[00:23:15] Megan: Bridge we ran all of Lake Sacagawea back
+[00:33:56] Megan: Who was a child I don't know like I like here I am not giving away all my socks me like here I am not giving away all my socks and walking down there and giving them all my whatever but they're just like the compassion first like some like the comments that I see really make me super uncomfortable and yeah I am on Facebook I honestly don't get on Facebook is a dirty butthole of information it makes me, and then I notice I get I get like heated and I'm just sitting on my couch I'm not even physically in Kelso and I'm reading the status and I just so badly respond and I'm like put your phone away just stop
 
-[00:23:19] Jacob: And I remember getting to Lake Sacagawea
+[00:34:40] Jacob: Reading what I'll do is like and you know some like it will help some people like some of my opinions on Facebook and stuff but a lot of times what I'll be scrolling through I'll be scrolling through in the five minutes and I'll get I'll부�ll get kind of within five minutes a grasp of like here's what people were kind of complaining about
 
-[00:23:21] Megan: Because at that point we're already like I don't know how many miles is that like 4 or 5 and then the lake itself is like three and a half miles and so I'm just sitting here thinking like I don't know and I had no salt so since part indeed I had no cell phone I had no headphones I just had me and like the people I was with that's brutal that's like I started like just like dry heaving I was like I can't do this I can't finish it but the cool part is what I learned like with the team they like all came around me talk to me down like talked me out of it and I continued and guess what I finished I think I was fine in the end like how did you go from like okay the thoughts that you are feeling when you're like there's no way like these people are not making me move like this crazy like when you're thinking that like how did you jump from just they just tell you they're encouraging you they're just we stopped that was part of it so he stopped and I'm literally like breathing hard and I'm crying like I'm absolutely and I
+[00:34:55] Megan: Today and then I'll post something like here's what y'all are doing wrong with your life right yeah like I'm giving opinions and yeah it does help you people but it just kind of like muddies into that whole thing it's just like no but that's good yeah I mean I guess you call people out but I don't now Facebook is a dirty dog definitely the only in a small community and I'm guilty I mean we're all guilty just recently my bike got stolen which was insane I'm like I live in downtown Portland so I'm like homeless person stole my bike and this last couple weeks because of the homeless situation with Facebook I've been like really thinking about it and as much as it sucks and I was mad and angry and all these different things like it was hope I
 
-[00:24:19] Megan: Remember I think it was Lisa and Chelsea were just like one of them was like rubbing my back and the other was like you got this like you're capable like you've never done it before but you're going to do it and you're going to finish and so they just kept like the positive mindset in my head and that was just like okay you got to stop telling yourself you can't like heaven my whole head the whole time I kept thinking I have no escape like I have no way of like calling someone to come pick me up I can't be seen Hey no I was like I there's no way of getting out and so I just kind of like panicked but then they just continued actually I remember Taylor at the time was behind me and he kept every time I tried to stop he just pushed his hand forward and like push just not like push but they really tapped my back just that low reminder like I'm here I know it was like yes I'm
+[00:35:39] Jacob: Hope that someone who took my bike with someone who needed a bike you know I mean it's like I hope the person that took it and I'm just guessing that there was probably a homeless person like that's like their needs of transportation and like they have nowhere to go some kind of like looking forward into the future I guess I'm like man like when I have kids like I
 
-[00:25:06] Jacob: Right behind you I kept running so yeah
+[00:37:01] Megan: Don't know like do I want to I a bunch of segregation in our future but it's it, it sparks me it's so interesting to me and I think like people like Lisa and the Mushians are like incredible and wonderful and amazing for what they do for like pushing just finding new ways to from like pushing like just just finding new ways to teach different types of people because we're all-all so different totally it's funny because my kids like I'm I was like never like just gonna go to public school and now like they're gonna go to school like a hundred percent no they're going to private school no you probably want to homeschool at this point that's true I want to I do have you seen the movie captain fantastic no we'll talk about that like Marvel or something no it's not
 
-[00:25:09] Megan: I finished that and then from there on out it honestly changed my mindset I was like I just ran 12 mile or maim I don't know how many miles that is I don't remember I think it was like around 12 and I kept thinking like I can do this like I got this so then it almost made running easy right it's once we were just talking about for the podcast about running is mental it's totally mental it's well and so we're also we were talking about we're talking about Mount st. Helens you've done Mount st. Helens before yes it'd be cool I would love to
+[00:37:53] Jacob: How Megan sorry just listeners so you know Megan has not seen the Marvel movies okay I won't tell him I've seen Star Wars that part out so you're not so I'm
 
-[00:25:39] Jacob: Do that in the future yes oh that's
+[00:38:04] Megan: I'm anyway okay anyway I'm gonna see for I did yeah see that's a good thing to see because she looks too long at that guy he's not bad yeah I'm right take the we's like he's not problem yeah that's not even that good um so anyway let's just keep expanding on it on the house of different I'll know and I keep going and I keep going and tell me if슷ly one of my absolute favorite is that the schools integrated so there is no like pull I mean you we obviously like to have like one sessions if needed but for the most part it's integrated at public schools you have sped which is special education since completed and they're pretty much never mixed which means like a thing to think um so when I was no like how do I talk to them how do I interact how do I communicate I'm like helping like this kid is different than your buddy but like it was no difference though it's the crazy part like yeah not getting stuck on the fact that they're different they're different than you that's all I don't know I get why we do it because of like education purposes and
 
-[00:25:43] Megan: Definitely yeah that's definitely a I
+[00:40:07] Megan: What not academically but so that part was really cool to me because I had never experienced that even as when I was a kid so
 
-[00:25:46] Jacob: Think I'm going to do it yeah it's definitely mental you know like it's there's no doubt that like just by being in shape and stretching and stuff like yeah I'm a dry enough and my body can handle it for sure it's mental and that I did Mount Saint Helens I think I was 17 my dad didn't tell me so we get your fly we're gonna go camping and we're gonna go on a little hike the next morning so I come
+[00:40:15] Jacob: When I first was like going into speech therapy that was one of the things I was nervous about was like you know how to interact with people who are different for anything like that and just so kids just be kids and like just beas and not have those barriers was really cool same� with like different grade groups so like I mean you have kindergarteners through seventh grade if you really think about that's like a huge age gap and they're all just playing just playing just playing like the if graders and ask about the little ones teaching them how to play teaching them how to do, how to do hopscotch teaching them howלים a tree like and that was the other thing too is in kids could be kids like when you go to public school like I'm in grad school now and one of the, biggest thing is, I can't touch kids like you cannot touch the kid came and poke them like can't hug them you can high five of them but you can't you can't touch them I feel like it we're ignoring I think we because their mom's in a come in there with a finger totally no though it's
 
-[00:26:15] Megan: In like just a Concordia t-shirt shorts and like my running shoes thinking like we're long is a little hike Oh a little did I know he wakes me up like four or five in the morning and he's like we're gonna go to the summit I'm like huh and so he I was so mad at him but it ended up being good I guess he'd give me the socks though my feet were like bleeding because I was in running shoes I wasn't in hiking shoes but no it was good it was hard it's kind of funny I cried for that too but I did it was almost like again it's mentally like great panic and then you're fine but now like
+[00:41:33] Megan: So hard it's hard because with the parents are paying for their kids to be there so, private schools have a little bit more the parents are paying you to like the adult in that time so since you're being paid you can like actually hug a kid or if a kid just like if a little just needs held for a second because they just fall and scrape their knees like give them a big hug and hold them for just a second like it's fine sometimes a little kid need that so when you're at a private school like Family House Academy you're able to do those things and be humans right and so that part was really cool too because I felt like I it actually like get relationships with kids and then they started opening up and then they would start talking and then crazy they started because their problems weren't at the forefront of their mind anymore they're not stuck in flight and flight and the like comfortable man you have all these kids with like behavioral issues schools but part of it's because you put so many barriers on them and then you just send them to like the principal's office or you send them to detention now you get out of school
 
-[00:26:49] Jacob: Those same moments so like at mile seven mile nine whatever it is when you hit that spot where you're like all I want to do is just break down and cry right now like now if you have that thing like for one if you even have it you're like I'm good I already know what I'm capable of I'm capable of way more at least you know and you also like even outside of that after a while after you have a lot of these victories like oh I just did this part race I did the trifecta I did this you stopped even having those little spots that come up we're at mile four at Mile seven you're like I've never in this far this is messed up I'm panicking like this like dread that starts happening yes it starts to go away after you have a little more victories yes so you guys had a lot
+[00:42:39] Megan: Suspension now you're just not a little and they throw out and then the kids just throwing chairs and doing whatever and it's just like this crazy loop I am just I can't stop I'm I'm like you can't touch the kid anymore you can. No,, I mean I'd be, I'd be willing to say that a hug probably saved my entire brain or not life, but like when I was young like there the connection from a lot of things going on a traumatic childhood like teachers I knew things that were going on in depth with my family because she like knew my family through schooling and I mean I'm sure she probably hugged me more times than I can remember and she probably like made me feel very welcome in this world because of it. I mean I don't know I just I just imagine like these like teachers when they know that a kid needs a hug or he's got these things going on at home just a little arm around a hand on the shoulder some serotonin release. When another human touches you is something that is very important. I don't know that's really weird that what that's like a solid rule.
 
-[00:27:29] Megan: Of like a big team building obviously it's a huge community at Family House
+[00:43:53] Megan: Yeah, I mean it's crazy because my I got I remember a baby sitting license from like the American Red Cross and my teacher let me babysit her kid because she knew I was so imagine if someone did that now the teacher would get fired like there's no way you can't like you're letting a kid into your house you can't be with them outside of like. . Dude what's the end goal if we keep adding these like weird laws and these weird like that you can't do this and you can't do this and you can't do this it's like. And our teachers doing it yeah like of course like I'm sure you'll see teachers hugging kids and the problem is you're going to hug the wrong one. So they're teaching I my first quarter into grad school so no of course no I know legally and all that but that's one of the things they're like drilling into our heads do not touch a kid. I just think that it kind of makes us all dance around in fear and I don't think that's the way to raise kids. And then you have these kids who are acting out and just needing like especially if they're
 
-[00:27:32] Jacob: Yes did you guys do like what was different about the way that you guys taught things there then maybe a normal
+[00:44:53] Megan: Not getting that at home imagine they're not�eering we're getting the high I mean you can high five a kid but and then they come to school and like you're the biggest example I can think of is like I get that's a weird situation but can't just be like let it pop up on a per base level. Like yeah man that's like you try to solve the four happens like that's thing to a kid. In fifth grade I it was silent reading and I see it and I farted and it was a lot of I was so devastated like I could if I if I poop my pants at that time I probably would have been ruined and then I can't even get a hug from a teacher after I pooped my pants now.
 
-[00:27:42] Megan: Public school is it yeah there's a lot different oh don't I should have pulled it up on my phone so I think Lisa's like quote and I'm not gonna say it perfectly but it's like if you educate a child you like affect the parent hold on I'm actually gonna pull it up like this yeah it's really it's really good but they're very community based so they're the core of Family House is community service so when you sign your child up for community service you're assigning yourself your family up for community service including the adults so when I was there we had groups and
+[00:45:36] Jacob: Yeah, it's a rough world we're out here living in. Yeah, I did that too. Oh my gosh. So embarrassed and I just like puked everywhere. Like in the middle of the circle. Oh yeah. You're more embarrassed of like. But she physically picked me up and took me to the bathroom and like kept telling me how it's okay and like changed me
 
-[00:28:17] Jacob: They pair you in the very beginning so we have parent meetings and it's like what are you gonna do this year for community service and we each there's like 12 groups all 12 of us have to come up with a community service project can be anything can be the humane society can be picking up trash it can be a sock donation it could be feeding the homeless like a soup drive it can be anything
+[00:46:11] Megan: I'm like thank you. Like don't make me sit in my puke the whole day. Yeah, well because she and that's the thing is she understands like, okay, this just happened.
 
-[00:28:40] Megan: So that part's really cool because you get the kids involved in the community at such a young age and I think they kind of learn a little bit more about it changes their scope of where they live yeah at the time when I was there
+[00:46:19] Jacob: Immediately she's probably like this is terrible. This is gross. This sucks. But what instead she's like motherly if this girl was just. Just hide the fact that her tummy hurt because there's she's devastated by what just happened for sure.
 
-[00:28:53] Jacob: Love overwhelming was a huge topic and
+[00:46:32] Megan: So this teacher knew what was going on.
 
-[00:28:56] Megan: Debate which it's a is for homeless um trying to think it's an organization that basically helps the homeless it's like they do like food and like shell to have shelter and clothing and all that stuff so we were very involved with love overwhelming but the community like Longview coal so as a whole is very Lake it was very debatable I think a lot of people debated on that yeah I think I don't even remember what that was about but I just know that well it's no different now because now I see online it's a lot about the civic circle yeah
+[00:46:34] Jacob: What's best for this kid right now.
 
-[00:29:33] Jacob: Man our town has some really gross views on homelessness or really like a lot of loud opinions a lot of loud jokes a lot of I don't know are a lot of times
+[00:46:36] Megan: You know, it makes me bummed out and one of my mom happy. This was my mom that was like me.
 
-[00:29:45] Megan: A small town community because we're not we're not super small town we're big weird I don't know it's a little hard to explain and I guess with our town but it does have some interesting things when it comes to like hard opinions on things
+[00:46:47] Jacob: This is Megan's room now.
 
-[00:29:58] Jacob: As a whole and you know I don't believe in that because there's this one little thing that they do or yeah I don't know I've been I've been kind of curious I've been almost not wanting to dive there's so much to know about like that homeless camp stuff in town that I that
+[00:46:55] Megan: So Family House is incredible. We could definitely go on about Family House forever But I do want to make sure that we get to Ghana which is kind of extension of Family House I say that's Family House the wonderful Lisa Mesh and led you to Tell me about Ghana Africa Megan. Oh my goodness. So that's another part of Family House They're the all about culture and being globally minded Which is amazing
 
-[00:30:18] Megan: I like I'm like I think to have a proper opinion on it to know what's really going on I would need to go down there and talk to them I would need to know what's going I don't even know the ordinance like all these things I don't have weeks and weeks of my life to have a very solid opinion on what's going on there and then I just don't have time to define that to do that stuff so I don't know I guess that sounds a little naive but I do you really please share it because the stuff just confuses me so I'm like I don't know what to think about it well because my family owns businesses and cost a long view so as a business owner a lot of people the homeless they just think of it as a negative it's people who are on drugs people who are leaving their garbage around people who
+[00:47:46] Jacob: A lot of math most kids are not going to be able to point out the different like countries and continents and all that you think it's because they're like listen You're the lowest you like you this income and in prosperity Goes like you guys are kind of low over here. So like let's just not teach them about it until ing till like you don't you don't want them to be like cool I'm seven and I'm in the poorest country ever or whatever it is you know, yeah No, I don't I don't know the reasoning behind it because the cool part is when we're teaching it the kids loved it
 
-[00:31:00] Jacob: Are alcoholics etc so part of it and
+[00:48:14] Megan: And It's crazy. It's like why aren't we teaching them about the world the world Like we're they're about to go face it in like 10 years and we're teaching them about it right so what we did at Family House is like
 
-[00:31:05] Megan: As a Family House I did a lot with a love overwhelming and one night we were doing this like food drive I want to say this around Thanksgiving time but we were handing out like socks clothes and food us and all the students and I had this lady come up to me and she was
+[00:48:25] Jacob: Each month we would do a different I can't remember basically but it'd be like okay So this month we're doing Africa and we'd have different like rotations where it's like we're gonna teach you about the music about the people about like You, you know, like the types of jobs they have doing what people look like over there Like do they dress the same do they not so very globally-minded kids were learning so many different things
 
-[00:31:20] Jacob: Telling about her family and whatnot and she asked me for my name was and I said Megan she's like you just look so familiar and I was like oh like I mean I live here you know small town so maybe you've seen me around she's like what's your last name and I'm like alum and she goes I knew it and I'm like thinking what like what um she was my dance teacher when I was about five years old or not
+[00:48:53] Megan: Lisa's daughter went to you know, city of
 
-[00:31:46] Megan: Five probably like not five probably like seven or eight I was in top and she was my top teacher and she's like I remember you like yesterday you and your little red dress you're my students a high step Dance Academy Lake and I just looked at her and she's like I have like she has six kids or something like that her husband and she did she got into drugs and now she's homeless and doesn't know what to do and just like broke my heart because
+[00:48:57] Jacob: Oh It's a main school to. Too is the sad part. I should totally know this is it. What's the big one? It's like red and you know, I think It U. S. Are you see a door stop oh They're gonna make fun of me for this later, but she went to a big college and she has her she's a doctor her doctorate in Occupational therapy and so she had the connection her class
 
-[00:32:09] Jacob: I was like I mean she said my mom used to leave me with this person for like an hour you know daily or few times a week great thing is you're like you hear not like a crazy homeless person oh nice you help me someone oh she needs like someone to help her get you know get the whatever she
+[00:49:22] Megan: College level went to Ghana, Africa and They got to spend like a month or something like in a school with children with disabilities and
 
-[00:32:27] Megan: Needs whether that be like shelter or rehab I'm gonna get back on her feet I mean we all get lost I think that what we want to do because we see these homeless tents we see homeless people and it makes us so uncomfortable and it makes us like I don't know what to do about it I honestly it makes us feel guilty for not doing something about it like it's not a normal human trait to walk by someone who's on the ground starving and just keep going and pretend you didn't see them it's weird like our psyche is like that's not cool man what's happening yeah so like when we can that's why we're always judging it
+[00:49:33] Jacob: Most in their culture and like their community
 
-[00:32:59] Jacob: Or we're always having like we want to make jokes on our Facebook about it or we want to do these like weird things because we're very uncomfortable by but I think that when we can remember to humanize the people and you know whether that for me I talk about like trying to look people in the eyes because that's enough to remind you yourself of like okay this is a homeless man you know maybe he's got these this look about him the stench about him this whatever that like our natural things I feel against those yeah but when you can look him in the eye and see that there are real human with a real human soul yeah in there the cures literally personally affected you like it was she was a teacher for you yeah and so you know so you obviously not that you would before but you if you would have had judgments toward them you would have shattered that you've been like oh you're not a homeless lady here my teacher you're my dance teacher like what so I think that it's important to look at you know all those tents like when you see those tents like oh like oh that looks so trashy well inside there
+[00:49:35] Megan: So through that Lisa decided that she was going to also do that and she wanted to take a group of people over and I vividly remember I was standing in the school and she was like, hey, I
 
-[00:33:55] Jacob: Is a human who was a child once who
+[00:50:05] Jacob: Did it happen? We did like car washes donations like we did a go fund me like talking about it because what was cool We which we, by the way, we raised money enough money to get over there So I mean I paid for like some things but not like my air fair and like where we stayed was not very expensive so
 
-[00:33:57] Megan: Would love who would love probably to have a little heater next to them maybe even some non wet sucks okay it's hard again like I don't know like I like Here
+[00:50:23] Megan: Through the donations and Car washes and all that we were able to go So I get over to Ghana and we stayed at I cannot do not quote me When I was over there either but it's a school for children with disabilities
 
-[00:34:09] Jacob: I am not giving away all my extra socks and walking down there and giving them all my extra food you know whatever but they're just like it the compassion first like some like the comments that I see really make me super uncomfortable and yeah I had to quit reading them on Facebook I honestly don't get on Facebook is a dirty butthole it makes me so uncomfortable yeah and then I know it's like I get like heated and I'm just sitting on my couch I'm not even physically in it also and I'm reading this status and I just want to like so badly respond and I'm like put your phone away just do what I'll do is like and you know some like it will help some people like some of my opinions on Facebook and stuff but a lot of times what I'll do I'll be scrolling through I'll be scrolling through in the five minutes and I'll get I'll get kind of within five minutes a grasp of like here's what people were kind of complaining about today and then I'll post something like here's what y'all are doing wrong with your life right like I'm givin opinions and yeah it does
+[00:50:38] Jacob: You have to try it? Which is like I want to say it was like
 
-[00:35:02] Jacob: Help you people but it just kind of like muddies into that whole thing it's just like that's good yeah I mean I guess you
+[00:50:53] Megan: 18 hours flight
 
-[00:35:10] Megan: Call people out for that stuff but I don't know Facebook is a dirty dog definitely and especially in a small community and I'm guilt I mean we're all guilty like so just recently my bike stolen which was insane and of course I'm like I live in downtown Portland so I'm like a homeless person stole my bike and I was complaining in this last couple weeks because of the homeless situation with Facebook I've been like really thinking about it and as much as it sucks and I was mad and angry and all these different things like it was hope
+[00:50:57] Jacob: Yeah, we did a direct flight from Portland to Amsterdam
 
-[00:35:39] Jacob: I hope that someone who took my bike with someone who needed a bike you know I mean it's like I hope the person that took it and I'm just guessing that there was probably a homeless person like that's like their needs of transportation for and like they have nowhere to go so I'm kind of like oh like as much as like not she's hidden
+[00:51:02] Megan: And then we had like a huge layover in Amsterdam and went from Amsterdam to Ghana which was like another eight or nine hours So it was like a really long, I was like a really long, but once we got there we stayed at the at the school Um, pass through was the guy is the guy who like is the director who owns it and we get there he picks us up he brings us to the school shows us where we're staying We had it was crazy watching how the students live like no running bathroom no running water for the students
 
-[00:35:57] Megan: Goes to steal people's stuff but I don't
+[00:51:48] Jacob: Basically
 
-[00:36:00] Jacob: Know I just think about that I'm like okay at least good of my bike getting stolen I hope that person truly needed a bike my way of transport you know Megan I hope that what happened was this guy stole your bike but he had his friend Rodney who's also homeless guy he's down by the river and he's been making jumps for three days and they're like dude the jumps are almost done you got to go get a bike and he's like rock paper scissors Rochambeau Rodney finishes up the jumps well whoever stole your bike stole your bike they've been jumping it for the last few days that's what I like to think I'm just doing some jobs jumping
+[00:51:55] Megan: But we get there and Oh, it was just so crazy. It was so crazy to see We get there and part of what we were doing over there was we were going to teach because obviously that's what that's what Lisa does And I was going to work with his pastor Joe's wife was a physical therapist or she is as a physical therapist And you kind of see like the like maybe speech therapy or maybe physical therapy maybe I don't know I was still kind
 
-[00:36:34] Megan: We're all out here just trying to catch some air you know so Family House we were talking about Spartan Race and OS of course just how different Family House is from regular public schools you're giving us some examples on that let's keep it spinning a little bit on that because there's so much different about Family House I just really love that I think that looking forward into the future I guess I'm like me I'm like when I have kids like I don't know like do I want to go to public schools or I want like I stress about these things that don't exist yet but so I'm like what could the future of schools as a whole look like could we have a bunch of different kinds of schools can we have like oh my son is this type of thinker so he goes to this type of school like not that I really want a bunch of segregation in our future but it's it sparks me it's so interesting to me and I think like people like Lisa the motions are like incredible and wonderful and amazing for what they do for like pushing like just
+[00:52:44] Jacob: Yeah, so that's their seat No paper no pencils no they have a whiteboard in there and they'd give me maybe a white or dry erase marker, but maybe not might not have that
 
-[00:37:29] Jacob: Finding new ways to teach different types of people because we're all so for totally it's funny because my kids like I'm my future kids I was like never question like just go to public school and now like they're gonna go to private school like kind of resigning no they're going to private schools no you probably want to home-school at this point that's true I want to do it have you seen the movie Captain Fantastic No we'll talk about something no
+[00:52:58] Megan: How do you teach like Like how it's like how like how so we gotta sit on a few like of the teachers classrooms and take notes and see like what they do And how they do in a lot of it's me A lot of it's through dance a lot of it's through songs a lot of it was through you repetition and chanting and every now and then they would have I Like a dry erase marker so you could like physically show them and But it was just such a crazy experience the kids wore the same clothes every day They would wake up in the morning and have breakfast together Which the students made their own meals pretty much they had one chef, but everything was a fire So they all sleep there too. Yes, so in Africa kids with disabilities are kind of like Just put away like they so over in Ghana they aren't
 
-[00:37:52] Megan: It's not sorry
+[00:53:54] Jacob: Like really a part of society as much Parents just kind of drop them off there and then That's it like So classes they kind of learn basically they're gonna learn like the basics to be able to be a part of society So they're learning some of the basic like how to do addition and how to do subtraction and how to read and write a little bit But they're also going to teach students how to like a trade is what they called it. So in Africa they. They would teach like Maybe how did you beadwork?, so then I can make jewelry and sell jewelry or they're going to teach them how to
 
-[00:37:54] Jacob: Megan just listener so you know Megan has not seen the Marvel movies okay I won't tell them I've seen Star Wars I'll edit that part out so you're not so embarrassed yeah anyway okay anyway I'm
+[00:54:28] Megan: To some of
 
-[00:38:10] Megan: The Aussie Thor I did see that's a good thing to see oh yeah I need to get rid of Thor though because Shaylee she looks too long at that guy he's not bad to look at yeah like a bright taking just a fist
+[00:54:33] Jacob: It was insane So then they're teaching them how to use their toes to like make jewelry or how to catch fish or how to do things different Your feet but like that's I mean hey, I can't get to be with my toes like Watching it. I was like all these kid have just so much like great and just Watching them every, every day they wake up Help with their food go to class learn a few things learn a trade Go have lunch have like free time outside, which was like a Soccer field that was made like dirt with no net. It just had like the post to their shoes. No
 
-[00:38:25] Jacob: Fight no problem yeah whatever he's sexy smell you am I good um yeah so anyway
+[00:55:12] Megan: I mean kind of but not really
 
-[00:38:32] Megan: Let's just keep expanding on how it's
+[00:55:15] Jacob: Yeah Were they? What was your like grateful? For this level like were they happy to learn like would they what was so great full and so just like Excited about like life and no complaining like no complaining No, come like they were happy to do their laundry and they would take care of each other So like some of the kiddos who are in wheel chairs who the who can push themselves like the other students would like Okay, like time for lunch and the kids would just like push, one another and go to lunch and eat You know You know
 
-[00:38:36] Jacob: Different I'll stop interrupting you know and I keep going down the rabbit hole so tell me if I'm giving that's what a vesicle thing is just conversation so true um the other see I think uh actually one of my favorite I just hit the mic sorry one of my absolute favorite things is that the school's integrated so there is no like pull I mean you we pull students obviously like to have like one-on-one sessions if needed but for the most part its integrated so at public schools you have sped which is special education and in general education it's completely separated and there pretty much never mixed which is insane to me it's like insane to think about um so when I first started working there I could not believe like watching these other students interact with kids with special needs like it was normal it was normal like there was no like how do I talk to them how do I interact how do I it was
+[00:55:48] Megan: I mean
 
-[00:39:34] Megan: Just like an average day like playing
+[00:56:00] Jacob: So that
 
-[00:39:37] Jacob: Communicating like helping late this kid is different than you buddy but like it's like there was no difference though it's the crazy part all right
+[00:56:02] Megan: I mean
 
-[00:39:46] Megan: Yeah not getting stuck on the fact that they're different yeah they're different than you that's all like in public schools no totally and I feel like in public schools like kids don't know how to interact with anyone who's different than them they're just like stuck in their own bubbles which is I
+[00:56:04] Jacob: I mean
 
-[00:40:03] Jacob: Don't know I mean I get why we do it because of like education purposes and whatnot and academically but so that part was really cool to me because I had never experienced that even as when I was a kid so when I first was like going into speech therapy that was one of the things I was nervous about was like how do you know how do you interact with people who are different than yourself or anything like that and just so watching kids just be kids and like just be themselves and not have those barriers was really cool same with like
+[00:56:06] Megan: I mean
 
-[00:40:33] Megan: Different grade groups so like I mean
+[00:56:08] Jacob: I mean
 
-[00:40:36] Jacob: You have kindergarteners through seventh eighth grade if you really think about that's like a huge age gap and they're all just playing just fine just playing like the eighth graders are playing basketball at the little ones teaching them how to play teaching them how to do hopscotch teaching them how to climb a tree like and that was the other thing too as kids could be kids like when you go to public school like I'm in grad school now and one of the big thing is I can't touch kids like you cannot
+[00:56:40] Megan: Of the scrub brush every 17 days.
 
-[00:41:04] Megan: Touch the kid came and pokum like can't
+[00:56:42] Jacob: Yeah, or like I'm one of those everyday showers and I like my coffee in the morning and I had to learn not to shower every day and I had to learn the food was really hard,
 
-[00:41:07] Jacob: Touch them can't hug them you can high-five them but you can't you can't touch them I feel like it weird ignoring evolution at this point we're just like hey dude weird we need to like kids need
+[00:56:59] Megan: Because everything was cooked over for a fire, so it kind of had a charcoal-y burnt taste. And they ate a lot of, if they gave you fish,
 
-[00:41:17] Megan: To understand like rough-and-tumble play the boys play is like kind of an important thing yeah and so what Family House kids give you kids they could climb the tree like what you could you imagine if we like kids climb a tree in a public school like they fell and break the iron gate and like getting sued what's because yeah because their mom's gonna come in there with your finger totally know though it's so hard it's hard because with so like with
+[00:57:09] Jacob: So it had the eyeballs in the head. That's the best part. Oh, it was real rough I at all? Like any sort of, like, sort of, like, is so different from life that, like,
 
-[00:41:36] Jacob: Private schools the pit like the parents are paying for their kids to be there so private schools have a little bit more leeway because the parents are paying you to be like the adult in that time so since you're being paid that you can like actually hug a kid or if a kid just
+[00:57:42] Megan: I feel uncomfortable being so out of this.
 
-[00:41:54] Megan: Like if a little just needs held it for a second because they just fell and scraped it and you just like give them a big hug and hold them for just a second like it's fine sometimes a little kid need that so when you're at a private school like Family House Academy you're able to do those things and allow people to be humans right and so that part was really cool too because I felt like I could actually like get relationships with kids and then they started opening up and then they would start talking and then crazy they started learning because their problems weren't at the forefront of their mind anymore they're not stuck in frightening flight oh man you have all these kids it's like behavioral issues at public schools but part of it's because you put so many barriers on them and then you just send them to like the principal's office or you send them to detention now you get out of school suspension and now you're just not even in a school then they throw you back in and then the kids just look throwing chairs and doing whatever and it's just
+[00:57:44] Jacob: Do you remember any of those? I never had a panic attack and I never cried.
 
-[00:42:48] Megan: Like this crazy loop cycle dude I am just I can't stop I'm stuck on the fact that like you can't touch the kid in it yeah I guess you can't give him like a hug like so okay dude so my I mean I'd be willing to say that like a hug
+[00:57:47] Megan: I was never, like, oh, I need out. Like, I need to go home. Don't take this the meanest way, but, like, I'm surprised you didn't. No. No. It's different. I'm sorry if that was rude action. No, no, no, no. I didn't take it as rude.
 
-[00:43:02] Jacob: Probably like saved my entire brain or my life like well okay so like when I was young like there was you know probably many times where I wouldn't feel like the connection from a lot of things going on a traumatic childhood like teachers I remember nurses I remember Michelle Murie who is the miss Maria council high school she was she was the PE teacher when I was in elementary school and she knew things that were going on in depth with my family because she like knew my family through schooling and I mean I'm sure she probably hugged me more times than I can remember and she probably like made me feel very welcome in this world because of it I mean I don't know I just I just imagine like these like teachers when they know that a kid needs a hug or he's got these things going on at home just a little arm around just a hand on the shoulder some serotonin release when another human touches you it's something that is very important that I don't know that's really weird that way that's like a solid rule yeah I mean it's
+[00:58:00] Jacob: Because I think because you, I mean,
 
-[00:43:55] Megan: Created my I got I remember sixth grade I got my babysitting license from like the American Red Cross and my PE teacher let me babysit her kid because she knew I was so excited could you imagine if someone did that now but the teacher to get fired like there's no way you can't like you're letting a kid into your house you can't be with them outside of like what's the end goal if we keep adding these like weird laws and these weird like you can't do this and you can't do this and you can't do this it's like it's right doing it yeah like of Cour like I'm sure you'll see teachers hugging kids the problem is they're gonna hug the wrong one so they're teaching I'm only my first quarter undergrad school so don't like no of course no I know legally and all that but that's one of the things they're like drilling into our heads you do not touch a kid I just think that it kind of makes us all dance around in fear and I don't think that's the way and then you have these kids who
+[00:58:02] Megan: I didn't have Wi-Fi.
 
-[00:44:43] Megan: Are acting out and just needing like especially if they're not getting that at home imagine if they're not getting those hugs at home or getting the height I mean you can high-five a kid but and then they come to school and like you're the biggest example I can think of is like a little so from an elementary school and a little kindergartner has an
+[00:58:03] Jacob: I didn't have my phone.
 
-[00:45:00] Jacob: Accident I can't help them I can't help them I have to literally say go to the bathroom I get that's a weird situation but can it just be like let it let it pop up on a per basis level again yeah it's like you try to solve before it happens like that's such a devastating thing to a kid I remember one time in fifth grade I it was silent reading and I sneeze and I held my nose and I farted and it was a loudest fart ever in the whole class laughter me in it I was so devastated like I could if I if I pooped my pants at that time I probably would have been ruined and then I can't even get a hug from a teacher after I poop my pants now yeah it's a rough world we're out here living in yeah I did that too I would not poop I didn't even know I was mrs. King I think
+[00:58:04] Megan: I didn't have a computer.
 
-[00:45:49] Megan: Calvary something like that but I puked
+[00:58:05] Jacob: I didn't have my car. I didn't have.
 
-[00:45:52] Jacob: We're in circle time reading a story and I was like so embarrassed to say that my stomach hurt oh my god so embarrassed and I just like cute everywhere in the middle of the circle oh yeah like you're more embarrassed away she physically picked me up and took me to the bathroom and like kept telling me how it's okay and like changed me at the time like thank you like don't make me send my puke the whole day yeah well because she and that's the thing as she understands like okay this just happened the immediately she's probably this is terrible this is gross this sucks but what instead she's like mother if this girl was just willing to hide the fact that her tummy hurt because she was so embarrassed she's devastated by what just happened for sure so this teacher knew what was going on what's best for this kid right now take care of him you know it makes me bummed out and was my mom happy yeah don't make me send my puke for three hours until she can get there from work yeah everybody just go outside Megan's room
+[00:58:07] Megan: I mean, I had money, but I didn't, I mean, I didn't have money because it wasn't in. I forget what it's called, but whatever I forgot sitting and then at your desk sitting, like, you were doing physical activity all� all day long. Like your, yeah, your life is just. Your life is just the work. No. And
 
-[00:46:49] Megan: Now so Family House is incredible we could definitely go on about Family House forever but I do want to make sure that we get to Ghana which is kind of extension the Family House I know the wonderful Lisa my son led you to tell me about Ghana Africa Megan oh my goodness so that's another part of Family House they're all about culture I mean globally minded which is amazing
+[00:59:14] Jacob: It's like, you know, it's all taken from you and you're in this, but you, you're surrounded by these kids who are just so amazed by everything.
 
-[00:47:18] Jacob: And something which I didn't actually
+[00:59:30] Megan: And so that was
 
-[00:47:22] Megan: Know until I got to working at family house which is crazy because I went to high school and got my diploma - but did you know they don't teach like I think it's world history until you're in high school I want to say like you don't learn about anything until you're older or it's not I can't remember the exact
+[00:59:35] Jacob: Taken from you and you're in this
 
-[00:47:41] Jacob: Term I'm a teacher but you basically they don't teach at a young age they aren't teaching kids about like the world like if you pull out a map most kids are not be able to point out the different like countries and continents and all that do you think it's because they're like listen you're the lowest
+[00:59:40] Megan: Part.
 
-[00:47:55] Megan: You like as far as like income and
+[00:59:48] Jacob: And then the other part,
 
-[00:47:59] Jacob: Prosperity it goes like you guys are kind of low over here so like let's just not teach them about it until like you know what you don't want them to be like cool I'm seven and I'm in the poorest country ever or whatever it is you know yeah no I don't I don't know the reasoning behind it because the cool part is when we were teaching it the kids loved it I know it's crazy it's like why aren't we teaching them about the world like where they're about to go face it in like ten years why aren't we teaching them about it right so what we did at
+[00:59:50] Megan: I don't know,
 
-[00:48:24] Megan: Family House is like each month we would
+[00:59:51] Jacob: I don't know,
 
-[00:48:26] Jacob: Do a different hmm content I can't
+[00:59:52] Megan: I don't know, I.
 
-[00:48:30] Megan: Remember basically but would be like okay so this month we're doing Africa and we'd have different like rotations where it's like we're gonna teach you about the music about the people about like you like the types of jobs they have like what they're doing what people look like over there like do they dress the same do they not so very globally minded kids
+[00:59:54] Jacob: I don't know. I,
 
-[00:48:49] Jacob: Were learning so many different things
+[00:59:56] Megan: I don't know. I know that I've been down to a couple of places where it's, it'll be like six people
 
-[00:48:52] Megan: Lisa's daughter went to University of it's a main school - is the sad part I should totally know this is it what's the big one it's like red and yellow like us but she went to a big college
+[01:00:17] Jacob: People on a moped sort of thing. Was it like that? Yeah. And like their quote on quote freeways, like selling things on the freeway, like carrying on top of their heads, selling you jewelry and selling you bowls and selling you different things. So it's just very different, butertime, it was still a city. Once you got out of like a, a, the roads, there was no stop lights, there's no stop signs. There's no speed limit. There's no, I don't even remember if there was a yellow line is just go, just go. You know what's crazy about that is the how dare you governmentותר of us, how did the line on the ground for us? We don't know where exactly to stop like all these little things. Yeah. Not that everybody's like that, but it is, but it is so like different cultures and you seeing them firsthand. It's so crazy. And it's such a reminder of, you know, like, they're happy. They're a lot of different kind of happy. The way that we live over here. Different kind of happy. Different kind of happy. Different kind of happy. I think a lot of times we're definitely afraid of losing what we have, but it's kind of like, you know, sometimes I think from my experience,
 
-[00:49:14] Jacob: And she has her she's a doctorate in
+[01:01:45] Jacob: Losing what you have is sometimes a good thing. For sure. Yeah. I think I do, I'm just, I don't know, I think that a lot of our mindset over here in the Western world and in cities like ours is going to have have to kind of start, we're like, a little bit start thinking, a little more like people and God. Oh, for sure, because I think when I was there, I've never journaled so much. Much.
 
-[00:49:17] Megan: Occupational therapy and so she had the
+[01:02:07] Megan: Which I don't do here.
 
-[00:49:20] Jacob: Connection with her class and college
+[01:02:09] Jacob: What do you remember what you wrote about? Well, I got a journal I wanted to write about,
 
-[00:49:23] Megan: Level went to Ghana Africa and they got to spend like a month or something like in a school with children with disabilities and be like fully immersed in their culture and like their community so through that Lisa decided that she was going to also do that and she wanted to take a group of people over and I vividly remember standing in the school and she was like hey we're going to Ghana Africa and like a month like 30 days one come and I like room I looked here and I was like huh I was like how did like how does one do that financially in 30 days like how it's a
+[01:02:13] Megan: Which I still have, I should pull I'm distracted by me here, so I just don't I'm a TV addict, so I have to like turn that thing off.
 
-[00:50:00] Jacob: Funny thing that you asked me about no way is that gonna happen oh did it happen um we did like car washes
+[01:03:33] Jacob: I'm like, totally obsessed podcast. I'm always pushing podcasts on people like now I have one, so I'm done when pushing on people, but it's the long form conversations You realize that you're like, Oh yeah, nobody talks like this anymore.
 
-[00:50:09] Megan: Donations like we did a GoFundMe like talking about it because what was cool we which we by the way we raised money enough money to get over there so I mean I paid for like some things but not like my airfare and like where we stayed was not very expensive so through the
+[01:03:44] Megan: Nobody lets each other talk.
 
-[00:50:24] Jacob: Donations and car washes and all that we
+[01:03:46] Jacob: Nobody has opinions. Whenever we hear two people having conversation, it's either like a fake, like a show or like some something
 
-[00:50:28] Megan: Were able to go so I get over to Ghana and we stayed at I cannot do not quote me I couldn't say when I was over there either but it's--but it's a school for children with disabilities you have to try it what's the name it's like mess so beste or something like a bad dress than em but we get over there which is like I want to say it was like 18 hours flight I was crazy good morning one flight yeah we did a direct flight from Portland to Amsterdam which was 10 hours and then we had like a huge layover in Amsterdam and went from Amsterdam to Ghana which was like another eight or nine hours so it was like a really long flight but once we got there we stayed at the at the school umm Pastor Joe was the guy is the guy who like is the director who owns it and we get there he picks us up he brings us to the school shows us where we're staying and whatnot we had it was crazy watching how the students live like no running bathroom no running water for the students no not a whole
+[01:03:53] Megan: Made up or it's a debate. It seems like. And it's like, what about just two people who maybe they're different, maybe they're friends, whatever, just having conversation about that everybody.
 
-[00:51:39] Jacob: Lot like they just they live in like beds with like these you know those like beds you used to stay at like it's this best like those plastic mattress II type things when you go to camp like if you pee the bed you can just basically but still use but we get there and oh it
+[01:04:04] Jacob: Yeah, and I think P. P. off in the beginning because they're like, podcast like that just. I'm like, sounds like a lot of work and I have to find a time to do it. I like when I first moved to, Portland, I had to commute, which is one way was. was like 45 minutes with the traffic and then the other way
 
-[00:51:59] Megan: Was just so crazy it was so crazy to see we get there and part of what we were doing over there was we were gonna teach because obviously that's what that's what Lisa does and I was gonna work with his jet Pastor Joe's wife was a physical therapist or she is a physical therapist and so I was gonna be able to kind of see like maybe speech therapy or maybe physical therapy maybe I don't know I was still kind of learning at that time but we get over there and we get into
+[01:04:24] Megan: Was like two hours with traffic.
 
-[00:52:23] Jacob: The classroom and oh my gosh they have
+[01:04:26] Jacob: And so I was like,
 
-[00:52:26] Megan: These old desks that were remember the desks when you're in like first grade that how they're either had like the lift table or like a little cubby
+[01:04:27] Megan: I got very
 
-[00:52:34] Jacob: Yeah is it like attached to the chair - yes so they had just a bunch of those for kids who have wheelchairs for kids
+[01:04:35] Jacob: Tired of, you know,, I think I told you I'm gonna do no YouTube.
 
-[00:52:41] Megan: Who can't walk for kids who yeah so
+[01:04:51] Megan: I'm gonna quit YouTube.
 
-[00:52:45] Jacob: That's their seating no paper no pencils
+[01:04:52] Jacob: Okay, yeah, when you said that, I was like, no YouTube. So that's crazy for me. I listen to so much YouTube. I'm not so much of a watcher as I am. Yeah, I was thinking more like the podcast aspect.
 
-[00:52:49] Megan: No they have a whiteboard in there and they'd give me maybe a white or dry erase marker but maybe not might not have that hmm how do you teach boy
+[01:05:18] Megan: And my like YouTube algorithm fucking bots have me so figured out that like my within the first 10 suggestions on my- YouTube channel is going to be something that I'm like, oh that. Listen, I want to check that out. It's very, it kind of sends my attention novelty every morning. And I just kind of want to take all the crap that I've been learning and finish learning it for a month and not have you too.
 
-[00:53:03] Jacob: Like how like how so we got to sit down and on a few like of the teachers classrooms and take notes and see like what they do and how they do it a lot of its through dance a lot of its through songs a lot of it was through you know just repetition and chanting and every now and then they would have like a dry erase marker so you could like physically show them and but it was just such a crazy experience the kids wore the same clothes every day they would wake up in the morning and have breakfast together which the students made their own meals pretty much they had one chef but everything was cooked over a fire wait so did they
+[01:05:44] Jacob: How are you going to continue learning it?
 
-[00:53:42] Megan: All sleep there too yeah the same stuff so in Africa kids with disabilities are kind of like just put away like they sew it over in Ghana they aren't like really
+[01:06:17] Megan: It's not
 
-[00:53:55] Jacob: A part of society as much and the parents just kind of drop them off there and then that's it like part of it is once so class is they kind of learn basically they're gonna learn like the basics to be able to be a part of society so they're learning some of the basic like how to do addition and how to do subtraction and how to read and write a little bit but they're also gonna teach the students how to it's like a trade is what they called it
+[01:06:28] Jacob: Just like whatever YouTube's algorithm feeds me. Yeah. So it's I. That was such a question I asked you too. I'm like, oh you don't have YouTube. How are you going to learn a book? Well, I mean, dude, dude, I used to be very much addicted to social media and that's something I'm getting rid of that again too.
 
-[00:54:19] Megan: So in Africa they would teach like maybe how to do beadwork so then they can make jewelry and sell jewelry or they're gonna teach them how to some of the kids who didn't couldn't use their hands they would actually be beating with their feet it was insane so then they're teaching them how to use their toes to like make jewelry or how to catch fish
+[01:06:45] Megan: And it's word that doesn't associate with me. I hate that word, but after that we're addicted to.
 
-[00:54:39] Jacob: Or how to do it's just different with your feet but like that's I mean hey I'm bead with my toes watching it I was like these kid have just so much like grit and just watching them every day they wake up help with their food go to class learn a few
+[01:06:55] Jacob: No, dude, my dad used to smoke meth. And so when I think of addiction I'm like, me saying addiction next to social media is the dorkiest thing I've ever said today. So everyone, everyone's addicted to social media. I mean, I'm addicted to social media.. We're all very addicted to many things.
 
-[00:55:00] Megan: Things learn a trade go have lunch have
+[01:07:09] Megan: Of you just learn how our brains work. I guess. It's how it is. But as you get older, you start to have experiences. That like, you know, change your, you start to go to places like Ghana and see the world from different eyes, from different views, from different heights, from different temperatures, everything.
 
-[00:55:04] Jacob: Like free time outside which was like a soccer field that was neat like dirt with no net it just had like the post do they have shoes no I mean kind of but not really yeah but were they what was really grateful is gratefulness level like where they happy - well like would they what was so grateful and so just like excited about
+[01:07:26] Jacob: Just experiencing the world through different lenses. It's important. I'm. Glad that we've stumbled into the, the learning world of podcasts.
 
-[00:55:25] Megan: Like life and no complaining like no complaints like they were happy to do their laundry and they would take care of each other so like some of the kiddos who are in wheelchairs who can't push themselves like the other students would like okay like time for lunch and the kids would just like push one another and go to lunch and eat just be happy you'll be late No so they didn't have like as much worry I fell but I mean it was definitely a different like level of learning in a different level of like what was expected in Ghana versus here
+[01:07:35] Megan: Yes. So, Ghana was amazing. One of the many. Many things that you did with Family House.
 
-[00:56:00] Jacob: So that part was cool just watching it was life-changing to watching students like go get their own water like go get their own food go home do their own and each other's laundry every day and then like I mean I'm doing laundry for them is actually taking laundry and then get water scrub it with like a brush or sponge and then go hang it to dry it's not like you registering in a dryer yeah like we get behind the laundry like aha all these clothes I'm so gonna wonder with all my clothes it's so bad and then we like you and then you have experiences like that really oh yeah you could just have one shirt that's actually a pillowcase with holes cut out yes and this you just wash it with a scrub brush every 17 days yeah or like I'm just even like I'm one of those like every day showers and like I like my coffee in the morning and oh I had to learn not I mean not to shower every day and I had to learn the food was really hard because everything was cooked over like a fire so kind of happened like that Charlie burnt taste and they ate a
+[01:07:42] Jacob: You have obviously continued your career, your, your. Learning. And you're going back to school now, right? I am. I'm back in graduate school, which I said I would never do. I was always like, I'm never going to go back to school. Why'd you say that?
 
-[00:57:05] Jacob: Lot of like if they gave if they gave you fish you got the whole fish so I had like the eyeballs and the head it's the best part oh it was real rough I mean what we're used to is it's so
+[01:07:56] Megan: I was so done with school. And when I graduated in 2015,
 
-[00:57:18] Megan: Incredibly different like yeah it's just downright different did it change any of your views like cuz of course you knew when you're going or like here on the flight or like this is gonna mean wow like this is this is gonna throw me for a loop I know that I'm not going to have the I'm used to having blah was there was there any times when you're over there where you're like this like a panic attack moment at all like any sort of like this is so different than my life that like I feel uncomfortable things are this I never had a panic attack and I never cried I was never like hanging out like
+[01:08:00] Jacob: I had done it for five years. I switched my degree. Or yeah, I switched my degree twice.
 
-[00:57:49] Jacob: I need don't take this the meanest way
+[01:08:05] Megan: I was just done. I was like, oh, God, like it's just, it's a lot of money. It's a lot of effort. It's a lot of time. And then at the time, I was like finally.
 
-[00:57:52] Megan: But like I'm surprised you didn't I know
+[01:08:13] Jacob: Making money. And able to travel a little bit more with my friends and do things like music festivals and, you know,
 
-[00:57:54] Jacob: This guy you know I don't I'm sorry if that was rude I no I didn't take it as rude I because I think of the same things you know I mean I didn't have Wi-Fi I didn't have my phone I didn't have a computer I didn't have my car I didn't have I mean I had money but I didn't I mean I didn't have money because it wasn't in I forget what it's called but whatever I thought about what the currency is back anyons I didn't have the things so it was just very but you know what's funny is I almost got a sense of everything was just so simple
+[01:08:20] Megan: Small things like beach trips and all these different things with you guys. And then I moved in with you and Shay. And I just was like, I love being like an adult.
 
-[00:58:26] Megan: And we called it Ghana time we Lisa bring you and I were always like Ghana time it's like everything's on Ghana time there was no like get up at 6:00 in
+[01:08:29] Jacob: Like it's just so nice to not. Things. Yeah. Like I just, going to school was going to like alter
 
-[00:58:35] Jacob: The morning go work out go you know hurry rush like and honestly throughout the day it was kind of like work out like you weren't in a car sitting and then at your desk me like you were doing physical activity all day long like you're at
+[01:08:36] Megan: Kind of being an adult. So in my head I was like, and I'm done. I don't want to go back. And then in my head, I was thinking like I'll get this great job.
 
-[00:58:50] Megan: Work no and if you were sitting because it was really relaxing tea was almost kind of like a break I mean like we're so used to just being so I but I thought almost want to say mental break and then like you'd be playing soccer and then you could just like sit down for a minute and not have anything to think about I couldn't look at my phones didn't have Wi-Fi distracted no didn't have TVs so there's nothing like no TV to watch can't watch you're forced to just be here it's like if you don't like here well you better deal with that because that's all there is yeah fully know me I mean no headphones no music no nothing like it's just all taken from you and you're in this but you're surrounded by these kids who are just so amazed by everything and so that was rewarding and then you're surrounded by like actual conversation so that's rewarding and then just buy a whole new culture so then like some of the fun part too was like the posture would drive us around and show us the different communities and the different areas of where we were in Africa I can't wear n't we stayed in Ghana but we were
+[01:08:44] Jacob: You know how you always think you can get this great job speck. And you're just going to keep like getting promote.슷 promote it promote it. And they'll have all the money in the world. And life is figured out. And never have to have that worry. It'll be happy. You know, nothing will go wrong with that job.
 
-[00:59:51] Megan: I think two hours out of a crawl which is cut more City that's like where we flew into is where the airport is but that was more like rush city life but it was there city life is very different from our city life like is it like what do they like
+[01:08:57] Megan: But whating. like Family House was so for you like it was such an intense great experience. And I think it taught you like so much at that time. But I think even like a couple years after. After Family House, you're now like, yeah, these are things that I super valued about that place. Like these are things that I do want around.
 
-[01:00:08] Jacob: They have electricity right yes okay I know that I've been to a couple places where it's it'll be like six people on a moped sort of thing was it like that yeah and well unlike their quote-unquote
+[01:09:32] Jacob: Yeah. What I didn't realize what was happening being younger.
 
-[01:00:19] Megan: Freeways like people would be selling things on the freeway like carrying on top of their heads like selling you jewelry and selling bowls and selling you different things so it's just very different but I mean it was still a City once you got out of like Accra on the city like the roads were just roads there was no stoplights there's no stop signs there's no speed limit there's no
+[01:09:36] Megan: I did not realize I had a mentor.
 
-[01:00:42] Jacob: I don't even remember if there was a yellow line it's just go you know what's crazy about that is the difference between that and what we have here is if we didn't have those things we would we'd be like how dare you government not take care of us how dare you not paint the line on the ground for us we don't know where exactly to stop like all these little things yeah not that everybody's like that but it is so like learning about the different cultures and I mean you seeing them firsthand it's so crazy and it's such a reminder of you know like we're talking about just different mindsets when you like seeing a homeless person like you the things that you're used to the things that you accidentally take for granted as your regular life is there's entire people who have never even seen those things they've never heard of them they've never had them in
+[01:09:39] Jacob: Like I had no idea.
 
-[01:01:29] Megan: There they're just as well they're happy I know they're a different kind of happy this the way that we live over here is not the only way to live and I think a lot of times we're definitely afraid of losing what
+[01:09:41] Megan: Like Lisa was my boss.
 
-[01:01:41] Jacob: We have but it's kind of like you know sometimes I think from my experience losing what you have is sometimes a good thing yeah I think I'm just thinking forward into I don't know I think that a lot of our mindset over here in the Western world and in cities like ours is going to have
+[01:09:44] Jacob: She was my friend. Like I trusted her. Obviously, like she's like shaping me into an adult. Like she's giving me all these opportunities like out of my comfort zone teaching me doing all these amazing things.
 
-[01:01:57] Megan: To kind of start relaxing a little bit thinking a little more like people and got it oh for sure cuz I think when I was there I've never journaled so much I was able to journal which I don't do here what do
+[01:09:58] Megan: And then there was times I fought it.
 
-[01:02:09] Jacob: You remember what you wrote about what
+[01:10:00] Jacob: Don't get me wrong.
 
-[01:02:10] Megan: Well I got a journal I wanted to write about I which I still have I should pull it out because it'd probably be really interesting to read now I wanted to write about like my day every single day so that way I could remember like when I looked back what I did every day so i journaled every day and i think i
+[01:10:01] Megan: We had conversations.
 
-[01:02:25] Jacob: Read four books while I was there and one month it just kinda crazy cuz now it takes me like four months to finish a book but it's because it's not because I it's because I'm not making the time for it I'm distracted by everything else that's around me here so I just don't make the time play well our life always gets so much momentum no we were always just caught up in it yeah I do want to do that and I'm going to and it's been three years and you forgot it existed totally which I like the shift because I feel like we're starting to get more intentional because I am so just always
+[01:10:02] Jacob: We had, you know, lots of other things happening. Happening. So that which hence I'd come home like crying. Some nights. So this is so. But I had no idea.
 
-[01:03:00] Megan: Like pulled into great like TV Grey's
+[01:10:12] Megan: And I was like, so.
 
-[01:03:05] Jacob: Anatomy and every all the shows just all the shows I'm gonna I'm a TV addict so I have to I have like turn nothing I know dude I have all mine too I have all my little distractions that are like oh it's just a few minutes in there but if you really let yourself like have those few extra minutes of a book you want to read or yeah a podcast I mean that's something like yeah you've always been in a TV but the last year or whatever you've definitely doing more podcast that's been slowly pushing out TV I'm always pushing podcasts on people like now I have once I'm done pushing on people but it's the long-form conversations you realize that you're like oh yeah nobody talks like this anymore nobody lets each other talk nobody values each other's opinions it's whenever we hear two people having conversation it's either like a fake like a show or like something made up or it's a debate it seems like yeah it's like what about just two people who maybe they're different maybe they're friends whatever yes having conversation about valuable
+[01:10:13] Jacob: I was like, you know, you know, you know, you, you, you,
 
-[01:04:03] Megan: Things that everybody experienced yeah and I think people are so turned off in the beginning because they're like a podcast like not just I'm kind of like reading for me like I'm like a lot of work and I have to find a time to do it I like when I first moved to Portland I had to commute from Vancouver to Beaverton um which is one way was like 45 minutes with traffic and then the other way was like two hours with traffic and so I was like well like I got very tired of music and very tired of the radio and I was like what am I gonna do with my time because there's a lot of commuting and it's a waste of space like and I slowly got into podcasts and then all of a sudden I was like hooked and now it's like I like every morning I'm like look forward to turning on a new podcast and learning something now me too I have like in
+[01:11:13] Megan: It's a great hospital to work for.
 
-[01:04:48] Jacob: January we're gonna do I'm gonna do I think I told you I'm gonna do no YouTube I'm gonna quit YouTube okay yeah when you said that I was like you do so
+[01:11:16] Jacob: Provide free benefits.
 
-[01:04:56] Megan: That's crazy for me but I listen is so much YouTube right I'm not so much of a watcher as I am yeah I was nothing more that I was thinking more like the podcast aspect yeah i but yeah but it's it's funny I mean it's glad I'm glad that cuz I wake up and I'm like cool like what kind of learn about now and it is good and I'm like I'm not gonna punish myself for that but I do notice my attention span like I wake up in the morning in my like YouTube
+[01:11:18] Megan: All of it.
 
-[01:05:20] Jacob: Algorithm BOTS have me so figured out that like might within the first 10 suggestions on my YouTube channel it's gonna be something that I'm like oh that's a great thing to listen to I want to check that out yeah but it's very it kind of sends my attention span like looking for new novelty every morning and you think
+[01:11:21] Jacob: It's just not.
 
-[01:05:39] Megan: So I just kind of want to take all the crap that I've been learning and finished learning it for a month and not have you - how are you gonna continue learning it like just do what you've already learned well yeah so what I'm gonna do is I have a bunch of books that I've like either I read it or I like make a lot of books like if you read a book in a day or something it's like it's great but you don't fully like sometimes if you don't take your time you don't like fully grasp it so some of all I want to reread Reitsma notes on so I'm gonna take this month I reread some books I have some audio books that I haven't finished on my phone I'm gonna finish those I have enough backlog of stuff to where I could still wake up in the morning and be like let's learn something amazing and I could still like really enjoy what I'm doing in the mornings but it's not just like whatever YouTube's algorithm feeds me yeah so that was such a millennial question I asked you to I'm like you don't have YouTube how you gonna learn well I mean dude I used to be very
+[01:11:22] Megan: For me, though.
 
-[01:06:32] Megan: Much addicted to social media and that's I'm getting rid of that again too but it's weird like the things that we do a lot of times we don't really catch ourselves that we don't catch that we're addicted to them addicted is such a intense word that we're like a little I don't I'm not addicted anything that's the weird word that's a word that doesn't associate with me I hate that word but I know dude my dad used to
+[01:11:23] Jacob: I don't really enjoy working with adults. Which it's so acceptable to like get to pick, you know, actually,
 
-[01:06:56] Jacob: Smoke meth and so when I think of addiction I'm like me saying addiction next to social media is the dorkiest thing I've ever said today so but everyone's addicted to social media I mean I am addicted you know we're all very addicted to many things if you just learn how our brains work it's how it is but as you get older you start to listen to podcasts you start to have experiences that like you know change
+[01:11:29] Megan: The best thing super competitive in my life. But I just I don't want to compete.
 
-[01:07:19] Megan: Your reality you start to go to places like Ghana and see the world from different eyes from different views from different heights from different temperatures like everything just experiencing the world through different lenses it's important I'm glad that we've stumbled into the learning world of podcasts so Ghana was amazing one of the many things that you did with Family House you have obviously
+[01:11:37] Jacob: Like I just, I don't want to. I just noticed all my coworkers were always just constantly . Who's going to get promoted into the supervisor?
 
-[01:07:44] Jacob: Continued your career your learning
+[01:12:00] Megan: What's going to happen next year? I'm just. And it was a hundred percent working at Family House.
 
-[01:07:48] Megan: And your going back to school now right I am I'm back in graduate school which I said I would never do I was always like I'm never going back why did you say that I was so done with school and when I graduate in 2015 I'd done it for five years I switched my degree or yeah I switched my degree twice I was just done I was like oh god like it's just a lot of money it's a lot of effort it's a lot of time and then at the time I was like
+[01:12:16] Jacob: Like I remember? As many hard moments as I come home most nights. Like, wow, like I had a really good kid today.
 
-[01:08:12] Jacob: Finally making money and able to travel a little bit more with my friends and do things like music festivals and you know
+[01:12:23] Megan: Like, wow, that kid made good progress today.
 
-[01:08:21] Megan: Small things like Beach trips and all these different things with you guys and then I moved in with you and Shay and I just was like I love being like an adult like it's just so nice to not blow
+[01:12:26] Jacob: I made a difference. I made a difference. Like that kid's comfortable. You know, or I'd have like a kid texting me being like, I need help. And I'd be like this kid feels comfortable coming to me
 
-[01:08:32] Jacob: Things yeah like I just going to school was going to like alter kind of being an
+[01:12:35] Megan: And asking me for help. Like in their personal life, like it was just such a
 
-[01:08:37] Megan: Adult
+[01:12:40] Jacob: Rewarding job. So then I kept, but I will say I
 
-[01:08:39] Jacob: So in my head I was like an optimistic oh I don't want to go back and then in my head I was thinking like I'll get this great job you know how you always think you're gonna get this great job and you're just gonna keep like getting promoted a new hub all the money in the world let's figure it out and I never have to worry everything's good it'll be happy you know nothing will go wrong with that job and you won't hate it and all these different things so that was my mindset in late 2016 and I was not
+[01:12:45] Megan: Did not like teaching.
 
-[01:09:04] Megan: Gonna go back to school you know you're back in school and now I Here I am back in school but I think it's a good thing I feel like you're like you have a great job you've been but you're eager I feel like what Family House like the Family House was so much for you like it was such an intense great experience and I think it taught you like so much at that time but I think even like a couple years after Family House you're now like you know these are things that I super valued about that place like these are things that I do want around yeah what I didn't realize what was happening being younger I did not realize I had a mentor like at all I had no idea like Lisa was my boss she was my friend like I trusted
+[01:12:47] Jacob: I did not like. Like lesson planning.
 
-[01:09:47] Jacob: Her obviously like she was like shaping me into an adult like she's giving me all these opportunities like pushing me
+[01:12:49] Megan: I did not like that. I'm really glad that Lisa like pushed me to do it. So you can really know. Yeah. Because I remember when she told me I was going to do like
 
-[01:09:56] Megan: Out of my comfort zone teaching me doing all these amazing things and then there was times I fought it don't get me wrong
+[01:13:01] Jacob: A lead teaching forלים. I think it was like computers. I like looked it. And I was like, huh, no, like no, I'm not.
 
-[01:10:01] Jacob: We had hard conversations we had you know lots of other things happening so
+[01:13:08] Megan: Because you really, so you pis
 
-[01:10:07] Megan: That which tense I'd come home like crying some nights I mean like this is so hard but I had no idea that I was I had a mentor at like the age of 21 to like 24 25 and I am so thankful for it like I came in which i think is why I'm so excited that I'm doing school now because like I enjoy it's like great and I love learning like going to schools not hard I don't think that break in between was super important a hundred we get really mean to ourselves about those breaks like what am i doing you know I hear it all the time but it's totally I think it's super important like you totally and by the way I'm not going to school for speech therapy I'm going for school counseling which was not even like a thought my mind up until like this last year I reach su now and so I wanted to try to get a feel because I always had that little medical side to me I wanted to
+[01:13:12] Jacob: Oh, I was like first month. I think was when I came home crying the most because I was like, oh,
 
-[01:11:03] Jacob: See like would I enjoy medical or would I not I really enjoy what I do now it's
+[01:13:17] Megan: Classroom management. I mean, that itself is like a whole nother level. That's a lot of responsibility alone, but it's also a lot of pre planning.
 
-[01:11:09] Megan: Great a great job if you're ever thinking about working for medical I'd highly recommend OHSU it's a great Hospital to work for it provides me a lot free benefits all of it um it's just not for me though like I don't really enjoy working with adults which it's so
+[01:13:58] Jacob: What's is your plan B? It seems just right for you. It seems like you're like, yeah, like, of course, I didn't want to go back to school. Like this wasn't the right, of course, I would have loved to have life. Just everything's planned out now, and it's great, but the way the way that life actually works is you've got to just
 
-[01:11:27] Jacob: Acceptable to like get to pick you know this isn't the best thing I'm like
+[01:15:19] Megan: And who goes back to school at 27. , like our society that you should be in your career by then. So like, I need to go back to school. I'm going to have to do an internship for a year and that's going to be rough but I also have like great friends and family who
 
-[01:11:32] Megan: Super competitive like in my life but I just I don't want to compete with you over job like I just I don't like I don't want to I just noticed all my co-workers were always just constantly like who's gonna get promoted into the supervisor who's gonna get promoted and I'm just like oh I don't wanna well that's the thing if you gotta be able to admit like you this is just not what I want to be doing yeah it seems like oh like okay everybody else around here this is what they want but you're like I don't really have a goal for what's gonna happen next year I'm just me no and yeah I know so I just really quickly and I tried to look back what I did was i sat down I was like when is I most happy in my life like fulfilled I should say I'm
+[01:15:59] Jacob: Support me. So I mean, the small obstacles of now really, really add up to a much better life. I mean, this, this, maybe it's not the most ideal thing to live with your mom for longer again, but in the long scheme of things, like you're going to be a lot happier and the rest of your life working a job that you
 
-[01:12:12] Jacob: Like career-wise and it was 100% I was
+[01:16:17] Megan: Would do, then you know, I didn't want to have, that couple years of uncomfort moving back in with my mom or taking these loans out or whatever I got to do. So then you just live a whole life of uncomfortable. I think choosing your, your uncomfortable choosing your pain, choosing
 
-[01:12:15] Megan: Working at Family House like I remember as many hard moments as I was I had come home most nights like wow like I had a really good conversation with that kid today like wow that kid made good progress today I made a difference I made a difference like that kids comfortable with me now or I'd have like a kid texting me being like I need help and I'm like this kid feels comfortable coming to me and asking me for help like
+[01:16:30] Jacob: Your like choosing your struggle right now is
 
-[01:12:37] Jacob: In their personal life like it was just such a rewarding job so then I kept but I will say I did not like teaching I did
+[01:16:33] Megan: A great thing to do. because it's like, I think everyone just gets so comfortable with their everyday life
 
-[01:12:47] Megan: Not like lesson planning I did not like the teaching aspect I'm really glad that Lisa like pushed me to do it so you can
+[01:16:41] Jacob: And they don't realize how miserable they are. Right. And it's just like, why aren't we, why is it like, go back to school or change their career like midlife like, okay, maybe I'm 15. I, I'm going to suddenly decide that I want to be a doctor. Why shouldn't I be able to go be a doctor? Well, I think that what we're discovering more and more and especially even just the few guests that I've had, there's a lot of people who are like, yeah, I was doing that. And then it's like, no, I didn't want to do that anymore. So I quit it all. And now I'm doing this. Cool. Right. It's great. I mean, I think making it okay. And then, you know, helping each other out through conversation, of course,年 with the struggles that are inevitably going to come with these things and letting everybody know thatз that like, hey, like, like, hey, like, if you're miserable right now, like, like you don't have to just suffer for the rest of the rest of your life, like you can
 
-[01:12:56] Jacob: Really know yeah cuz I remember what she told me I was gonna do like a lead teaching for like things like computers I like looked at her and I was like huh no I get no not and she's like yes you are because you're really good at it so you're gonna do it and I was like oh I
+[01:17:30] Megan: Just
 
-[01:13:12] Megan: Remember that first
+[01:17:34] Jacob: Do whatever you want to do.
+
+[01:17:36] Megan: I mean, I mean, if I worked there much longer, I would have taken my own life.
+
+[01:17:39] Jacob: I mean, that's how much miserable I was.
+
+[01:17:41] Megan: And, obviously.,.
+
+[01:17:43] Jacob: I'm a very intricate person. I have many more reasons besides just not being fulfilled there. But like, thinking that we need to suffer like, okay, this is my life. I did the thing, followed the rules and this is my life now. What I mean, what I mean, what the truth is you can, you can take direction, you can be like, you know, I want to experience this thing now or this isn't exactly what I thought it was. You know, don't try to get back what you had before, I mean, Itarded. You know, what did I like about the job I had before? And now, with a couple years under your belt and more grown maturity, you're able to retrospectively look back and say these things were very valuable to me. As far as my life goes this is what I want to have more of in my life And then you pursue that in your school, so yeah, so I guess just I want to I, do I want to give a lot up do I want to you know like but just know the money is not going to make you happy every single day Like if you hate your job, but you're making really good money
+
+[01:19:11] Megan: Money is not the only currency And I think our society gets so stuck on that and that's what I mean
+
+[01:19:48] Jacob: Literally just suffering, that's you. You know that's the ultimate goal of humanity once you're like doing worlds get away from suffering We want to make sure that everything is easy and in more comfortable But Again, it, it's just a very different world and to have a To have a good happy life with a smile on your face is just not always get as much money as you can Sometimes it's like I'm like I just want to get as much money today so I can have more money as much as I can It just feels so good like I'm not going to have to be a liar
+
+[01:20:17] Jacob: Yeah, I don't even have a chance to get a chance to say that You know you're not gonna get enough money to love it I'm just, I'm just here for it What is it? It's just I'm so cold I'm gonna wash my You're like oh my gosh I'm trying to throw a towel. You're gonna go far, right? I'm not going to do it I'm gonna go far I'm not going to waste any, no I'm going to take some time And I'm just gonna take a break Just to get to you I'm not gonna make a that I'm gonna butt it down I'll still make money I'm just gonna, I'm gonna take a break I'm not making $%±$% .
+
+[01:21:08] Megan: Das war mit! Das war of breakfast and a can for dinner and a can for dinner and right there's three. Just differences in people you always want like a drink when you're eating like
+
+[01:21:48] Jacob: Carbonated drink definitely a carbonated I like carbonated drinks but Jake's really weird he can eat an entire meal and not have anything to see I don't think that's weird like I didn't realize that it. was that other people always had a drink like I guess yeah you go to a drink. What drink do you get your drink first yeah and then I probably wouldn't like overeat ever. I don't know overeating is such a mental thing like an actual like oh my stomach's full because I'll be like my stomach stomach's so full it hurts ten more handfuls of chips though still gonna eat that dessert stheke and shaley got Jake and I in a dessert I was I was a person ever it it's horrible's horrible she's not that cool you know I used to just be a salty guy just like chips man and popcorn and stuff like try this chocolate okay and then before bed I'll literally be like tired like okay let's go to bed but I'll be like should I have like a piece of chocolate for I go sure what is that doesn't affect my life in a great way she and she got me into like deep like I actually
+
+[01:23:21] Jacob: Bought a pint of the Ben and Jerry's the brownie batter core she always buys bought that when I live with you guys now I'm into it and I hate it was so good okay are you gonna are you gonna throw it away so you've done hole 30 I've talked about whole time here a couple times that
+
+[01:23:39] Megan: You've done it to seek and we're gonna do Whole30 we're gonna do January 6th is before what's your opinion on Whole30 like you've also done a bunch of like um it's a change of eating habits Whole30 is just so great actually what's funny I remember jaren and shaley and I we were coming. back from Disneyland I had just done like a New York trip and I had been talking about doing Whole30 for a while probably like a year actually so I there's never a good time to do it you're really like there's always like with our lifestyles there's always a birthday coming up or there's always a good plan or whatever and for some reason we don't want to eat good food and drink and and all the good that come with that birthday no on the airplane and I had bought the book and so I committed to California on the way back I read the book because I was gonna do Whole30 it was always gonna buy anything of this tree you move out of your house and suddenly you don't have allergies anymore but you never need you you eat the same food every single day no idea the effects of if you fillic
+
+[01:25:58] Jacob: Of
+
+[01:26:03] Megan: Crap I know before Whole30 like shaley was dealing with a bunch of stomach stuff I was gonna have to
+
+[01:26:12] Jacob: To my mixed up now I can't remember but something was gonna have to get removed I would like get these like upper stomach pains that were so intense that they were similar like heart attacks and so whenever it fell I also working on trying to figure out like what the heck and she kept seeing
+
+[01:27:04] Megan: Change your diet and I was like I don't eat because I don't eat bad I don't go to McDonald's every day fast food every My fast food is like a sandwich or I don't eat french fries every day and stuff but I was drinking like Diet Coke every day and I just I don't I went there and she's talking about my like what are the long-term effects of parlor set because you have me taking this every day and I'm at the time I was like 24 25 she's like we don't know it's kind of a newer drug like medication see that's the story of everything we're taking and then she's like and it's typically for older people which no offense but older people aren't gonna be living another like 50 years older you're gonna die very soon I was like well that's not
+
+[01:27:56] Jacob: That's scary like so if you don't
+
+[01:28:04] Megan: Thought like that too and they on the plane was like amazed by it actually went number I went and ordered I got an order that was so good because that helped me because I'm like cool like another diet but like actually like seeing the book and making myself learn a different one yeah and it's so and you've talked about it but it's but it's not a-a but it's not a diet you take out all the bad foods that we don't need as humans and you can get out for 30 days and then you slowly reduce each
+
+[01:28:48] Jacob: Different type of food so you might reintroduce dairy for like a week and then take it back out like see how you feel with dairy then like take that back out pulling I don't know carbs and by it's like does your knee pain hurt again are your toes
+
+[01:29:03] Megan: Are you
+
+[01:29:10] Jacob: Are you
+
+[01:29:14] Megan: Crazy because you notice
+
+[01:29:19] Jacob: I am all for I'm excited to
+
+[01:29:22] Megan: I feel
+
+[01:29:27] Jacob: Well, so inflammation I think I've described this to you in this way before too. A way that I read it in this book I think the book was Emily Fletcher Ziva Meditation or the Z-Technique or something. I don't know the worth looking into, Emily Fletcher. It's a good meditation technique. But she described like whatever it is like when we're eating and we're processing it and we're having like a reaction to it.
+
+[01:29:53] Megan: Our bodies, bids and things. So I think Ziva is., it just grows as you're, as you're running from a lion
+
+[01:29:59] Jacob: Lion. Like no, because your body is prioritizing, like no, no, no, no, no, no, no, no, no, no, no, no, no. No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no. Send it to that. So like we're so used to being inflamed all the time or inflammation. The inflammation or seven. Now your, whatever the equivalent of your body, that your body should have been doing to heal yourself and process these things properly. Your fingernails growing in this situation.
+
+[01:30:29] Megan: Maybe your fingernails haven't been growing. So we get older and we start to have these different different pains and these things. Like I, I don't know. I don't want to paint every single problem on.
+
+[01:30:39] Jacob: But me.
+
+[01:31:20] Megan: You. I think we were in Seattle, Anthony's house and we all had ketchup for the first time, but that wasn't Whole30 approved ketchup. And we were like, this is disgusting. It was so sugar. It was like a lot of get like that. So like so you don't eat, you can eat fruit on Whole30. It's pretty much like a. Hunter gatherer diet. You can eat fruit. Fruit, but you don't eat like you want to get rid of your sugar cravings. Right. So you're not eating like any other stuff and you realize after a couple of weeks that fruit is so flavorful and delicious. I like was not a fruit person and I didn't,
+
+[01:31:52] Jacob: I didn't like orange juice.
+
+[01:31:53] Megan: I didn't like any of fruit and I on Whole30, which I know is me trying to get into sugar. So I tried to like limit it, but like I actually enjoyed fruit. Like it was one of those things where like having fruit was actually like a treat. Whereas like, like right now if you gave me fruit, I'd be like, I know. Thanks. That's gross. I know.
+
+[01:32:13] Jacob: I don't want that.
+
+[01:32:15] Megan: I don't want that.
+
+[01:32:16] Jacob: I want either.
+
+[01:32:17] Megan: I don't want me.
+
+[01:32:18] Jacob: I don't want that. It's not even like how you feel after you have your first cup of coffee. You know, it's even more, it's not, there's not, it's not energized. It's a clarity.
+
+[01:32:58] Megan: I mean, that's I guess that's the simplest way to put it. It's, you do get this new clarity and I think a lot of it, obviously the food we eat, it's not as much directly as the food. It's what each of our individual bodies do to process these foods or what they do to process these certain things that take longer than, other parts of the food. A lot of it's not a proper nutrients from the
+
+[01:33:19] Jacob: Food that we. Eating them as you've been sitting there just can't in there and just not know it know and then your body. The one body. Dude. One. A couple of weeks.س a couple of weeks ago. I! actually shamefully just a whole bag of spice.
+
+[01:34:02] Megan: I did.
+
+[01:34:03] Jacob: I did. I. I did. That's like my favorite. But it's. I woke up in the. It wasn't. It wasn't. It wasn't. It wasn't. It was a. I genuinely think that I'm going to be doing this much longer. Like it was like a. Dude, your bum hurts. Your bum is feeling bad. I would do things like that. But cool. I would do
+
+[01:34:44] Megan: Things like that. But cool. I know. the.
+
+[01:34:53] Jacob: I know. I didn't need to put as much lotion on. I could walk outside and inside. I wouldn a. I wouldn't be just. Just dripping with snot. My nose in the morning wouldn't be as swollen. Sometimes my dry skin would be cracked in the morning. I wouldn't have that. I'm not. I'm not. I'm not. I'm not.
+
+[01:35:43] Megan: I'm not. I'm not. I'm not. I'm not. I'm not. I'm, I'm not going to let. I'm not going to let these. I'm not I'm not going to let these people down or myself. I'm going to continue every day and send them the things I'm doing. I'm doing. It helped me accountable. If you have a group of friends that are going to do it. I highly recommend doing a group chat or something.
+
+[01:36:32] Jacob: And then to start. So simple. I remember I text the group chat the day before we started. I remember I text the text the group chat the you. I remember I text the day before we started.
+
+[01:36:41] Megan: I thought
+
+[01:36:44] Jacob: The so.. and will is..... I.. and광
+
+[01:38:14] Megan: And I still don, t put you on anything., well so I just did another Whole30 last month, just by myself and it seemed like even that like a like it, it kind of does start to burn off a little more juice from these things that you're like super to do even just the second Whole30 was enough for me to like, okay, I think I did kind of chip away my, right after our first day, I'm just like, I'm just like, what did I learn about my body from this from this, it's only food or this, you know, we use the word diet, but diet is everybody is on a diet. Everybody has a diet of food. The. The word diet is like the, we like very confused about what it means I think as a culture. It doesn't mean that you're, if you're not on. What we have is if you're not on a diet, you're just a reckless garbage disposal. And if you are on a diet, you are sad because you can't eat the reckless garbage
+
+[01:39:38] Jacob: Disposal things.
+
+[01:39:43] Megan: And if you are on a, if you're on a diet, you're on a diet, you're on a diet, you're on a diet, OR you've gained a pound. And it's crushing. It's just like, well, I'm going to go eat a cart and I'm ice cream- now because screw
+
+[01:41:20] Jacob: This. I don't think that it's like, I don't think it's valuable information if you think about
+
+[01:41:24] Megan: It. I think maybe on day one versus day three, oi but like because even if you did lose weight. Like what and we did the Whole30 and I promised Jake I wouldn't wait myself and I did not cool part of hold 30 to take everything out of your house that you either going to eat
+
+[01:41:43] Jacob: Or do.
+
+[01:41:44] Megan: So if it is not the Whole30 approved, take it out of the house.
+
+[01:41:46] Jacob: I think you guys took it to best shaley's house. I think like coffee creamer just want to remember my coffee. Like if it's in the house and that's what you're craving, you're eventually going to give it a 30 days.
+
+[01:42:13] Megan: Your brain will find a way You're actually eating like it 100% because we don't read our labels. We don't actually know what's going to if you
+
+[01:43:14] Jacob: Yeah, I took that out of my house. I promised After the 30 days I of course, brought my scale back because I was like, oh, it's been 30 days. I So good I need to nouve. And I remember being so upset that I only lost. I think it was nine pounds. And then I That's another thing you're not supposed to count calories like you're supposed to just live your life If I would have from then to now continued hole 30 Like how much further down I would be like nine pounds a month for nine pounds a month for a year Like oh man, and then I think I think I'm gonna because it's like why were you so down on yourself for losing nine Like that's a lot of weight. I know we do we do yourself and it's a dang thing Just think about, think about all the many little battles that you won in your head over those 30 days
+
+[01:44:12] Megan: And then you're like fuck those that anything The thing that Whole30 changes for a lot of people I feel like it kind of pushed you on something
+
+[01:44:30] Jacob: Like I just don't like the scale. I think the scale makes no sense. Like why do we need that information? What knowing how I mean pounds you way is a important thing to you. Why to me If you don't have any other goal like back and we didn't have all this other information About the human body all these'll these things. It's like okay We do have this weight thing that we discovered however many years ago and that seems to be pretty good indicator
+
+[01:44:55] Megan: Like if you're way-over this healthy Ah, you're healthy like it seems very old and primitive not even primitive It just seems like a very old-school way to get information and I think instead of how do I I. Lose weight or how do I get this number on the scale to go down and you treat, treat it as how Do I learn about food and fitness and my healthy lifestyle to where it can benefit me for the rest of my entire life because Is life really just gonna be trying new diets every couple months failing at them Hating yourself for six months trying another diet you try that one it worked a little bit Then you hate yourself for another six months. Like it seems like I just know like being in and out of gyms and in knowing a Lot of like different people have tried different diets. I just. Just see the same reoccurring thing We don't really learn about our eating habits. We don't learn about what is dexterless So you like to whatever you can put this way. Yeah, but learning about all these things learning how they affect us personally
+
+[01:45:51] Jacob: Learning about our own body itself
+
+[01:45:54] Megan: Getting rid of all the crap and then starting again like after you do your 30 days with Whole30 You just slowly introduce little things like one thing at a time. Oh, I had I
+
+[01:46:16] Jacob: Boom I
+
+[01:46:59] Megan: Keto diet right now and like I know. I think through Whole30 I learned that dairy is what makes me feel extremely inflamed. I think I, I might actually be lactose intolerant. I think a lot of people don't know that.
+
+[01:47:12] Jacob: Yeah, I don't spew the lactose intolerant. I think a lot of people don't know that.
+
+[01:47:15] Megan: I think a lot.
+
+[01:47:16] Jacob: Yeah, I don't know, I, I don't know these things. Are they because we've had these weird chemicals prolongingly in our body for all these years? at some point our bodies stop putting that in there. some point our bodies stop putting that in there.
+
+[01:47:24] Megan: I, I don't know, I don't know. The cheese because most is in pizzas it's just covered in cheese so much cheese so much cheese Dude our bodies internal like our bodies internal systems when we get all the amount of cheese that I've put inside my body at once Literally, why are you eating more mozzarella sticks and there's some people who can eat a lot of cheese and it doesn't even affect them It's just we're all different, but I think that once you start having
+
+[01:48:21] Jacob: Awarenesses of like I ate not really feel good or I mean really you know we do correlate a thought of our food a lot of our food
+
+[01:48:28] Megan: Like diet and what we eat and what we do with like our physical look like our physical look I'm gonna eat this so it's gonna give me a pound of fat and I'm not gonna wear this dress later Like we think of thoughts like that but it's like no you're gonna eat this and it's gonna make your brain' Your brain isn't gonnaing to feel as great as you want it to do. Tomorrow you have an interview that's important to you Tomorrow you have a date with your girlfriend and you want to show up as present as you can
+
+[01:48:55] Jacob: If you have this beer and this pizza today, is it gonna make you kind of feel a little foggy tomorrow morning? I'm like yeah, I do want to live my life, but am I willing to borrow a little bit of happiness from tomorrow to eat this crappy food and sometimes the answer is no And I think it's good that the answer is thought I'm like I'm like I'm like cool I'm just not gonna eat that totally I don't throw a fit my own head. I'm not like oh, I don't get that my life sucks is like candy as much pasta as I want It's good. It's all good learning experiences, but it's all learning and learning yourself Which is just so hard to figure out yourself, but it's all you have to over the years figure, figure it out like learn what's good and what's not and what works for you and what doesn't Yeah, just try stuff the stuff and try stuff and like feel your body again not try to like how. How does this make you look or oh, I can fit into these bands which I you know those are great goals like you know enjoy these little girls enjoy the little
+
+[01:49:49] Jacob: Wins that you have but I don't know I think just well yeah and then taking those like failed experiences
+
+[01:49:57] Megan: I mean I've done so many diets, but like keto diet like if I tried that and doesn't work. Okay. What did work for me? , what didn't let's keep continuing with what worked right well yeah remember to set like the I've tried everything I listen to a lot of like, like, Tony Robbins yesterday morning was on of course and he was saying about the sentence like he'll online with people and they'll be like I've tried everything to lose weight and he's like oh everything Can you can you name all the diets and they're like well, okay, I've tried thousands and he's like like well thousands can you tell me a thousand of the diets you tried hundreds I've tried hundreds of different diets hundreds that's crazy can you name all 100 and then they're like and then they get to the point and it's like
+
+[01:50:40] Jacob: I've tried the few things and they just don't work you know, but it's our mindset we don't do what you just said like take, but I would just like not I don't want to say star of myself but I would just not I would eat like a big breakfast
+
+[01:50:50] Megan: Which and it's not because like I'm starving myself it's more because I just like I don't feel like I ever feel슷 hungry and then I'llותר eat a big breakfast and a big dinner and it's just not keeping my metabolism going when I was like, doing my best it's when, I'm eating small meals throughout the day and it's not like big ones and it's just like keeping like every two hours just eating but it's so hard for me to do that
+
+[01:51:37] Jacob: Right yeah I mean in your lifestyle have to switch with the sometimes too right?
+
+[01:51:46] Megan: Being able to eat every two hours isn't exactly so that's also a thing is like you know maybe you have your diet figured out in your life but then like in I started drinking it is because I was in LA I was like okay like I need to do something and so my parents are trying to help, and I went to LA weight loss is what it was called which is all about more like eating fight like more Fiber
+
+[01:52:54] Jacob: And all these different things I weight.
+
+[01:52:58] Megan: The reason I started diet coke is they said substitute because I was drinking regular coke at the time which is like 200 calories a can so like substitute for diet and I remember the first few times I drank diet coke it was so gross I hated it
+
+[01:53:12] Jacob: But I wanted to lose weight
+
+[01:53:42] Megan: Better but maybe I should probably I drank too much last month or whatever you got it you got to have little pushes and pulls throughout your life you're like nope but I'm going so it's good I feel like and you just progress and
+
+[01:54:49] Jacob: Progress and because that's my right right now I'm trying to learn how to say no so it's really
+
+[01:54:55] Megan: Which Lisa's been trying to teach me that since I was like 22 right she's c I'm not even kidding I had my kayak before it got stolen and then we're gonna go go kayaking but it ended up getting too late but yeah she's probably going to be like you're still working on
+
+[01:55:43] Jacob: That no thing I have to work on too I mean like saying no it's a weird thing like standing up because a lot of times people are caught off guard when you say no it's like no I don't like no I'm choosing to not to not do that or
+
+[01:55:59] Megan: I mean there's a million weird examples but like so is something having come up with the
+
+[01:56:04] Jacob: Podcast for I want to here's the thing is I'm not
+
+[01:56:12] Megan: It's obvious that like some random producer is not going to be on my podcast, because I'm still like this the different levels I'm not like that I'm just a regular dude
+
+[01:56:23] Jacob: You know DJ like I've done things in the audio world � I do this like mental health thing but like I'm not like some somebody I people like people are like hey I think that I
+
+[01:56:44] Megan: I haveข but I also I'm like
+
+[01:56:49] Jacob: Just because you know somebody who has a podcast you're using my platform yeah saying no in that it's something that it's hard it's like to do but it's you have little is it so I learn little areas of my life so this one side like why am I saying no really follow it like right out these things like it's not just no but it's like I mental health like I'm checking out for me I'm making sure things are going the way that I want them to go I'm making sure that I'm in control here and not like my it's hard I burn this month so that's why I'm like this coming year I'm going to be like because it's things I want to do you know so Thanksgiving it's like we've had Thanksgiving Black Friday Christmas shopping Christmas
+
+[01:57:45] Megan: I was doing finals I went to Arizona three days went to the Ariana Grande concert the Chainsmokers I went it was Easton's birthday like went to the gingerbread party went to the white elephant parties like I said I said yes to literally everything so like the end of November and December I like totally crashed and burned like划d and so I think I text you and I was like having a moment and I was just like I
+
+[01:58:12] Jacob: Need to learn to say no to things this coming year like I just have to things I want to do it's a lot of things I want to say no to.
+
+[01:58:21] Megan: Well that's the thing is it's always fun
+
+[01:58:27] Jacob: I'm not going to be like I'm not going to be able to say yes to and have a cool life but sure like just finding all the fun stuff doesn't really leave you time to like build your life and heal and also, just recoup just like sometimes you could have so much fun that it's like I couldn't possibly have any more fun because the like I get better I'll get better I'll like sit like the end of the day and watch like endless amounts of TV but it's during the times I should be sleeping you know I mean like I'll come home and it's like 10 o'clock at night and I'll turn on it's almost a little exactly relaxing but also a little stress that I'm not sleeping yes I'm like I really want to watch this new episode of Grey's Anatomy but then it's like you should be sleeping right what I had to do for myself to I feel like I'm pretty good at it now but I know I've been taking care of
+
+[01:59:22] Megan: My career , I'm not tired but at 12 30 I'm stopping what I'm doing I'm doing these things so for me I had to stop like researching stuff and like learning things and like doing things that were like pushing my brain to like stay awake and stuff and I had to start doing more mild stuff like for me I was like 12 30 or whatever it is go sit We're not the first year I lived with you. I would wake up in the morning and you'd be getting home from work
+
+[01:59:51] Jacob: I'd get home. I'm still weird about sleep and I don't sleep a little differently than other people do but I like staying up every single night like working graveyard for your whole life. I don't know some people do feel really good about it but it does have weird effects on us it really really does and it's in it may feel a different way about the rest of the world because when you wake up in 11 30 a. m. every day you're already like hours behind everybody you wake up dressed because you have tons of text you have people been texting us in the morning you have to solve you have appointments you need to make or go to I don't it really started to add up Myles like there's a lot of because I'm working this schedule of this job that's such a good point because when I wake up before my? My friends do I get up at like five in the morning like this morning I got up early. I think I got up at like six cleaned worked out got coffee before like a lot of my people were awake and I remember I just remember thinking I feel so good like
+
+[02:01:07] Jacob: I accomplished so much and a lot of the world's in up yet it can't imagine like waking up behind right now well in you in you have I have your momentum when other people like for me I was I had this weird thing I always I was able to work when I wasn't working like had the time off like on the it ends if I wasn't DJing or I wasn't working like midnight to 4 a. m. for me I was like cool I enjoyed being up at that time because I can work creatively and I could do like what I want like to me it felt like there was less noise in the world like less like more people are asleep so there's just like there's
+
+[02:01:39] Megan: Just a way where something crazy but that's
+
+[02:01:42] Jacob: But like the even getting used to to those little things you know for sure
+
+[02:01:48] Megan: It's I've always wanted to try graveyard though
+
+[02:01:50] Jacob: Because I am the type that and through pretty much and I'm a hard sleeper like Jake could like I mean he's also me pranks on me when I was sleeping how do you I never have a lot of my pickles I found in my pillowcase that's just because you have a thing about the would stay there for days and I would not know yeah I don't the way to turn this
+
+[02:02:12] Megan: On me Megan because if the same car for a couple days real hanging out and I had put a pickle in her big one not like a little pickle like the giant size pickle I put it in her car , like in the driver's side door or something and then and then the car sat in, like a couple days and I was like one of those big pickles right from like Safeway Iting. Oh it's so gross. Did you eat it or not? No it's so gross. Okay so you're wasting it. It was probably just so like warm. Yeah you think you're so you're going to Ghana and these people have less food
+
+[02:03:04] Megan: You're just throw away these perfectly good. I said that when I came back from Ghana is like there's people in the world remember everyone be like you can't say that I'm like I mean I just witnessed it. It's true. That's a good perspective. I know. All right Meg well we are getting up here in time let's go ahead and close it out. I appreciate you coming on the podcast. Yeah we'll definitely have to have you more. I think me you and Shailie should do like a trio one. Yes but I don't know like impress her with the pranks that I could put on you in front of her. Something about it I'm just. Just like they watch. I'm the I'm a I'm a I'm a I'm a I'm a I'm a I'm a I'm a I'm a I'm a I'm a I'm a I'm a I on the head real quick. And you're here. Oh yeah we used to like play fight too and Shailie you and Shailie you just speak stop it. It's funny I have three older sisters but I like I don I don't have this relationship with them at all but like mean you'll like the crap out of each other. Oh he like duct tape my bedroom door shut.
+
+[02:03:57] Megan: I never did that. Oh that was Shailie. I happened but it's fine. I forgive you I kind of
+
+[02:04:02] Jacob: Miss living with you guys so I miss the loss. You can move back in. I know do I get the basement. No just kidding. You can get that. I move into your basement. You can get the out back. There's this little house. Stop. There's this little dumpy storage-shed that has your name on it. It's perfect. We can put a new lock on it. With the evil step sister. All right Megan I love you very much I appreciate your friendship you're ? a

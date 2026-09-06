@@ -1,0 +1,33 @@
+loading small/int8… audio=/workspace/junkyard-love-archive/content/0020-megan-elam/source-audio.mp3 size=299745810
+transcribing…
+lang=en prob=1 duration=7492.7863125
+… 50 segments @ 160.9s elapsed=78s
+… 100 segments @ 631.1s elapsed=150s
+… 150 segments @ 903.5s elapsed=218s
+… 200 segments @ 1473.8s elapsed=313s
+… 250 segments @ 1823.1s elapsed=386s
+… 300 segments @ 2144.2s elapsed=460s
+… 350 segments @ 2504.0s elapsed=523s
+… 400 segments @ 2779.9s elapsed=579s
+… 450 segments @ 3026.7s elapsed=642s
+… 500 segments @ 3319.2s elapsed=696s
+… 550 segments @ 3530.9s elapsed=756s
+… 600 segments @ 3692.2s elapsed=784s
+… 650 segments @ 3858.8s elapsed=821s
+… 700 segments @ 4032.8s elapsed=858s
+… 750 segments @ 4124.8s elapsed=880s
+… 800 segments @ 4297.1s elapsed=934s
+… 850 segments @ 4525.1s elapsed=977s
+… 900 segments @ 4684.5s elapsed=1034s
+… 950 segments @ 4982.7s elapsed=1109s
+… 1000 segments @ 5322.8s elapsed=1163s
+… 1050 segments @ 5497.8s elapsed=1220s
+… 1100 segments @ 5639.4s elapsed=1263s
+… 1150 segments @ 5787.5s elapsed=1332s
+… 1200 segments @ 6243.6s elapsed=1422s
+… 1250 segments @ 6557.4s elapsed=1524s
+… 1300 segments @ 6968.7s elapsed=1593s
+… 1350 segments @ 7097.2s elapsed=1619s
+… 1400 segments @ 7254.3s elapsed=1665s
+… 1450 segments @ 7461.3s elapsed=1703s
+DONE model=small/int8 segments=1452 words≈15439 duration=7492.79s elapsed=1716s

@@ -12,5 +12,7 @@ About: Jacob published description verbatim as spaced paras from RSS (YT~RSS)
 Guest name spelling: Megan Elam; guest slug megan-elam (NEW; distinct from megan-hawkins / megan-robinson)
 Duration: RSS itunes:duration 7492s (2:04:52); YT info.json duration 4421s — using RSS/inventory 7492; note YT video truncated vs full audio
 Publish date: RSS/inventory 2020-01-10 (YT upload_date 20200111)
-Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Archive picks: from full RSS MP3 ASR transcript + published About (timestamped quotes/chapters); Jacob About unchanged
+Captions: faster-whisper small/int8 ASR on source-audio.mp3 (full RSS) → captions.en*.vtt/json3 (supersedes truncated YT auto-captions)
+
 Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).

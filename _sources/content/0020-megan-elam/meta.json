@@ -15,5 +15,10 @@
   "apple_show": "https://podcasts.apple.com/us/podcast/the-junkyard-love-podcast/id1489118788",
   "slug": "0020-megan-elam",
   "guest_slug": "megan-elam",
-  "title_conflict": "YT=RSS"
+  "title_conflict": "YT=RSS",
+  "youtube_duration_seconds": 4421,
+  "transcript_source": "faster-whisper-small-int8-rss-mp3",
+  "transcript_turns": 327,
+  "transcript_words": 15318,
+  "asr_duration_seconds": 7492.79
 }

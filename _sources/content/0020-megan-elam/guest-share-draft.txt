@@ -5,5 +5,5 @@ YouTube: https://www.youtube.com/watch?v=oUcyl3f3L4Y
 RSS: https://share.transistor.fm/s/cb0cec30
 Title conflict: YT=RSS
 Guest slug: megan-elam (NEW; distinct from megan-hawkins / megan-robinson)
-About: YT~RSS identical body; YT footer stripped; no guest contact/email
-Transcript: YouTube auto-captions (en/en-orig); YT duration 4421s vs RSS 7492s (YT truncated)
+About: YT~RSS identical body; kept verbatim; no guest contact/email
+Transcript: faster-whisper small/int8 on full RSS MP3 (≈7493s); YT was truncated at 4421s
