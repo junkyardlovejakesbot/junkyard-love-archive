@@ -1,0 +1,11 @@
+Source: YouTube automatic captions en (captions.en.vtt / captions.en.json3); no official/manual en track; no en-orig; no >> diarization markers
+Video: https://www.youtube.com/watch?v=ILAlPLrVsig
+Turns: 167
+Word count: 29636
+Speaker map: pause-gap segmentation + sticky content scoring assigned to Jacob/Keenan (named speaker labels not present in auto captions); solo intro before ~03:25 forced to Jacob
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light name/term fixes (Kelso, Hurricane, stump speech, Criminal Law and Justice); bumper outro after goodbye dropped
+No sentence rewriting.
+Guest name spelling: Keenan 'Hurricane' Harvey (matches YouTube/RSS).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en) used; no official/manual track; no en-orig; no >> speaker flips — turns segmented by pause gaps + sticky Jacob/Keenan content scoring (imperfect). YT duration 9629s vs RSS 9629s. No published chapter timestamps (inventory has_timestamps=no). YT≠RSS title: YT includes leading "The JYLP "; RSS omits it. H1 uses YouTube title. Conversation appears mid-topic after intro bumper (~03:56); no published skip marker.
+Postfix diarization fixes: 6 (opening mid-convo splits, Michigan/Rogan→Jacob, stump-speech→Keenan, bumper drop).

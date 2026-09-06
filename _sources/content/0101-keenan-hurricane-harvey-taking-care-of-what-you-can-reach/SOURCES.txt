@@ -1,0 +1,11 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (narrative matches RSS <p>/<br>; CTA/subscribe/Instagram plug omitted)
+YouTube chars: 1749
+RSS HTML chars: 1690
+Title source: YouTube / exact_public_title (ILAlPLrVsig). YT≠RSS — RSS omits leading "The JYLP ".
+Title: The JYLP 0101 with Keenan 'Hurricane' Harvey - Taking Care Of What You Can Reach
+RSS title: 0101 with Keenan 'Hurricane' Harvey - Taking Care Of What You Can Reach
+Chapters source: none published (inventory has_timestamps=no; no YT chapters)
+Guest links: none published (inventory has_guest_links=no)
+Quotes: none published (inventory has_quotes=no)
+About: Jacob published description verbatim as spaced paras from YouTube; subscribe/CTA outro omitted
+Guest name spelling: Keenan 'Hurricane' Harvey (matches YouTube/RSS/inventory); guest slug keenan-harvey
