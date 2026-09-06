@@ -1,0 +1,4 @@
+- For more on Nate Begle, head over to his IMDB here: https://www.imdb.com/name/nm4662429/
+- Checkout Nates website here: https://www.natebegle.com/
+- Youtube: https://www.youtube.com/@NateBegle
+- LinkedIn: https://www.linkedin.com/in/nate-begle-785155bb/

@@ -1,0 +1,3 @@
+- “A lot of people think voiceover is just ‘talking,’ but it’s not. It’s acting. It’s truth-telling. It’s intention.”
+- “It’s like, if you see something that’s not available where you’re at - then make it.”
+- “There’s a moment where you stop trying to get it perfect and start asking if it feels true. That’s when you know you’re doing the work.”

@@ -1,0 +1,7 @@
+Description source: YouTube (primary per archive rules; matches RSS narrative; RSS used for paragraph spacing of same copy; YT Welcome line included)
+YouTube chars: 2317
+RSS HTML chars: 2377
+Title source: YouTube (= RSS)
+Title: 0115 with Voice Actor, Puppeteer, Storyteller, and Sound Producer Nate Begle - The Puppet's Heart
+Chapters source: none published (YT/RSS; inventory has_timestamps=no)
+Guest links: from published YouTube/RSS notes

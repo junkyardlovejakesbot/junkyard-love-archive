@@ -14,6 +14,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Sean Blackwell — What If Mania Is a Message?](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/what-if-mania-is-a-message-sean-blackwell/) — 2025-11-23
 - [0117 Blake Hull — Good morning, Blakey Boy / Grace, written in code](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0117-blake-hull-good-morning-blakey-boy/) — 2025-10-27
 - [0116 Curtis L. Harnagel — Same Room, Different Angles](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0116-curtis-l-harnagel-same-room-different-angles/) — 2025-08-01
+- [0115 Nate Begle — The Puppet's Heart](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0115-nate-begle-the-puppets-heart/) — 2025-06-30
 - [0104 Julie Hoyle — Awakening From The Lucid Dream](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0104-julie-hoyle-awakening-from-the-lucid-dream/) — 2024-04-06
 
 ## Guests
@@ -23,6 +24,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Curtis L. Harnagel](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/curtis-l-harnagel/)
 - [David Hulse](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/david-hulse/)
 - [Julie Hoyle](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/julie-hoyle/)
+- [Nate Begle](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/nate-begle/)
 - [Sean Blackwell](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/sean-blackwell/)
 - [Sigmar Berg](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/sigmar-berg/)
 - [Tim Fraley](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/tim-fraley/)
@@ -43,4 +45,5 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0119-trey-jones-prison-overdose-witness-state/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0119-trey-jones-prison-overdose-witness-state/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0117-blake-hull-good-morning-blakey-boy/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0117-blake-hull-good-morning-blakey-boy/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0116-curtis-l-harnagel-same-room-different-angles/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0116-curtis-l-harnagel-same-room-different-angles/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0115-nate-begle-the-puppets-heart/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0115-nate-begle-the-puppets-heart/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0104-julie-hoyle-awakening-from-the-lucid-dream/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0104-julie-hoyle-awakening-from-the-lucid-dream/episode.md)
