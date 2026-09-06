@@ -1,0 +1,10 @@
+Description source: YouTube (primary per archive rules; YT≠RSS wording — RSS uses "And it turned out..." and omits YT sentence "Their own loving relationship has useful answers for other people."; archive uses YT plain text)
+YouTube chars: 1995
+RSS HTML chars: 1902
+Title source: YouTube / exact_public_title (YT≠RSS — RSS drops "The JYLP - "; archive uses YouTube / exact_public_title)
+Title: The JYLP - 0107 with Marriage Coaches Meredith and Craig Bennett - Marriage Needs Sunlight and Water
+Chapters source: none published (YT/RSS; inventory has_timestamps=no)
+Guest links: from published YouTube notes ("To checkout more from Meredith and Craig..." + site/IG/YT/FB)
+Quotes: none published as bullets (inventory has_quotes=yes — quoted blip from their page kept in About verbatim, not as Quotes section)
+About: spaced narrative + "Here's a blip..." + quoted blip lines verbatim from YT; please-hit-like/see-ya outro omitted; guest-link block kept in Guest links only
+Guests: separate pages meredith-bennett + craig-bennett (two named people; inventory guest_name treats pair as one)

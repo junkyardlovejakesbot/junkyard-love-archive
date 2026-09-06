@@ -1,0 +1,5 @@
+- To checkout more from Meredith and Craig, start with their pages here:
+- https://roadoflifecoaching.com/
+- https://www.instagram.com/meredithandcraig
+- https://www.youtube.com/channel/UCyfCfgI3sbdpEMMZUDR93aA
+- https://www.facebook.com/profile.php?id=100075941024162

@@ -1,0 +1,17 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?v=qbHfLb82JQ4
+[youtube] qbHfLb82JQ4: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] qbHfLb82JQ4: Downloading visionos player API JSON
+[youtube] qbHfLb82JQ4: Downloading m3u8 information
+[info] qbHfLb82JQ4: Downloading subtitles: en, en-orig
+[info] qbHfLb82JQ4: Downloading 1 format(s): 137+251
+[info] Writing video description to: /workspace/junkyard-love-archive/content/0107-meredith-craig-bennett-marriage-needs-sunlight-and-water/source-yt.description
+[info] Writing video subtitles to: /workspace/junkyard-love-archive/content/0107-meredith-craig-bennett-marriage-needs-sunlight-and-water/source-yt.en.vtt
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: /workspace/junkyard-love-archive/content/0107-meredith-craig-bennett-marriage-needs-sunlight-and-water/source-yt.en.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.46MiB/s (00:00:00)[download]    7.00KiB at    4.48MiB/s (00:00:00)[download]   15.00KiB at    7.98MiB/s (00:00:00)[download]   31.00KiB at    4.76MiB/s (00:00:00)[download]   63.00KiB at    5.61MiB/s (00:00:00)[download]  127.00KiB at    7.09MiB/s (00:00:00)[download]  255.00KiB at   10.59MiB/s (00:00:00)[download]  511.00KiB at   16.73MiB/s (00:00:00)[download]  514.57KiB at   16.54MiB/s (00:00:00)[download] 100% of  514.57KiB in 00:00:00 at 2.65MiB/s
+[info] Writing video subtitles to: /workspace/junkyard-love-archive/content/0107-meredith-craig-bennett-marriage-needs-sunlight-and-water/source-yt.en-orig.vtt
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: /workspace/junkyard-love-archive/content/0107-meredith-craig-bennett-marriage-needs-sunlight-and-water/source-yt.en-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at  Unknown B/s (00:00:00)[download]   15.00KiB at    9.60MiB/s (00:00:00)[download]   31.00KiB at    4.42MiB/s (00:00:00)[download]   63.00KiB at    5.12MiB/s (00:00:00)[download]  127.00KiB at    6.70MiB/s (00:00:00)[download]  255.00KiB at   10.26MiB/s (00:00:00)[download]  511.00KiB at   15.88MiB/s (00:00:00)[download]  514.57KiB at   15.73MiB/s (00:00:00)[download] 100% of  514.57KiB in 00:00:00 at 3.20MiB/s
+[info] Writing video metadata as JSON to: /workspace/junkyard-love-archive/content/0107-meredith-craig-bennett-marriage-needs-sunlight-and-water/source-yt.info.json
