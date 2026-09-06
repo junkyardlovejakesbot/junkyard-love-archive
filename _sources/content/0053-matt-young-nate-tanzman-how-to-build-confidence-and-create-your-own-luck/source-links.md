@@ -1,0 +1,4 @@
+- For more on Nate: Instagram @nastynate_jr · YouTube @Nasty Nate (also prior Junkyard Love episodes)
+- Matt / Vancouver Elite Outreach: https://www.vancouvereliteoutreach.org/
+- Instagram @vancouvereliteoutreach
+- YouTube @#VEO Young

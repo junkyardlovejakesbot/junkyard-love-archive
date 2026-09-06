@@ -1,0 +1,17 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?v=cPyBAVAfgGo
+[youtube] cPyBAVAfgGo: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] cPyBAVAfgGo: Downloading visionos player API JSON
+[youtube] cPyBAVAfgGo: Downloading m3u8 information
+[info] cPyBAVAfgGo: Downloading subtitles: en-orig, en
+[info] cPyBAVAfgGo: Downloading 1 format(s): 271+251
+[info] Writing video description to: source-yt.description
+[info] Writing video subtitles to: source-yt.en-orig.json3
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: source-yt.en-orig.json3
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.91MiB/s (00:00:00)[download]    7.00KiB at    5.24MiB/s (00:00:00)[download]   15.00KiB at    9.45MiB/s (00:00:00)[download]   31.00KiB at    4.90MiB/s (00:00:00)[download]   63.00KiB at    5.50MiB/s (00:00:00)[download]  127.00KiB at    7.01MiB/s (00:00:00)[download]  255.00KiB at   10.69MiB/s (00:00:00)[download]  511.00KiB at   17.02MiB/s (00:00:00)[download] 1023.00KiB at   28.01MiB/s (00:00:00)[download]    2.00MiB at   45.66MiB/s (00:00:00)[download]    3.56MiB at   58.76MiB/s (00:00:00)[download] 100% of    3.56MiB in 00:00:00 at 8.58MiB/s
+[info] Writing video subtitles to: source-yt.en.json3
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: source-yt.en.json3
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at    6.22MiB/s (00:00:00)[download]   15.00KiB at   11.22MiB/s (00:00:00)[download]   31.00KiB at    5.22MiB/s (00:00:00)[download]   63.00KiB at    5.75MiB/s (00:00:00)[download]  127.00KiB at    7.32MiB/s (00:00:00)[download]  255.00KiB at   11.08MiB/s (00:00:00)[download]  511.00KiB at   17.24MiB/s (00:00:00)[download] 1023.00KiB at   27.74MiB/s (00:00:00)[download]    2.00MiB at   23.72MiB/s (00:00:00)[download]    3.56MiB at   36.02MiB/s (00:00:00)[download] 100% of    3.56MiB in 00:00:00 at 9.28MiB/s
+[info] Writing video metadata as JSON to: source-yt.info.json

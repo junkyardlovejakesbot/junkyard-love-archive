@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en/en-orig (captions.en.vtt / captions.en.json3; also archived as source-yt.en*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=cPyBAVAfgGo
+Turns: 355
+Word count: 33149
+Speaker map: pause-gap segmentation + sticky Jacob/Matt Young/Nate Tanzman content scoring (named speaker labels not present in captions; dual-guest auto diarization imperfect)
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light ASR name tidy (Nate Tanzman from tansman/chancellor; Matt Young; Vancouver Elite Outreach; Articles of Unity; Sober October; VEO); bumper/outro forced to Jacob where clear; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Matt Young / Nate Tanzman; slugs matt-young + nate-tanzman (nate page APPEND from 0111).
+Note: automatic diarization is imperfect especially between Matt and Nate (overlapping storytelling); remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips. YT duration 9792s vs RSS/inventory 9762s (archive meta uses RSS duration). No published chapter timestamps. Title YT=RSS. About YT~RSS (YT primary; footer stripped; published Few fire grabs quotes split to Quotes). Inventory has_quotes=yes / has_timestamps=no / has_hashtags=no / has_guest_links=yes. Archive picks fills timestamped quotes/chapters/keywords/hashtags/bios. Guest pages: matt-young (NEW) + nate-tanzman (APPEND prior 0111).
+Speaker balance: Jacob 162 turns/14112 words; Matt Young 153 turns/16331 words; Nate Tanzman 40 turns/2706 words.
+Heuristic speaker fixes: 5; post-splits: 2 (split Jacob ask / Matt VEO intro; split Jacob ask / Nate plug)

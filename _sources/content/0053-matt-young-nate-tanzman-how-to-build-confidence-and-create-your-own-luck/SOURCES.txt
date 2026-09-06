@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (~RSS). YT footer stripped. Published quotes split out of About into Quotes.
+YouTube chars: 3995
+RSS HTML chars: 3858
+Title source: YouTube / exact_public_title (cPyBAVAfgGo). YT=RSS.
+Title: Episode 053 with Matt Young and Nate Tanzman - How To Build Confidence And Create Your Own Luck
+RSS title: Episode 053 with Matt Young and Nate Tanzman - How To Build Confidence And Create Your Own Luck
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YT chapters
+Guest links: yes (inventory has_guest_links=yes) — Nate @nastynate_jr / Nasty Nate; Matt vancouvereliteoutreach.org / @vancouvereliteoutreach / VEO Young; also kept inline in About
+Quotes: 10 published quotes from YT/RSS Few fire grabs from Matt and Nate (inventory has_quotes=yes)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube; quotes section removed from About into Quotes
+Guest name spelling: Matt Young / Nate Tanzman; separate guest pages matt-young (NEW) + nate-tanzman (APPEND — already exists from 0111)
+Duration: RSS itunes:duration 9762s (2:42:42); YT info.json duration 9792s — using RSS/inventory 9762
+Publish date: RSS/inventory 2020-08-24 (YT upload_date 20200824)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bios) — extracted from YT auto-caption transcript + published About/quotes; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).

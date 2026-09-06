@@ -76,6 +76,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0056 Trevir Petitt & Jasmine Heagy — Get With The Picture, Grow Through It, And Laugh...](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0056-trevir-petitt-jasmine-heagy-get-with-the-picture-grow-through-it-and-laugh/) — 2020-09-24
 - [0055 Brian 'DJ Toasty' Andrew — Life Has No Sync Button](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0055-brian-dj-toasty-andrew-life-has-no-sync-button/) — 2020-09-17
 - [0054 Ian & Shaye of Camp ReEducation — You Don't Know What You Think You Already Know](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0054-ian-shaye-camp-reeducation-you-dont-know-what-you-think-you-already-know/) — 2020-09-15
+- [0053 Matt Young & Nate Tanzman — How To Build Confidence And Create Your Own Luck](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0053-matt-young-nate-tanzman-how-to-build-confidence-and-create-your-own-luck/) — 2020-08-24
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -114,6 +115,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Lynn Cherry](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/lynn-cherry/)
 - [Marty Strong](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/marty-strong/)
 - [Matt McGee](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/matt-mcgee/)
+- [Matt Young](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/matt-young/)
 - [Megan Hawkins](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/megan-hawkins/)
 - [Megan Robinson](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/megan-robinson/)
 - [Mika Woodruff](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/mika-woodruff/)
@@ -218,3 +220,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0056-trevir-petitt-jasmine-heagy-get-with-the-picture-grow-through-it-and-laugh/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0056-trevir-petitt-jasmine-heagy-get-with-the-picture-grow-through-it-and-laugh/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0055-brian-dj-toasty-andrew-life-has-no-sync-button/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0055-brian-dj-toasty-andrew-life-has-no-sync-button/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0054-ian-shaye-camp-reeducation-you-dont-know-what-you-think-you-already-know/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0054-ian-shaye-camp-reeducation-you-dont-know-what-you-think-you-already-know/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0053-matt-young-nate-tanzman-how-to-build-confidence-and-create-your-own-luck/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0053-matt-young-nate-tanzman-how-to-build-confidence-and-create-your-own-luck/episode.md)
