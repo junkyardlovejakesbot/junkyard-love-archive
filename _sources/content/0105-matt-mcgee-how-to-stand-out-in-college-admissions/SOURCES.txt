@@ -8,3 +8,4 @@ Guest links: mrmeducation.com, Instagram @mattmcgee_edconsulting, @mrmeducation 
 Quotes: none published (inventory has_quotes=no)
 About: Jacob published description verbatim as spaced paras; Hit-subscribe / see-ya / - Jacob outro omitted
 Guest name spelling: Matt McGee (matches YouTube/RSS/inventory)
+Archive picks: added (timestamped quotes, chapter-style beats, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About/links; kept separate from Jacob published About/Chapters/Quotes (published notes had none for chapters/quotes — left '(none published…)' unchanged). See source-archive-picks.md.
