@@ -43,6 +43,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0089 Daniel T. Matalon — The World Game](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0089-daniel-t-matalon-the-world-game/) — 2022-08-30
 - [0088 Spencer Hicks — Break The Hammer](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0088-spencer-hicks-break-the-hammer/) — 2022-08-02
 - [0087 Zach Beach — A Path Of Love](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0087-zach-beach-a-path-of-love/) — 2022-05-17
+- [0086 Mika Woodruff — The Individuals Innate Desire For Belonging And Understanding](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0086-mika-woodruff-the-individuals-innate-desire-for-belonging-and-understanding/) — 2022-04-29
 
 ## Guests
 - [Anne Riley](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/anne-riley/)
@@ -65,6 +66,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Marty Strong](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/marty-strong/)
 - [Matt McGee](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/matt-mcgee/)
 - [Megan Hawkins](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/megan-hawkins/)
+- [Mika Woodruff](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/mika-woodruff/)
 - [Meredith Bennett](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/meredith-bennett/)
 - [Nate Begle](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/nate-begle/)
 - [Nate Tanzman](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/nate-tanzman/)
@@ -125,3 +127,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0089-daniel-t-matalon-the-world-game/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0089-daniel-t-matalon-the-world-game/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0088-spencer-hicks-break-the-hammer/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0088-spencer-hicks-break-the-hammer/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0087-zach-beach-a-path-of-love/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0087-zach-beach-a-path-of-love/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0086-mika-woodruff-the-individuals-innate-desire-for-belonging-and-understanding/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0086-mika-woodruff-the-individuals-innate-desire-for-belonging-and-understanding/episode.md)

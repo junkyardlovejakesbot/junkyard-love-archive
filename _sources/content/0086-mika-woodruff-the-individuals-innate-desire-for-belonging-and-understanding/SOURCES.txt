@@ -1,0 +1,15 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (welcome + discuss + recorded date). Guest links none published.
+YouTube chars: 1354
+RSS HTML chars: 1363
+Title source: YouTube / exact_public_title (qDKxoHORI7k). YT≠RSS — RSS drops “The JYLP - ” prefix.
+Title: The JYLP - 086 with Mika Woodruff - The Individuals Innate Desire For Belonging And Understanding
+RSS title: 086 with Mika Woodruff - The Individuals Innate Desire For Belonging And Understanding
+Chapters source: none published (inventory has_timestamps=no; no YT chapters)
+Guest links: none published in episode notes (inventory has_guest_links=no)
+Quotes: none published (inventory has_quotes=no)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube; YT says “conversations greatly” vs RSS “conversational insight greatly”
+Guest name spelling: Mika Woodruff (matches YouTube/RSS/inventory); guest slug mika-woodruff
+Duration: RSS itunes:duration 6785s (1:53:05); YT info.json duration 6786s — using RSS/inventory 6785
+Publish date: RSS pubDate 2022-04-29 (YT upload_date 20220429); recorded note in description (8/26/21)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.

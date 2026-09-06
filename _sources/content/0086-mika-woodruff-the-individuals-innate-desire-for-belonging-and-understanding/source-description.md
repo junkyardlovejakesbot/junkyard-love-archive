@@ -1,0 +1,13 @@
+Welcome back to the podcast - Mika Woodruff! I respect her perspective and value her conversations greatly. Her input, skill, and experience around the psychology and mental health space offer up fantastic insight and value to many of the areas of talk we find ourselves in. For more info on Mika check out our previous episode, number 036!
+
+In this podcast - we discussed various things like: having different personalities, interacting with others, having interesting conversations, spiritual growth, self-development, expansive conversations on the state of the world, we shared stories of transformation, I share a Jesus related experience I had with a Christian co-worker of mine, we speak of masculine and feminine expression, suppression of emotions, crying, the essence of ideas, playing the video game of life, aliens, conspiracy theories, hypothetical thought, the truth at the center of our experience, the changing world of the internet and a universe of aliens, religion and church, tales from our spiritual journies, understanding great stories, our interactions with other human beings, stating our intentions, picking romantic partners, attraction, my confusion with dating apps, and mucho more. If you dug it, consider leaving a like or hitting follow so you can see when new episodes are posted. Thanks for listening!
+
+(recorded 8/26/21)
+
+## Quotes
+
+(none published in episode notes)
+
+## Guest links
+
+(none published in episode notes)

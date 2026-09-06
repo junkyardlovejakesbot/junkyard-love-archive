@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en-orig (captions.en-orig.vtt / captions.en-orig.json3); en track identical auto; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=qDKxoHORI7k
+Turns: 120
+Word count: 21013
+Speaker map: pause-gap segmentation (~2.0–2.8s; denser merge than 0087 because caption line gaps ~median 1.9s) + marker-based Jacob/Mika flip splits + sticky content scoring (named speaker labels not present in auto captions); solo cold-open/bumper before ~8:20 forced to Jacob; guest mental-health/emotions/personality narratives forced Mika; closing CTA/bumper forced Jacob where matched
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments (cap ~220 words); HTML entities/nbsp unescaped; capitalized turn starts after merge; light name/term fixes (Mika Woodruff — captions often mishear as Micah/Mike; Junkyard Love; Pod Match; jacobfromtheinternet); dropped [Music]/foreign cue noise; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Mika Woodruff (matches YouTube/RSS/inventory); guest slug mika-woodruff; captions frequently mishear Mika as Micah or Mike.
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en-orig) used; no official/manual track; no >> speaker flips. RSS itunes:duration 6785s; YT info.json duration 6786s — using RSS/inventory 6785. No published chapter timestamps/quotes/hashtags/guest links (inventory all no). Title YT≠RSS — H1 uses YouTube/exact_public_title (“The JYLP - 086 with Mika Woodruff…”); RSS drops “The JYLP - ” prefix. About uses YT (differs from RSS by “conversations” vs “conversational insight”). Publish date RSS 2022-04-29 (YT upload_date 20220429). Archive picks fills gaps.
+Postfix diarization fixes: 6 ops.
+Postfix: ASR “Nash and mica authenticity” → “asking Mika authenticity”; guest llms/sitemap entries added (slug collision with episode path).
