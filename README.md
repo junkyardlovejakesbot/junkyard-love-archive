@@ -112,6 +112,7 @@ Plain static site. No domain configured yet — open `site/index.html` locally, 
 - **0015** Jordanne Crane — `site/episodes/0015-jordanne-crane/`
 - **0013** Nona Southard — `site/episodes/0013-nona-southard/`
 - **0012** Bob Kendall — `site/episodes/0012-bob-kendall/`
+- **0011** Spencer Hicks — `site/episodes/0011-spencer-hicks/`
 - **0100** JacobFromTheInternet (solo) — `site/episodes/0100-jacobfromtheinternet-mystical-experience/`
 
 ## Preview

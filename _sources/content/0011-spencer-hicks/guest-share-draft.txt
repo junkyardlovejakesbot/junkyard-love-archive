@@ -1,0 +1,9 @@
+Episode 0011: Episode 011 with Spencer Hicks
+Guest: Spencer Hicks
+Date: 2019-12-13
+YouTube: https://www.youtube.com/watch?v=oSqN2HXKe54
+RSS: https://share.transistor.fm/s/f682cb2b
+Title conflict: YT=RSS
+Guest slug: spencer-hicks (EXISTING — APPEND 0011 to 0088+0074+0059+0044+0038+0023+0017, do not wipe)
+About: YT~RSS identical body; (02) + YT footer stripped; no guest contact/email
+Transcript: YouTube auto-captions (en/en-orig); YT duration 5953s vs RSS 5926s (~27s; meta uses RSS); no YT chapters
