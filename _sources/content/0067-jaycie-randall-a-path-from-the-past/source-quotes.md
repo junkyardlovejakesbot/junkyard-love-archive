@@ -1,0 +1,8 @@
+- "The world is happening FOR me not TO me" — Jaycie Randall
+- "That was what kind of shifted my mindset to looking at my past from “ Oh my gosh poor me” to: “It doesn’t fucking matter, all I have is right here right now - and I create that moment.”" — Jaycie Randall
+- "You’re able to shift. When you’re in victimhood you often don’t realize you’re stuck in the victim mentality until you have someone point out ‘yeah you have this going on but here’s the reality of the situation.”" — Jaycie Randall
+- "Pain is energy but energy forms into your reality." — Jaycie Randall
+- "We have huge social media platforms with high expectations, that most of us feel like we have to kind of ‘upkeep’ with - when in reality.. who gives a shit?" — Jaycie Randall
+- "That’s something I have to always hold onto - I know who I am, I know what I bring to the table, I know all the change and growth that’s really happened. As long as I keep continuously showing up for myself, that’s enough and we’re good to go, it doesn’t really matter what other people think." — Jaycie Randall
+- "I think the behind the scenes: your ‘being’ your ‘soul’, your whole identity in that moment, is rejecting the new identity that you’re creating." — Jaycie Randall
+- "You can be extremely intuitive, psychically smart, spiritually intelligent, and still be a human being who wants to do nice things for yourself like have nice clothes, have nice hair, nice stuff, all in the same swing." — Jaycie Randall

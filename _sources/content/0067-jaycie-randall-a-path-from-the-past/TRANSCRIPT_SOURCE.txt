@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en-orig (captions.en-orig.vtt / captions.en-orig.json3); en track identical auto; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=L0HblK1MUt4
+Turns: 151
+Word count: 22942
+Speaker map: pause-gap segmentation (~1.8–2.5s) + marker-based Jacob/Jaycie flip splits + sticky content scoring (named speaker labels not present in auto captions); Jacob bumper/intro forced through ~3:40; guest healing/shadow/victim/Power of Now/therapy narratives forced Jaycie; host questions/CTA/bumper/preface forced Jacob where matched
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments (cap ~200 words); HTML entities/nbsp unescaped; capitalized turn starts after merge; light name/term fixes (Jaycie Randall [ASR JC/Jacy/jc]; Eckhart Tolle; Louise Hay; The Power of Now; You Can Heal Your Life; INFJ; Myers-Briggs; Carl Jung [ASR Carl Young]; lookingwithin.squarespace; Junkyard Love; jacobfromtheinternet); dropped [Music]/trailing you cue noise; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Jaycie Randall (display Intuitive Healer Jaycie Randall); guest slug jaycie-randall; role intuitive empathic healer per published About.
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en-orig) freshly downloaded this run; no official/manual track; no >> speaker flips. RSS itunes:duration 7462s; YT info.json duration 7462s — using RSS/inventory 7462. No published chapter timestamps/hashtags (inventory has_timestamps/hashtags=no). Inventory has_quotes=yes — eight Jaycie Randall notable quotes published in description, split into Quotes block. Inventory has_guest_links=no — website lookingwithin.squarespace and Instagram @jaycie.randall remain inline in About only (not listed under Guest links). YT info.json has no titled chapters — Archive picks chapter-style timestamps seeded from transcript beats only. Title YT≠RSS — H1 uses YouTube/exact_public_title (“The JYLP Episode 067 with…”); RSS omits “The JYLP” prefix (starts “Episode 067 with…”). About YT≈RSS (YT primary). Publish date RSS 2021-02-05 (YT upload_date 20210205). Archive picks fills timestamped quotes/chapters/keywords/hashtags/bio.
+Postfix diarization fixes: 42 ops (incl. 00:51:05 social-media/who-gives-a split Jacob→Jaycie).
+Speaker balance: Jacob 39 turns/5250 words; Jaycie 113 turns/17688 words.

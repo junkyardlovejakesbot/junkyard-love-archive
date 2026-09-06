@@ -1,0 +1,22 @@
+Jaycie Randall is an intuitive empathic healer who works with women experiencing strain or pain around mental blockages, childhood trauma, sexual trauma, victim mentalities, triggers, holding onto past experiences longer than helpful, and finding their true Self within. Jaycie speaks elegantly and with compassion about all subjects related to healing and integrative shadow work. This episode brings up various views of things like healing, growth, trauma, therapy, victim mindsets, the Power of NOW, shifting perspectives with grace and dignity, and moving through changing perceptions. We speak on some of the transitional times in our personal lives, we talk about reframing life narratives, growing out of our stories, the pitfalls of creating "bad other" to feel more righteous, identifying with the lack and victim presets learned in younger years, being the 'mediator' of your best self, feminine energy, masculine energy, shadow work and inspection of the places within us that we deny with ego. Our talk reaches concepts like imposter syndrome, self-belief, accepting praise and compliments, feeling fake and downtrodden, upgrading to the 2.0 version of yourself, comparison to others, and comparison to your past self. Jaycie and I share some remedies and actionables for things like journaling, meditation, prayer, and positive affirmation - and we talk about 'cringing' when remembering past behaviors. We connect on experiences with altered states of consciousness, (emotionally and chemically induced) living as a modern spiritual being, the Meyers-Briggs personality test, we talk about being INFJ’s, we touch on co-dependency, being intuitive, being empathic, we speak about channeling, being clairvoyant, understanding, presence, compassion, experiences in therapy, and the current rebirth of the shaman archetype into our culture. I am grateful for Jaycie's willingness to come onto the podcast and share some of her personal stories and speak about her work in these fields. To have so many types of healers and wisdom bringers on this podcast platform is truly a blessing. Thank you for listening, I hope this helps.
+
+For more on this guest - checkout her website lookingwithin.squarespace (she does free consultation chats!) and follow her on instagram @jaycie.randall.
+
+Books mentioned:
+“The Power Of Now” by Eckhart Tolle
+“You Can Heal Your Life” by Louise Hay
+
+## Quotes
+
+- "The world is happening FOR me not TO me" — Jaycie Randall
+- "That was what kind of shifted my mindset to looking at my past from “ Oh my gosh poor me” to: “It doesn’t fucking matter, all I have is right here right now - and I create that moment.”" — Jaycie Randall
+- "You’re able to shift. When you’re in victimhood you often don’t realize you’re stuck in the victim mentality until you have someone point out ‘yeah you have this going on but here’s the reality of the situation.”" — Jaycie Randall
+- "Pain is energy but energy forms into your reality." — Jaycie Randall
+- "We have huge social media platforms with high expectations, that most of us feel like we have to kind of ‘upkeep’ with - when in reality.. who gives a shit?" — Jaycie Randall
+- "That’s something I have to always hold onto - I know who I am, I know what I bring to the table, I know all the change and growth that’s really happened. As long as I keep continuously showing up for myself, that’s enough and we’re good to go, it doesn’t really matter what other people think." — Jaycie Randall
+- "I think the behind the scenes: your ‘being’ your ‘soul’, your whole identity in that moment, is rejecting the new identity that you’re creating." — Jaycie Randall
+- "You can be extremely intuitive, psychically smart, spiritually intelligent, and still be a human being who wants to do nice things for yourself like have nice clothes, have nice hair, nice stuff, all in the same swing." — Jaycie Randall
+
+## Guest links
+
+(none published in episode notes)

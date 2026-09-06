@@ -62,6 +62,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0070 Ryan 'Tos' Santos — The Wiring Within The Walls](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0070-ryan-tos-santos-the-wiring-within-the-walls/) — 2021-03-02
 - [0069 Crystal Nyman — Trimming Off What No Longer Serves You](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0069-crystal-nyman-trimming-off-what-no-longer-serves-you/) — 2021-02-23
 - [0068 Abrielle Dunn — Wait Why Are We LARPing](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0068-abrielle-dunn-the-sense-making-sickness-series-wait-why-are-we-larping/) — 2021-02-12
+- [0067 Intuitive Healer Jaycie Randall — A Path From The Past](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0067-jaycie-randall-a-path-from-the-past/) — 2021-02-05
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -178,3 +179,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0070-ryan-tos-santos-the-wiring-within-the-walls/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0070-ryan-tos-santos-the-wiring-within-the-walls/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0069-crystal-nyman-trimming-off-what-no-longer-serves-you/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0069-crystal-nyman-trimming-off-what-no-longer-serves-you/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0068-abrielle-dunn-the-sense-making-sickness-series-wait-why-are-we-larping/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0068-abrielle-dunn-the-sense-making-sickness-series-wait-why-are-we-larping/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0067-jaycie-randall-a-path-from-the-past/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0067-jaycie-randall-a-path-from-the-past/episode.md)
