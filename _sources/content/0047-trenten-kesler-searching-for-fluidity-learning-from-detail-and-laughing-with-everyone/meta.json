@@ -18,5 +18,8 @@
   "slug": "0047-trenten-kesler-searching-for-fluidity-learning-from-detail-and-laughing-with-everyone",
   "guest_slug": "trenten-kesler",
   "title_conflict": "no-youtube",
-  "format": "rss-audio-only"
+  "format": "rss-audio-only",
+  "transcript_source": "faster-whisper-small-int8",
+  "transcript_turns": 476,
+  "transcript_words": 25720
 }

@@ -1,8 +1,15 @@
-Source: none — no YouTube video, captions, or official transcript published for Episode 047.
-YouTube: unmatched / not uploaded (channel episode numbers jump 048 → 046).
+Source: published MP3 enclosure — faster-whisper small/int8 ASR (no YouTube video/captions for Episode 047); exported as captions.en.vtt / captions.en.json3 (also captions.en-orig* / source-audio.en*); no official/manual track; no >> diarization markers
+Audio: https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/e11bd719/b85473c6.mp3
+Local: source-audio.mp3 (ffprobe duration ≈9347s)
 RSS: https://share.transistor.fm/s/e11bd719
-Audio enclosure: https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/e11bd719/b85473c6.mp3
-No transcript generated; do not invent from audio.
-Guest name spelling: Trenten Kesler (RSS/inventory); slug trenten-kesler (NEW).
-Inventory: youtube_match_method=unmatched; has_quotes=yes; has_timestamps=no; has_hashtags=no; has_guest_links=no.
-Archive picks: keywords/hashtags/bio from published RSS notes only; no chapter timestamps or caption quotes.
+Spotify: https://open.spotify.com/episode/0fEpRQVw1u3wkgP8chJY8J
+Turns: 476
+Word count: 25720
+Speaker map: pause-gap segmentation + sticky Jacob/Trenten content scoring (named speaker labels not present in ASR; auto diarization imperfect); host bumper/outro forced to Jacob when clear
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light ASR name tidy (Trenten Kesler; Clean Machine; Fluid Mixology; Longview; Idaho; Thailand; LadyBoys; Jake Rhines; Junkyard Love; COVID; Facebook); bumper/outro forced to Jacob where clear
+No sentence rewriting.
+Guest name spelling: Trenten Kesler (RSS/inventory); slug trenten-kesler (EXISTS).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: No YouTube for 0047 (channel jump 048→046). Transcript from faster-whisper small/int8 on published Transistor MP3. Archive meta uses RSS duration 9347s (2:35:47). No published chapter timestamps. About kept verbatim from Jacob’s RSS notes (contact CTA already stripped; published quote stays in Quotes only — not invented into notes). Inventory has_quotes=yes / has_timestamps=no / has_hashtags=no / has_guest_links=no. Archive picks fills timestamped quotes/chapters/keywords/hashtags/bio from ASR.
+Speaker balance: Jacob 246 turns/16421 words; Trenten 230 turns/9299 words.
+Heuristic speaker fixes: 2

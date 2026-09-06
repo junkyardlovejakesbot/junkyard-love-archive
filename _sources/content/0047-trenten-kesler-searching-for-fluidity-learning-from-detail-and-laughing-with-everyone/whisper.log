@@ -1,0 +1,48 @@
+loading small/int8… audio=/workspace/junkyard-love-archive/content/0047-trenten-kesler-searching-for-fluidity-learning-from-detail-and-laughing-with-everyone/source-audio.mp3 size=374094149
+transcribing…
+lang=en prob=1 duration=9347.25
+… 50 segments @ 217.4s elapsed=179s
+… 100 segments @ 350.5s elapsed=196s
+… 150 segments @ 469.6s elapsed=218s
+… 200 segments @ 584.4s elapsed=235s
+… 250 segments @ 746.5s elapsed=254s
+… 300 segments @ 891.5s elapsed=275s
+… 350 segments @ 1036.6s elapsed=297s
+… 400 segments @ 1173.3s elapsed=320s
+… 450 segments @ 1276.0s elapsed=348s
+… 500 segments @ 1400.1s elapsed=394s
+… 550 segments @ 1601.6s elapsed=441s
+… 600 segments @ 1808.2s elapsed=476s
+… 650 segments @ 1985.1s elapsed=517s
+… 700 segments @ 2142.4s elapsed=561s
+… 750 segments @ 2294.4s elapsed=596s
+… 800 segments @ 2476.9s elapsed=627s
+… 850 segments @ 2612.5s elapsed=648s
+… 900 segments @ 2888.7s elapsed=690s
+… 950 segments @ 3156.9s elapsed=736s
+… 1000 segments @ 3370.7s elapsed=774s
+… 1050 segments @ 3607.8s elapsed=824s
+… 1100 segments @ 3845.6s elapsed=901s
+… 1150 segments @ 4073.5s elapsed=967s
+… 1200 segments @ 4669.6s elapsed=1053s
+… 1250 segments @ 4976.8s elapsed=1091s
+… 1300 segments @ 5398.8s elapsed=1164s
+… 1350 segments @ 5643.9s elapsed=1218s
+… 1400 segments @ 5891.6s elapsed=1320s
+… 1450 segments @ 6131.3s elapsed=1383s
+… 1500 segments @ 6230.8s elapsed=1401s
+… 1550 segments @ 6331.9s elapsed=1456s
+… 1600 segments @ 6524.3s elapsed=1506s
+… 1650 segments @ 6751.8s elapsed=1568s
+… 1700 segments @ 7011.6s elapsed=1610s
+… 1750 segments @ 7199.1s elapsed=1643s
+… 1800 segments @ 7350.0s elapsed=1678s
+… 1850 segments @ 7444.1s elapsed=1703s
+… 1900 segments @ 7600.7s elapsed=1750s
+… 1950 segments @ 7700.5s elapsed=1809s
+… 2000 segments @ 7864.1s elapsed=1828s
+… 2050 segments @ 8092.4s elapsed=1883s
+… 2100 segments @ 8358.1s elapsed=1917s
+… 2150 segments @ 8849.6s elapsed=2027s
+… 2200 segments @ 9133.8s elapsed=2064s
+DONE model=small/int8 segments=2243 words≈25844 elapsed=2093s
