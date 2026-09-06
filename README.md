@@ -92,6 +92,7 @@ Plain static site. No domain configured yet — open `site/index.html` locally, 
 - **0037** Rebecca Wyld — Habit Change and Happiness Actualization — `site/episodes/0037-rebecca-wyld-habit-change-and-happiness-actualization/`
 - **0036** Mika Woodruff — Sharpening Your Emotional Toolkit Through Writing, Grit, Gratitude and Resilience — `site/episodes/0036-mika-woodruff-sharpening-your-emotional-toolkit-through-writing-grit-gratitude-and-resilience/`
 - **0035** Ryan Reed — Hope, Ambition, Fortitude, Unlimited Beliefs, Putting Yourself On, Creating Hip-Hop, Producing Music and Reaching For Greatness — `site/episodes/0035-ryan-reed-hope-ambition-fortitude-unlimited-beliefs-putting-yourself-on-creating-hip-hop-producing-music-and-reaching-for-greatness/`
+- **0034** Nate 'NastyNate' Tanzman — Healing Toxic Masculinity, Male Vulnerability, Believing In Yourself, Being Scared To Be Different and Letting Go Of Outgrown Identities — `site/episodes/0034-nate-nastynate-tanzman-healing-toxic-masculinity-male-vulnerability-believing-in-yourself-being-scared-to-be-different-and-letting-go-of-outgrown-identities/`
 - **0100** JacobFromTheInternet (solo) — `site/episodes/0100-jacobfromtheinternet-mystical-experience/`
 
 ## Preview
