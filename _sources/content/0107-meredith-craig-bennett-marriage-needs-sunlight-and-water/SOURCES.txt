@@ -8,3 +8,4 @@ Guest links: from published YouTube notes ("To checkout more from Meredith and C
 Quotes: none published as bullets (inventory has_quotes=yes — quoted blip from their page kept in About verbatim, not as Quotes section)
 About: spaced narrative + "Here's a blip..." + quoted blip lines verbatim from YT; please-hit-like/see-ya outro omitted; guest-link block kept in Guest links only
 Guests: separate pages meredith-bennett + craig-bennett (two named people; inventory guest_name treats pair as one)
+Archive picks: added (timestamped quotes, chapter-style beats, keywords/hashtags, short bios for Meredith + Craig) — extracted from YT auto-caption transcript + published About/links; kept separate from Jacob published About/Chapters/Quotes/Hashtags (published notes had none for chapters/quotes — left '(none published…)' unchanged; guest links stay as published). See source-archive-picks.md.
