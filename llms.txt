@@ -112,6 +112,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0019 Kendall Johns of Dead Crown](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0019-kendall-johns/) — 2020-01-04
 - [0018 Nate 'NastyNate' Tanzman](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0018-nate-nastynate-tanzman/) — 2019-12-29
 - [0017 Spencer Hicks](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0017-spencer-hicks/) — 2019-12-28
+- [0015 Jordanne Crane](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0015-jordanne-crane/) — 2019-12-25
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -147,6 +148,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Jeremy Sherman](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/jeremy-sherman/)
 - [Jerry Fu](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/jerry-fu/)
 - [John Lee](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/john-lee/)
+- [Jordanne Crane](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/jordanne-crane/)
 - [Jordenelle Tsugawa](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/jordenelle-tsugawa/)
 - [Joseph Crumb](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/joseph-crumb/)
 - [Josh Gebhardt](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/josh-gebhardt/)
@@ -315,3 +317,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0019-kendall-johns/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0019-kendall-johns/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0018-nate-nastynate-tanzman/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0018-nate-nastynate-tanzman/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0017-spencer-hicks/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0017-spencer-hicks/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0015-jordanne-crane/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0015-jordanne-crane/episode.md)

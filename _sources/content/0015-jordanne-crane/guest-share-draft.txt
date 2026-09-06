@@ -1,0 +1,9 @@
+Episode 0015: Episode 015 with Jordanne Crane
+Guest: Jordanne Crane
+Date: 2019-12-25
+YouTube: https://www.youtube.com/watch?v=-4FH2DMxo2U
+RSS: https://share.transistor.fm/s/ee092acf
+Title conflict: YT=RSS
+Guest slug: jordanne-crane (NEW)
+About: YT~RSS identical body; YT footer stripped; no guest contact/email
+Transcript: YouTube auto-captions (en/en-orig); YT duration 4349s vs RSS 4321s (~28s; meta uses RSS)

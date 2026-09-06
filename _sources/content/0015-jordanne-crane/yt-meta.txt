@@ -1,0 +1,7 @@
+title=Episode 015 with Jordanne Crane
+upload_date=20191225
+duration=4349
+video_id=-4FH2DMxo2U
+rss_title=Episode 015 with Jordanne Crane
+title_conflict=YT=RSS
+h1=Episode 015 with Jordanne Crane

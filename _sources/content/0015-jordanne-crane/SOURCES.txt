@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from RSS plain (identical to YT after footer strip). Soft mid-sentence newlines joined. No guest contact/email.
+YouTube chars: 1718
+RSS HTML chars: 1579
+Title source: YT=RSS exact match (-4FH2DMxo2U). H1/slug use Episode 015 with Jordanne Crane. YT=RSS.
+Title: Episode 015 with Jordanne Crane
+RSS title: Episode 015 with Jordanne Crane
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YT chapters
+Guest links: none published (inventory has_guest_links=no)
+Quotes: inventory has_quotes=no — no Quotes list block (0 list quotes)
+Hashtags: none published as a block (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from RSS (YT~RSS); YT footer stripped
+Guest name spelling: Jordanne Crane; guest slug jordanne-crane (NEW)
+Duration: RSS itunes:duration 4321s (1:12:01); YT info.json duration 4349s — using RSS/inventory 4321; YT~RSS within ~28s (not substantial)
+Publish date: RSS/inventory 2019-12-25 (YT upload_date 20191225)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).
