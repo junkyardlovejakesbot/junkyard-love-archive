@@ -80,6 +80,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0052 Rikki Hall — Chest Pressure, Intrusive Thoughts, and Space Aliens](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0052-rikki-hall-chest-pressure-intrusive-thoughts-and-space-aliens/) — 2020-08-17
 - [0051 Ricky Navarrete — Hard Work and Heavy Weight](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0051-ricky-navarrete-hard-work-and-heavy-weight/) — 2020-08-14
 - [0050 Jordenelle Tsugawa — Healing The Soul With Hands and Self-Love](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0050-jordenelle-tsugawa-healing-the-soul-with-hands-and-self-love/) — 2020-07-31
+- [0049 Airik Makaio Hokulani Mobbs — The Ever Evolving Chameleon, Vibe Surfing, Weird America and Giving Power To The Positive](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0049-airik-makaio-hokulani-mobbs-the-ever-evolving-chameleon-vibe-surfing-weird-america-and-giving-power-to-the-positive/) — 2020-07-28
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -229,3 +230,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0052-rikki-hall-chest-pressure-intrusive-thoughts-and-space-aliens/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0052-rikki-hall-chest-pressure-intrusive-thoughts-and-space-aliens/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0051-ricky-navarrete-hard-work-and-heavy-weight/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0051-ricky-navarrete-hard-work-and-heavy-weight/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0050-jordenelle-tsugawa-healing-the-soul-with-hands-and-self-love/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0050-jordenelle-tsugawa-healing-the-soul-with-hands-and-self-love/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0049-airik-makaio-hokulani-mobbs-the-ever-evolving-chameleon-vibe-surfing-weird-america-and-giving-power-to-the-positive/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0049-airik-makaio-hokulani-mobbs-the-ever-evolving-chameleon-vibe-surfing-weird-america-and-giving-power-to-the-positive/episode.md)

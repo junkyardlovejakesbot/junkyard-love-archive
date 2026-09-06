@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en/en-orig (captions.en.vtt / captions.en.json3; also archived as source-yt.en*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=2s-kk9zGWZ4
+Turns: 377
+Word count: 22041
+Speaker map: pause-gap segmentation + sticky Jacob/Makaio content scoring (named speaker labels not present in captions; auto diarization imperfect); short host intro forced to Jacob before ~02:08
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light ASR name tidy (Makaio; Hokulani; Mobbs; PacSun; ADHD; Jake Rhines); bumper/outro forced to Jacob where clear; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Airik Makaio Hokulani Mobbs (YT/RSS titles / inventory); about also uses Makaio / Mak; slug airik-makaio-hokulani-mobbs (NEW).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips. YT duration 7032s vs RSS/inventory 7002s (archive meta uses RSS duration). No published chapter timestamps. Title YT≠RSS — H1 uses exact truncated YT title (…Weird A...); slug/RSS use complete Weird America and Giving Power To The Positive. About YT~RSS (YT primary; footer stripped; Notable quotes split to Quotes). Inventory has_quotes=yes / has_timestamps=no / has_hashtags=no / has_guest_links=no. Archive picks fills timestamped quotes/chapters/keywords/hashtags/bio. Guest page: airik-makaio-hokulani-mobbs (NEW).
+Speaker balance: Jacob 195 turns/13610 words; Makaio 182 turns/8431 words.
+Heuristic speaker fixes: 5; post-splits: 3 (split Jacob ask / Makaio quarantine; split Makaio close / Jacob outro; split Jacob ask / Makaio racism)

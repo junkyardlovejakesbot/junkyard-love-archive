@@ -1,0 +1,2 @@
+- "Do you feel better? yeah? ok. C'mon."
+- "I'm sincerely chillin."

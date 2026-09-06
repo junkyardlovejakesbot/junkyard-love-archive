@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (~RSS). YT footer stripped; Notable quotes moved to Quotes.
+YouTube chars: 2459
+RSS HTML chars: 2324
+Title source: YouTube / exact_public_title (2s-kk9zGWZ4). YT≠RSS — RSS title ends “Weird America and Giving Power To The Positive”; archive H1 uses exact truncated YT title; slug prefers complete RSS phrase.
+Title: Episode 049 with Airik Makaio Hokulani Mobbs - The Ever Evolving Chameleon, Vibe Surfing, Weird A...
+RSS title: Episode 049 with Airik Makaio Hokulani Mobbs - The Ever Evolving Chameleon, Vibe Surfing, Weird America and Giving Power To The Positive
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YT chapters
+Guest links: none published (inventory has_guest_links=no)
+Quotes: 2 published quotes from YT/RSS Notable quotes (inventory has_quotes=yes)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube (quotes section stripped to Quotes)
+Guest name spelling: Airik Makaio Hokulani Mobbs; guest slug airik-makaio-hokulani-mobbs (NEW); About also uses Makaio / Mak
+Duration: RSS itunes:duration 7002s (1:56:42); YT info.json duration 7032s — using RSS/inventory 7002
+Publish date: RSS/inventory 2020-07-28 (YT upload_date 20200728)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).
