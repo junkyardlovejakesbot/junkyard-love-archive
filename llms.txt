@@ -81,6 +81,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0051 Ricky Navarrete — Hard Work and Heavy Weight](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0051-ricky-navarrete-hard-work-and-heavy-weight/) — 2020-08-14
 - [0050 Jordenelle Tsugawa — Healing The Soul With Hands and Self-Love](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0050-jordenelle-tsugawa-healing-the-soul-with-hands-and-self-love/) — 2020-07-31
 - [0049 Airik Makaio Hokulani Mobbs — The Ever Evolving Chameleon, Vibe Surfing, Weird America and Giving Power To The Positive](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0049-airik-makaio-hokulani-mobbs-the-ever-evolving-chameleon-vibe-surfing-weird-america-and-giving-power-to-the-positive/) — 2020-07-28
+- [0048 Devon Sims — Being Kind, Flipping Perspective and Drinkin' Water](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0048-devon-sims-being-kind-flipping-perspective-and-drinkin-water/) — 2020-07-13
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -101,6 +102,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Daniel T. Matalon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/daniel-t-matalon/)
 - [David Crayk](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/david-crayk/)
 - [David Hulse](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/david-hulse/)
+- [Devon Sims](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/devon-sims/)
 - [Erwan Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/erwan-davon/)
 - [Georgia Peach](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/georgia-peach/)
 - [Heather Hutchison](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/heather-hutchison/)
@@ -231,3 +233,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0051-ricky-navarrete-hard-work-and-heavy-weight/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0051-ricky-navarrete-hard-work-and-heavy-weight/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0050-jordenelle-tsugawa-healing-the-soul-with-hands-and-self-love/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0050-jordenelle-tsugawa-healing-the-soul-with-hands-and-self-love/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0049-airik-makaio-hokulani-mobbs-the-ever-evolving-chameleon-vibe-surfing-weird-america-and-giving-power-to-the-positive/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0049-airik-makaio-hokulani-mobbs-the-ever-evolving-chameleon-vibe-surfing-weird-america-and-giving-power-to-the-positive/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0048-devon-sims-being-kind-flipping-perspective-and-drinkin-water/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0048-devon-sims-being-kind-flipping-perspective-and-drinkin-water/episode.md)

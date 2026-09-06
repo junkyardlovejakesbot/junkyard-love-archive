@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (~RSS). YT footer stripped.
+YouTube chars: 1281
+RSS HTML chars: 1140
+Title source: YouTube / exact_public_title (hBODyW4Ls1g). YT=RSS.
+Title: Episode 048 with Devon Sims - Being Kind, Flipping Perspective and Drinkin' Water
+RSS title: Episode 048 with Devon Sims - Being Kind, Flipping Perspective and Drinkin' Water
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YT chapters
+Guest links: none published (inventory has_guest_links=no)
+Quotes: 0 published quotes (inventory has_quotes=no)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube (books list kept as multiline para)
+Guest name spelling: Devon Sims; guest slug devon-sims (NEW); About also uses Dev / Mr. Sims
+Duration: RSS itunes:duration 7131s (1:58:51); YT info.json duration 7161s — using RSS/inventory 7131
+Publish date: RSS/inventory 2020-07-13 (YT upload_date 20200713)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).
