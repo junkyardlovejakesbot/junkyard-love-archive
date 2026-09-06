@@ -1,0 +1,11 @@
+Spencer is an armchair philosopher with focus in metaphysics, political philanthropy, ethics, and epistemology.
+
+In this episode, using a systems thinking lens; we discuss pop-culture cancellation, political perspectives on the issue, power dynamics of canceling, a crisis of meaning, world views, belief systems, cancel culture in academia, the influences from capitalism, technology, entertainment, and meme society. We touch on ideologies, neo-marxism, corporate press propaganda, and collective consciousness.
+
+## Quotes
+
+(none published in episode notes)
+
+## Guest links
+
+(none published in episode notes)

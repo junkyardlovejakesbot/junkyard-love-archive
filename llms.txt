@@ -55,6 +55,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0077 Devin Mullins — A Friendly Conversation About Weed](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0077-devin-mullins-a-friendly-conversation-about-weed/) — 2021-09-30
 - [0076 Heather Hutchison — Seeing More Clearly](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0076-heather-hutchison-seeing-more-clearly/) — 2021-09-10
 - [0075 Bradley Roth — Being Most People Is Bad For Your Health](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0075-bradley-roth-being-most-people-is-bad-for-your-health/) — 2021-08-13
+- [0074 Spencer Hicks — Dialectics and Communication Breakdown](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0074-spencer-hicks-dialectics-and-communication-breakdown/) — 2021-07-15
 
 ## Guests
 - [Anne Riley](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/anne-riley/)
@@ -158,3 +159,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0077-devin-mullins-a-friendly-conversation-about-weed/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0077-devin-mullins-a-friendly-conversation-about-weed/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0076-heather-hutchison-seeing-more-clearly/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0076-heather-hutchison-seeing-more-clearly/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0075-bradley-roth-being-most-people-is-bad-for-your-health/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0075-bradley-roth-being-most-people-is-bad-for-your-health/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0074-spencer-hicks-dialectics-and-communication-breakdown/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0074-spencer-hicks-dialectics-and-communication-breakdown/episode.md)

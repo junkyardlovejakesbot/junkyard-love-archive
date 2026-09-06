@@ -1,0 +1,11 @@
+Source: YouTube automatic captions en-orig (captions.en-orig.vtt / captions.en-orig.json3); en track identical auto; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=CGCWOM8a2os
+Turns: 183
+Word count: 25630
+Speaker map: pause-gap segmentation (~1.8–2.5s; median caption gap ~1.84s for gaps>0.5s) + marker-based Jacob/Spencer flip splits + sticky content scoring (named speaker labels not present in auto captions); Jacob bumper/intro forced through ~1:07; guest philosophy/cancel-culture narratives forced Spencer; host questions/CTA/bumper forced Jacob where matched
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments (cap ~200 words; opening bumper beats protected); HTML entities/nbsp unescaped; capitalized turn starts after merge; light name/term fixes (Spencer Hicks; cancel culture [ASR cancer culture]; Slavoj Žižek [ASR Slavoy Zijak]; Hegel/Hegelian; Marx/Marxism/neo-Marxist; Alan Watts; Ram Dass; Koch brothers; Jake Paul; Brian Callen [ASR Brian Cowan]; Chris D'Elia [ASR Crystal Leah]; Junkyard Love; news anchor [ASR news acre]); dropped [Music]/trailing you cue noise; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Spencer Hicks; guest slug spencer-hicks; roles armchair philosopher (metaphysics, political philanthropy, ethics, epistemology) per published About.
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en-orig) freshly downloaded this run; no official/manual track; no >> speaker flips. RSS itunes:duration 8362s; YT info.json duration 8363s — using RSS/inventory 8362. No published chapter timestamps/quotes/hashtags/guest links (inventory has_timestamps/quotes/hashtags/guest_links=no). Title YT=RSS — H1 uses shared title (“Ep 074 w/ Spencer Hicks…”). About YT=RSS. Publish date RSS 2021-07-15 (YT upload_date 20210716). Archive picks fills timestamped quotes/chapters/keywords/hashtags/bio. Guest page updated to list BOTH 0074 and existing 0088 (not wiped).
+Speaker balance: Jacob 70 turns/8680 words; Spencer 113 turns/16950 words.

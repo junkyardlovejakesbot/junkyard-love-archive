@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from YT/RSS plain description (identical). No quotes block in description.
+YouTube chars: 512
+RSS HTML chars: 512
+Title source: YouTube / RSS / exact_public_title (CGCWOM8a2os). YT=RSS — same title string.
+Title: Ep 074 w/ Spencer Hicks - Dialectics and Communication Breakdown - A Meta-Analysis of Cancel Culture
+RSS title: Ep 074 w/ Spencer Hicks - Dialectics and Communication Breakdown - A Meta-Analysis of Cancel Culture
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YT chapters
+Guest links: none published in episode notes (inventory has_guest_links=no); no structured Guest links section links
+Quotes: none published (inventory has_quotes=no)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube/RSS
+Guest name spelling: Spencer Hicks; guest slug spencer-hicks (EXISTING from 0088 — page updated for dual episodes, not wiped)
+Duration: RSS itunes:duration 8362s (2:19:22); YT info.json duration 8363s — using RSS/inventory 8362
+Publish date: RSS pubDate 2021-07-15 (YT upload_date 20210716) — using RSS/inventory 2021-07-15
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).
