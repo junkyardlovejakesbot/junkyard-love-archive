@@ -39,6 +39,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0093 Solo — I Know Great Men Stuck In Costumes Of Sadness](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0093-i-know-great-men-stuck-in-costumes-of-sadness/) — 2022-12-12
 - [0092 Roman Merrell — A Complicated Historical Paradigm](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0092-roman-merrell-a-complicated-historical-paradigm/) — 2022-12-11
 - [0091 Nike Anani — Next Gen, Legacy Perspective, New Beginnings](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0091-nike-anani-next-gen-legacy-perspective-new-beginnings/) — 2022-11-12
+- [0090 Will Andes — Being Boys, Becoming Men, And Bringing Peace](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0090-will-andes-being-boys-becoming-men-and-bringing-peace/) — 2022-09-27
 
 ## Guests
 - [Anne Riley](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/anne-riley/)
@@ -73,6 +74,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Tim Fraley](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/tim-fraley/)
 - [Trey Jones](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/trey-jones/)
 - [Wendy Cole](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/wendy-cole/)
+- [Will Andes](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/will-andes/)
 
 ## Show links
 - YouTube: https://www.youtube.com/@TheJunkyardLovePodcast
@@ -114,3 +116,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0093-i-know-great-men-stuck-in-costumes-of-sadness/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0093-i-know-great-men-stuck-in-costumes-of-sadness/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0092-roman-merrell-a-complicated-historical-paradigm/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0092-roman-merrell-a-complicated-historical-paradigm/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0091-nike-anani-next-gen-legacy-perspective-new-beginnings/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0091-nike-anani-next-gen-legacy-perspective-new-beginnings/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0090-will-andes-being-boys-becoming-men-and-bringing-peace/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0090-will-andes-being-boys-becoming-men-and-bringing-peace/episode.md)

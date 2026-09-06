@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (self-promo note + bio/topics para + Books mentioned). RSS guest-intro note says 1:55; YT says 2:15 — About uses YT 2:15.
+YouTube chars: 1220
+RSS HTML chars: 1220
+Title source: YouTube / exact_public_title (vVN_OHEIfsM). YT≠RSS — RSS omits leading "The JYLP Ep ".
+Title: The JYLP Ep 090 with B.S. in Psychology Will Andes - Being Boys, Becoming Men, And Bringing Peace
+RSS title: 090 with B.S. in Psychology Will Andes - Being Boys, Becoming Men, And Bringing Peace
+Chapters source: none published as chapter list (inventory has_timestamps=yes reflects About’s guest-intro timestamp note only; no YT chapters)
+Guest links: none published in episode notes (inventory has_guest_links=no)
+Quotes: none published (inventory has_quotes=no)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube
+Guest name spelling: Will Andes (matches YouTube/RSS/inventory); guest slug will-andes; title credential "B.S. in Psychology Will Andes"
+Duration: RSS itunes:duration 10709s (2:58:29); YT info.json duration 10708s — using RSS/inventory 10709
+Publish date: RSS pubDate 2022-09-27 (YT upload_date 20220927)
+Archive picks: added (transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published notes; kept separate from Jacob published About/Chapters/Quotes.
+Postfix: diarization rebalance for Will narratives; Archive picks quotes/chapters refreshed.

@@ -1,0 +1,11 @@
+Source: YouTube automatic captions en-orig (captions.en-orig.vtt / captions.en-orig.json3); en track identical auto; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=vVN_OHEIfsM
+Turns: 208
+Word count: 37551
+Speaker map: pause-gap segmentation (~0.85–1.2s) + sticky content scoring with Jacob/Will labels (named speaker labels not present in auto captions); bumper before ~2:36 forced to Jacob; Crystal/Benny/Philly/yoga-aunt/Mac Miller/salesman/best-man/Vegas narratives forced Will where matched; host CTA/close/Eckhart teaching/DJ-wedding host/podcast-production forced Jacob; host-question and close splits where detected
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments (cap ~220 words); HTML entities/nbsp unescaped; capitalized turn starts after merge; light name/term fixes (Will Andes, Mac Miller, Eckhart Tolle, The Power of Now, Black Swan Yoga, Philadelphia, Fort Lauderdale, John Brion, Divine Feminine, Buddha at the Gas Pump, Junkyard Love); dropped [Music] cue noise; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Will Andes (matches YouTube/RSS/inventory); guest slug will-andes.
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places. Long (~3h) episode — full captions transcript required.
+Issue: YouTube automatic captions (en-orig) used; no official/manual track; no >> speaker flips. RSS itunes:duration 10709s; YT info.json duration 10708s — using RSS/inventory 10709. No published chapter timestamps (only guest-intro note in About). YT≠RSS title: YT includes leading "The JYLP Ep "; RSS omits it. H1 uses YouTube title. YT About intro note 2:15 vs RSS 1:55 — About uses YT. Inventory has_quotes=no / has_hashtags=no / has_guest_links=no — Archive picks fills quotes/chapters/keywords/hashtags/short bio. Manual/heuristic speaker fixes applied: 10
+Postfix diarization: long guestish narratives reassigned to Will (Crystal/Benny/Philly/Mac Miller/best man/Vegas/five-year plan); DJ-wedding host lines / Eckhart teaching / podcast production / CTA protected as Jacob; closing thank-you split.
