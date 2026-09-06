@@ -70,6 +70,7 @@ Plain static site. No domain configured yet — open `site/index.html` locally, 
 - **0059** Spencer Hicks — The Sense Making Sickness Series Part 1 — `site/episodes/0059-spencer-hicks-the-sense-making-sickness-series-part-1/`
 - **0058** Conner Anshutz — People Are Portals To Yourself — `site/episodes/0058-conner-anshutz-people-are-portals-to-yourself/`
 - **0057** Anna Cantwell — A Teacher Of The Human Spirit — `site/episodes/0057-anna-cantwell-a-teacher-of-the-human-spirit/`
+- **0056** Trevir Petitt & Jasmine Heagy — Get With The Picture, Grow Through It, And Laugh... — `site/episodes/0056-trevir-petitt-jasmine-heagy-get-with-the-picture-grow-through-it-and-laugh/`
 - **0100** JacobFromTheInternet (solo) — `site/episodes/0100-jacobfromtheinternet-mystical-experience/`
 
 ## Preview

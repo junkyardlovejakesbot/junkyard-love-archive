@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en/en-orig (captions.en.vtt / captions.en.json3; also archived as source-yt.en*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=4HS8LWF35Uw
+Turns: 393
+Word count: 24695
+Speaker map: pause-gap segmentation + sticky Jacob/Trevir/Jasmine content scoring (named speaker labels not present in captions; dual-guest auto diarization imperfect)
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light ASR name tidy (Trevir not Trevor where guest; Jasmine/Jazzy; Desmond/Dez; Sam Harris; Waking Up); bumper/outro forced to Jacob where clear; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Trevir Petitt / Jasmine Heagy (matches YouTube/RSS; ASR often Trevor/Jess/Jazz).
+Note: automatic diarization is imperfect especially between Trevir and Jasmine (overlapping couple storytelling); remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips. YT duration 7735s vs RSS/inventory 7705s (archive meta uses RSS duration). No published chapter timestamps. YT!=RSS title (RSS ends Laugh More Often; YT truncates to Laugh...); archive H1 uses YouTube title. About YT~RSS (YT primary; footer stripped; published Couple quotes split to Quotes). Inventory has_quotes=yes / has_hashtags=no / has_guest_links=no (@jasminejeanvisions kept inline in About). Archive picks fills timestamped quotes/chapters/keywords/hashtags/bios. Two guest pages: trevir-petitt + jasmine-heagy.
+Speaker balance: Jacob 185 turns/10540 words; Trevir 99 turns/7504 words; Jasmine 109 turns/6651 words.
+Heuristic speaker fixes: 4; post-splits: 1 (keep jacob intro)

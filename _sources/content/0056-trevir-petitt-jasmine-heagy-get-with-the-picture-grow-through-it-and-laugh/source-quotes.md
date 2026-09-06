@@ -1,0 +1,3 @@
+- "It's so easy to be a bad person, it takes work to be a good person."
+- "That's the cool thing about America, we're one big melting pot."
+- "It's not your fault."

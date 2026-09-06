@@ -73,6 +73,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0059 Spencer Hicks — The Sense Making Sickness Series Part 1](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0059-spencer-hicks-the-sense-making-sickness-series-part-1/) — 2020-10-20
 - [0058 Conner Anshutz — People Are Portals To Yourself](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0058-conner-anshutz-people-are-portals-to-yourself/) — 2020-10-11
 - [0057 Anna Cantwell — A Teacher Of The Human Spirit](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0057-anna-cantwell-a-teacher-of-the-human-spirit/) — 2020-10-04
+- [0056 Trevir Petitt & Jasmine Heagy — Get With The Picture, Grow Through It, And Laugh...](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0056-trevir-petitt-jasmine-heagy-get-with-the-picture-grow-through-it-and-laugh/) — 2020-09-24
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -95,6 +96,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Erwan Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/erwan-davon/)
 - [Georgia Peach](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/georgia-peach/)
 - [Heather Hutchison](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/heather-hutchison/)
+- [Jasmine Heagy](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/jasmine-heagy/)
 - [Jeremy Sherman](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/jeremy-sherman/)
 - [Jerry Fu](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/jerry-fu/)
 - [John Lee](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/john-lee/)
@@ -126,6 +128,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Sigmar Berg](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/sigmar-berg/)
 - [Swami Nityananda](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/swami-nityananda/)
 - [Tim Fraley](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/tim-fraley/)
+- [Trevir Petitt](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/trevir-petitt/)
 - [Trevor May](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/trevor-may/)
 - [Tyler Milliken](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/tyler-milliken/)
 - [Trey Jones](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/trey-jones/)
@@ -207,3 +210,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0059-spencer-hicks-the-sense-making-sickness-series-part-1/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0059-spencer-hicks-the-sense-making-sickness-series-part-1/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0058-conner-anshutz-people-are-portals-to-yourself/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0058-conner-anshutz-people-are-portals-to-yourself/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0057-anna-cantwell-a-teacher-of-the-human-spirit/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0057-anna-cantwell-a-teacher-of-the-human-spirit/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0056-trevir-petitt-jasmine-heagy-get-with-the-picture-grow-through-it-and-laugh/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0056-trevir-petitt-jasmine-heagy-get-with-the-picture-grow-through-it-and-laugh/episode.md)
