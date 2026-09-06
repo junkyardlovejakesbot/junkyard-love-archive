@@ -1,0 +1,9 @@
+Episode 0006: Episode 006 with Ryan 'Tos' Santos
+Guest: Ryan 'Tos' Santos
+Date: 2019-11-28
+YouTube: https://www.youtube.com/watch?v=ealUSRdB9BA
+RSS: https://share.transistor.fm/s/6b8d427c
+Title conflict: YT=RSS
+Guest slug: ryan-tos-santos (APPEND — exists with 0070; do NOT create new slug; do NOT confuse with ryan-reed/ryan-baker)
+About: YT~RSS identical body; YT footer stripped; no guest contact/email
+Transcript: YouTube auto-captions (en/en-orig); YT duration 7495s vs RSS 7468s (~27s; meta uses RSS)

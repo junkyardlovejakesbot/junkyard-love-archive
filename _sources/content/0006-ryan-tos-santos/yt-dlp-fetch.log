@@ -1,0 +1,34 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?v=ealUSRdB9BA
+[youtube] ealUSRdB9BA: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] ealUSRdB9BA: Downloading visionos player API JSON
+[youtube] ealUSRdB9BA: Downloading m3u8 information
+[info] ealUSRdB9BA: Downloading subtitles: en, en-orig
+WARNING: No subtitle format found matching "vtt,json3" for language en, using vtt. Use --list-subs for a list of available subtitles
+WARNING: No subtitle format found matching "vtt,json3" for language en-orig, using vtt. Use --list-subs for a list of available subtitles
+[info] ealUSRdB9BA: Downloading 1 format(s): 137+251
+[info] Writing video description to: source-yt.description
+[info] Writing video subtitles to: source-yt.en.vtt
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: source-yt.en.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at    5.40MiB/s (00:00:00)[download]   15.00KiB at    9.86MiB/s (00:00:00)[download]   31.00KiB at    4.31MiB/s (00:00:00)[download]   63.00KiB at    5.02MiB/s (00:00:00)[download]  127.00KiB at    6.51MiB/s (00:00:00)[download]  255.00KiB at   10.10MiB/s (00:00:00)[download]  511.00KiB at   16.18MiB/s (00:00:00)[download] 1023.00KiB at   25.53MiB/s (00:00:00)[download]    1.17MiB at   28.75MiB/s (00:00:00)[download] 100% of    1.17MiB in 00:00:00 at 4.56MiB/s
+[info] Writing video subtitles to: source-yt.en-orig.vtt
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: source-yt.en-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at    5.67MiB/s (00:00:00)[download]   15.00KiB at    6.46MiB/s (00:00:00)[download]   31.00KiB at    3.86MiB/s (00:00:00)[download]   63.00KiB at    4.72MiB/s (00:00:00)[download]  127.00KiB at    6.33MiB/s (00:00:00)[download]  255.00KiB at    9.83MiB/s (00:00:00)[download]  511.00KiB at   15.61MiB/s (00:00:00)[download] 1023.00KiB at   25.56MiB/s (00:00:00)[download]    1.17MiB at   28.14MiB/s (00:00:00)[download] 100% of    1.17MiB in 00:00:00 at 4.97MiB/s
+[info] Writing video metadata as JSON to: source-yt.info.json
+[youtube] Extracting URL: https://www.youtube.com/watch?v=ealUSRdB9BA
+[youtube] ealUSRdB9BA: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] ealUSRdB9BA: Downloading visionos player API JSON
+[youtube] ealUSRdB9BA: Downloading m3u8 information
+[info] ealUSRdB9BA: Downloading subtitles: en, en-orig
+[info] ealUSRdB9BA: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: source-yt-j3.en.json3
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: source-yt-j3.en.json3
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at    5.46MiB/s (00:00:00)[download]   15.00KiB at    9.73MiB/s (00:00:00)[download]   31.00KiB at    4.43MiB/s (00:00:00)[download]   63.00KiB at    5.03MiB/s (00:00:00)[download]  127.00KiB at    7.00MiB/s (00:00:00)[download]  255.00KiB at   10.14MiB/s (00:00:00)[download]  511.00KiB at   15.87MiB/s (00:00:00)[download] 1023.00KiB at   26.03MiB/s (00:00:00)[download]    2.00MiB at   42.59MiB/s (00:00:00)[download]    2.57MiB at   51.50MiB/s (00:00:00)[download] 100% of    2.57MiB in 00:00:00 at 11.09MiB/s
+[info] Writing video subtitles to: source-yt-j3.en-orig.json3
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: source-yt-j3.en-orig.json3
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at  Unknown B/s (00:00:00)[download]   15.00KiB at   10.83MiB/s (00:00:00)[download]   31.00KiB at    4.22MiB/s (00:00:00)[download]   63.00KiB at    4.99MiB/s (00:00:00)[download]  127.00KiB at    6.62MiB/s (00:00:00)[download]  255.00KiB at    9.83MiB/s (00:00:00)[download]  511.00KiB at   15.75MiB/s (00:00:00)[download] 1023.00KiB at   24.66MiB/s (00:00:00)[download]    2.00MiB at   39.75MiB/s (00:00:00)[download]    2.57MiB at   48.09MiB/s (00:00:00)[download] 100% of    2.57MiB in 00:00:00 at 10.42MiB/s
