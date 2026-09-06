@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en-orig (captions.en-orig.vtt / captions.en-orig.json3); en track identical auto; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=2j-Tj5Fzstg
+Turns: 177
+Word count: 25410
+Speaker map: pause-gap segmentation (~1.8–2.5s) + marker-based Jacob/Trevor flip splits + sticky content scoring (named speaker labels not present in auto captions); Jacob bumper/posture tip/intro forced through ~2:08; guest MLB/Twitch/meditation/ADD/purpose/legacy narratives forced Trevor; host questions/CTA/bumper forced Jacob where matched
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments (cap ~200 words); HTML entities/nbsp unescaped; capitalized turn starts after merge; light name/term fixes (Trevor May; Junkyard Love; COVID; Twitch; Esports; Minnesota Twins; Jordan Peterson; Squidward; Jake/Jacob Rhines; Action Jackson; Spanx; MasterClass; Longview; adult ADD; DJ/DJing/CDJs; MLB); dropped [Music]/trailing you cue noise; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Trevor May; guest slug trevor-may (new); MLB Player & Twitch Streamer per published About (YT title uses slash).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en / en-orig identical) freshly downloaded this run; no official/manual track; no >> speaker flips. RSS itunes:duration 7185s; YT info.json duration 7186s — using RSS/inventory 7185. Inventory has_timestamps=no / has_quotes=no / has_hashtags=no / has_guest_links=no. Title YT≠RSS — H1 uses YouTube title (“Episode 061 with MLB Player/Twitch Streamer Trevor May - Finding The Feel”); RSS uses “&” instead of “/”. About YT≈RSS (YT primary; long published block split into readable verbatim paragraphs). Publish date RSS/inventory 2020-11-20 (YT upload_date 20201120). No published quotes/chapters/hashtags/guest links (About mentions @iamtrevormay inline). Archive picks fills timestamped quotes/extra chapters/keywords/hashtags/bio. Guest page new.
+Postfix diarization fixes: 6 ops.
+Speaker balance: Jacob 34 turns/3523 words; Trevor 143 turns/21887 words.

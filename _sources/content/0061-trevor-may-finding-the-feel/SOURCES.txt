@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (verbatim paragraphs). Inventory has_guest_links=no / has_quotes=no.
+YouTube chars: 2414
+RSS HTML chars: 2414
+Title source: YouTube / exact_public_title (2j-Tj5Fzstg). YT≠RSS — YT uses “MLB Player/Twitch Streamer”; RSS uses “MLB Player & Twitch Streamer”.
+Title: Episode 061 with MLB Player/Twitch Streamer Trevor May - Finding The Feel
+RSS title: Episode 061 with MLB Player & Twitch Streamer Trevor May - Finding The Feel
+Chapters source: none published (inventory has_timestamps=no; YT info.json chapters=None)
+Guest links: none as structured Guest links (inventory has_guest_links=no); About mentions @iamtrevormay inline
+Quotes: none published (inventory has_quotes=no)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube; YT≈RSS body (YT primary)
+Guest name spelling: Trevor May; guest slug trevor-may (NEW)
+Duration: RSS itunes:duration 7185s (1:59:45); YT info.json duration 7186s — using RSS/inventory 7185
+Publish date: RSS/inventory 2020-11-20 (YT upload_date 20201120)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps from transcript beats, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).

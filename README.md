@@ -65,6 +65,7 @@ Plain static site. No domain configured yet — open `site/index.html` locally, 
 - **0064** Tyler Milliken — Bumping Elbows With Leaders, Censorship and New Norms — `site/episodes/0064-tyler-milliken-bumping-elbows-with-leaders-censorship-and-new-norms/`
 - **0063** Shiloh Rister & Georgia Peach — Life, Loss, and Dogs — `site/episodes/0063-shiloh-rister-georgia-peach-life-loss-and-dogs/`
 - **0062** Abrielle Dunn — Aspiring Towards Inspiration, Creating Connection and Smiling Back At Life — `site/episodes/0062-abrielle-dunn-aspiring-towards-inspiration-creating-connection-and-smiling-back-at-life/`
+- **0061** Trevor May — Finding The Feel — `site/episodes/0061-trevor-may-finding-the-feel/`
 - **0100** JacobFromTheInternet (solo) — `site/episodes/0100-jacobfromtheinternet-mystical-experience/`
 
 ## Preview
