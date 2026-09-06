@@ -9,3 +9,4 @@ Guest links: none published (inventory has_guest_links=no)
 Quotes: none published (inventory has_quotes=no)
 About: Jacob published description verbatim as spaced paras from YouTube; subscribe/CTA outro omitted
 Guest name spelling: Keenan 'Hurricane' Harvey (matches YouTube/RSS/inventory); guest slug keenan-harvey
+Archive picks: added (quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes (those remain "(none published)" where empty); no published guest links.
