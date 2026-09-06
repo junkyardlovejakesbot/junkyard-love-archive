@@ -110,6 +110,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0021 "rosetan" the band](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0021-rosetan-the-band/) — 2020-01-17
 - [0020 Megan Elam](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0020-megan-elam/) — 2020-01-10
 - [0019 Kendall Johns of Dead Crown](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0019-kendall-johns/) — 2020-01-04
+- [0018 Nate 'NastyNate' Tanzman](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0018-nate-nastynate-tanzman/) — 2019-12-29
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -311,3 +312,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0021-rosetan-the-band/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0021-rosetan-the-band/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0020-megan-elam/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0020-megan-elam/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0019-kendall-johns/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0019-kendall-johns/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0018-nate-nastynate-tanzman/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0018-nate-nastynate-tanzman/episode.md)

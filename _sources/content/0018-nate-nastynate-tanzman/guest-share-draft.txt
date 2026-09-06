@@ -1,0 +1,9 @@
+Episode 0018: Episode 018 with Nate 'NastyNate' Tanzman
+Guest: Nate 'NastyNate' Tanzman
+Date: 2019-12-29
+YouTube: https://www.youtube.com/watch?v=2cyT2QSb0gc
+RSS: https://share.transistor.fm/s/a139f4c1
+Title conflict: YT=RSS
+Guest slug: nate-tanzman (APPEND — exists with 0111, 0053, 0034)
+About: YT~RSS identical body; YT footer stripped; no guest contact/email
+Transcript: YouTube auto-captions (en/en-orig); YT duration 4225s vs RSS 4198s (~27s; meta uses RSS)

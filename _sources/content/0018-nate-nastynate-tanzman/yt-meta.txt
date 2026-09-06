@@ -1,0 +1,7 @@
+title=Episode 018 with Nate 'NastyNate' Tanzman
+upload_date=20191230
+duration=4225
+video_id=2cyT2QSb0gc
+rss_title=Episode 018 with Nate 'NastyNate' Tanzman
+title_conflict=YT=RSS
+h1=Episode 018 with Nate 'NastyNate' Tanzman
