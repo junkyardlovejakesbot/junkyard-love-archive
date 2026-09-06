@@ -1,0 +1,9 @@
+Episode 0022: Episode 022 with Taya Sanders of Clover+Tribe
+Guest: Taya Sanders of Clover+Tribe
+Date: 2020-01-27
+YouTube: https://www.youtube.com/watch?v=C_iJuOC6CuQ
+RSS: https://share.transistor.fm/s/9121ad3a
+Title conflict: YT=RSS
+Guest slug: taya-sanders (NEW)
+About: YT~RSS identical body; YT footer stripped; no guest contact/email
+Transcript: YouTube auto-captions (en/en-orig)

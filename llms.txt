@@ -106,6 +106,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0025 Jordenelle Tsugawa](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0025-jordenelle-tsugawa/) — 2020-02-18
 - [0024 Maxx V. Payne](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0024-maxx-v-payne/) — 2020-02-10
 - [0023 Spencer Hicks](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0023-spencer-hicks/) — 2020-02-02
+- [0022 Taya Sanders of Clover+Tribe](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0022-taya-sanders/) — 2020-01-27
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -181,6 +182,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Shiloh Rister](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/shiloh-rister/)
 - [Sigmar Berg](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/sigmar-berg/)
 - [Swami Nityananda](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/swami-nityananda/)
+- [Taya Sanders of Clover+Tribe](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/taya-sanders/)
 - [Tim Fraley](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/tim-fraley/)
 - [Trenten Kesler](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/trenten-kesler/)
 - [Trevir Petitt](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/trevir-petitt/)
@@ -299,3 +301,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0025-jordenelle-tsugawa/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0025-jordenelle-tsugawa/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0024-maxx-v-payne/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0024-maxx-v-payne/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0023-spencer-hicks/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0023-spencer-hicks/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0022-taya-sanders/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0022-taya-sanders/episode.md)

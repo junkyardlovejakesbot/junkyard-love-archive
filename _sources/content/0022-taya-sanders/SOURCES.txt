@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from YT/RSS plain description (~itunes:summary). YT footer stripped. Soft mid-sentence newlines joined. No guest contact/email.
+YouTube chars: 2718
+RSS HTML chars: 2579
+Title source: YT=RSS exact match (C_iJuOC6CuQ). H1/slug use Episode 022 with Taya Sanders of Clover+Tribe. YT=RSS.
+Title: Episode 022 with Taya Sanders of Clover+Tribe
+RSS title: Episode 022 with Taya Sanders of Clover+Tribe
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YT chapters
+Guest links: none published (inventory has_guest_links=no)
+Quotes: inventory has_quotes=yes — inline published phrases kept in About; no Quotes list block (0 list quotes)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube/RSS
+Guest name spelling: Taya Sanders of Clover+Tribe; guest slug taya-sanders (NEW)
+Duration: RSS itunes:duration 5786s (1:36:26); YT info.json duration 5631s — using RSS/inventory 5786
+Publish date: RSS/inventory 2020-01-27 (YT upload_date 20200128)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).

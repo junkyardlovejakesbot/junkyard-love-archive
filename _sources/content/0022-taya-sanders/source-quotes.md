@@ -1,0 +1,1 @@
+(none published as a Quotes list block — inventory has_quotes=yes from inline "You've got to WORK to get at your dreams and goals" / "replacing the lenses of competition with inspiration" / "every single person you meet knows something you don't" kept verbatim in About)
