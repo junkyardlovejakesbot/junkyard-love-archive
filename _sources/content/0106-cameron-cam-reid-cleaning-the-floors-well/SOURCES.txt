@@ -1,0 +1,11 @@
+Description source: YouTube (primary per archive rules; YT≈RSS narrative; RSS wraps in <p>/<br>; YT plain text)
+YouTube chars: 1701
+RSS HTML chars: 1731
+Title source: YouTube / exact_public_title (YT≠RSS — RSS: "0106 with Connector and Operations Manager Cameron 'Cam' Reid - Cleaning The Floors Well"; YT uses "The JYLP Ep 0106 …")
+Title: The JYLP Ep 0106 with Connector and Operations Manager Cameron 'Cam' Reid - Cleaning The Floors Well
+Chapters source: none published (YT/RSS; inventory has_timestamps=no)
+Guest links: none published in episode notes
+Quotes: none published (inventory has_quotes=no)
+About: Jacob published description verbatim as spaced paras; Hit-follow / see-ya outro omitted
+Guest name spelling: Reid (published YT/RSS/inventory; not Rei)
+About paras: rebuilt from RSS <p> (YT≈RSS text; YT single-newline merged bio paras); Hit-follow omitted; <br> in third RSS para split to spaced <p>

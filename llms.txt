@@ -22,12 +22,14 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0109 Marty Strong — Adapt, Move, Be Different](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0109-marty-strong-adapt-move-be-different/) — 2024-12-25
 - [0108 Anne Riley — Always Evolution Occurs](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0108-anne-riley-always-evolution-occurs/) — 2024-12-15
 - [0107 Meredith and Craig Bennett — Marriage Needs Sunlight and Water](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0107-meredith-craig-bennett-marriage-needs-sunlight-and-water/) — 2024-11-24
+- [0106 Cameron 'Cam' Reid — Cleaning The Floors Well](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0106-cameron-cam-reid-cleaning-the-floors-well/) — 2024-09-27
 - [0104 Julie Hoyle — Awakening From The Lucid Dream](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0104-julie-hoyle-awakening-from-the-lucid-dream/) — 2024-04-06
 
 ## Guests
 - [Anne Riley](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/anne-riley/)
 - [Barbara McAfee](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/barbara-mcafee/)
 - [Blake Hull](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/blake-hull/)
+- [Cameron 'Cam' Reid](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/cameron-reid/)
 - [Dr. Cristine Hull](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/cristine-hull/)
 - [Craig Bennett](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/craig-bennett/)
 - [Curtis L. Harnagel](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/curtis-l-harnagel/)
@@ -68,4 +70,5 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0109-marty-strong-adapt-move-be-different/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0109-marty-strong-adapt-move-be-different/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0108-anne-riley-always-evolution-occurs/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0108-anne-riley-always-evolution-occurs/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0107-meredith-craig-bennett-marriage-needs-sunlight-and-water/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0107-meredith-craig-bennett-marriage-needs-sunlight-and-water/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0106-cameron-cam-reid-cleaning-the-floors-well/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0106-cameron-cam-reid-cleaning-the-floors-well/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0104-julie-hoyle-awakening-from-the-lucid-dream/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0104-julie-hoyle-awakening-from-the-lucid-dream/episode.md)
