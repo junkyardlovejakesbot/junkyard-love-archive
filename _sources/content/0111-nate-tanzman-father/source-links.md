@@ -1,0 +1,6 @@
+- For more on Nate, find him on socials here:
+- https://www.instagram.com/nastynate_jr/
+- https://www.instagram.com/thegoodfightclubco/
+- https://www.instagram.com/oneshotmedianw/
+- https://www.youtube.com/watch?v=M0BMh7ytNDc
+- https://open.spotify.com/show/5L3tpbX0mCWORS9P28ES7n?si=45930642b77e445b

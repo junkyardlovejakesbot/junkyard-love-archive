@@ -1,0 +1,7 @@
+- "The weight that you feel that makes you want to end the game is purpose and responsibility." - Nate Tanzman
+- "If you want what you say you want, expect it to be difficult." - Nate Tanzman
+- "Most of the stuff that we're supposed to do, we will never receive credit for. But that's what you're supposed to do." - Nate Tanzman
+- "If you are not raising warriors in your homes, sons and daughters that have discernment, your lineage is doomed." - Nate Tanzman
+- "I feel like everything is trying to tell us in some way. Stop thinking about yourself and serve other people." - Nate Tanzman
+- "Serving the image of you is not the same thing as serving you." - Jacob Rhines
+- "Every action you take is a vote for the person you want to be." - Referenced by Nate Tanzman

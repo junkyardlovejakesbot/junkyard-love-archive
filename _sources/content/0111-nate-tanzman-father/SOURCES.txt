@@ -1,0 +1,9 @@
+Description source: YouTube (primary per archive rules; YT≈RSS body — same narrative/quotes/links; YT plain text, RSS wraps in <p>/<br>)
+YouTube chars: 2062
+RSS HTML chars: 2151
+Title source: YouTube / exact_public_title (YT≠RSS — RSS: "0111 with Nate Tanzman - Father"; YT adds "The JYLP - " prefix)
+Title: The JYLP - 0111 with Nate Tanzman - Father
+Chapters source: none published (YT/RSS; inventory has_timestamps=no)
+Guest links: from published YouTube/RSS notes
+Quotes: notable quotes from published notes (inventory has_quotes=yes)
+About: bio + narrative + guest-link lines verbatim; react/follow, host IG CTA, and subscribe outro omitted (same class as subscribe outros)

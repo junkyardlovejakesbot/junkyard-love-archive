@@ -17,6 +17,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0115 Nate Begle — The Puppet's Heart](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0115-nate-begle-the-puppets-heart/) — 2025-06-30
 - [0113 Wendy Cole — Later Bloom](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0113-wendy-cole-later-bloom/) — 2025-04-03
 - [0112 David Crayk — True Teachings](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0112-david-crayk-true-teachings/) — 2025-03-19
+- [0111 Nate Tanzman — Father](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0111-nate-tanzman-father/) — 2025-02-19
 - [0104 Julie Hoyle — Awakening From The Lucid Dream](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0104-julie-hoyle-awakening-from-the-lucid-dream/) — 2024-04-06
 
 ## Guests
@@ -28,6 +29,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [David Hulse](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/david-hulse/)
 - [Julie Hoyle](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/julie-hoyle/)
 - [Nate Begle](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/nate-begle/)
+- [Nate Tanzman](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/nate-tanzman/)
 - [Sean Blackwell](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/sean-blackwell/)
 - [Sigmar Berg](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/sigmar-berg/)
 - [Tim Fraley](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/tim-fraley/)
@@ -52,4 +54,5 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0115-nate-begle-the-puppets-heart/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0115-nate-begle-the-puppets-heart/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0113-wendy-cole-later-bloom/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0113-wendy-cole-later-bloom/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0112-david-crayk-true-teachings/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0112-david-crayk-true-teachings/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0111-nate-tanzman-father/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0111-nate-tanzman-father/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0104-julie-hoyle-awakening-from-the-lucid-dream/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0104-julie-hoyle-awakening-from-the-lucid-dream/episode.md)

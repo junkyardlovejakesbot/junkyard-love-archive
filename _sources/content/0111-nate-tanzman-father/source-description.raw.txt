@@ -1,0 +1,26 @@
+Nate is a husband, father, stunt-bike rider, motivational speaker, videographer, inspired leader, and an honest man. 
+
+He joins us to engage in a deep, introspective conversation about personal growth, spirituality, and masculinity. We explore themes of overcoming adversity, finding purpose, and the importance of fatherhood and personal accountability. The discussion centers on Nate's transformative journey from a risk-taking lifestyle to a more purposeful existence, emphasizing the significance of faith, commitment, and continuous self-improvement. Throughout the conversation, we challenge societal norms and encourage listeners to focus on internal development, rather than external validation.
+
+
+Some notable quotes from the episode:
+"The weight that you feel that makes you want to end the game is purpose and responsibility." - Nate Tanzman
+"If you want what you say you want, expect it to be difficult." - Nate Tanzman
+"Most of the stuff that we're supposed to do, we will never receive credit for. But that's what you're supposed to do." - Nate Tanzman
+"If you are not raising warriors in your homes, sons and daughters that have discernment, your lineage is doomed." - Nate Tanzman
+"I feel like everything is trying to tell us in some way. Stop thinking about yourself and serve other people." - Nate Tanzman
+"Serving the image of you is not the same thing as serving you." - Jacob Rhines
+"Every action you take is a vote for the person you want to be." - Referenced by Nate Tanzman
+
+
+For more on Nate, find him on socials here:
+https://www.instagram.com/nastynate_jr/
+https://www.instagram.com/thegoodfightclubco/
+https://www.instagram.com/oneshotmedianw/
+https://www.youtube.com/watch?v=M0BMh7ytNDc
+https://open.spotify.com/show/5L3tpbX0mCWORS9P28ES7n?si=45930642b77e445b
+
+Please react with the podcast and follow if you've enjoyed the show.
+For more Junkyard Love and more on the host, Jacob, head over to - https://www.instagram.com/jacobfromtheinternet/
+
+See ya next episode! lots of great guests booked, can't wait to share!! Hit subscribe!!

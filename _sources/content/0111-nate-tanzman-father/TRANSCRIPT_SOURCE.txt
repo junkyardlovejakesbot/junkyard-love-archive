@@ -1,0 +1,10 @@
+Source: YouTube official/manual captions en-US (manual.en-US.vtt / manual.en-US.json3); auto en also archived as captions.en.* / auto.en*; no >> diarization markers
+Video: https://www.youtube.com/watch?v=-_mbfBLZk5Q
+Turns: 389
+Word count: 23183
+Speaker map: pause-gap segmentation + sticky Jacob/Nate content scoring (named speaker labels not present in captions)
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy (like,changed→like, changed; for for→for); Tanzmann/Tansman→Tanzman if present; cold-open/outro and key faith/fatherhood beats force-corrected
+No sentence rewriting.
+Guest name spelling: Nate Tanzman (matches YouTube/RSS).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube official/manual captions en-US used (preferred over auto); no >> speaker flips — turns segmented by pause gaps + sticky Jacob/Nate content scoring (imperfect).; YT duration 7468s matches RSS/inventory 7468s.; No published chapter timestamps (inventory has_timestamps=no).; YT≠RSS title (YT adds "The JYLP - " prefix); archive uses YouTube / exact_public_title.; React/follow, host Instagram CTA, and subscribe outro omitted from About (same class as subscribe outros); bio + narrative + guest-link lines kept verbatim.; Manual speaker fixes applied: several (cold-open host lines, Nate birth/faith beats, closing ask/on-spot handoff, father-advice monologue vs Jacob Bravo, outro bumper).
