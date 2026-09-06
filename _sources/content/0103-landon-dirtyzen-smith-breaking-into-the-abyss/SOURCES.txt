@@ -8,3 +8,4 @@ Guest links: Dirtyzen YouTube, Instagram @Dirtyzen, SoundCloud favorite mix (fro
 Quotes: none published as quote blocks (inventory has_quotes=yes appears false-positive; only alias “Dirtyzen” in curly quotes in bio)
 About: Jacob published description verbatim as spaced paras; link/CTA / Ram Ram outro omitted
 Guest name spelling: Landon 'Dirtyzen' Smith (prefer Dirtyzen; matches YouTube/RSS/inventory)
+Archive picks: added (timestamped quotes, chapter-style beats, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About/links; kept separate from Jacob published About/Chapters/Quotes (published notes had no chapters/quote blocks; left unchanged).
