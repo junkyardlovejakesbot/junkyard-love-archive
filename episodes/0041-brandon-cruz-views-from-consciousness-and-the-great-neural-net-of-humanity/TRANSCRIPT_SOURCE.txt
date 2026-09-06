@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en/en-orig (captions.en.vtt / captions.en.json3; also archived as source-yt.en*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=5IAvWpc2p30
+Turns: 679
+Word count: 22571
+Speaker map: pause-gap segmentation + sticky Jacob/Brandon content scoring (named speaker labels not present in captions; auto diarization imperfect); formal host bumper present
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light ASR name tidy (Brandon Cruz; Neuralink; Stoned Ape Theory; Elon Musk; Closer to Truth; Trump; WWE; DMT); bumper/outro forced to Jacob where clear; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Brandon Cruz (YT/RSS title); slug brandon-cruz (NEW).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips. YT duration 8007s vs RSS/inventory 7977s (archive meta uses RSS duration). No published chapter timestamps. Title YT=RSS. About YT~itunes:summary (YT primary; Instagram wyld_productions CTA stripped from About). Inventory has_quotes=no / has_timestamps=no / has_hashtags=no / has_guest_links=no. Archive picks fills timestamped quotes/chapters/keywords/hashtags/bio. Guest page: brandon-cruz (NEW).
+Speaker balance: Jacob 342 turns/12967 words; Brandon 337 turns/9604 words.
+Heuristic speaker fixes: 1; post-splits: 2 (split Jacob bumper / Brandon open; noop-keep jacob outro)

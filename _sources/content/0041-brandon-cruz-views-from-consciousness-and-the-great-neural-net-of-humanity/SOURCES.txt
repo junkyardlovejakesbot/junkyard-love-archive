@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (~itunes:summary). Guest Instagram CTA (wyld_productions) stripped. No guest contact/email.
+YouTube chars: 509
+RSS HTML chars: 393
+Title source: YouTube / exact_public_title (5IAvWpc2p30). YT=RSS.
+Title: Episode 041 with Brandon Cruz - Views From Consciousness and The Great Neural Net of Humanity
+RSS title: Episode 041 with Brandon Cruz - Views From Consciousness and The Great Neural Net of Humanity
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YT chapters
+Guest links: none published on archive page (inventory has_guest_links=no); Instagram CTA stripped from About
+Quotes: none published (inventory has_quotes=no)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube (contact stripped)
+Guest name spelling: Brandon Cruz; guest slug brandon-cruz (NEW)
+Duration: RSS itunes:duration 7977s (2:12:57); YT info.json duration 8007s — using RSS/inventory 7977
+Publish date: RSS/inventory 2020-05-13 (YT upload_date 20200514)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).

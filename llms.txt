@@ -88,6 +88,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0044 Spencer Hicks — Operating Optimally Should Be Your Goal](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0044-spencer-hicks-operating-optimally-should-be-your-goal/) — 2020-06-10
 - [0043 Joseph Crumb — Redefining your life and - wait why are you taking me seriously?](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0043-joseph-crumb-redefining-your-life-and-wait-why-are-you-taking-me-seriously/) — 2020-05-29
 - [0042 Mack T & J Faul — The Last Saturday: Small Town Minds Evolving and An Attitude of Growth](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0042-mack-t-and-j-faul-the-last-saturday-small-town-minds-evolving-and-an-attitude-of-growth/) — 2020-05-19
+- [0041 Brandon Cruz — Views From Consciousness and The Great Neural Net of Humanity](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0041-brandon-cruz-views-from-consciousness-and-the-great-neural-net-of-humanity/) — 2020-05-13
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -96,6 +97,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Barbara McAfee](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/barbara-mcafee/)
 - [Blake Hull](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/blake-hull/)
 - [Bobby Barrz](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/bobby-barrz/)
+- [Brandon Cruz](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/brandon-cruz/)
 - [Brian 'DJ Toasty' Andrew](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/brian-dj-toasty-andrew/)
 - [Brent Spirit](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/brent-spirit/)
 - [Cameron 'Cam' Reid](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/cameron-reid/)
@@ -251,3 +253,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0044-spencer-hicks-operating-optimally-should-be-your-goal/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0044-spencer-hicks-operating-optimally-should-be-your-goal/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0043-joseph-crumb-redefining-your-life-and-wait-why-are-you-taking-me-seriously/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0043-joseph-crumb-redefining-your-life-and-wait-why-are-you-taking-me-seriously/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0042-mack-t-and-j-faul-the-last-saturday-small-town-minds-evolving-and-an-attitude-of-growth/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0042-mack-t-and-j-faul-the-last-saturday-small-town-minds-evolving-and-an-attitude-of-growth/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0041-brandon-cruz-views-from-consciousness-and-the-great-neural-net-of-humanity/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0041-brandon-cruz-views-from-consciousness-and-the-great-neural-net-of-humanity/episode.md)
