@@ -1,0 +1,7 @@
+title=Episode 009 with Shaden 'Hvshi' Nugent
+upload_date=20191212
+duration=3882
+video_id=VijHLQP1MxY
+rss_title=Episode 009 with Shaden 'Hvshi' Nugent
+title_conflict=YT=RSS
+h1=Episode 009 with Shaden 'Hvshi' Nugent

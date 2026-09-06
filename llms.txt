@@ -117,6 +117,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0012 Bob Kendall](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0012-bob-kendall/) — 2019-12-15
 - [0011 Spencer Hicks](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0011-spencer-hicks/) — 2019-12-13
 - [0010 Brian 'Dj Toasty' Andrews & Kelly 'K3lls' St. Onge](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0010-brian-dj-toasty-andrews-and-kelly-k3lls-st-onge/) — 2019-12-13
+- [0009 Shaden 'Hvshi' Nugent](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0009-shaden-hvshi-nugent/) — 2019-12-11
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -194,6 +195,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Sandy Vo](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/sandy-vo/)
 - [Scott Pisapia of Roots Basketball Academy](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/scott-pisapia/)
 - [Sean Blackwell](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/sean-blackwell/)
+- [Shaden 'Hvshi' Nugent](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/shaden-hvshi-nugent/)
 - [Shaye](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/shaye-camp-reeducation/)
 - [Shiloh Rister](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/shiloh-rister/)
 - [Sigmar Berg](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/sigmar-berg/)
@@ -328,3 +330,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0012-bob-kendall/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0012-bob-kendall/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0011-spencer-hicks/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0011-spencer-hicks/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0010-brian-dj-toasty-andrews-and-kelly-k3lls-st-onge/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0010-brian-dj-toasty-andrews-and-kelly-k3lls-st-onge/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0009-shaden-hvshi-nugent/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0009-shaden-hvshi-nugent/episode.md)

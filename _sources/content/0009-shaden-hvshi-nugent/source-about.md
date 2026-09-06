@@ -1,0 +1,15 @@
+Hvshi takes a break from the mayhem and leans back into the junkyard love vibe with me.
+
+He lays out his last few years of success, fame, contracts, touring, turmoil and reset.
+
+We learn about the man behind the artistic layers and the boy who got him there.
+
+He speaks on his recent healing from letting the beast protect him from his pain.
+
+We touch a bit on being a fashionable male in a small town, the music writing process, his upcoming EP and short film, changing perspectives and alias masks, and seeing his butterfly of this stage in life.
+
+Shaden has always stood out to me for his storytelling abilities.
+
+As he gets better and understands his own genius, I am grateful he is choosing to share his words with the world, and that I can aide him in any way on that path.
+
+There's much more on the horizon for creator and artist Shaden Nugent.

@@ -1,0 +1,9 @@
+Episode 0009: Episode 009 with Shaden 'Hvshi' Nugent
+Guest: Shaden 'Hvshi' Nugent
+Date: 2019-12-11
+YouTube: https://www.youtube.com/watch?v=VijHLQP1MxY
+RSS: https://share.transistor.fm/s/f22b63cf
+Title conflict: YT=RSS
+Guest slug: shaden-hvshi-nugent (NEW)
+About: YT~RSS identical body; YT footer stripped; no guest contact/email
+Transcript: YouTube auto-captions (en/en-orig); YT duration 3882s vs RSS 3854s (~28s; meta uses RSS); no YT chapters

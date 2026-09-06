@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en/en-orig (captions.en.vtt / captions.en.json3; also archived as source-yt.en*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=VijHLQP1MxY
+Turns: 225
+Word count: 12708
+Speaker map: pause-gap segmentation + sticky Jacob/Shaden content scoring (named speaker labels not present in captions; auto diarization imperfect); host bumper/outro forced to Jacob where clear
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light ASR name tidy (Shaden/Hvshi/Hoshi ASR tidy; Junkyard Love; Jacob Rhines; Instagram; Facebook; Twitter; YouTube; Big Mac; loserthink); bumper/outro forced to Jacob where clear; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Shaden 'Hvshi' Nugent (YT/RSS titles / inventory); captions often ASR as Hoshi/Hashi/shading; slug shaden-hvshi-nugent (NEW).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips. YT duration 3882s (~1:04:42) vs RSS/inventory 3854s (~1:04:14) — ~28s delta, not substantial; transcript follows YT captions; archive meta uses RSS duration. No published chapter timestamps; no YT chapters. Title YT=RSS. About YT~RSS identical body (YT footer stripped). Inventory has_quotes=no / has_timestamps=no / has_hashtags=no / has_guest_links=no. Archive picks fills timestamped quotes/chapters/keywords/hashtags/bio. Guest page: shaden-hvshi-nugent (NEW).
+Speaker balance: Jacob 115 turns/6621 words; Shaden 110 turns/6087 words.
+Heuristic speaker fixes: 2; post-splits: 0 ()

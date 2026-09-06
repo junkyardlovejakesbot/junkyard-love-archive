@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from RSS plain (identical to YT after footer strip). Soft mid-sentence newlines joined. No guest contact/email.
+YouTube chars: 982
+RSS HTML chars: 844
+Title source: YT=RSS exact match (VijHLQP1MxY). H1/slug use Episode 009 with Shaden 'Hvshi' Nugent. YT=RSS.
+Title: Episode 009 with Shaden 'Hvshi' Nugent
+RSS title: Episode 009 with Shaden 'Hvshi' Nugent
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YouTube chapter markers — Archive picks derived from transcript themes
+Guest links: none published (inventory has_guest_links=no)
+Quotes: inventory has_quotes=no — no Quotes list block (0 list quotes)
+Hashtags: none published as a block (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from RSS (YT~RSS); YT footer stripped
+Guest name spelling: Shaden 'Hvshi' Nugent; guest slug shaden-hvshi-nugent (NEW)
+Duration: RSS itunes:duration 3854s (1:04:14); YT info.json duration 3882s — using RSS/inventory 3854; YT~RSS within ~28s (not substantial)
+Publish date: RSS/inventory 2019-12-11 (YT upload_date 20191212 — next calendar day)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps from transcript, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).
