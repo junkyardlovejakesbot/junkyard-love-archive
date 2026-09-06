@@ -1,0 +1,11 @@
+Source: YouTube automatic captions en/en-orig (captions.en.vtt / captions.en.json3; also archived as auto.en.* / source-yt.en*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=7NulVdcSeGo
+Turns: 109
+Word count: 15678
+Speaker map: pause-gap segmentation + sticky Jacob/Marty content scoring (named speaker labels not present in captions)
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; bumper/outro forced to Jacob where clear; opening bumper/Marty mash split where detected
+No sentence rewriting.
+Guest name spelling: Marty Strong (matches YouTube/RSS).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips — turns segmented by pause gaps + sticky Jacob/Marty content scoring (imperfect). YT duration 4874s vs RSS/inventory 5057s (~183s difference; archive meta uses RSS duration; captions track YT length). No published chapter timestamps (inventory has_timestamps=no). YT≠RSS title (RSS drops JYLP prefix / lowercase retired); archive uses YouTube / exact_public_title. Inventory has_quotes=yes but no published quote bullets — BIO uses quotation marks (treated as none published). Subscribe/Video-versions/host IG outro omitted from About; narrative + BIO kept verbatim; guest link extracted from narrative. Manual speaker fixes applied: 15
+Post-fix speaker corrections: 5 (moved trailing it's onto Marty opening; Jacob->Marty @ 794000: With taking a risk because if you're so risk adverse that yo; Jacob->Marty @ 844000: In elementary school and then the kids as they were shifting; split Marty book title from Jacob site plug; rescued Marty novel talk from Jacob plug turn)

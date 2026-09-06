@@ -1,0 +1,9 @@
+Description source: YouTube (primary per archive rules; YT≈RSS narrative+BIO; RSS wraps in <p>/<br>/<strong>; YT plain text)
+YouTube chars: 1442
+RSS HTML chars: 1489
+Title source: YouTube / exact_public_title (YT≠RSS — RSS: "0109 with retired Navy SEAL combat veteran, Author, CEO - Marty Strong - Adapt, Move, Be Different."; YT uses "JYLP 0109 …")
+Title: JYLP 0109 Retired Navy SEAL combat veteran, Author, CEO - Marty Strong - Adapt, Move, Be Different.
+Chapters source: none published (YT/RSS; inventory has_timestamps=no)
+Guest links: from published notes (inline "For more on Marty, head here - https://martystrongbenimble.com/")
+Quotes: none published as quote bullets (inventory has_quotes=yes likely false-positive from BIO quotation marks)
+About: narrative + BIO heading + BIO quote verbatim; Video versions / Instagram / see-ya outro omitted (same class as subscribe outros)

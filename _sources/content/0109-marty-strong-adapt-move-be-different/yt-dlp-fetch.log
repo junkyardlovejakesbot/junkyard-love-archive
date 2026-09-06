@@ -1,0 +1,17 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?v=7NulVdcSeGo
+[youtube] 7NulVdcSeGo: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] 7NulVdcSeGo: Downloading visionos player API JSON
+[youtube] 7NulVdcSeGo: Downloading m3u8 information
+[info] 7NulVdcSeGo: Downloading subtitles: en, en-orig
+[info] 7NulVdcSeGo: Downloading 1 format(s): 137+251
+[info] Writing video description to: /workspace/junkyard-love-archive/content/0109-marty-strong-adapt-move-be-different/source-yt.description
+[info] Writing video subtitles to: /workspace/junkyard-love-archive/content/0109-marty-strong-adapt-move-be-different/source-yt.en.vtt
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: /workspace/junkyard-love-archive/content/0109-marty-strong-adapt-move-be-different/source-yt.en.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.66MiB/s (00:00:00)[download]    7.00KiB at    4.59MiB/s (00:00:00)[download]   15.00KiB at    8.01MiB/s (00:00:00)[download]   31.00KiB at    4.69MiB/s (00:00:00)[download]   63.00KiB at    5.58MiB/s (00:00:00)[download]  127.00KiB at    7.18MiB/s (00:00:00)[download]  255.00KiB at   10.93MiB/s (00:00:00)[download]  511.00KiB at   16.95MiB/s (00:00:00)[download]  765.44KiB at   22.72MiB/s (00:00:00)[download] 100% of  765.44KiB in 00:00:00 at 2.14MiB/s
+[info] Writing video subtitles to: /workspace/junkyard-love-archive/content/0109-marty-strong-adapt-move-be-different/source-yt.en-orig.vtt
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: /workspace/junkyard-love-archive/content/0109-marty-strong-adapt-move-be-different/source-yt.en-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at    5.83MiB/s (00:00:00)[download]   15.00KiB at    6.37MiB/s (00:00:00)[download]   31.00KiB at    4.03MiB/s (00:00:00)[download]   63.00KiB at    4.83MiB/s (00:00:00)[download]  127.00KiB at    6.47MiB/s (00:00:00)[download]  255.00KiB at   10.06MiB/s (00:00:00)[download]  511.00KiB at   15.99MiB/s (00:00:00)[download]  765.44KiB at   21.50MiB/s (00:00:00)[download] 100% of  765.44KiB in 00:00:00 at 3.85MiB/s
+[info] Writing video metadata as JSON to: /workspace/junkyard-love-archive/content/0109-marty-strong-adapt-move-be-different/source-yt.info.json
