@@ -1,0 +1,10 @@
+Source: YouTube automatic captions en-orig (captions.en-orig.vtt / captions.en-orig.json3); en track identical auto; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=iPjWmu-oXhE
+Turns: 104
+Word count: 16234
+Speaker map: solo solocast — all turns labeled Jacob; pause-gap segmentation (~2.4–3.2s) + merge consecutive fragments (cap ~200 words); no guest speaker
+Cleanup: light dedupe of consecutive duplicate words; HTML entities/nbsp unescaped; capitalized turn starts; light name/term fixes (Junkyard Love; jacobfromtheinternet; Alan Watts; Ram Dass ASR 'ronda'; Lexapro; OCD; CBT); dropped [Music]/foreign cue noise; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest: none (solo / Jacob). No guest page (matches 0093 / 0100).
+Note: automatic captions are imperfect ASR; timestamps and wording may drift; flagged imperfect ASR.
+Issue: YouTube automatic captions (en-orig) used; no official/manual track. RSS itunes:duration 6129s; YT info.json duration 6129s. No published chapter timestamps/quotes/hashtags/guest links in episode notes (inventory has_timestamps/quotes/hashtags/hashtags/has_guest_links=no). YT has auto chapters (Untitled / What Does a Relaxed Person Look like / Intrusive Thoughts / Major Depressive Disorder / Bipolar Depression / Quitting My Antidepressants / How To Handle Anxiety Attacks…) — used only to seed Archive picks, not as published Chapters. Title YT=RSS. Publish date RSS 2022-01-14 (YT upload_date 20220114). About YT≈RSS. Archive picks fills gaps.

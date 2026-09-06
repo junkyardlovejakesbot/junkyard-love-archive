@@ -1,0 +1,15 @@
+Description source: YouTube primary; About spaced from YT plain description (solocast framing + Instagram CTA). No guest links (inventory has_guest_links=no).
+YouTube chars: 765
+RSS HTML chars: 765
+Title source: YouTube / exact_public_title / RSS same (iPjWmu-oXhE). YT=RSS.
+Title: 083 - a solocast - Making Sense Of My Depression & Anxiety pt. 1
+RSS title: 083 - a solocast - Making Sense Of My Depression & Anxiety pt. 1
+Chapters source: none published in episode notes (inventory has_timestamps=no); YT info.json has auto chapters — used only to seed Archive picks, not as published Chapters
+Guest links: none (solo)
+Quotes: none published (inventory has_quotes=no)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube; YT≈RSS
+Guest: solo / Jacob — no guest page (pattern 0093 / 0100)
+Duration: RSS/inventory 6129s (1:42:09); YT info.json duration 6129s
+Publish date: RSS 2022-01-14 (YT upload_date 20220114)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, solo episode framing) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
