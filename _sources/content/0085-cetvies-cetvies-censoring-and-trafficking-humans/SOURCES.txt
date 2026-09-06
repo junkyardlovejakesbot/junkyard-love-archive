@@ -1,0 +1,15 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (bio + interests + topics + CTA). Guest website remains in About; no separate guest-links block (inventory has_guest_links=no).
+YouTube chars: 708
+RSS HTML chars: 708
+Title source: YouTube / exact_public_title (cX-2nTupoHI). YT≠RSS — RSS expands “w”→“with” and capitalizes “Of”.
+Title: 085 w Bachelor of Science/Masters In Human Rights Cetvies Cetvies - Censoring and Trafficking Humans
+RSS title: 085 with Bachelor Of Science/Masters In Human Rights Cetvies Cetvies - Censoring and Trafficking Humans
+Chapters source: none published in episode notes (inventory has_timestamps=no); YT info.json has auto chapters (Untitled / The Spirit of the Law / Censorship in China / Where Do You See the Role of Journalists) — used only to seed Archive picks, not as published Chapters
+Guest links: none published as structured links (inventory has_guest_links=no); website www.inthenameofhumanrights.com appears inline in About
+Quotes: none published (inventory has_quotes=no)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube; YT≈RSS body
+Guest name spelling: Cetvies Cetvies (unusual doubled name as published on YT/RSS); guest slug cetvies-cetvies; inventory guest_name includes credential prefix
+Duration: RSS itunes:duration 3692s (1:01:32); YT info.json duration 3692s — using RSS/inventory 3692
+Publish date: RSS pubDate 2022-04-11 (YT upload_date 20220412) — using RSS/inventory 2022-04-11
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.

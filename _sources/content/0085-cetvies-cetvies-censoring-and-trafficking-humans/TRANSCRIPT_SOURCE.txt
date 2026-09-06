@@ -1,0 +1,11 @@
+Source: YouTube automatic captions en-orig (captions.en-orig.vtt / captions.en-orig.json3); en track identical auto; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=cX-2nTupoHI
+Turns: 52
+Word count: 7422
+Speaker map: pause-gap segmentation (~2.4–3.2s; median caption gap ~2.5s) + marker-based Jacob/Cetvies flip splits + sticky content scoring (named speaker labels not present in auto captions); bumper before ~0:18 forced to Jacob; guest trafficking/censorship/rights narratives forced Cetvies; closing CTA/bumper forced Jacob where matched
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments (cap ~220 words); HTML entities/nbsp unescaped; capitalized turn starts after merge; light name/term fixes (Cetvies — captions often mishear as set/seth/said; Junkyard Love; jacobfromtheinternet); dropped [Music]/foreign cue noise; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Cetvies Cetvies (matches YouTube/RSS/inventory doubled name); guest slug cetvies-cetvies; captions frequently mishear Cetvies as set/seth/said.
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places. Guest has a non-native English accent — ASR is noisy.
+Issue: YouTube automatic captions (en-orig) used; no official/manual track; no >> speaker flips. RSS itunes:duration 3692s; YT info.json duration 3692s — using RSS/inventory 3692. No published chapter timestamps/quotes/hashtags in episode notes (inventory all no); YT has untitled+3 auto chapters but not in published notes. Title YT≠RSS — H1 uses YouTube/exact_public_title (“085 w Bachelor…”); RSS uses “085 with Bachelor Of…”. About YT≈RSS (same body). Publish date RSS 2022-04-11 (YT upload_date 20220412). Archive picks fills gaps. Guest website www.inthenameofhumanrights.com kept inside About only (inventory has_guest_links=no).
+Postfix diarization fixes: 5 ops (targeted Jacob/Cetvies swaps + blend splits).
