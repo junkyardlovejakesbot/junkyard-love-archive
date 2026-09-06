@@ -1,0 +1,13 @@
+Source: YouTube automatic captions en-orig (captions.en-orig.vtt / captions.en-orig.json3); en track identical auto; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=IdHBQSsx1oE
+Turns: 93
+Word count: 14078
+Speaker map: pause-gap segmentation (~0.85–1.2s) + marker-based Jacob/Zach flip splits + sticky content scoring (named speaker labels not present in auto captions); open bumper before ~0:18 forced to Jacob; guest yoga/love/heart/poetry teaching narratives forced Zach; closing CTA/email/bumper forced Jacob where matched
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments (cap ~220 words); HTML entities/nbsp unescaped; capitalized turn starts after merge; light name/term fixes (Zach Beach, The Heart Center, Learn to Love, Seven Lessons of Love, Alan Watts, Rumi, Buddha, Shunryu Suzuki, Pebbles, metta/loving-kindness, koans); dropped [Music]/foreign cue noise; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Zach Beach (matches YouTube/RSS/inventory); guest slug zach-beach; captions sometimes mishear Zach as Zack.
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en-orig) used; no official/manual track; no >> speaker flips. RSS itunes:duration 5234s; YT info.json duration 5235s — using RSS/inventory 5234. No published chapter timestamps. Title YT≠RSS — H1 uses YouTube/exact_public_title (“087 Yogi…”); RSS inserts “with” after 087. Inventory has_guest_links=yes (zachbeach.com / Heart Center / socials); has_quotes=yes (no conversation pull-quotes in notes — Quotes block notes none; likely inventory flag from quoted “Pebbles”); has_hashtags=no; has_timestamps=no — Archive picks fills gaps (timestamped transcript quotes, chapters, keywords/hashtags, short bio). YT About includes @zachbeachlove handle not in RSS CDATA the same way — About uses YT. Publish date RSS 2022-05-17 (YT upload_date 20220519).
+Postfix diarization fixes: 13 ops.
+Postfix diarization: guest-keyword density + host-keyword reassignment; words=14078.
+Targeted force: guest-quote keywords + dense-teaching long turns → Zach; host interview/CTA → Jacob; words=14078; ops=13.

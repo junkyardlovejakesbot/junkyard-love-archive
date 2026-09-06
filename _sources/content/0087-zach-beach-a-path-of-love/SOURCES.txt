@@ -1,0 +1,15 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (bio + discuss + subscribe + @handle). Guest links kept under Guest links, not mixed into About.
+YouTube chars: 1729
+RSS HTML chars: 1712
+Title source: YouTube / exact_public_title (IdHBQSsx1oE). YT≠RSS — RSS inserts “with” after 087.
+Title: 087 Yogi, Author, Poet, Love Coach & Masters in East/West Psychology Zach Beach - A Path Of Love
+RSS title: 087 with Yogi, Author, Poet, Love Coach & Masters in East/West Psychology Zach Beach - A Path Of Love
+Chapters source: none published (inventory has_timestamps=no; no YT chapters)
+Guest links: published zachbeach.com + Love School / Facebook / Instagram / Twitter / YouTube (inventory has_guest_links=yes)
+Quotes: no conversation pull-quotes in notes (inventory has_quotes=yes likely from quoted “Pebbles” / description punctuation) — Quotes block = none published
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube (incl. @zachbeachlove)
+Guest name spelling: Zach Beach (matches YouTube/RSS/inventory); guest slug zach-beach; inventory guest_name field uses role title string
+Duration: RSS itunes:duration 5234s (1:27:14); YT info.json duration 5235s — using RSS/inventory 5234
+Publish date: RSS pubDate 2022-05-17 (YT upload_date 20220519)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published notes; kept separate from Jacob published About/Chapters/Quotes.

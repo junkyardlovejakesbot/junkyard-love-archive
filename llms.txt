@@ -42,6 +42,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0090 Will Andes — Being Boys, Becoming Men, And Bringing Peace](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0090-will-andes-being-boys-becoming-men-and-bringing-peace/) — 2022-09-27
 - [0089 Daniel T. Matalon — The World Game](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0089-daniel-t-matalon-the-world-game/) — 2022-08-30
 - [0088 Spencer Hicks — Break The Hammer](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0088-spencer-hicks-break-the-hammer/) — 2022-08-02
+- [0087 Zach Beach — A Path Of Love](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0087-zach-beach-a-path-of-love/) — 2022-05-17
 
 ## Guests
 - [Anne Riley](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/anne-riley/)
@@ -78,6 +79,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Trey Jones](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/trey-jones/)
 - [Wendy Cole](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/wendy-cole/)
 - [Will Andes](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/will-andes/)
+- [Zach Beach](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/zach-beach/)
 
 ## Show links
 - YouTube: https://www.youtube.com/@TheJunkyardLovePodcast
@@ -122,3 +124,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0090-will-andes-being-boys-becoming-men-and-bringing-peace/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0090-will-andes-being-boys-becoming-men-and-bringing-peace/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0089-daniel-t-matalon-the-world-game/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0089-daniel-t-matalon-the-world-game/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0088-spencer-hicks-break-the-hammer/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0088-spencer-hicks-break-the-hammer/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0087-zach-beach-a-path-of-love/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0087-zach-beach-a-path-of-love/episode.md)
