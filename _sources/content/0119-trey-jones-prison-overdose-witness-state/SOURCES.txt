@@ -1,0 +1,6 @@
+Description source: YouTube (primary per archive rules; matches RSS narrative)
+YouTube chars: 3985
+RSS HTML chars: 4217
+RSS text chars: 3938
+Title source: YouTube
+Title: The Story Of Trey Jones – From Prison Overdose to Witness State - The Junkyard Love Podcast EP. 0119

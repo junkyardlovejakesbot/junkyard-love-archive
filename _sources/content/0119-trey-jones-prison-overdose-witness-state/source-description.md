@@ -1,0 +1,57 @@
+In this conversation, I sit down with Trey Jones. Trey Jones is a former convict who spent 10 years in a Tennessee prison, and while in prison, he had a near-death experience that awakened him to a very new and different perspective. 
+While tattooing, Trey was offered a bump, of which turned out to be fentanyl, that put him out for 18 minutes. 
+After six cans of Narcan and three defibrillator shocks, Trey awakened to a new lens on reality, and as a new version of himself. He joins us to share his current teachings on victim mindset, his insights on what he calls ‘inverted narcissism’, and his wisdom as a coach - Trey moves now as a Personal Authority Coach under the moniker ‘PrisonToPurpose444’ (He’s the founder of ‘From Prison To Purpose’) - He does 1:1 interventions to dismantle victim identity and rebuild authority. He lives a more grounded life these days, as a proud father with his partner and son in the Great Northwest. I actually met him at the edge of a forest - where a gathering of dancing energy healers, eccentric thinkers, connecting artists, and modern shamans met to evolve together, transmute, and dance through their dharma as one. He was amongst the many with God in their eyes.
+
+Please welcome to the podcast: Trey Jones.
+
+
+
+For more details on what subjects we approached, check the time stamps below
+
+Timestamps:
+0:00 – Morning rising ritual, meditation, and gratitude practice
+4:00 – Mobility work, cold showers, and light breakfast for energy
+7:00 – Why victim mentality is inverted narcissism and manipulation
+12:00 – Fasting as a mental game and building willpower like a muscle
+18:00 – The witness state in meditation and observing your thoughts
+23:00 – Prison life, the fentanyl overdose, and the near-death turning point
+28:00 – Instant perspective after dying and working through deep regret
+33:00 – Cutting ties with old energies while allowing redemption
+38:00 – God as energy, frequency, and universal consciousness
+43:00 – The double slit experiment and how belief creates reality
+48:00 – Identity shifts from manual labor to purposeful social media work
+55:00 – Christ consciousness and the current global awakening
+1:02:00 – Energetic healing, breathwork, and the power of mindset
+1:08:00 – Levels of consciousness, empathy, and reading people
+1:14:00 – Prison lessons on self-care first and real empathy with standards
+1:22:00 – Synchronicities, interconnections, and past-life loops
+1:30:00 – Pre-planned journeys, amnesia, and chasing your higher calling
+1:36:00 – Final reflections and message to listeners
+
+
+Notable quotes from Trey on the show:
+
+“Victim mentality is just inverted narcissism.”
+“Healing isn’t being understood. Healing is becoming someone that your past can no longer control.”
+“Your willpower is a muscle. The more you exercise it, the stronger it is.”
+“I don’t believe everyone has to die to find their true self.”
+“Empathy without standards creates weak adults.”
+“Staying hard is the quickest way to never change.”
+“The true you is the witness behind it all.”
+“We’re all just trying to pick different versions of ourselves up because we’re all a little piece of the puzzle.”
+“If you have a dream or a higher calling, just fucking chase it. Nobody’s going to pursue your passions like you are.”
+“Everything in my life needs to change, because everything in my life up to this point led me to this moment.”
+“My purpose now is to offer the same perspectives I went through so people don’t have to reach the same levels of rock bottom.”
+“Identity is your subconscious beliefs on who you are. You have to surround yourself with people who believe in the identity you believe in.”
+“We come down here and everyone gets amnesia. The beauty of life is discovering life itself.”
+
+Trey Jones turned:
+ - a decade in Tennessee prisons
+ - a fentanyl overdose that put him out for 18 minutes
+ - and living in victim mindset
+into a complete life reset.
+
+Follow him here
+Insta - @prisontopurpose444
+
+subscribe to stay up to date

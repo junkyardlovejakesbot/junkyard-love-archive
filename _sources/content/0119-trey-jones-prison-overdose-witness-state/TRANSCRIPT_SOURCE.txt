@@ -1,0 +1,10 @@
+Source: YouTube automatic captions en (captions.en.vtt / captions.en.json3); no official/manual en-US track available
+Video: https://www.youtube.com/watch?v=eNr0xYcmoYY
+Turns: 94
+Word count: 17378
+Speaker map: auto-caption >> diarization segments, assigned to Jacob/Trey with sticky content scoring (named speaker labels not present in auto captions)
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities unescaped; capitalized turn starts after merge; clear host/guest mislabels corrected and several mixed turns split (witness/victim open, ripe/rock-bottom, street-pharmacist/five-people, cut-ties ask, where-were-you, closing message/outro) where auto diarization flipped speakers mid-exchange
+No sentence rewriting.
+Guest name spelling: Trey Jones (matches YouTube/RSS).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: published chapter stamp 1:36:00 is past episode duration (~1:34:36); anchor placed after last transcript cue.

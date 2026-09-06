@@ -1,0 +1,13 @@
+- “Victim mentality is just inverted narcissism.”
+- “Healing isn’t being understood. Healing is becoming someone that your past can no longer control.”
+- “Your willpower is a muscle. The more you exercise it, the stronger it is.”
+- “I don’t believe everyone has to die to find their true self.”
+- “Empathy without standards creates weak adults.”
+- “Staying hard is the quickest way to never change.”
+- “The true you is the witness behind it all.”
+- “We’re all just trying to pick different versions of ourselves up because we’re all a little piece of the puzzle.”
+- “If you have a dream or a higher calling, just fucking chase it. Nobody’s going to pursue your passions like you are.”
+- “Everything in my life needs to change, because everything in my life up to this point led me to this moment.”
+- “My purpose now is to offer the same perspectives I went through so people don’t have to reach the same levels of rock bottom.”
+- “Identity is your subconscious beliefs on who you are. You have to surround yourself with people who believe in the identity you believe in.”
+- “We come down here and everyone gets amnesia. The beauty of life is discovering life itself.”

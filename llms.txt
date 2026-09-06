@@ -10,6 +10,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0122 Barbara McAfee — Laughing Like a Hairy Oaf](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0122-laughing-like-a-hairy-oaf-barbara-mcafee/) — 2026-06-09
 - [Tim Fraley — Surrendering The Porsche](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/surrendering-the-porsche-tim-fraley/) — 2026-05-01
 - [David Hulse — I'm Not A Teacher, I'm A Reminder / Path To No Path](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/im-not-a-teacher-david-hulse/) — 2026-03-14
+- [0119 Trey Jones — From Prison Overdose to Witness State](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0119-trey-jones-prison-overdose-witness-state/) — 2026-02-14
 
 ## Guests
 - [Barbara McAfee](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/barbara-mcafee/)
@@ -17,6 +18,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [David Hulse](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/david-hulse/)
 - [Sigmar Berg](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/sigmar-berg/)
 - [Tim Fraley](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/tim-fraley/)
+- [Trey Jones](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/trey-jones/)
 
 ## Show links
 - YouTube: https://www.youtube.com/@TheJunkyardLovePodcast
@@ -29,3 +31,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0124-sigmar-berg-conscious-breathing-break/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0124-sigmar-berg-conscious-breathing-break/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0123-endorphins-love-quantum-medicine-four-bodies/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0123-endorphins-love-quantum-medicine-four-bodies/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0122-laughing-like-a-hairy-oaf-barbara-mcafee/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0122-laughing-like-a-hairy-oaf-barbara-mcafee/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0119-trey-jones-prison-overdose-witness-state/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0119-trey-jones-prison-overdose-witness-state/episode.md)
