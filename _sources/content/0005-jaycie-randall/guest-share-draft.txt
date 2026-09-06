@@ -1,0 +1,9 @@
+Episode 0005: Episode 005 with Jaycie Randall
+Guest: Jaycie Randall
+Date: 2019-11-27
+YouTube: https://www.youtube.com/watch?v=jx-zGMfKoxk
+RSS: https://share.transistor.fm/s/12da5d89
+Title conflict: YT=RSS
+Guest slug: jaycie-randall (APPEND — exists with 0067; do NOT create new slug; preserve Intuitive Healer H1/About)
+About: YT~RSS identical body; YT footer stripped; no guest contact/email
+Transcript: YouTube auto-captions (en/en-orig); YT duration 4339s vs RSS 4312s (~27s; meta uses RSS)

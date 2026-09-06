@@ -121,6 +121,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0008 Nate 'NastyNate' Tanzman](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0008-nate-nastynate-tanzman/) — 2019-12-09
 - [0007 Jessica Faul](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0007-jessica-faul/) — 2019-12-05
 - [0006 Ryan 'Tos' Santos](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0006-ryan-tos-santos/) — 2019-11-28
+- [0005 Jaycie Randall](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0005-jaycie-randall/) — 2019-11-27
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -337,3 +338,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0008-nate-nastynate-tanzman/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0008-nate-nastynate-tanzman/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0007-jessica-faul/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0007-jessica-faul/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0006-ryan-tos-santos/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0006-ryan-tos-santos/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0005-jaycie-randall/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0005-jaycie-randall/episode.md)

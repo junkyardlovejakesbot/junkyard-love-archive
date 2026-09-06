@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from RSS plain (identical to YT after footer strip). Soft mid-sentence newlines joined. No guest contact/email.
+YouTube chars: 792
+RSS HTML chars: 654
+Title source: YT=RSS exact match (jx-zGMfKoxk). H1/slug use Episode 005 with Jaycie Randall. YT=RSS.
+Title: Episode 005 with Jaycie Randall
+RSS title: Episode 005 with Jaycie Randall
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YT chapters
+Guest links: none published (inventory has_guest_links=no)
+Quotes: none published (inventory has_quotes=no) (0 list quotes)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from RSS (YT~RSS)
+Guest name spelling: Jaycie Randall; guest slug jaycie-randall (APPEND — 0067, 0005); guest-page H1 preserved as Intuitive Healer Jaycie Randall
+Duration: RSS itunes:duration 4312s (1:11:52); YT info.json duration 4339s — using RSS/inventory 4312; YT~RSS within ~27s (not substantial)
+Publish date: RSS/inventory 2019-11-27 (YT upload_date 20191127)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).

@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en/en-orig (captions.en.vtt / captions.en.json3; also archived as source-yt.en*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=jx-zGMfKoxk
+Turns: 263
+Word count: 13075
+Speaker map: pause-gap segmentation + sticky Jacob/Jaycie content scoring (named speaker labels not present in captions; auto diarization imperfect); host bumper forced to Jacob where clear
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light ASR name tidy (Jaycie Randall; Junkyard Love; Jacob Rhines; Jace); bumper/outro forced to Jacob where clear; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Jaycie Randall (YT/RSS titles / inventory); slug jaycie-randall (APPEND — exists with 0067).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips. YT duration 4339s (~1:12:19) vs RSS/inventory 4312s (~1:11:52) — ~27s delta, not substantial; transcript follows YT captions; archive meta uses RSS duration. No published chapter timestamps; no YT chapters. Title YT=RSS. About YT~RSS identical body (YT footer stripped). Inventory has_quotes=no / has_timestamps=no / has_hashtags=no / has_guest_links=no. Archive picks fills timestamped quotes/chapters/keywords/hashtags/bio. Guest page: jaycie-randall APPEND (0067, 0005) — do NOT create new slug; preserve existing Intuitive Healer H1 and 0067 About.
+Speaker balance: Jacob 135 turns/8923 words; Jaycie 128 turns/4152 words.
+Heuristic speaker fixes: 2; post-splits: 0 ()

@@ -1,0 +1,7 @@
+In this episode, I get to chat with my friend Jaycie Randall. We discuss various subjects such as goals, ambitions, growing up and maturing in a small town, waking up, the present moment, difficult conversations in a relationship, allergies, expressing emotions, branching from plateus, planning for the future and 30 day lents.
+
+Jaycies incredible emotional intelligence and broad ability to remain aware and wise of her present moment in each interaction she has... brings much comfort and 'now' to our chats.
+
+We talked for hours prior to this about life and it's beautiful but presently unraveling mysteries.
+
+I hope you enjoy our talk as much as I did.
