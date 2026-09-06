@@ -1,0 +1,2 @@
+- Awake Yoga Meditation: https://awakeyogameditation.org/
+- Awake Awareness (book) — Amazon: https://www.amazon.com/Awake-Awareness-Swami-Nityananda-Giri/dp/B0BNTXST81

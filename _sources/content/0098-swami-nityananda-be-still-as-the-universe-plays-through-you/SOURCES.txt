@@ -1,0 +1,12 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (narrative matches RSS <p>; Checkout/URLs moved to Guest links; quote block moved to Quotes; Transistor footer omitted)
+YouTube chars: 3228
+RSS HTML chars: 3101
+Title source: YouTube / exact_public_title / RSS — all match: "098 with Swami Nityananda - Be Still, As The Universe Plays Through You". Keep 0098 four-digit in slug/meta (title uses 098).
+Title conflict: none
+Chapters source: none published (inventory has_timestamps=no; no YT chapters)
+Guest links: published (awakeyogameditation.org + Awake Awareness Amazon) — inventory has_guest_links=yes
+Quotes: three published Swami Nityananda quotes from YT/RSS notes — inventory has_quotes=yes
+About: Jacob published description verbatim as spaced paras from YouTube (Hit Follow prefix kept as published in para 1)
+Guest name spelling: Swami Nityananda (matches YouTube/RSS/inventory); guest slug swami-nityananda; captions mishear "Juniper Ellis" as "Jennifer Ellis" — light cleanup to Juniper Ellis
+Duration: RSS itunes:duration 3570s (59:30); YT info.json duration 3569s — using RSS/inventory 3570
+Publish date: RSS pubDate 2023-05-08 (YT upload_date 20230508)

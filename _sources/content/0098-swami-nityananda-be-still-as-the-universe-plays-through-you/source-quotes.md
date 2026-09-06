@@ -1,0 +1,5 @@
+"We become increasingly aware of wherever our pain points are, or our reactivity is, we become aware of those, and able to NOT react, and not enter into the lower frequencies of anger, fear, frustration, doubt, limitation - wherever we have humanly felt blocked before - that increasingly dissolves and melts away. We are bringing healing, compassion, wisdom, and awareness in." - Swami Nityananda
+
+"Of course, if you are a human facing loss, there's an adjustment and it's really honest spiritually to say 'This is a big adjustment that I'm going through, and humanly I'm experiencing grief right now.' And it becomes much easier to move through it gracefully, to not push down the feelings, not deny them, but also to connect with that wholeness, if we're able to connect with that connectedness which goes so far beyond the physical." - Swami Nityananda
+
+"Stay here. Every moment that you have to stay here in the body, stay here. Be fully here, and, when the time comes, do not fear. Absolutely do not fear." - Swami Nityananda

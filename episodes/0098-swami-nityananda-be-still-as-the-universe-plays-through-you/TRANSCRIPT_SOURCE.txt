@@ -1,0 +1,11 @@
+Source: YouTube automatic captions en-orig (captions.en-orig.vtt / captions.en-orig.json3); en track identical auto; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=cQ1mtQ_UfB0
+Turns: 72
+Word count: 10764
+Speaker map: pause-gap segmentation (~1.0–1.5s) + sticky Jacob/Swami content scoring; bumper <47s Jacob; host intro 47s–guest-start (~1:13) Jacob; guest bio opening forced Swami; closing wrap split; end bumper cut ~58:28
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments (cap ~220 words); HTML entities/nbsp unescaped; capitalized turn starts after merge; light name/term fixes (Juniper Ellis, kriya yoga, Awake Yoga Meditation, Transcendental Meditation, Junkyard Love); dropped [Music]/end-bumper cue noise
+No sentence rewriting.
+Guest name spelling: Swami Nityananda (matches YouTube/RSS); legal/scholarly name Juniper Ellis (captions often Jennifer Ellis).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips. YT duration 3569s vs RSS/inventory 3570s. No published chapter timestamps. Title matches YT/RSS/inventory (098…); slug/meta keep 0098. Postfix fixes: 1 (split bumper/intro).
+Postfix: trimmed end-bumper bleed (“take care hello and welcome…”) from final Jacob outro.
