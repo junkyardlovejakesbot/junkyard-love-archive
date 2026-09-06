@@ -26,22 +26,22 @@ Instagram: @academyforspiritualawakening
 
 ## Chapters
 
-- [00:00:00](/episodes/im-not-a-teacher-david-hulse/#t-00-00-00) Welcome & Awakening as Process vs. Event
-- [00:03:30](/episodes/im-not-a-teacher-david-hulse/#t-00-03-30) Western Product Mindset and the Missing 18 Years of Jesus
-- [00:08:20](/episodes/im-not-a-teacher-david-hulse/#t-00-08-20) Reevaluating New Age Teachings and Paradigm Shifts
-- [00:14:10](/episodes/im-not-a-teacher-david-hulse/#t-00-14-10) Gnosis, Innate Intelligence, and Suppressed Knowledge
-- [00:21:00](/episodes/im-not-a-teacher-david-hulse/#t-00-21-00) The 1980s DNA Meditation Download
-- [00:29:00](/episodes/im-not-a-teacher-david-hulse/#t-00-29-00) Discovering Solfeggio Frequencies & Tuning Forks
-- [00:39:30](/episodes/im-not-a-teacher-david-hulse/#t-00-39-30) Spiritual Growth Stages: Babes, Adolescents, Co-Creative Adults
-- [00:47:30](/episodes/im-not-a-teacher-david-hulse/#t-00-47-30) Cellular Awakening: Inner Becoming Outer
-- [00:56:00](/episodes/im-not-a-teacher-david-hulse/#t-00-56-00) Caterpillar Chaos to Butterfly Transformation
-- [01:04:30](/episodes/im-not-a-teacher-david-hulse/#t-01-04-30) David’s 17-Year-Old Awakening & Cosmic Story
-- [01:11:00](/episodes/im-not-a-teacher-david-hulse/#t-01-11-00) Starseeds, Critical Mass, and Global Evolution
-- [01:15:30](/episodes/im-not-a-teacher-david-hulse/#t-01-15-30) Gospel Roots, Sound Spirals & Energy as Currency
-- [01:17:30](/episodes/im-not-a-teacher-david-hulse/#t-01-17-30) Coccyx Activation, Etheric Blueprint & Tuning Fork Practice
-- [01:18:30](/episodes/im-not-a-teacher-david-hulse/#t-01-18-30) HeartLight Center, Academy Legacy, and Community Building
-- [01:19:00](/episodes/im-not-a-teacher-david-hulse/#t-01-19-00) Forgotten Pre-Incarnation Contracts and Future Activations
-- [01:19:20](/episodes/im-not-a-teacher-david-hulse/#t-01-19-20) Closing Wisdom: Walking Each Other Home
+- [00:00:00](/episodes/0120-im-not-a-teacher-david-hulse/#t-00-00-00) Welcome & Awakening as Process vs. Event
+- [00:03:30](/episodes/0120-im-not-a-teacher-david-hulse/#t-00-03-30) Western Product Mindset and the Missing 18 Years of Jesus
+- [00:08:20](/episodes/0120-im-not-a-teacher-david-hulse/#t-00-08-20) Reevaluating New Age Teachings and Paradigm Shifts
+- [00:14:10](/episodes/0120-im-not-a-teacher-david-hulse/#t-00-14-10) Gnosis, Innate Intelligence, and Suppressed Knowledge
+- [00:21:00](/episodes/0120-im-not-a-teacher-david-hulse/#t-00-21-00) The 1980s DNA Meditation Download
+- [00:29:00](/episodes/0120-im-not-a-teacher-david-hulse/#t-00-29-00) Discovering Solfeggio Frequencies & Tuning Forks
+- [00:39:30](/episodes/0120-im-not-a-teacher-david-hulse/#t-00-39-30) Spiritual Growth Stages: Babes, Adolescents, Co-Creative Adults
+- [00:47:30](/episodes/0120-im-not-a-teacher-david-hulse/#t-00-47-30) Cellular Awakening: Inner Becoming Outer
+- [00:56:00](/episodes/0120-im-not-a-teacher-david-hulse/#t-00-56-00) Caterpillar Chaos to Butterfly Transformation
+- [01:04:30](/episodes/0120-im-not-a-teacher-david-hulse/#t-01-04-30) David’s 17-Year-Old Awakening & Cosmic Story
+- [01:11:00](/episodes/0120-im-not-a-teacher-david-hulse/#t-01-11-00) Starseeds, Critical Mass, and Global Evolution
+- [01:15:30](/episodes/0120-im-not-a-teacher-david-hulse/#t-01-15-30) Gospel Roots, Sound Spirals & Energy as Currency
+- [01:17:30](/episodes/0120-im-not-a-teacher-david-hulse/#t-01-17-30) Coccyx Activation, Etheric Blueprint & Tuning Fork Practice
+- [01:18:30](/episodes/0120-im-not-a-teacher-david-hulse/#t-01-18-30) HeartLight Center, Academy Legacy, and Community Building
+- [01:19:00](/episodes/0120-im-not-a-teacher-david-hulse/#t-01-19-00) Forgotten Pre-Incarnation Contracts and Future Activations
+- [01:19:20](/episodes/0120-im-not-a-teacher-david-hulse/#t-01-19-20) Closing Wisdom: Walking Each Other Home
 
 ## Quotes
 

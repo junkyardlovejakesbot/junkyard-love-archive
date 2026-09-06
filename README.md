@@ -6,10 +6,10 @@ Plain static site. No domain configured yet — open `site/index.html` locally, 
 - **0124** Sigmar Berg — `site/episodes/0124-sigmar-berg-conscious-breathing-break/`
 - **0123** Dr. Cristine Hull — `site/episodes/0123-endorphins-love-quantum-medicine-four-bodies/`
 - **0122** Barbara McAfee — `site/episodes/0122-laughing-like-a-hairy-oaf-barbara-mcafee/`
-- **Tim Fraley — Surrendering The Porsche** — `site/episodes/surrendering-the-porsche-tim-fraley/`
-- **David Hulse — I'm Not A Teacher, I'm A Reminder** — `site/episodes/im-not-a-teacher-david-hulse/`
+- **Tim Fraley — Surrendering The Porsche** — `site/episodes/0121-surrendering-the-porsche-tim-fraley/`
+- **David Hulse — I'm Not A Teacher, I'm A Reminder** — `site/episodes/0120-im-not-a-teacher-david-hulse/`
 - **0119** Trey Jones — `site/episodes/0119-trey-jones-prison-overdose-witness-state/`
-- **Sean Blackwell — What If Mania Is a Message?** — `site/episodes/what-if-mania-is-a-message-sean-blackwell/`
+- **Sean Blackwell — What If Mania Is a Message?** — `site/episodes/0118-what-if-mania-is-a-message-sean-blackwell/`
 - **0117** Blake Hull — `site/episodes/0117-blake-hull-good-morning-blakey-boy/`
 - **0116** Curtis L. Harnagel — `site/episodes/0116-curtis-l-harnagel-same-room-different-angles/`
 - **0115** Nate Begle — `site/episodes/0115-nate-begle-the-puppets-heart/`
