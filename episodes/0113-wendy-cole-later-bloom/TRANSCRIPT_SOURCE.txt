@@ -1,0 +1,10 @@
+Source: YouTube official/manual captions en-US (manual.en-US.vtt / manual.en-US.json3); auto en also archived as captions.en.*; no >> diarization markers
+Video: https://www.youtube.com/watch?v=rhIRCgycfvI
+Turns: 143
+Word count: 14873
+Speaker map: pause-gap segmentation + sticky Jacob/Wendy content scoring with bio/host regex multi-pass corrections (named speaker labels not present in captions)
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light stutter-hyphen tidy; bumper/outro forced to Jacob where clear; split one blended end block
+No sentence rewriting.
+Guest name spelling: Wendy Cole (matches YouTube/RSS).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: Official/manual en-US captions used (preferred over auto); no >> speaker flips — turns segmented by pause gaps + sticky Jacob/Wendy content scoring (imperfect).; YT duration 6334s vs RSS/inventory 6335s (1s difference).; No published chapter timestamps (inventory has_timestamps=no).; YT≠RSS title and description wording; archive uses YouTube primary.; RSS guest YouTube handle @wendycole8326 returns 404; YT @wendycole212 returns 200 — used YT handle.; Manual speaker fixes applied: 2 (incl. split of blended Wendy channel-pitch / Jacob outro block).; 3 turn(s) exceed ~400 words — may still blend speakers inside a pause-merged block.

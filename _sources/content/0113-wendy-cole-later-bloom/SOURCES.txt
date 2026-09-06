@@ -1,0 +1,7 @@
+Description source: YouTube (primary per archive rules; YT≠RSS wording — e.g. YT "completed her own transition at the age of 67" vs RSS "fully transitioned after 65"; YT omits "telling the truth"; YT YouTube handle @wendycole212 verified live, RSS @wendycole8326 404)
+YouTube chars: 2747
+RSS HTML chars: 3700
+Title source: YouTube (exact_public_title; YT≠RSS — RSS title "0113 with Transition Mentor Wendy Cole - Later Bloom")
+Title: 'Later Bloom' - a conversation with Transition Mentor Wendy Cole - The Junkyard Love Podcast EP 0113
+Chapters source: none published (YT/RSS; inventory has_timestamps=no)
+Guest links: from published YouTube notes with https:// expanded; Demystifying URLs from YT clean links (not RSS mlsend trackers)

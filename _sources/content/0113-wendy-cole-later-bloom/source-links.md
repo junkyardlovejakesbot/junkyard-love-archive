@@ -1,0 +1,8 @@
+- Connect with Wendy:
+- Website: https://wendycolegtm.net/
+- LinkedIn: https://www.linkedin.com/in/wendy-cole-gtm/
+- YouTube: https://www.youtube.com/@wendycole212
+- Demystifying The Transgender Journey Podcast:
+- Website: https://thetransgenderjourney.com
+- On YouTube: https://youtube.com/@thetransgenderjourney
+- On Podbean: https://demystifyingthetransgenderjourney.podbean.com/

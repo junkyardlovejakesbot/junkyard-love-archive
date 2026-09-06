@@ -1,0 +1,5 @@
+- "The greatest freedom I've discovered wasn't physical—it was mental. Changing my thoughts and beliefs changed everything."
+- "If you've never looked in the mirror and questioned your actual gender identity, 'I should have been a boy,' or 'I should have been a girl,' if you've never done that, I don't expect you to fully understand the depth of the distress."
+- "My therapist challenged every one of my thoughts, every one of my beliefs in myself."
+- "When you're able to finally align your outside with your inside, the sense of peace and joy is indescribable."
+- "Every limiting belief I confronted was like shedding a layer; underneath, I found who I truly was."
