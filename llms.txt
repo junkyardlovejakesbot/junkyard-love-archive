@@ -41,6 +41,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0091 Nike Anani — Next Gen, Legacy Perspective, New Beginnings](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0091-nike-anani-next-gen-legacy-perspective-new-beginnings/) — 2022-11-12
 - [0090 Will Andes — Being Boys, Becoming Men, And Bringing Peace](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0090-will-andes-being-boys-becoming-men-and-bringing-peace/) — 2022-09-27
 - [0089 Daniel T. Matalon — The World Game](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0089-daniel-t-matalon-the-world-game/) — 2022-08-30
+- [0088 Spencer Hicks — Break The Hammer](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0088-spencer-hicks-break-the-hammer/) — 2022-08-02
 
 ## Guests
 - [Anne Riley](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/anne-riley/)
@@ -120,3 +121,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0091-nike-anani-next-gen-legacy-perspective-new-beginnings/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0091-nike-anani-next-gen-legacy-perspective-new-beginnings/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0090-will-andes-being-boys-becoming-men-and-bringing-peace/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0090-will-andes-being-boys-becoming-men-and-bringing-peace/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0089-daniel-t-matalon-the-world-game/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0089-daniel-t-matalon-the-world-game/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0088-spencer-hicks-break-the-hammer/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0088-spencer-hicks-break-the-hammer/episode.md)

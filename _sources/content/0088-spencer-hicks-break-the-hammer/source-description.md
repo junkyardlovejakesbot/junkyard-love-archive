@@ -1,0 +1,14 @@
+"Spencer Hicks, Bachelor in arts of strategic communication; studies semiotics, enjoyed Hegelian dialectics and eats from the trash can of ideology."
+
+Various things that Spencer and I discussed throughout this convo:
+Philosophy, March Fischer, the state of modern society, hyper-realism, art, hauntology, Spencers' thesis, retro-futurism, cyber-punk, ontology, how art represents a culture, the roles of an artist to fight hegemonic belief systems, criticizing power structures, existential-dread, marxists criticisms, technology and robotic systems, ends of civilizations, kierkegaard, baudrillard, indoctrination, self-terminating systems, using the word 'inherently' too much, unusual behaviors we have, psychological quirks, Spencer shares what he’s been reading, listening to, working on and contemplating as of late, productivity, leaving a legacy as a trap, buddhist thought being captured by capitalism, self-help, I talk about myself a lot, remembering the nature of the self, Alan Watts and his book “The Wisdom Of Insecurity”, essentialism, David Fuller of Rebel Wisdom, propaganda, self-reflection, opposing political views, signs and symbols, personality, cognitive-miserliness, the apparent impossibilities of consensus, being wrong, The Intellectual Dark Web, Sam Harris & The Waking Up app, how we perceive one another, breaking stuff, nostalgia, the mandala effect, kundalini, and some more. If you enjoyed, consider hitting like or sharing with your tallest friend. cheerio
+
+## Quotes
+
+"It’s just like having your eyes refreshed all the time"
+
+"I fundamentally disagree with myself last year, every year. — Spencer Hicks"
+
+## Guest links
+
+(none published in episode notes)

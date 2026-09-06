@@ -1,0 +1,15 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (quoted bio + discuss para). Published pull-quotes kept under Quotes, not mixed into About.
+YouTube chars: 1628
+RSS HTML chars: 1633
+Title source: YouTube / exact_public_title (dgJutG6KCyQ). YT≠RSS — RSS omits “The JYLP ep.” prefix.
+Title: The JYLP ep. 088 with Bachelor In Arts Of Strategic Communication Spencer Hicks - Break The Hammer
+RSS title: 088 with Bachelor In Arts Of Strategic Communication Spencer Hicks - Break The Hammer
+Chapters source: none published (inventory has_timestamps=no; no YT chapters)
+Guest links: none published in episode notes (inventory has_guest_links=no)
+Quotes: two published pull-quotes kept under Quotes (inventory has_quotes=yes)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube
+Guest name spelling: Spencer Hicks (matches YouTube/RSS/inventory); guest slug spencer-hicks; inventory guest_name field uses degree title string
+Duration: RSS itunes:duration 9670s (2:41:10); YT info.json duration 9671s — using RSS/inventory 9670
+Publish date: RSS pubDate 2022-08-02 (YT upload_date 20220802)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published notes; kept separate from Jacob published About/Chapters/Quotes.

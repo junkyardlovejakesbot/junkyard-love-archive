@@ -1,0 +1,13 @@
+Source: YouTube automatic captions en-orig (captions.en-orig.vtt / captions.en-orig.json3); en track identical auto; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=dgJutG6KCyQ
+Turns: 162
+Word count: 30154
+Speaker map: pause-gap segmentation (~0.8–1.1s) + sticky content scoring + guest-keyword / host-keyword forces (named speaker labels not present in auto captions); open bumper before ~1:50 forced to Jacob; guest hauntology/Baudrillard/thesis/break-the-hammer/long philosophy narratives forced Spencer; closing CTA/backlog forced Jacob where matched
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments (cap ~220 words); HTML entities/nbsp unescaped; capitalized turn starts after merge; light name/term fixes (Spencer Hicks, Jean Baudrillard, Jacques Derrida, Ghost in the Shell, Alan Watts, The Wisdom of Insecurity, Rebel Wisdom, David Fuller, Sam Harris, Waking Up, Mandela effect, hyperreality, simulacrum); dropped [Music]/foreign cue noise; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Spencer Hicks (matches YouTube/RSS/inventory); guest slug spencer-hicks; captions mishear Baudrillard as “John boliard”, Derrida as “derida”, Mandela as “mandala”, simulacrum as “semiolacrum”.
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places. Long episode (~2:41).
+Issue: YouTube automatic captions (en-orig) used; no official/manual track; no >> speaker flips. RSS itunes:duration 9670s; YT info.json duration 9671s — using RSS/inventory 9670. No published chapter timestamps. Title YT≠RSS — H1 uses YouTube/exact_public_title (“The JYLP ep. 088…”); RSS title omits “The JYLP ep.” prefix. Inventory has_guest_links=no; has_quotes=yes (two published pull-quotes kept under Quotes); has_hashtags=no; has_timestamps=no — Archive picks fills gaps (additional timestamped transcript quotes, chapters, keywords/hashtags, short bio).
+Postfix diarization fixes: 5 ops.
+Postfix diarization: guest-keyword density + long-monologue reassignment; words=30154.
+Targeted force: guest-quote keywords + dense-philosophy long turns → Spencer; words=30154; ops=5.
