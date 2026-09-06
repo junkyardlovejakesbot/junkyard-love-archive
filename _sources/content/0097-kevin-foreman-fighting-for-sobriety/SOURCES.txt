@@ -1,0 +1,13 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (narrative matches RSS <p>; guest CTA website kept in About verbatim and also listed under Guest links)
+YouTube chars: 1115
+RSS HTML chars: 1175
+Title source: YouTube / exact_public_title (n1s0m3ZyCr4). YT≠RSS — RSS omits leading "The JYLP Episode ".
+Title: The JYLP Episode 097 with Kevin Foreman - Fighting For Sobriety
+RSS title: 097 with Kevin Foreman - Fighting For Sobriety
+Chapters source: none published (inventory has_timestamps=no; no YT chapters)
+Guest links: published (bsbcon.com / Black Sheep Business Consulting) — inventory has_guest_links=yes
+Quotes: none published as labeled quotes (inventory has_quotes=yes flagged; no quote blocks in YT/RSS notes)
+About: Jacob published description verbatim as spaced paras from YouTube
+Guest name spelling: Kevin Foreman (matches YouTube/RSS/inventory); guest slug kevin-foreman
+Duration: RSS itunes:duration 5061s (1:24:21); YT info.json duration 5061s — using RSS/inventory 5061
+Publish date: RSS pubDate 2023-03-08 (YT upload_date 20230313)

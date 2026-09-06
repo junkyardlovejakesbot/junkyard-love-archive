@@ -32,6 +32,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0100 JacobFromTheInternet — Mystical Experience And Spiritual Practice (solo)](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0100-jacobfromtheinternet-mystical-experience/) — 2023-08-07
 - [0099 Brent Spirit — A Kundalini Awakening Story](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0099-brent-spirit-a-kundalini-awakening-story/) — 2023-07-08
 - [0098 Swami Nityananda — Be Still, As The Universe Plays Through You](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0098-swami-nityananda-be-still-as-the-universe-plays-through-you/) — 2023-05-08
+- [0097 Kevin Foreman — Fighting For Sobriety](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0097-kevin-foreman-fighting-for-sobriety/) — 2023-03-08
 
 ## Guests
 - [Anne Riley](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/anne-riley/)
@@ -46,6 +47,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [David Hulse](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/david-hulse/)
 - [Julie Hoyle](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/julie-hoyle/)
 - [Keenan 'Hurricane' Harvey](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/keenan-harvey/)
+- [Kevin Foreman](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/kevin-foreman/)
 - [Landon 'Dirtyzen' Smith](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/landon-dirtyzen-smith/)
 - [Marty Strong](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/marty-strong/)
 - [Matt McGee](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/matt-mcgee/)
@@ -95,3 +97,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0100-jacobfromtheinternet-mystical-experience/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0100-jacobfromtheinternet-mystical-experience/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0099-brent-spirit-a-kundalini-awakening-story/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0099-brent-spirit-a-kundalini-awakening-story/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0098-swami-nityananda-be-still-as-the-universe-plays-through-you/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0098-swami-nityananda-be-still-as-the-universe-plays-through-you/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0097-kevin-foreman-fighting-for-sobriety/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0097-kevin-foreman-fighting-for-sobriety/episode.md)

@@ -1,0 +1,11 @@
+Source: YouTube automatic captions en-orig (captions.en-orig.vtt / captions.en-orig.json3); en track identical auto; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=n1s0m3ZyCr4
+Turns: 87
+Word count: 16025
+Speaker map: pause-gap segmentation (~0.9–1.25s) + sticky content scoring with Jacob/Kevin labels (named speaker labels not present in auto captions); bumper before ~53s forced to Jacob; guest bio opening forced to Kevin (~01:02); first long host reflection ~22:12; closing CTA/website/wrap split where detected
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments (cap ~220 words); HTML entities/nbsp unescaped; capitalized turn starts after merge; light name/term fixes (Black Sheep Business Consulting, bsbcon.com, Ram Dass, Junkyard Love, substance abuse); dropped [Music]/end-bumper cue noise
+No sentence rewriting.
+Guest name spelling: Kevin Foreman (matches YouTube/RSS).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en-orig) used; no official/manual track; no >> speaker flips. YT duration matches RSS/inventory 5061s. No published chapter timestamps. YT≠RSS title: YT includes leading "The JYLP Episode "; RSS is "097 with Kevin Foreman…". H1 uses YouTube title. Inventory has_quotes=yes but no labeled quote blocks in YT/RSS notes.
+Postfix diarization fixes: Kevin-default early bio/story; long recovery/business narratives reassigned Kevin; Jacob reflection / Kevin reply splits; closing mom-joke/Ram Dass/principal/CTA splits; bulk KEVINISH long-turn reassignment (21 flips) with strong-Jacob protect (podcast meta, host reflections, closing).
