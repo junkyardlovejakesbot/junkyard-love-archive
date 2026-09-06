@@ -1,0 +1,19 @@
+A solocast! This morning I sat down with a few scribbles of random notes and talked through some ways to feel better and get control of our monkey minds.
+
+My intentions here are simply to help. I'm here to share some stuff I've learned that seems to help me. I'm certainly no psychiatrist, I'm nobodies boss, I'm miles from perfect myself and sometimes none of this stuff helps. But from my experience, constantly trying and failing feels better than accepting failure as an identity.
+
+I wish for all my listeners to feel clear, to feel wholesome and confident and vibrant. To feel in control of their emotions and actions and reactions. To know they can change and heal the parts of themselves that still bleed from time to time. I've seen glimpses of beauty I never knew existed before this stuff. Maybe it's not so new or profound or life-changing to some of ya, but to others, I've got to hope that it just might be.
+
+I share my experiences with stretching,environment, hygeine, screens, grounding, being weird, spending time alone, diet, inflammation, sleep, recovery, caffeine, porn, nofap, breathework, news, social media, habits, learning to learn, boundaries, values, distraction, content consumption, digital dementia, philosophy, being reactive, working out and more.
+
+As I tried to not dwell too far into subjects - if you have specific questions or would like expansion on any of my queries here - feel free to comment your Q's under this video over on The Junkyard Love youtube page.
+
+If you like this episode, please share with a friend, or even just screen record a clip or quote. Hope this helps. Take care of yourselves.
+
+## Quotes
+
+(none published in episode notes)
+
+## Guest links
+
+(none published — solo)

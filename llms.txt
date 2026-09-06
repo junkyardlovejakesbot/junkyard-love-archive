@@ -84,6 +84,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0048 Devon Sims — Being Kind, Flipping Perspective and Drinkin' Water](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0048-devon-sims-being-kind-flipping-perspective-and-drinkin-water/) — 2020-07-13
 - [0047 Trenten Kesler — Searching For Fluidity, Learning From Detail, and Laughing With Everyone](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0047-trenten-kesler-searching-for-fluidity-learning-from-detail-and-laughing-with-everyone/) — 2020-07-05
 - [0046 JACE Saltzman — Killing The Ego and Stumbling Onto The Right Path](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0046-rapper-jace-saltzman-killing-the-ego-and-stumbling-onto-the-right-path/) — 2020-06-21
+- [0045 Solo with Jacob Rhines — How To Take Care Of Yourself A Bit](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0045-solo-jacob-rhines-how-to-take-care-of-yourself-a-bit/) — 2020-06-18
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -240,3 +241,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0048-devon-sims-being-kind-flipping-perspective-and-drinkin-water/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0048-devon-sims-being-kind-flipping-perspective-and-drinkin-water/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0047-trenten-kesler-searching-for-fluidity-learning-from-detail-and-laughing-with-everyone/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0047-trenten-kesler-searching-for-fluidity-learning-from-detail-and-laughing-with-everyone/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0046-rapper-jace-saltzman-killing-the-ego-and-stumbling-onto-the-right-path/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0046-rapper-jace-saltzman-killing-the-ego-and-stumbling-onto-the-right-path/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0045-solo-jacob-rhines-how-to-take-care-of-yourself-a-bit/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0045-solo-jacob-rhines-how-to-take-care-of-yourself-a-bit/episode.md)
