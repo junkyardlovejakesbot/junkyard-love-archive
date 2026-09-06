@@ -1,0 +1,9 @@
+Description source: YouTube (primary per archive rules; YT richer than RSS — YT adds QUALIFICATIONS list + guest links; RSS has narrative + bio only; YT plain text, RSS wraps in <p>/<br>/<strong>)
+YouTube chars: 3536
+RSS HTML chars: 2554
+Title source: YouTube / exact_public_title (YT≠RSS — RSS: "0110 with Rebecca Wild - Turning The Lights On"; YT adds "The JYLP Episode " prefix)
+Title: The JYLP Episode 0110 with Rebecca Wild - Turning The Lights On
+Chapters source: none published (YT/RSS; inventory has_timestamps=no)
+Guest links: from published YouTube notes (inventory has_guest_links=no but YT publishes book/site/IG/YT/Insight Timer/Linktree lines)
+Quotes: none published (inventory has_quotes=no)
+About: narrative + Guest Highlight + QUALIFICATIONS + bio + guest-link lines verbatim; subscribe/review/IG outro omitted (same class as subscribe outros)

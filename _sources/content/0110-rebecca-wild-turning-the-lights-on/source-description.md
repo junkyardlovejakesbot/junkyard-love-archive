@@ -1,0 +1,42 @@
+Rebecca and I sit down for a raw, enlightening conversation about overcoming life’s most challenging moments. From personal trauma to profound self-discovery, we discuss the pivotal moments that shaped our paths toward healing and growth. With heartfelt anecdotes, practical advice, and a sprinkle of humor, this dialogue is a beacon of hope and a guide for anyone navigating their own journey of self-discovery. We place an extra emphasis on actionable advice for those listeners suffering from depression and suicidal ideation. 
+
+
+Guest Highlight - Rebecca Wild: A Multifaceted Wellness Visionary
+
+QUALIFICATIONS
+*  Holistic Health Coach Diploma (2020)
+*  NLP Master Diploma (2021)
+*  Hatha Yoga and Meditation 200hr (2021)
+*  Chair Yoga Diploma (2022)
+*  Restorative Yoga Diploma (2022)
+*  Tarot Diploma (2023)
+*  Astrology Diploma (2020)
+*  Counselling Diploma Level 2 (2022)
+*  Jungian Therapy in Coaching Diploma (2023)
+*  Suicide Prevention First Aid (2022)
+*  Trauma Informed Training (2024)
+*  Peri-Natal Support (2023)
+*  Equity, Diversity and Inclusion (2023)
+*  Self-Harm Awareness (2023)
+*  Drug and Alcohol Misuse (2023)
+*  Past Life Regression Hypnosis (2023)
+*  Neurodiversity: An Introduction (2024)
+*  Armed Forces Awareness (2024)
+
+Rebecca Wild is a beacon of transformation and healing in the modern wellness landscape, bringing a unique blend of expertise, empathy, and insight to her practice. With an impressive array of qualifications spanning holistic health, mindfulness, psychology, and coaching, Rebecca has dedicated her life to guiding others on their journeys of self-discovery and personal growth.
+
+Her formal training includes a Holistic Health Coach Diploma, multiple certifications in Yoga and Meditation, and advanced studies in NLP (Neuro-Linguistic Programming) and Jungian Therapy in Coaching. These credentials are complemented by her expertise in Trauma-Informed Care, Suicide Prevention, and specialized areas such as Peri-Natal Support, Self-Harm Awareness, and Drug and Alcohol Misuse.
+Rebecca’s creative spirit shines through her work in Tarot, Astrology, and Past Life Regression Hypnosis, allowing her to connect deeply with clients seeking clarity and empowerment.
+
+With a profound understanding of the interconnectedness of mind, body, and spirit, Rebecca blends her extensive knowledge with a compassionate approach to help others navigate life’s challenges. Whether leading restorative yoga sessions, coaching clients through trauma recovery, or offering insightful guidance through Tarot and Astrology, she embodies a holistic philosophy that transforms lives.
+
+Rebecca’s journey is a testament to resilience and the power of self-discovery. Her life experiences, combined with her unparalleled qualifications, make her an inspiring figure for those seeking healing, empowerment, and a deeper connection to their true selves.
+
+Get a copy of her book: 'The Will To Live Project' here - https://www.amazon.co.uk/dp/B0CXCRCW5M?linkCode=ml1&tag=rebeccaaaalle-21
+Her website is here: https://www.rebeccawild.org/
+A great instgram follow: https://www.instagram.com/rebeccaaaawild/
+Her Youtube channel: https://www.youtube.com/c/thesailawaygirl?app=desktop
+Guided meditations on Insight Timer: https://insighttimer.com/rebeccaaaawild
+All else Rebecca Wild: https://linktr.ee/rebeccaaaawild
+
+See ya next episode! Consider leaving a review if you enjoyed this episode, subscribe for the latest new conversation drops, and follow @jacobfromtheinternet on Instagram for all things JFTI and JYLP!

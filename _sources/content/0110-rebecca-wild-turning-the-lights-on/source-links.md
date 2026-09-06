@@ -1,0 +1,6 @@
+- Get a copy of her book: 'The Will To Live Project' here - https://www.amazon.co.uk/dp/B0CXCRCW5M?linkCode=ml1&tag=rebeccaaaalle-21
+- Her website is here: https://www.rebeccawild.org/
+- A great instgram follow: https://www.instagram.com/rebeccaaaawild/
+- Her Youtube channel: https://www.youtube.com/c/thesailawaygirl?app=desktop
+- Guided meditations on Insight Timer: https://insighttimer.com/rebeccaaaawild
+- All else Rebecca Wild: https://linktr.ee/rebeccaaaawild
