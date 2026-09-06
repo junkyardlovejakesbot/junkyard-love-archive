@@ -1,0 +1,15 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (intro + CTA with Instagram). Guest website kept inline in About and also under Guest links (inventory has_guest_links=yes).
+YouTube chars: 1058
+RSS HTML chars: 1058
+Title source: YouTube / exact_public_title (0CxRtybRq2E). YT≠RSS — RSS omits “The JYLP” prefix; otherwise same guest/topic title.
+Title: The JYLP EP079 W/ Guest Lynn Cherry of Pickleball Fire - "Here, Use My Paddle!"
+RSS title: EP079 W/ Guest Lynn Cherry of Pickleball Fire - "Here, Use My Paddle!"
+Chapters source: none published in episode notes (inventory has_timestamps=no); YT info.json has titled chapters (What Is Pickleball / Pre-Warm-Up Stretching / Supporting the Muscles around the Injury / Stretching / Kyle Yates / What Equipment You Recommend on Your Website / Getting Started / What Is the Podcast Journey Been like for You / Pickleball Ambassador / Where Do You See the Sport Going / Where's Pickleball Going… / Juniors Leagues) — used only to seed Archive picks, not as published Chapters
+Guest links: published https://pickleballfire.com/podcast-2/ (inventory has_guest_links=yes); also remains inline in About
+Quotes: none published (inventory has_quotes=no)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube; YT≈RSS body
+Guest name spelling: Lynn Cherry; guest slug lynn-cherry; of Pickleball Fire
+Duration: RSS itunes:duration 2880s (48:00); YT info.json duration 2880s — using RSS/inventory 2880
+Publish date: RSS pubDate 2021-11-03 (YT upload_date 20211103) — using RSS/inventory 2021-11-03
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.

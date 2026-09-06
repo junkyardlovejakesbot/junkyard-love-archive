@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en-orig (captions.en-orig.vtt / captions.en-orig.json3); en track identical auto; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=0CxRtybRq2E
+Turns: 78
+Word count: 8776
+Speaker map: pause-gap segmentation (~2.2s; max ~190 words/seg) + marker-based Jacob/Lynn flip splits + sticky content scoring (named speaker labels not present in auto captions); opening pickleball clip before ~0:53 forced to Lynn; Jacob ladies-and-gentlemen intro ~0:53; guest pickleball/expertise narratives forced Lynn; closing CTA/bumper forced Jacob where matched
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments (cap ~200 words); HTML entities/nbsp unescaped; capitalized turn starts after merge; light name/term fixes (Lynn Cherry; Pickleball Fire; Kyle Yates; USA Pickleball; Junkyard Love; jacobfromtheinternet; PhD); dropped [Music]/foreign/trailing cue noise
+No sentence rewriting.
+Guest name spelling: Lynn Cherry; guest slug lynn-cherry.
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en-orig) used; no official/manual track; no >> speaker flips. RSS itunes:duration 2880s; YT info.json duration 2880s — using RSS/inventory 2880. No published chapter timestamps/quotes/hashtags in episode notes (inventory has_timestamps/quotes/hashtags=no); YT has titled chapters (What Is Pickleball / Pre-Warm-Up Stretching / … / Juniors Leagues) — used only to seed Archive picks, not as published Chapters. Title YT≠RSS — H1 uses YouTube/exact_public_title (“The JYLP EP079…”); RSS omits “The JYLP” prefix (starts “EP079…”). About YT≈RSS. Publish date RSS 2021-11-03 (YT upload_date 20211103). Inventory has_guest_links=yes — https://pickleballfire.com/podcast-2/ kept inline in About and listed under Guest links. Archive picks fills gaps.
+Postfix diarization fixes: 12 ops.
+Speaker balance: Jacob 32 turns/2601 words; Lynn 46 turns/6175 words.
