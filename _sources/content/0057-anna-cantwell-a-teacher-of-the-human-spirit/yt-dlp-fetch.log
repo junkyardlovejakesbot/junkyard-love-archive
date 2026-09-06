@@ -1,0 +1,17 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?v=O9NoXjLJYcM
+[youtube] O9NoXjLJYcM: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] O9NoXjLJYcM: Downloading visionos player API JSON
+[youtube] O9NoXjLJYcM: Downloading m3u8 information
+[info] O9NoXjLJYcM: Downloading subtitles: en, en-orig
+[info] O9NoXjLJYcM: Downloading 1 format(s): 136+251
+[info] Writing video description to: source-yt.description
+[info] Writing video subtitles to: source-yt.en.vtt
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: source-yt.en.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at    5.31MiB/s (00:00:00)[download]   15.00KiB at    9.67MiB/s (00:00:00)[download]   31.00KiB at    4.45MiB/s (00:00:00)[download]   63.00KiB at    5.40MiB/s (00:00:00)[download]  127.00KiB at    7.05MiB/s (00:00:00)[download]  255.00KiB at   10.42MiB/s (00:00:00)[download]  511.00KiB at   15.63MiB/s (00:00:00)[download] 1023.00KiB at   25.57MiB/s (00:00:00)[download]    1.09MiB at   27.42MiB/s (00:00:00)[download] 100% of    1.09MiB in 00:00:00 at 4.91MiB/s
+[info] Writing video subtitles to: source-yt.en-orig.vtt
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: source-yt.en-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at    6.27MiB/s (00:00:00)[download]   15.00KiB at   10.59MiB/s (00:00:00)[download]   31.00KiB at    4.53MiB/s (00:00:00)[download]   63.00KiB at    5.25MiB/s (00:00:00)[download]  127.00KiB at    6.97MiB/s (00:00:00)[download]  255.00KiB at   10.49MiB/s (00:00:00)[download]  511.00KiB at   16.72MiB/s (00:00:00)[download] 1023.00KiB at   26.89MiB/s (00:00:00)[download]    1.09MiB at   28.68MiB/s (00:00:00)[download] 100% of    1.09MiB in 00:00:00 at 4.81MiB/s
+[info] Writing video metadata as JSON to: source-yt.info.json

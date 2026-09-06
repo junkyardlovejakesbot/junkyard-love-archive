@@ -1,0 +1,12 @@
+- "In the wind I feel Spirit, when I'm swinging on the swingset at recess I am matching my breath and constructing universes in the clouds, that was me as a child." — Anna Cantwell
+- "That insatiable curiosity was really hindered by this gripping of identity, trying to 'get it right', needing to always be 'the best', not 'my' best." — Anna Cantwell
+- "I have to leave this battle here." — Anna Cantwell
+- "Am I willing to see this, differently?" — Anna Cantwell
+- "The base definition of hope is seeing a more positive outcome, and multiple pathways to that outcome" — Anna Cantwell
+- "Comparing is one of the silliest things we do. Why would I ever compare myself to someone who hasn't had the lived experience, or the DNA, or the childhood, to get you to where you are on your journey right now? OWN where your journey begins." — Anna Cantwell
+- "Meditation is like showering for your brain" — Anna Cantwell
+- "Your home is your vision board, surround yourself with the symbols that mean something to you." — Anna Cantwell
+- "You are not something broken to be fixed, you are a garden to be tended to" — Anna Cantwell
+- "There were some seeds planted in all of our gardens that we never chose, we may have to do a little tilling and digging of the earth to uproot it." — Anna Cantwell
+- "I just want to help people feel comfortable in their own bodies" — Anna Cantwell
+- "It can and will get better. Choose to look for the good." — Anna Cantwell

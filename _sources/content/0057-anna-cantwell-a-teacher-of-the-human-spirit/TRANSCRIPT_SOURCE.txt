@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en-orig (captions.en-orig.vtt / captions.en-orig.json3); en track identical auto; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=O9NoXjLJYcM
+Turns: 139
+Word count: 21942
+Speaker map: pause-gap segmentation (~1.8–2.5s) + marker-based Jacob/Anna flip splits + sticky content scoring (named speaker labels not present in auto captions); Jacob bumper/Sober October/guest welcome forced through ~3:39; guest healing/meditation/mindfulness/trauma narratives forced Anna; host questions/CTA/bumper forced Jacob where matched
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments (cap ~200 words); HTML entities/nbsp unescaped; capitalized turn starts after merge; light name/term fixes (Anna Cantwell; Eckhart Tolle; Katy Perry; David Blaine; Lake Shasta; Truman Show; Star Wars; Soulshine; Junkyard Love; Lightning McQueen; Radiator Springs; Conner Anshutz [ASR connor ann shoes]; Sober October); dropped [Music]/trailing you cue noise; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Anna Cantwell; guest slug anna-cantwell (NEW).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en / en-orig identical) freshly downloaded this run; no official/manual track; no >> speaker flips. RSS itunes:duration 7794s; YT info.json duration 7794s — using RSS/inventory 7794. Inventory has_timestamps=no / has_quotes=yes / has_hashtags=no / has_guest_links=no. Title YT=RSS — H1 uses shared title (“Episode 057 with Soul Coach and Mindfulness Expert Anna Cantwell - A Teacher Of The Human Spirit”). About YT≈RSS (YT primary; footer stripped; spaced verbatim paras; published quotes split to Quotes section). Publish date RSS/inventory 2020-10-04 (YT upload_date 20201006). Twelve published quotes kept in Quotes; Archive picks fills timestamped quotes/extra chapters/keywords/hashtags/bio (separate). Guest page new. About mentions annacantwell.com and @iamannacantwell inline (not structured Guest links).
+Postfix diarization fixes: 3 ops.
+Speaker balance: Jacob 49 turns/7363 words; Anna 90 turns/14579 words.

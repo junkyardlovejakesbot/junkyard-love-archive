@@ -72,9 +72,11 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0060 Solo with Jacob Rhines — Sober October — A Personal Mental Review](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0060-solo-jacob-rhines-sober-october-a-personal-mental-review/) — 2020-11-06
 - [0059 Spencer Hicks — The Sense Making Sickness Series Part 1](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0059-spencer-hicks-the-sense-making-sickness-series-part-1/) — 2020-10-20
 - [0058 Conner Anshutz — People Are Portals To Yourself](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0058-conner-anshutz-people-are-portals-to-yourself/) — 2020-10-11
+- [0057 Anna Cantwell — A Teacher Of The Human Spirit](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0057-anna-cantwell-a-teacher-of-the-human-spirit/) — 2020-10-04
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
+- [Anna Cantwell](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/anna-cantwell/)
 - [Anne Riley](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/anne-riley/)
 - [Barbara McAfee](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/barbara-mcafee/)
 - [Blake Hull](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/blake-hull/)
@@ -204,3 +206,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0060-solo-jacob-rhines-sober-october-a-personal-mental-review/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0060-solo-jacob-rhines-sober-october-a-personal-mental-review/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0059-spencer-hicks-the-sense-making-sickness-series-part-1/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0059-spencer-hicks-the-sense-making-sickness-series-part-1/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0058-conner-anshutz-people-are-portals-to-yourself/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0058-conner-anshutz-people-are-portals-to-yourself/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0057-anna-cantwell-a-teacher-of-the-human-spirit/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0057-anna-cantwell-a-teacher-of-the-human-spirit/episode.md)

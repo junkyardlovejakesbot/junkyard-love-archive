@@ -69,6 +69,7 @@ Plain static site. No domain configured yet — open `site/index.html` locally, 
 - **0060** Solo with Jacob Rhines — Sober October — A Personal Mental Review — `site/episodes/0060-solo-jacob-rhines-sober-october-a-personal-mental-review/`
 - **0059** Spencer Hicks — The Sense Making Sickness Series Part 1 — `site/episodes/0059-spencer-hicks-the-sense-making-sickness-series-part-1/`
 - **0058** Conner Anshutz — People Are Portals To Yourself — `site/episodes/0058-conner-anshutz-people-are-portals-to-yourself/`
+- **0057** Anna Cantwell — A Teacher Of The Human Spirit — `site/episodes/0057-anna-cantwell-a-teacher-of-the-human-spirit/`
 - **0100** JacobFromTheInternet (solo) — `site/episodes/0100-jacobfromtheinternet-mystical-experience/`
 
 ## Preview
