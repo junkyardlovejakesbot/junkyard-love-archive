@@ -7,3 +7,4 @@ Chapters source: none published (YT/RSS; inventory has_timestamps=no)
 Guest links: from published notes (inline "For more on Marty, head here - https://martystrongbenimble.com/")
 Quotes: none published as quote bullets (inventory has_quotes=yes likely false-positive from BIO quotation marks)
 About: narrative + BIO heading + BIO quote verbatim; Video versions / Instagram / see-ya outro omitted (same class as subscribe outros)
+Archive picks: added (timestamped quotes, chapter-style beats, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About/links; kept separate from Jacob published About/Chapters/Quotes/Hashtags (published notes had none for chapters/quotes — left '(none published…)' unchanged; guest links stay as published). See source-archive-picks.md.
