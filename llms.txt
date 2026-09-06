@@ -90,6 +90,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0042 Mack T & J Faul — The Last Saturday: Small Town Minds Evolving and An Attitude of Growth](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0042-mack-t-and-j-faul-the-last-saturday-small-town-minds-evolving-and-an-attitude-of-growth/) — 2020-05-19
 - [0041 Brandon Cruz — Views From Consciousness and The Great Neural Net of Humanity](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0041-brandon-cruz-views-from-consciousness-and-the-great-neural-net-of-humanity/) — 2020-05-13
 - [0040 Brandon Cruz — Formulating Perspective From Behind The Lens, Cognitive Change With Intention, and Being A Creative Individual](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0040-brandon-cruz-formulating-perspective-from-behind-the-lens-cognitive-change-with-intention-and-being-a-creative-individual/) — 2020-05-11
+- [0039 Erik Nordin — A Small Town Sound With Heart](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0039-erik-nordin-of-rosetan-a-small-town-sound-with-heart/) — 2020-05-10
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -112,6 +113,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [David Crayk](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/david-crayk/)
 - [David Hulse](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/david-hulse/)
 - [Devon Sims](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/devon-sims/)
+- [Erik Nordin](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/erik-nordin/)
 - [Erwan Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/erwan-davon/)
 - [Georgia Peach](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/georgia-peach/)
 - [Heather Hutchison](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/heather-hutchison/)
@@ -256,3 +258,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0042-mack-t-and-j-faul-the-last-saturday-small-town-minds-evolving-and-an-attitude-of-growth/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0042-mack-t-and-j-faul-the-last-saturday-small-town-minds-evolving-and-an-attitude-of-growth/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0041-brandon-cruz-views-from-consciousness-and-the-great-neural-net-of-humanity/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0041-brandon-cruz-views-from-consciousness-and-the-great-neural-net-of-humanity/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0040-brandon-cruz-formulating-perspective-from-behind-the-lens-cognitive-change-with-intention-and-being-a-creative-individual/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0040-brandon-cruz-formulating-perspective-from-behind-the-lens-cognitive-change-with-intention-and-being-a-creative-individual/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0039-erik-nordin-of-rosetan-a-small-town-sound-with-heart/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0039-erik-nordin-of-rosetan-a-small-town-sound-with-heart/episode.md)

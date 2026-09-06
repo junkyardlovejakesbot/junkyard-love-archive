@@ -1,0 +1,1 @@
+- "Quarantine has taught me, that I am O.K. alone."

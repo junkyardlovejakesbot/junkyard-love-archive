@@ -1,0 +1,19 @@
+Erik is an avid ambient music lover, a seasoned musician, and a kind loveable guy. He came by in the midst of the quarantine and we set up an outdoor distanced podcast on the back patio. Erik is the lead singer of the band Rosetan.
+
+Rosetan is an 'acousticky/folky small-town sounds kinda band. We chat about playing at breweries and taphouses, about surviving as a bandleader in the strange downtimes, about 'talkin off the cuff' and about intentions in long-form content.
+
+He recalls what he tells the kids he works with - Be Safe, Be Caring, Be Productive, Be Responsible.
+
+We talk about Bandcamp and Spotify, sofarsounds, numbers and analytics for musicians.
+
+Erik fills us in on some of the tribulations and inner workings of wearing the hats of band manager and creator. He relates his past experiences to his current strengths. Mr. Nordin assures me - Musicianship does require work. We talk about integrity - building courage and self-love, having a positive mindset, having fruitful creativity. He chats about being conscious in his job to keep working and keep going. We talk about reputation. We talk about the illusion of emulating the final product and skipping the process. We talk about faking success, instant gratification, and being true to yourself. We touch on the mind and emotions beyond the music, LSD, and mental health tips n' tricks. (Go for a walk. Stretch.)
+
+We talk music recommendations, we chat about movies and series we've been indulging in, making laughter important, digging for tunes, and getting outside. Erik is a joyful friend and I learn a lot from him. Find more rosetan @rosetantheband and  Checkout their newest track - warm eyes, soft skin - on spotify now.
+
+## Quotes
+
+- "Quarantine has taught me, that I am O.K. alone."
+
+## Guest links
+
+(none published in episode notes)

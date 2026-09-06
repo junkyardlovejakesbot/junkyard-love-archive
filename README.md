@@ -87,6 +87,7 @@ Plain static site. No domain configured yet — open `site/index.html` locally, 
 - **0042** Mack T & J Faul — The Last Saturday: Small Town Minds Evolving and An Attitude of Growth — `site/episodes/0042-mack-t-and-j-faul-the-last-saturday-small-town-minds-evolving-and-an-attitude-of-growth/`
 - **0041** Brandon Cruz — Views From Consciousness and The Great Neural Net of Humanity — `site/episodes/0041-brandon-cruz-views-from-consciousness-and-the-great-neural-net-of-humanity/`
 - **0040** Brandon Cruz — Formulating Perspective From Behind The Lens, Cognitive Change With Intention, and Being A Creative Individual — `site/episodes/0040-brandon-cruz-formulating-perspective-from-behind-the-lens-cognitive-change-with-intention-and-being-a-creative-individual/`
+- **0039** Erik Nordin — A Small Town Sound With Heart — `site/episodes/0039-erik-nordin-of-rosetan-a-small-town-sound-with-heart/`
 - **0100** JacobFromTheInternet (solo) — `site/episodes/0100-jacobfromtheinternet-mystical-experience/`
 
 ## Preview
