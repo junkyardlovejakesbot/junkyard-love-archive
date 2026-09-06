@@ -1,0 +1,6 @@
+- "Find your breaking point and make that your comfort zone. I found accelerating my life to be my comfort zone and to reach that level, I had to let go." — Ryan Baker
+- "This is starting to weigh me down emotionally and stress me out, so it's gone." — Ryan Baker
+- "There is no past man. What can I do about it? I can't do literally anything about it. Can I do the next step? There's only in front of you, if you even look back at all you're not moving forward you're walking backward. The moment you turn your head you're walking the wrong direction, i don't even think about it, at all." — Ryan Baker
+- "After you climb a mountain, all of your other problems are small in comparison." — Ryan Baker
+- "I was doing this set routine, over and over again, and I started to lose love for it." — Ryan Baker
+- "They're not down for discipline." — Ryan Baker

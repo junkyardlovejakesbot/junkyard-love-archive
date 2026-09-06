@@ -58,6 +58,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0074 Spencer Hicks — Dialectics and Communication Breakdown](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0074-spencer-hicks-dialectics-and-communication-breakdown/) — 2021-07-15
 - [0073 Alicia & Erwan Davon — Sex, Pleasure, Relationship-Blueprints, and Orgasms](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0073-alicia-erwan-davon-sex-pleasure-relationship-blueprints-and-orgasms/) — 2021-05-06
 - [0072 Megan Robinson — Social Creatures Having An Internet Experience](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0072-megan-robinson-social-creatures-having-an-internet-experience/) — 2021-04-20
+- [0071 Ryan Baker — Forward Is The Only Way](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0071-ryan-baker-forward-is-the-only-way/) — 2021-03-07
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -98,6 +99,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Rebecca Wild](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/rebecca-wild/)
 - [Roman Merrell](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/roman-merrell/)
 - [Ravinder Taylor](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/ravinder-taylor/)
+- [Ryan Baker](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/ryan-baker/)
 - [Sandy Vo](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/sandy-vo/)
 - [Sean Blackwell](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/sean-blackwell/)
 - [Sigmar Berg](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/sigmar-berg/)
@@ -167,3 +169,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0074-spencer-hicks-dialectics-and-communication-breakdown/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0074-spencer-hicks-dialectics-and-communication-breakdown/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0073-alicia-erwan-davon-sex-pleasure-relationship-blueprints-and-orgasms/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0073-alicia-erwan-davon-sex-pleasure-relationship-blueprints-and-orgasms/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0072-megan-robinson-social-creatures-having-an-internet-experience/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0072-megan-robinson-social-creatures-having-an-internet-experience/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0071-ryan-baker-forward-is-the-only-way/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0071-ryan-baker-forward-is-the-only-way/episode.md)
