@@ -33,6 +33,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0099 Brent Spirit — A Kundalini Awakening Story](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0099-brent-spirit-a-kundalini-awakening-story/) — 2023-07-08
 - [0098 Swami Nityananda — Be Still, As The Universe Plays Through You](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0098-swami-nityananda-be-still-as-the-universe-plays-through-you/) — 2023-05-08
 - [0097 Kevin Foreman — Fighting For Sobriety](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0097-kevin-foreman-fighting-for-sobriety/) — 2023-03-08
+- [0096 Jordenelle Tsugawa — The Forever Umbilical Cord, And Grand-Mother Ayahuasca](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0096-jordenelle-tsugawa-the-forever-umbilical-cord-and-grand-mother-ayahuasca/) — 2023-02-09
 
 ## Guests
 - [Anne Riley](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/anne-riley/)
@@ -45,6 +46,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Curtis L. Harnagel](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/curtis-l-harnagel/)
 - [David Crayk](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/david-crayk/)
 - [David Hulse](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/david-hulse/)
+- [Jordenelle Tsugawa](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/jordenelle-tsugawa/)
 - [Julie Hoyle](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/julie-hoyle/)
 - [Keenan 'Hurricane' Harvey](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/keenan-harvey/)
 - [Kevin Foreman](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/kevin-foreman/)
@@ -98,3 +100,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0099-brent-spirit-a-kundalini-awakening-story/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0099-brent-spirit-a-kundalini-awakening-story/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0098-swami-nityananda-be-still-as-the-universe-plays-through-you/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0098-swami-nityananda-be-still-as-the-universe-plays-through-you/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0097-kevin-foreman-fighting-for-sobriety/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0097-kevin-foreman-fighting-for-sobriety/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0096-jordenelle-tsugawa-the-forever-umbilical-cord-and-grand-mother-ayahuasca/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0096-jordenelle-tsugawa-the-forever-umbilical-cord-and-grand-mother-ayahuasca/episode.md)

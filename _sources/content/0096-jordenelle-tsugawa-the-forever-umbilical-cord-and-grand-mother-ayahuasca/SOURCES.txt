@@ -1,0 +1,14 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (single-newline paras matching RSS <br>; Instagram CTA kept in About verbatim and also listed under Guest links; Follow Jacob line kept as published)
+YouTube chars: 941
+RSS HTML chars: 957
+Title source: YouTube / exact_public_title (52ZW3yf6QTY). YT≠RSS — RSS omits leading "The JYLP ep ".
+Title: The JYLP ep 096 with Jordenelle Tsugawa - The Forever Umbilical Cord, And Grand-Mother Ayahuasca
+RSS title: 096 with Jordenelle Tsugawa - The Forever Umbilical Cord, And Grand-Mother Ayahuasca
+Chapters source: none published (inventory has_timestamps=no; no YT chapters)
+Guest links: published Instagram @cosmic_merrmaid — inventory has_guest_links=no (handle present in description)
+Quotes: none published (inventory has_quotes=no)
+About: Jacob published description verbatim as spaced paras from YouTube
+Guest name spelling: Jordenelle Tsugawa (matches YouTube/RSS/inventory); guest slug jordenelle-tsugawa; captions often "Jay" / mishear "Jordan Nell"
+Duration: RSS itunes:duration 4895s (1:21:35); YT info.json duration 4895s — using RSS/inventory 4895
+Publish date: RSS pubDate 2023-02-09 (YT upload_date 20230210)
+Archive picks: added (quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published Instagram handle; kept separate from Jacob published About/Chapters/Quotes (those remain "(none published)" where empty).

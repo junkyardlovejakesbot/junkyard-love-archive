@@ -1,0 +1,11 @@
+Source: YouTube automatic captions en-orig (captions.en-orig.vtt / captions.en-orig.json3); en track identical auto; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=52ZW3yf6QTY
+Turns: 108
+Word count: 15479
+Speaker map: pause-gap segmentation (~0.85–1.2s) + sticky content scoring with Jacob/Jordenelle labels (named speaker labels not present in auto captions); bumper before ~64s forced to Jacob; guest bio opening (~thank you / I met Jake / dandelions) forced to Jordenelle; closing CTA/Instagram handle/wrap split where detected; bulk guest-narrative reassignment for long medicine/story turns
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments (cap ~220 words); HTML entities/nbsp unescaped; capitalized turn starts after merge; light name/term fixes (Jordenelle, Ayahuasca, cosmic_merrmaid / Cosmic Merrmaid, Linktree, Junkyard Love); dropped [Music]/foreign/end-bumper cue noise
+No sentence rewriting.
+Guest name spelling: Jordenelle Tsugawa (matches YouTube/RSS); often "Jay" in conversation; captions mishear "Jordan Nell".
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en-orig) used; no official/manual track; no >> speaker flips. YT duration matches RSS/inventory 4895s. No published chapter timestamps. YT≠RSS title: YT includes leading "The JYLP ep "; RSS is "096 with Jordenelle Tsugawa…". H1 uses YouTube title. Inventory has_guest_links=no but Instagram handle published in description. Postfix diarization fixes: 5.
+Postfix diarization fixes: closing appreciation/integration guest reassignment; CTA/handle splits (6 ops).

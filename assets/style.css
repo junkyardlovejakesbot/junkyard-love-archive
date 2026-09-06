@@ -87,3 +87,24 @@ footer.site {
 .about { white-space: normal; }
 .about p { margin: 0 0 1rem; line-height: 1.65; }
 .about p:last-child { margin-bottom: 0; }
+
+/* Archive picks (transcript-derived; separate from published notes) */
+.archive-picks h3 {
+  font-size: 1.05rem;
+  margin: 1.25rem 0 0.5rem;
+  border: 0;
+  padding: 0;
+}
+.archive-picks h3:first-child { margin-top: 0.25rem; }
+.archive-picks .archive-quote {
+  margin: 0.65rem 0;
+  font-size: 0.98rem;
+}
+.archive-picks .archive-quote .speaker {
+  font-style: normal;
+  font-weight: 700;
+  font-family: system-ui, -apple-system, sans-serif;
+  font-size: 0.9rem;
+  color: var(--accent);
+}
+
