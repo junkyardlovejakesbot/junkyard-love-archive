@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en/en-orig (captions.en.vtt / captions.en.json3; also archived as source-yt.en*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=kbDzFZrle9c
+Turns: 278
+Word count: 21670
+Speaker map: pause-gap segmentation + sticky Jacob/Joseph content scoring (named speaker labels not present in captions; auto diarization imperfect); no formal host bumper — conversation opens mid-banter
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light ASR name tidy (Joseph Crumb; Stay In Prison; Joe Rogan; Andrew Schultz; TikTok; FOMO; DMT); outro promo/drink-water forced to Jacob where clear; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Joseph Crumb (YT title / display); RSS title uses Stand-Up Comedian Joseph Crumb; slug joseph-crumb (NEW).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places. Episode opens without a formal Junkyard Love bumper.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips. YT duration 6183s vs RSS/inventory 6241s (archive meta uses RSS duration). No published chapter timestamps. Title YT≠RSS (H1 uses YouTube). About YT~itunes:summary (YT primary; Instagram/Twitter contact + quotes block stripped from About). Inventory has_quotes=yes / has_timestamps=no / has_hashtags=no / has_guest_links=no. Published quotes from YT/RSS description. Archive picks fills timestamped quotes/chapters/keywords/hashtags/bio. Guest page: joseph-crumb (NEW).
+Speaker balance: Jacob 134 turns/9464 words; Joseph 144 turns/12206 words.
+Heuristic speaker fixes: 3; post-splits: 2 (noop-keep jacob outro water; split Joseph mustache / Jacob reply)

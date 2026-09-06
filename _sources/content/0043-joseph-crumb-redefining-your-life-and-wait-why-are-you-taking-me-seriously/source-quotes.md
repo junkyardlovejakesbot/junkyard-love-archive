@@ -1,0 +1,3 @@
+- "If we take away 'jk', what can we say?"
+- "It takes a lot to take a step back and look at it through a lens of - what the fuck?"
+- "It’s your avatar telling you who the real you is"

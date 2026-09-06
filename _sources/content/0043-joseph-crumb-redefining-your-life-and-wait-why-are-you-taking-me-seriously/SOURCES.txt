@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (~itunes:summary). Guest Instagram/Twitter contact stripped. Quotes block moved to Quotes. No guest contact/email.
+YouTube chars: 2060
+RSS HTML chars: 2145
+Title source: YouTube / exact_public_title (kbDzFZrle9c). YT≠RSS (H1 uses YouTube; RSS adds Stand-Up Comedian).
+Title: Episode 043 with Joseph Crumb - Redefining your life and - wait why are you taking me seriously?
+RSS title: Episode 043 with Stand-Up Comedian Joseph Crumb - Redefining your life and - wait why are you taking me seriously?
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YT chapters
+Guest links: none published on archive page (inventory has_guest_links=no); Instagram/Twitter CTA stripped from About
+Quotes: 3 published quotes from YT/RSS description (inventory has_quotes=yes)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube (contact/quotes stripped)
+Guest name spelling: Joseph Crumb; guest slug joseph-crumb (NEW)
+Duration: RSS itunes:duration 6241s (1:44:01); YT info.json duration 6183s — using RSS/inventory 6241
+Publish date: RSS/inventory 2020-05-29 (YT upload_date 20200530)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).

@@ -86,6 +86,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0046 JACE Saltzman — Killing The Ego and Stumbling Onto The Right Path](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0046-rapper-jace-saltzman-killing-the-ego-and-stumbling-onto-the-right-path/) — 2020-06-21
 - [0045 Solo with Jacob Rhines — How To Take Care Of Yourself A Bit](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0045-solo-jacob-rhines-how-to-take-care-of-yourself-a-bit/) — 2020-06-18
 - [0044 Spencer Hicks — Operating Optimally Should Be Your Goal](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0044-spencer-hicks-operating-optimally-should-be-your-goal/) — 2020-06-10
+- [0043 Joseph Crumb — Redefining your life and - wait why are you taking me seriously?](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0043-joseph-crumb-redefining-your-life-and-wait-why-are-you-taking-me-seriously/) — 2020-05-29
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -117,6 +118,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Jerry Fu](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/jerry-fu/)
 - [John Lee](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/john-lee/)
 - [Jordenelle Tsugawa](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/jordenelle-tsugawa/)
+- [Joseph Crumb](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/joseph-crumb/)
 - [Josh Gebhardt](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/josh-gebhardt/)
 - [Juli Geske-Peer](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/juli-geske-peer/)
 - [Julie Hoyle](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/julie-hoyle/)
@@ -244,3 +246,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0046-rapper-jace-saltzman-killing-the-ego-and-stumbling-onto-the-right-path/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0046-rapper-jace-saltzman-killing-the-ego-and-stumbling-onto-the-right-path/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0045-solo-jacob-rhines-how-to-take-care-of-yourself-a-bit/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0045-solo-jacob-rhines-how-to-take-care-of-yourself-a-bit/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0044-spencer-hicks-operating-optimally-should-be-your-goal/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0044-spencer-hicks-operating-optimally-should-be-your-goal/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0043-joseph-crumb-redefining-your-life-and-wait-why-are-you-taking-me-seriously/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0043-joseph-crumb-redefining-your-life-and-wait-why-are-you-taking-me-seriously/episode.md)

@@ -83,6 +83,7 @@ Plain static site. No domain configured yet — open `site/index.html` locally, 
 - **0046** JACE Saltzman (Rapper JACE Saltzman) — Killing The Ego and Stumbling Onto The Right Path — `site/episodes/0046-rapper-jace-saltzman-killing-the-ego-and-stumbling-onto-the-right-path/`
 - **0045** Solo with Jacob Rhines — How To Take Care Of Yourself A Bit — `site/episodes/0045-solo-jacob-rhines-how-to-take-care-of-yourself-a-bit/`
 - **0044** Spencer Hicks — Operating Optimally Should Be Your Goal — `site/episodes/0044-spencer-hicks-operating-optimally-should-be-your-goal/`
+- **0043** Joseph Crumb — Redefining your life and - wait why are you taking me seriously? — `site/episodes/0043-joseph-crumb-redefining-your-life-and-wait-why-are-you-taking-me-seriously/`
 - **0100** JacobFromTheInternet (solo) — `site/episodes/0100-jacobfromtheinternet-mystical-experience/`
 
 ## Preview
