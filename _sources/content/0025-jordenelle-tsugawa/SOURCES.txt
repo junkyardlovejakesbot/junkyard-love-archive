@@ -12,5 +12,5 @@ About: Jacob published description verbatim as spaced paras from YouTube (quotes
 Guest name spelling: Jordenelle Tsugawa; guest slug jordenelle-tsugawa (EXISTS — APPEND 0096); About also uses Jay
 Duration: RSS itunes:duration 8469s (2:21:09); YT info.json duration 8499s — using RSS/inventory 8469
 Publish date: RSS/inventory 2020-07-31 (YT upload_date 20200731)
-Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
-Captions: YouTube none — ASR via faster-whisper tiny/int8 → source-yt.en*.vtt/json3 (also mirrored as en-orig).
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from faster-whisper small/int8 ASR + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: YouTube none — ASR via faster-whisper small/int8 (replaced prior tiny/int8) → source-yt.en*.vtt/json3 (also mirrored as en-orig).
