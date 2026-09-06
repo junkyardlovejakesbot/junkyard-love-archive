@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (bio/topics + outro CTA with Instagram inline). Quotes block split out of description into published Quotes. Inventory has_guest_links=no — Instagram @crystal.nyman remains inline in About only (not under Guest links). No guest email.
+YouTube chars: 2198
+RSS HTML chars: 2198
+Title source: YouTube / exact_public_title (kOzOcXMLa-U). YT≠RSS — RSS omits “The JYLP” prefix; otherwise same guest/topic title.
+Title: The JYLP Episode 069 with Crystal Nyman - Trimming Off What No Longer Serves You
+RSS title: Episode 069 with Crystal Nyman - Trimming Off What No Longer Serves You
+Chapters source: none published in episode notes (inventory has_timestamps=no); YT info.json has no titled chapters — Archive picks chapter-style timestamps seeded from transcript beats only
+Guest links: none as structured Guest links (inventory has_guest_links=no); Instagram @crystal.nyman remains inline in About
+Quotes: published (1 Crystal Nyman notable quote in description); inventory has_quotes=yes
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube (quotes section moved to Quotes); YT≈RSS body (YT primary)
+Guest name spelling: Crystal Nyman; guest slug crystal-nyman; role Philadelphia Hair Stylist
+Duration: RSS itunes:duration 6479s (1:47:59); YT info.json duration 6479s — using RSS/inventory 6479
+Publish date: RSS pubDate 2021-02-23 (YT upload_date 20210223) — using RSS/inventory 2021-02-23
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About/quotes; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).

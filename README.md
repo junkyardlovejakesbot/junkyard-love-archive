@@ -37,6 +37,27 @@ Plain static site. No domain configured yet — open `site/index.html` locally, 
 - **0092** Roman Merrell — `site/episodes/0092-roman-merrell-a-complicated-historical-paradigm/`
 - **0091** Nike Anani — `site/episodes/0091-nike-anani-next-gen-legacy-perspective-new-beginnings/`
 - **0090** Will Andes — `site/episodes/0090-will-andes-being-boys-becoming-men-and-bringing-peace/`
+- **0089** Daniel T. Matalon — `site/episodes/0089-daniel-t-matalon-the-world-game/`
+- **0088** Spencer Hicks — `site/episodes/0088-spencer-hicks-break-the-hammer/`
+- **0087** Zach Beach — `site/episodes/0087-zach-beach-a-path-of-love/`
+- **0086** Mika Woodruff — `site/episodes/0086-mika-woodruff-the-individuals-innate-desire-for-belonging-and-understanding/`
+- **0085** Cetvies Cetvies — `site/episodes/0085-cetvies-cetvies-censoring-and-trafficking-humans/`
+- **0084** Jeremy Sherman — `site/episodes/0084-jeremy-sherman-the-trying-self/`
+- **0083** Solo solocast — Making Sense Of My Depression & Anxiety pt. 1 — `site/episodes/0083-making-sense-of-my-depression-and-anxiety-pt-1/`
+- **0082** Sandy Vo — Towards A Path Of Peace — `site/episodes/0082-sandy-vo-towards-a-path-of-peace/`
+- **0081** John Lee — Pondering The Beautiful Mysteries Of Being — `site/episodes/0081-john-lee-pondering-the-beautiful-mysteries-of-being/`
+- **0080** Juli Geske-Peer — Personal Success — `site/episodes/0080-juli-geske-peer-personal-success/`
+- **0079** Lynn Cherry — Here, Use My Paddle! — `site/episodes/0079-lynn-cherry-here-use-my-paddle/`
+- **0078** Jerry Fu — Be Free From The Fear Of Conflict — `site/episodes/0078-jerry-fu-be-free-from-the-fear-of-conflict/`
+- **0077** Devin Mullins — A Friendly Conversation About Weed — `site/episodes/0077-devin-mullins-a-friendly-conversation-about-weed/`
+- **0076** Heather Hutchison — Seeing More Clearly — `site/episodes/0076-heather-hutchison-seeing-more-clearly/`
+- **0075** Bradley Roth — Being Most People Is Bad For Your Health — `site/episodes/0075-bradley-roth-being-most-people-is-bad-for-your-health/`
+- **0074** Spencer Hicks — Dialectics and Communication Breakdown — `site/episodes/0074-spencer-hicks-dialectics-and-communication-breakdown/`
+- **0073** Alicia & Erwan Davon — Sex, Pleasure, Relationship-Blueprints, and Orgasms — `site/episodes/0073-alicia-erwan-davon-sex-pleasure-relationship-blueprints-and-orgasms/`
+- **0072** Megan Robinson — Social Creatures Having An Internet Experience — `site/episodes/0072-megan-robinson-social-creatures-having-an-internet-experience/`
+- **0071** Ryan Baker — Forward Is The Only Way — `site/episodes/0071-ryan-baker-forward-is-the-only-way/`
+- **0070** Ryan 'Tos' Santos — The Wiring Within The Walls — `site/episodes/0070-ryan-tos-santos-the-wiring-within-the-walls/`
+- **0069** Crystal Nyman — Trimming Off What No Longer Serves You — `site/episodes/0069-crystal-nyman-trimming-off-what-no-longer-serves-you/`
 - **0100** JacobFromTheInternet (solo) — `site/episodes/0100-jacobfromtheinternet-mystical-experience/`
 
 ## Preview

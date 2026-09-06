@@ -60,6 +60,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0072 Megan Robinson — Social Creatures Having An Internet Experience](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0072-megan-robinson-social-creatures-having-an-internet-experience/) — 2021-04-20
 - [0071 Ryan Baker — Forward Is The Only Way](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0071-ryan-baker-forward-is-the-only-way/) — 2021-03-07
 - [0070 Ryan 'Tos' Santos — The Wiring Within The Walls](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0070-ryan-tos-santos-the-wiring-within-the-walls/) — 2021-03-02
+- [0069 Crystal Nyman — Trimming Off What No Longer Serves You](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0069-crystal-nyman-trimming-off-what-no-longer-serves-you/) — 2021-02-23
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -72,6 +73,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Cetvies Cetvies](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/cetvies-cetvies/)
 - [Dr. Cristine Hull](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/cristine-hull/)
 - [Craig Bennett](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/craig-bennett/)
+- [Crystal Nyman](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/crystal-nyman/)
 - [Curtis L. Harnagel](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/curtis-l-harnagel/)
 - [Daniel T. Matalon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/daniel-t-matalon/)
 - [David Crayk](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/david-crayk/)
@@ -173,3 +175,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0072-megan-robinson-social-creatures-having-an-internet-experience/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0072-megan-robinson-social-creatures-having-an-internet-experience/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0071-ryan-baker-forward-is-the-only-way/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0071-ryan-baker-forward-is-the-only-way/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0070-ryan-tos-santos-the-wiring-within-the-walls/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0070-ryan-tos-santos-the-wiring-within-the-walls/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0069-crystal-nyman-trimming-off-what-no-longer-serves-you/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0069-crystal-nyman-trimming-off-what-no-longer-serves-you/episode.md)

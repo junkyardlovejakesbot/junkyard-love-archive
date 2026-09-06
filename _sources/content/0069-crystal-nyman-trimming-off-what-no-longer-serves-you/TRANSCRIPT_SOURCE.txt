@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en-orig (captions.en-orig.vtt / captions.en-orig.json3); en track identical auto; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=kOzOcXMLa-U
+Turns: 149
+Word count: 21988
+Speaker map: pause-gap segmentation (~1.8–2.5s) + marker-based Jacob/Crystal flip splits + sticky content scoring (named speaker labels not present in auto captions); Jacob bumper/intro forced through ~1:35; guest hair/softball/ADHD/injury/client narratives forced Crystal; host questions/CTA/bumper/preface forced Jacob where matched
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments (cap ~200 words); HTML entities/nbsp unescaped; capitalized turn starts after merge; light name/term fixes (Crystal Nyman [ASR Crystal Diamond]; Temple University; Philadelphia/Philly; ADHD; COVID [ASR Covet]; Junkyard Love; jacobfromtheinternet); dropped [Music]/trailing you cue noise; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Crystal Nyman; guest slug crystal-nyman; role Philadelphia Hair Stylist per published About.
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en-orig) freshly downloaded this run; no official/manual track; no >> speaker flips. RSS itunes:duration 6479s; YT info.json duration 6479s — using RSS/inventory 6479. No published chapter timestamps/hashtags (inventory has_timestamps/hashtags=no). Inventory has_quotes=yes — one Crystal Nyman notable quote published in description, split into Quotes block. Inventory has_guest_links=no — Instagram @crystal.nyman remains inline in About only (not listed under Guest links). YT info.json has no titled chapters — Archive picks chapter-style timestamps seeded from transcript beats only. Title YT≠RSS — H1 uses YouTube/exact_public_title (“The JYLP Episode 069 with…”); RSS omits “The JYLP” prefix (starts “Episode 069 with…”). About YT≈RSS (YT primary). Publish date RSS 2021-02-23 (YT upload_date 20210223). Archive picks fills timestamped quotes/chapters/keywords/hashtags/bio.
+Postfix diarization fixes: 5 ops (incl. closing CTA/bumper split).
+Speaker balance: Jacob 51 turns/7024 words; Crystal 98 turns/14964 words.
