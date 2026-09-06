@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (series intro + Abrielle framing + topics + outro CTA with Instagram inline). No attributed Quotes block to split. Inventory has_guest_links=no — Instagram @abriellehayley remains inline in About only (not under Guest links). No guest email.
+YouTube chars: 2937
+RSS HTML chars: 2937
+Title source: YouTube / exact_public_title (wI1JrKtvO4o). YT≠RSS — RSS omits “The JYLP” prefix and uses “Sense Making Sickness” without hyphen; YT uses “Sense Making-Sickness”.
+Title: The JYLP Episode 068 with Abrielle Dunn - The Sense Making-Sickness Series - Wait Why Are We LARPing
+RSS title: Episode 068 with Abrielle Dunn - The Sense Making Sickness Series - Wait Why Are We LARPing
+Chapters source: YouTube info.json titled chapters (23 chapters) published as Chapters even though inventory has_timestamps=no; Archive picks also snap those + extra late-episode beats to transcript cue anchors
+Guest links: none as structured Guest links (inventory has_guest_links=no); Instagram @abriellehayley remains inline in About; notes also point to ep 059 (Spencer Hicks) and ep 062 (Abrielle)
+Quotes: none as attributed published quote block; inventory has_quotes=yes likely from inline phrase quotes only — Quotes section (none published)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube; YT≈RSS body (YT primary)
+Guest name spelling: Abrielle Dunn; guest slug abrielle-dunn; returning guest / friend per About
+Duration: RSS itunes:duration 12500s (3:28:20); YT info.json duration 12500s — using RSS/inventory 12500
+Publish date: RSS pubDate 2021-02-12 (YT upload_date 20210213) — using RSS/inventory 2021-02-12
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps from YT chapters + late beats, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About/chapters; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).

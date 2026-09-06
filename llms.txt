@@ -61,6 +61,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0071 Ryan Baker — Forward Is The Only Way](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0071-ryan-baker-forward-is-the-only-way/) — 2021-03-07
 - [0070 Ryan 'Tos' Santos — The Wiring Within The Walls](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0070-ryan-tos-santos-the-wiring-within-the-walls/) — 2021-03-02
 - [0069 Crystal Nyman — Trimming Off What No Longer Serves You](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0069-crystal-nyman-trimming-off-what-no-longer-serves-you/) — 2021-02-23
+- [0068 Abrielle Dunn — Wait Why Are We LARPing](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0068-abrielle-dunn-the-sense-making-sickness-series-wait-why-are-we-larping/) — 2021-02-12
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -176,3 +177,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0071-ryan-baker-forward-is-the-only-way/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0071-ryan-baker-forward-is-the-only-way/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0070-ryan-tos-santos-the-wiring-within-the-walls/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0070-ryan-tos-santos-the-wiring-within-the-walls/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0069-crystal-nyman-trimming-off-what-no-longer-serves-you/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0069-crystal-nyman-trimming-off-what-no-longer-serves-you/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0068-abrielle-dunn-the-sense-making-sickness-series-wait-why-are-we-larping/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0068-abrielle-dunn-the-sense-making-sickness-series-wait-why-are-we-larping/episode.md)
