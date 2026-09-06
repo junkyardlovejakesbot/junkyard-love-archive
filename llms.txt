@@ -64,6 +64,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0068 Abrielle Dunn — Wait Why Are We LARPing](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0068-abrielle-dunn-the-sense-making-sickness-series-wait-why-are-we-larping/) — 2021-02-12
 - [0067 Intuitive Healer Jaycie Randall — A Path From The Past](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0067-jaycie-randall-a-path-from-the-past/) — 2021-02-05
 - [0066 Tim Fraley — Writin' Songs, Lentin' Booze and Upgradin' Society](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0066-tim-fraley-writin-songs-lentin-booze-and-upgradin-society/) — 2021-02-01
+- [0065 Josh Gebhardt — It's Open Mic Night For Being Yourself](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0065-josh-gebhardt-its-open-mic-night-for-being-yourself/) — 2021-01-29
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -87,6 +88,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Jerry Fu](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/jerry-fu/)
 - [John Lee](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/john-lee/)
 - [Jordenelle Tsugawa](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/jordenelle-tsugawa/)
+- [Josh Gebhardt](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/josh-gebhardt/)
 - [Juli Geske-Peer](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/juli-geske-peer/)
 - [Julie Hoyle](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/julie-hoyle/)
 - [Keenan 'Hurricane' Harvey](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/keenan-harvey/)
@@ -182,3 +184,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0068-abrielle-dunn-the-sense-making-sickness-series-wait-why-are-we-larping/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0068-abrielle-dunn-the-sense-making-sickness-series-wait-why-are-we-larping/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0067-jaycie-randall-a-path-from-the-past/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0067-jaycie-randall-a-path-from-the-past/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0066-tim-fraley-writin-songs-lentin-booze-and-upgradin-society/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0066-tim-fraley-writin-songs-lentin-booze-and-upgradin-society/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0065-josh-gebhardt-its-open-mic-night-for-being-yourself/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0065-josh-gebhardt-its-open-mic-night-for-being-yourself/episode.md)

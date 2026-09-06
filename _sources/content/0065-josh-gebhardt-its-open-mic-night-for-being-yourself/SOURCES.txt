@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (bio/topics paragraph; quotes split out). Inventory has_guest_links=no — Instagram @joshgeb remains inline in About only. No guest email.
+YouTube chars: 2478
+RSS HTML chars: 2480
+Title source: YouTube / exact_public_title (ybdtawpUGes). YT≠RSS — RSS omits “The JYLP” prefix; otherwise same guest/topic title.
+Title: The JYLP Episode 065 with Josh Gebhardt - It's Open Mic Night For Being Yourself
+RSS title: Episode 065 with Josh Gebhardt - It's Open Mic Night For Being Yourself
+Chapters source: none published (inventory has_timestamps=no; YT info.json chapters=None)
+Guest links: none as structured Guest links (inventory has_guest_links=no)
+Quotes: three published quotes from YT/RSS “A couple good quotes I grabbed while listening back” (inventory has_quotes=yes); attributed Josh Gebhardt for archive consistency
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube (quotes section removed from About body); YT≈RSS body (YT primary; themself vs themselves)
+Guest name spelling: Josh Gebhardt; guest slug josh-gebhardt (NEW)
+Duration: RSS itunes:duration 4675s (1:17:55); YT info.json duration 4675s — using RSS/inventory 4675
+Publish date: RSS/inventory 2021-01-29 (YT upload_date 20210129)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps from transcript beats, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About/quotes; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).

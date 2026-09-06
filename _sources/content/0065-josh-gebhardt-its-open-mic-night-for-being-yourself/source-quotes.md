@@ -1,0 +1,3 @@
+- "I was always able to be 100% myself, My family always made me feel like I could do anything I wanted to do." — Josh Gebhardt
+- "I had the chance to be myself without any baggage of who you think you are, or the way you grow up, or who you're around, or pressures of hurting the people around you by being your authentic self." — Josh Gebhardt
+- "I would prep, I would give myself a pep talk on the way in the car - I'd be like 'Ok you're gonna go to the bar, you're going by yourself, you don't have a single friend, you don't know a single person in L.A. - you have to go and have the ability to start a conversation with someone face to face - and so I would do that, just go to the bar and approach people." — Josh Gebhardt
