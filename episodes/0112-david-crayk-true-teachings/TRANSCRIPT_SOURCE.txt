@@ -1,0 +1,10 @@
+Source: YouTube automatic captions en-orig/en (captions.en.vtt / captions.en.json3; also archived as auto.en-orig.* / auto.en.*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=IP79jwPvmb4
+Turns: 167
+Word count: 20411
+Speaker map: pause-gap segmentation + sticky Jacob/David content scoring (named speaker labels not present in captions)
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; David/Dave/Mr. Craig→Crayk ASR name fix; bumper/outro forced to Jacob where clear
+No sentence rewriting.
+Guest name spelling: David Crayk (matches YouTube/RSS; ASR often Craig).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en-orig/en) used; no official/manual track; no >> speaker flips — turns segmented by pause gaps + sticky Jacob/David content scoring (imperfect). YT duration 5975s vs RSS/inventory 5976s (1s difference). No published chapter timestamps. YT≠RSS title (Theatre vs Drama; JYLP prefix; RSS adds "15 Years Later"); archive uses YouTube / exact_public_title. ASR often hears Crayk as Craig — light name fix applied. No guest links in published notes. Listen-platform CTA omitted from About. Manual speaker fixes applied: 2

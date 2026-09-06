@@ -1,0 +1,1 @@
+- "David Crayk is a teacher, poet, writer, bodybuilder, disc golfer, kid whisperer, spiritual advisor, and traveler - inspiring all those that cross his path to “dare to be different” in pursuit of their dreams."

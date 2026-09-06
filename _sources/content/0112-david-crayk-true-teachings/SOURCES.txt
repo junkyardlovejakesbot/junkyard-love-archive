@@ -1,0 +1,9 @@
+Description source: YouTube (primary per archive rules; YT≈RSS body — same narrative + bio quote; YT plain text, RSS wraps in <p>/<em>)
+YouTube chars: 948
+RSS HTML chars: 982
+Title source: YouTube / exact_public_title (YT≠RSS — RSS: "0112 with David Crayk - 'True Teachings' - Interviewing My High-School Drama Teacher 15 Years Later"; YT: Theatre Teacher + JYLP prefix, no "15 Years Later")
+Title: The JYLP 0112 with David Crayk - 'True Teachings' - Interviewing My High-School Theatre Teacher
+Chapters source: none published (YT/RSS; inventory has_timestamps=no)
+Guest links: none published (inventory has_guest_links=no)
+Quotes: guest bio quote from published notes (inventory has_quotes=yes)
+About: narrative + bio quote verbatim; listen-platform CTA line omitted (same class as subscribe outros)
