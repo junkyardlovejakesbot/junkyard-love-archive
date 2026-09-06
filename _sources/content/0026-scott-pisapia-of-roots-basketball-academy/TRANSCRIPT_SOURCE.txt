@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en/en-orig (captions.en.vtt / captions.en.json3; also archived as source-yt.en*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=GvabFr82Zn0
+Turns: 590
+Word count: 28504
+Speaker map: pause-gap segmentation + sticky Jacob/Scott content scoring (named speaker labels not present in captions; auto diarization imperfect); formal host bumper present; host outro present
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light ASR name tidy (Scott Pisapia; Roots Basketball Academy; Lewis and Clark; DiGiorno; Conor McGregor; Tara Brach; Joe Rogan; Tim Ferriss; Aubrey Marcus; R.A. Long; Longview/Kelso/Portland; Josh Wilson; Junkyard Love; Jake Rhines); outro forced to Jacob where clear; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Scott Pisapia (YT/RSS title); of Roots Basketball Academy; slug scott-pisapia (NEW).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips. YT duration 8930s vs RSS/inventory 8900s (archive meta uses RSS duration). No published chapter timestamps; no YT chapters → archive picks from transcript. Title YT=RSS. About RSS primary (YT stub). Inventory has_quotes=yes (opening Clear Eyes quote in About; no Quotes list) / has_timestamps=no / has_hashtags=no / has_guest_links=yes. Archive picks fills timestamped quotes/chapters/keywords/hashtags/bio. Guest page: scott-pisapia (NEW).
+Speaker balance: Jacob 298 turns/15310 words; Scott 292 turns/13194 words.
+Heuristic speaker fixes: 2; post-splits: 1 (split close / jacob outro)

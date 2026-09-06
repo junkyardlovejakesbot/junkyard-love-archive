@@ -1,0 +1,18 @@
+Description source: RSS primary (full published About). YouTube description is a short stub ("Further detailed description coming tomorrow") plus episode footer — not used for About body. About spaced from RSS body. Opening Clear Eyes quote kept in About. Guest link Roots Academy URL; no guest contact/email.
+YouTube chars: 406
+RSS plain chars: 2544
+RSS HTML chars: 2557
+Title source: YT=RSS exact match. exact_public_title uses shared title. YT=RSS.
+Title: Episode 026 with Scott Pisapia of Roots Basketball Academy
+RSS title: Episode 026 with Scott Pisapia of Roots Basketball Academy
+YT title: Episode 026 with Scott Pisapia of Roots Basketball Academy
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YouTube chapter markers → Archive picks from transcript
+Guest links: Roots Basketball Academy: https://rootsacademy.teamsportsadmin.com/ (inventory has_guest_links=yes); no personal email
+Quotes: no dedicated Quotes list block (inventory has_quotes=yes from opening “Clear Eyes. Full Hearts. Can’t Lose!” in About kept verbatim)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published RSS description verbatim as spaced paras (YT stub skipped)
+Guest name spelling: Scott Pisapia of Roots Basketball Academy; guest slug scott-pisapia (NEW); display Scott Pisapia of Roots Basketball Academy
+Duration: RSS itunes:duration 8900s (2:28:20); YT info.json duration 8930s — using RSS/inventory 8900
+Publish date: RSS/inventory 2020-02-24 (YT upload_date 20200224)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps from transcript, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).

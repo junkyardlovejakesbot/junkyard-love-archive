@@ -1,0 +1,9 @@
+Episode 0026: Episode 026 with Scott Pisapia of Roots Basketball Academy
+Guest: Scott Pisapia of Roots Basketball Academy
+Date: 2020-02-24
+YouTube: https://www.youtube.com/watch?v=GvabFr82Zn0
+RSS: https://share.transistor.fm/s/20521579
+Title conflict: YT=RSS
+Guest slug: scott-pisapia (NEW)
+About: RSS primary (YT stub “coming tomorrow”); footer N/A on RSS body
+Guest links: Roots Academy URL (no email)

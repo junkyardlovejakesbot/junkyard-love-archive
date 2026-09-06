@@ -1,0 +1,19 @@
+"Clear Eyes. Full Hearts. Can't Lose!"
+
+Scott is the co-founder of Roots Basketball Academy, The Head Assistant Coach for The Lewis and Clark College Womens Basketball Team and - a single bachelor who loves Digornos pizza and his porta-potty sized house. We cover the basics on this one - you know - zombies, genies, transporting naked, being a coach, putting in the work ect ect. I poke and prod about his beginnings - from being on the high school team at R.A. Long, then onto college, to roots, to now coaching women's basketball.
+
+Birthed through a dream, hard work, grit, and a Facebook message - Roots Basketball Academy is a Non-Profit that trains off-season athletes, arranges basketball clinics and camps, and leads their community in all areas basketball.
+
+I get the 411 on Scott's journey over the last ten years - the trials and tribulations of being a social media stud while he learned how to be a coach and best version of himself, we talk his influences - his own coaches, the teammates, the family, the Conor Mcgregor.
+
+Pissing off high school janitors since twenty-ten, Scott has made his rounds to many basketball courts and training locations - Toledo to Toutle Lake to Ilwaco, Longview, Kelso - lately finding his resting spot as a coach further south in Portland.
+
+We talk individual skills training vs. team sports, goals, desires, outcomes of each individual, mindsets of fun vs. D-1 athlete mindsets.
+
+Mr. Pisapia reveals his 2020 plans of launching The PPPP, we talk trying out different diets, I brag about being on Whole30 again, we talk about needles (not good, not great), coffee intake, agoraphobia, thinking before you speaking, perspective changes, the CBD's, the youtube dives and the musics.
+
+As always on this podcast - we steer the friendly conversation towards health and openness of the human experience.
+
+Scott shares his anxieties, we chat breathing techniques, therapy, aversion (to) therapy, daily routines, workout programs, and overall positive mindset provoking dwellings.
+
+Scott Pisapia is good people. What a wonderful life of opportunity I'm given to be able to chat with a near stranger and bridge a connection that would be out of reach if not for a podcast. Life and her lemons. Scott inspires me to think bigger than myself, but not too big yet. To me, the pacific northwest community is rife with opportunity and potential handshakes, handholds, and hand-ups. You can't miss the shots you don't take. Go make your dream. Find all things Scott and Roots at https://rootsacademy.teamsportsadmin.com/
