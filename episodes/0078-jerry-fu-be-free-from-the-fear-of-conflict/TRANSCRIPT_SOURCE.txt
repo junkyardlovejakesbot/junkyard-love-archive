@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en-orig (captions.en-orig.vtt / captions.en-orig.json3); en track identical auto; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=R7RsDN3FIZo
+Turns: 128
+Word count: 18031
+Speaker map: pause-gap segmentation (~1.5–2.2s; median caption gap ~1.84s) + marker-based Jacob/Jerry flip splits + sticky content scoring (named speaker labels not present in auto captions); opening leadership clip before ~0:33 forced to Jerry; knowledge-is-power bumper split to Jacob; formal ladies-and-gentlemen intro ~3:15; guest conflict/coaching/pharmacy narratives forced Jerry; host podcast/16yo/closing CTA forced Jacob; closing quote/reaction split where matched
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments (cap ~190 words); HTML entities/nbsp unescaped; capitalized turn starts after merge; light name/term fixes (Jerry Fu; Asian-American; Rice University; Hemingway App; adaptingleaders.com; Junkyard Love; jacobfromtheinternet; skinned my knee; book-author casing); dropped [Music]/trailing you cue noise; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Jerry Fu; guest slug jerry-fu; role Conflict Resolution Coach.
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en-orig) reused from prior local download (no fresh YouTube auth this run); no official/manual track; no >> speaker flips. RSS itunes:duration 5212s; YT info.json duration 5213s — using RSS/inventory 5212. Published quotes present (3 Jerry quotes); no published chapter timestamps/hashtags. YT titled chapters seeded Archive picks only. Title YT≠RSS — H1 uses YouTube (“The JYLP Episode 078 with…”); RSS omits “The JYLP”. About YT≈RSS. Publish date 2021-10-13. Inventory has_guest_links=yes. Archive picks fills chapters/keywords/hashtags/bio (+ timestamped transcript quotes).
+Postfix diarization fixes: 31 ops.
+Speaker balance: Jacob 52 turns/7097 words; Jerry 76 turns/10934 words.

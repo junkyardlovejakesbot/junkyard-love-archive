@@ -1,0 +1,2 @@
+- LinkedIn — Jerry Fu: https://www.linkedin.com/in/jerry-fu-pharmd-acc-53710187/
+- Website — adaptingleaders.com: https://www.adaptingleaders.com/

@@ -51,6 +51,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0081 John Lee — Pondering The Beautiful Mysteries Of Being](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0081-john-lee-pondering-the-beautiful-mysteries-of-being/) — 2021-12-13
 - [0080 Juli Geske-Peer — Personal Success](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0080-juli-geske-peer-personal-success/) — 2021-11-13
 - [0079 Lynn Cherry — Here, Use My Paddle!](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0079-lynn-cherry-here-use-my-paddle/) — 2021-11-03
+- [0078 Jerry Fu — Be Free From The Fear Of Conflict](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0078-jerry-fu-be-free-from-the-fear-of-conflict/) — 2021-10-13
 
 ## Guests
 - [Anne Riley](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/anne-riley/)
@@ -67,6 +68,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [David Crayk](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/david-crayk/)
 - [David Hulse](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/david-hulse/)
 - [Jeremy Sherman](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/jeremy-sherman/)
+- [Jerry Fu](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/jerry-fu/)
 - [John Lee](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/john-lee/)
 - [Jordenelle Tsugawa](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/jordenelle-tsugawa/)
 - [Juli Geske-Peer](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/juli-geske-peer/)
@@ -148,3 +150,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0081-john-lee-pondering-the-beautiful-mysteries-of-being/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0081-john-lee-pondering-the-beautiful-mysteries-of-being/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0080-juli-geske-peer-personal-success/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0080-juli-geske-peer-personal-success/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0079-lynn-cherry-here-use-my-paddle/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0079-lynn-cherry-here-use-my-paddle/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0078-jerry-fu-be-free-from-the-fear-of-conflict/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0078-jerry-fu-be-free-from-the-fear-of-conflict/episode.md)

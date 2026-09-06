@@ -1,0 +1,19 @@
+Jerry Fu is a Conflict Resolution Coach, he facilitates leadership workshops and has worked as a Pharmacist. He focuses on resolving clients' conflicts at work, in culture, and within themselves. Jerry completed a Biology degree at Rice University and attended pharmacy school at the University of Tennessee-Memphis. Jerry has been fired (by avoiding conflict with an upset boss), has had to evict a roommate, been displaced for work, and dealt with bounced paychecks. - now he uses his previous ongoing struggle with conflict resolution as fascinating fuel for his work.
+
+In This Episode - We talk about the influential cultural expectation of growing up in an Asian-American family, stories from Jerry’s past pharmacy work, we offer up lots of great advice to all types of leaders, we talk mentorship, reaching our potential as individuals, how to feed the right beast within, being free from the fear of conflict, breaking habits of being ourselves, becoming aware of feeling emotions and dealing with passive-aggressiveness. We chat about respectfully disagreeing, the decision of indecision, Jerry shares tons of advice gems and personal stories from his time around leadership workshops, how to step out of the people-pleaser role, emotional projection, today's climate of conversation, we talk about internal dialogue, current technological influences on our ability to be present in interactions, reading the room, reading body language, and the importance of humility.
+
+for more on jerry - checkout his linkedin here - https://www.linkedin.com/in/jerry-fu-pharmd-acc-53710187/
+And his website here: https://www.adaptingleaders.com/
+
+book recommendations: Made To Stick, Power Of Moments, Switch, Decisive, and Upstream by The Heath Brothers. Michal stander - The Coaching Habit and The Advice Trap by Michael Bungay Stanier, Getting Things Done by David Allen, Atomic Habits by James Clear, Limitless by Jim Kwik, Building A Story Brand and Business Made Simple by Donald Miller. - And fiction: Everything I Never Told You and Little Fires Everywhere by Celeste Stone.
+
+## Quotes
+
+- "You will never be free of conflict. You may never be free from that fear, but you can still deal with it. You don’t have to be afraid of it anymore." — Jerry
+- "Passive-aggressive comments are funny in movies but they’re terrible in real-life relationships" — Jerry
+- "How do I make the people around me great?" — Jerry
+
+## Guest links
+
+- LinkedIn — Jerry Fu: https://www.linkedin.com/in/jerry-fu-pharmd-acc-53710187/
+- Website — adaptingleaders.com: https://www.adaptingleaders.com/

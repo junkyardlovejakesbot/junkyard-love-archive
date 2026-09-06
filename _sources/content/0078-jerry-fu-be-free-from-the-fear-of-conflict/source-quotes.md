@@ -1,0 +1,3 @@
+- "You will never be free of conflict. You may never be free from that fear, but you can still deal with it. You don’t have to be afraid of it anymore." — Jerry
+- "Passive-aggressive comments are funny in movies but they’re terrible in real-life relationships" — Jerry
+- "How do I make the people around me great?" — Jerry
