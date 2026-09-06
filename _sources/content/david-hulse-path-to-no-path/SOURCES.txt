@@ -3,3 +3,4 @@ YouTube chars: 4458
 RSS HTML chars: 4926
 RSS text chars: 4418
 Title source: YouTube
+Archive picks: added (timestamped quotes, chapter-style beats, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About/Chapters/Quotes/links; kept separate from Jacob published About/Chapters/Quotes/Guest links/Tags (published notes already have polished quotes without timestamps, YouTube chapters, and keyword tags — left those blocks unchanged). See source-archive-picks.md.
