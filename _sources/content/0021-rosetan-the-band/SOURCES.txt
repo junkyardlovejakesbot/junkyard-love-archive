@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from RSS plain (near-identical to YT after footer strip; RSS slightly fuller). Soft mid-sentence newlines joined. No guest contact/email.
+YouTube chars: 2104
+RSS HTML chars: 1988
+Title source: YT≠RSS quote-style conflict (rONJltCa5bc). H1/slug use YT title Episode 021 with "rosetan" the band (not truncated). YT≠RSS.
+Title: Episode 021 with "rosetan" the band
+RSS title: Episode 021 with 'rosetan' the band
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YT chapters
+Guest links: none published (inventory has_guest_links=no)
+Quotes: inventory has_quotes=yes — inline published phrases kept in About; no Quotes list block (0 list quotes)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from RSS (YT~RSS)
+Guest name spelling: "rosetan" the band (YT); guest slug rosetan-the-band (NEW); members Jake Carrol, Jake Wilson, Erik Nordin noted in About but one band guest page
+Duration: RSS itunes:duration 11602s (3:13:22); YT info.json duration 11629s — using RSS/inventory 11602
+Publish date: RSS/inventory 2020-01-17 (YT upload_date 20200118)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).

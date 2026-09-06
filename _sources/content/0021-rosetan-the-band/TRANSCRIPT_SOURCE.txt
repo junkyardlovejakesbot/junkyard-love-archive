@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en/en-orig (captions.en.vtt / captions.en.json3; also archived as source-yt.en*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=rONJltCa5bc
+Turns: 749
+Word count: 35004
+Speaker map: pause-gap segmentation + sticky Jacob/Rosetan content scoring (named speaker labels not present in captions; auto diarization imperfect; three band members collapsed to Rosetan — individual Jake Carrol / Jake Wilson / Erik Nordin turns not separated); host bumper forced to Jacob where clear
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light ASR name tidy (Rosetan; Erik Nordin; Jake Carrol; Jake Wilson; Bandcamp; Junkyard Love; Jacob Rhines; Longview; Kelso); bumper/outro forced to Jacob where clear; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: "rosetan" the band (YT title preferred over RSS 'rosetan'); captions often hear rows 10 / rosa tan — normalized lightly to Rosetan; slug rosetan-the-band (NEW).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places; band members may be misattributed within Rosetan turns.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips. YT duration 11629s vs RSS/inventory 11602s (archive meta uses RSS duration). No published chapter timestamps; no YT chapters. Title YT≠RSS (YT double-quotes vs RSS single-quotes; YT not truncated — H1 uses YT). About YT~RSS near-identical (RSS preferred slightly fuller; YT footer stripped). Inventory has_quotes=yes (inline breathing/ii/baseball quotes in About; no Quotes list) / has_timestamps=no / has_hashtags=no / has_guest_links=no. Archive picks fills timestamped quotes/chapters/keywords/hashtags/bio. Guest page: rosetan-the-band (NEW band page).
+Speaker balance: Jacob 374 turns/15412 words; Rosetan 375 turns/19592 words.
+Heuristic speaker fixes: 3; post-splits: 0 ()

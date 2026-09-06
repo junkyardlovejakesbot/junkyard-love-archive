@@ -104,6 +104,7 @@ Plain static site. No domain configured yet — open `site/index.html` locally, 
 - **0024** Maxx V. Payne — `site/episodes/0024-maxx-v-payne/`
 - **0023** Spencer Hicks — `site/episodes/0023-spencer-hicks/`
 - **0022** Taya Sanders of Clover+Tribe — `site/episodes/0022-taya-sanders/`
+- **0021** "rosetan" the band — `site/episodes/0021-rosetan-the-band/`
 - **0100** JacobFromTheInternet (solo) — `site/episodes/0100-jacobfromtheinternet-mystical-experience/`
 
 ## Preview

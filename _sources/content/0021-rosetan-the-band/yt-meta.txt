@@ -1,0 +1,7 @@
+title=Episode 021 with "rosetan" the band
+upload_date=20200118
+duration=11629
+video_id=rONJltCa5bc
+rss_title=Episode 021 with 'rosetan' the band
+title_conflict=YT≠RSS
+h1=Episode 021 with "rosetan" the band

@@ -1,0 +1,9 @@
+Episode 0021: Episode 021 with "rosetan" the band
+Guest: "rosetan" the band
+Date: 2020-01-17
+YouTube: https://www.youtube.com/watch?v=rONJltCa5bc
+RSS: https://share.transistor.fm/s/ca202c7b
+Title conflict: YT≠RSS (YT double-quotes vs RSS single-quotes around rosetan; YT not truncated — H1 uses YT)
+Guest slug: rosetan-the-band (NEW; band page — members Jake Carrol, Jake Wilson, Erik Nordin not separate guests)
+About: YT~RSS near-identical; RSS preferred (slightly fuller); YT footer stripped; no guest contact/email
+Transcript: YouTube auto-captions (en/en-orig)
