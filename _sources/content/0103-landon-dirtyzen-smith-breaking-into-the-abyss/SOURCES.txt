@@ -1,0 +1,10 @@
+Description source: YouTube primary per archive rules; About spaced from RSS <p> (YT plain-text narrative matches RSS; empty <br> paras omitted)
+YouTube chars: 2513
+RSS HTML chars: 2474
+Title source: YouTube / exact_public_title / youtube-uploads.tsv (y4-VWyUL_T0). Alternate upload 5-cvyYR7208 titled "The JYLP Episode 0103…" not used.
+Title: 0103 with Landon 'Dirtyzen' Smith - Breaking Into The Abyss
+Chapters source: none published (inventory has_timestamps=no; no YT chapters)
+Guest links: Dirtyzen YouTube, Instagram @Dirtyzen, SoundCloud favorite mix (from published notes)
+Quotes: none published as quote blocks (inventory has_quotes=yes appears false-positive; only alias “Dirtyzen” in curly quotes in bio)
+About: Jacob published description verbatim as spaced paras; link/CTA / Ram Ram outro omitted
+Guest name spelling: Landon 'Dirtyzen' Smith (prefer Dirtyzen; matches YouTube/RSS/inventory)

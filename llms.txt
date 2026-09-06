@@ -25,6 +25,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0106 Cameron 'Cam' Reid — Cleaning The Floors Well](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0106-cameron-cam-reid-cleaning-the-floors-well/) — 2024-09-27
 - [0105 Matt McGee — How To Stand Out In College Admissions](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0105-matt-mcgee-how-to-stand-out-in-college-admissions/) — 2024-08-15
 - [0104 Julie Hoyle — Awakening From The Lucid Dream](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0104-julie-hoyle-awakening-from-the-lucid-dream/) — 2024-04-06
+- [0103 Landon 'Dirtyzen' Smith — Breaking Into The Abyss](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0103-landon-dirtyzen-smith-breaking-into-the-abyss/) — 2023-12-19
 
 ## Guests
 - [Anne Riley](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/anne-riley/)
@@ -37,6 +38,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [David Crayk](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/david-crayk/)
 - [David Hulse](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/david-hulse/)
 - [Julie Hoyle](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/julie-hoyle/)
+- [Landon 'Dirtyzen' Smith](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/landon-dirtyzen-smith/)
 - [Marty Strong](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/marty-strong/)
 - [Matt McGee](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/matt-mcgee/)
 - [Meredith Bennett](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/meredith-bennett/)
@@ -75,3 +77,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0106-cameron-cam-reid-cleaning-the-floors-well/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0106-cameron-cam-reid-cleaning-the-floors-well/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0105-matt-mcgee-how-to-stand-out-in-college-admissions/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0105-matt-mcgee-how-to-stand-out-in-college-admissions/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0104-julie-hoyle-awakening-from-the-lucid-dream/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0104-julie-hoyle-awakening-from-the-lucid-dream/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0103-landon-dirtyzen-smith-breaking-into-the-abyss/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0103-landon-dirtyzen-smith-breaking-into-the-abyss/episode.md)
