@@ -1,0 +1,2 @@
+- “I was always looking for someone who I knew could speak to the truth of who I was beyond the story.”
+- “We walked in the back of the hall, and as soon as I entered into this space - I saw a Yogi, sitting cross-legged on a low wooden tucket at the front of the hall he had his eyes closed, he was wearing a white loincloth, he had a massive belly. And I recognized him immediately as being the one I had been searching for my entire life.”

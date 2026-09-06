@@ -1,0 +1,7 @@
+Description source: YouTube (primary per archive rules; RSS narrative nearly identical; YT uses "lucid dream" vs RSS "lucid dream experience")
+YouTube chars: 2467
+RSS HTML chars: 3517
+Title source: YouTube (exact_public_title / youtube-uploads.tsv)
+Title: The JYLP Episode 0104 with Author and Spiritual Coach Julie Hoyle - 'Awakening From The Lucid Dream'
+Chapters source: none published (inventory has_timestamps=no; no YT chapters)
+Guest links: Amazon author store, Talking True YouTube, Kundalini sessions, Linktree (from published notes)

@@ -1,0 +1,10 @@
+Source: YouTube automatic captions en (captions.en.vtt / captions.en.json3); no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=M3FcTaXZzj8
+Turns: 29
+Word count: 13924
+Speaker map: pause-gap segmentation + sticky content scoring assigned to Jacob/Julie (named speaker labels not present in auto captions)
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light name/term fixes (Julie Hoyle, shaktipat); a few clear host/guest open/close/narrative fixes
+No sentence rewriting.
+Guest name spelling: Julie Hoyle (matches YouTube/RSS).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: Auto captions have no >> speaker flips and no official/manual en track; turns segmented by pause gaps + sticky Jacob/Julie content scoring (imperfect).; YT duration 4934s vs RSS 4909s (25s).; No published chapter timestamps (inventory has_timestamps=no).; Manual speaker fixes/splits applied: 3 (synchronicity attribution; links/outro; opening welcome/bio split).

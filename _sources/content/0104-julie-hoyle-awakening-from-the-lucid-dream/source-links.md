@@ -1,0 +1,4 @@
+- Julie's books on Amazon → https://www.amazon.com/stores/Julie-Hoyle/author/B08LQPSVZ7?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true
+- Talking True (YouTube) → https://www.youtube.com/@TalkingTruewithJulieHoyle
+- Understanding Kundalini Sessions → https://juliehoyle.org/private-sessions
+- Linktree → https://linktr.ee/juliehoyleofficial
