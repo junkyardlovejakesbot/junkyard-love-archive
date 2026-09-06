@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (~itunes:summary). YT footer stripped. No guest contact/email.
+YouTube chars: 565
+RSS HTML chars: 565
+Title source: YouTube / exact_public_title (pc0JcBfGisc). YT≠RSS — prefer YouTube H1; keep YT spacing.
+Title: Episode 038 with Spencer Hicks   Mental and Physical Tips To Maintain Health At Home
+RSS title: Episode 038 with Spencer Hicks - Mental and Physical Tips To Maintain Health At Home
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YT chapters
+Guest links: none published (inventory has_guest_links=no)
+Quotes: 0 published quotes (inventory has_quotes=no)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube
+Guest name spelling: Spencer Hicks; guest slug spencer-hicks (EXISTING — APPEND 0038; prior 0088+0074+0059+0044 preserved)
+Duration: RSS itunes:duration 4465s (1:14:25); YT info.json duration 4378s — using RSS/inventory 4465
+Publish date: RSS/inventory 2020-04-26 (YT upload_date 20200427)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).

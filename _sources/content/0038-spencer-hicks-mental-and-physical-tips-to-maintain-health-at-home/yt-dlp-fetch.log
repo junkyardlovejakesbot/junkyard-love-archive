@@ -1,0 +1,17 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?v=pc0JcBfGisc
+[youtube] pc0JcBfGisc: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] pc0JcBfGisc: Downloading visionos player API JSON
+[youtube] pc0JcBfGisc: Downloading m3u8 information
+[info] pc0JcBfGisc: Downloading subtitles: en, en-orig
+[info] pc0JcBfGisc: Downloading 1 format(s): 136+251
+[info] Writing video description to: /workspace/junkyard-love-archive/content/0038-spencer-hicks-mental-and-physical-tips-to-maintain-health-at-home/source-yt.description
+[info] Writing video subtitles to: /workspace/junkyard-love-archive/content/0038-spencer-hicks-mental-and-physical-tips-to-maintain-health-at-home/source-yt.en.vtt
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: /workspace/junkyard-love-archive/content/0038-spencer-hicks-mental-and-physical-tips-to-maintain-health-at-home/source-yt.en.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.56MiB/s (00:00:00)[download]    7.00KiB at    4.64MiB/s (00:00:00)[download]   15.00KiB at    8.20MiB/s (00:00:00)[download]   31.00KiB at    4.83MiB/s (00:00:00)[download]   63.00KiB at    5.40MiB/s (00:00:00)[download]  127.00KiB at    4.06MiB/s (00:00:00)[download]  255.00KiB at    2.88MiB/s (00:00:00)[download]  511.00KiB at    3.52MiB/s (00:00:00)[download]  677.97KiB at    4.19MiB/s (00:00:00)[download] 100% of  677.97KiB in 00:00:00 at 1.25MiB/s
+[info] Writing video subtitles to: /workspace/junkyard-love-archive/content/0038-spencer-hicks-mental-and-physical-tips-to-maintain-health-at-home/source-yt.en-orig.vtt
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: /workspace/junkyard-love-archive/content/0038-spencer-hicks-mental-and-physical-tips-to-maintain-health-at-home/source-yt.en-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at    6.36MiB/s (00:00:00)[download]   15.00KiB at   11.20MiB/s (00:00:00)[download]   31.00KiB at    4.65MiB/s (00:00:00)[download]   63.00KiB at    5.27MiB/s (00:00:00)[download]  127.00KiB at    5.90MiB/s (00:00:00)[download]  255.00KiB at    5.08MiB/s (00:00:00)[download]  511.00KiB at    5.95MiB/s (00:00:00)[download]  677.97KiB at    7.29MiB/s (00:00:00)[download] 100% of  677.97KiB in 00:00:00 at 2.21MiB/s
+[info] Writing video metadata as JSON to: /workspace/junkyard-love-archive/content/0038-spencer-hicks-mental-and-physical-tips-to-maintain-health-at-home/source-yt.info.json

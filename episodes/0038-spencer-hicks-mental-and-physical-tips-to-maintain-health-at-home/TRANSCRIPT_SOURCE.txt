@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en/en-orig (captions.en.vtt / captions.en.json3; also archived as source-yt.en*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=pc0JcBfGisc
+Turns: 230
+Word count: 14214
+Speaker map: pause-gap segmentation + sticky Jacob/Spencer content scoring (named speaker labels not present in captions; auto diarization imperfect); remote/video open forced to Jacob where clear
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light ASR name tidy (Spencer Hicks; Wim Hof; Jordan Hall; FaceTime; Xbox; The Witcher); bumper/outro forced to Jacob where clear; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Spencer Hicks (YT/RSS titles / inventory); slug spencer-hicks (EXISTING — APPEND 0038 to 0088+0074+0059+0044, do not wipe).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places. Remote COVID video chat from the open.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips. YT duration 4378s vs RSS/inventory 4465s (archive meta uses RSS duration). No published chapter timestamps. Title YT≠RSS (YouTube H1 preferred; keep YT spacing). About YT~itunes:summary (YT primary; (5) series marker stripped). Inventory has_quotes=no / has_timestamps=no / has_hashtags=no / has_guest_links=no. Archive picks fills timestamped quotes/chapters/keywords/hashtags/bio. Guest page: spencer-hicks (EXISTING APPEND).
+Speaker balance: Jacob 116 turns/6870 words; Spencer 114 turns/7344 words.
+Heuristic speaker fixes: 3; post-splits: 4 (noop-keep jacob close; split Spencer thanks / Jacob outro; split Jacob appreciate / Spencer thanks; split Spencer thanks / Jacob listeners outro)
