@@ -1,0 +1,6 @@
+- Connect with Ravinder:
+- Book (Amazon): https://a.co/d/g189zZ7
+- Website: https://ravindertaylor.com
+- Facebook: https://www.facebook.com/RavinderKTaylor
+- Instagram: https://www.instagram.com/ravindertaylor/
+- Twitter/X: https://x.com/Ravinder_Taylor

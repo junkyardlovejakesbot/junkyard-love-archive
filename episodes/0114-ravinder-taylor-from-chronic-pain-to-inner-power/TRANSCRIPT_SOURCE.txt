@@ -1,0 +1,10 @@
+Source: YouTube automatic captions en (captions.en.vtt / captions.en.json3); en-orig also archived; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=ZJl0_GOxzs0
+Turns: 131
+Word count: 12560
+Speaker map: pause-gap segmentation + sticky Jacob/Ravinder content scoring (named speaker labels not present in auto captions)
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; Revinda/Rainder/Rainda→Ravinder; Elden→Eldon; Junko Club→Junkyard Love; bumper/outro forced to Jacob where clear; split Jacob welcome vs Ravinder greeting; split Mind Training question vs Eldon answer; reassigned satnam/Sikh first-person blocks; split closing stop-recording/thanks
+No sentence rewriting.
+Guest name spelling: Ravinder Taylor (matches YouTube/RSS); ASR Revinda/Rainder/Rainda corrected.
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: Auto captions have no >> speaker flips and no official/manual en track; turns segmented by pause gaps + sticky Jacob/Ravinder content scoring (imperfect).; YT duration 4630s vs RSS/inventory 4627s (3s difference).; No published chapter timestamps (inventory has_timestamps=no).; YT≠RSS title and description markup; archive uses YouTube title for H1 and YouTube primary description wording.; ASR often renders Ravinder as Revinda/Rainder/Rainda and Eldon as Elden — corrected to published YouTube/RSS spelling; Junko Club→Junkyard Love in theme bumper.; Manual speaker fixes applied: 3 (incl. Mind Training Q/A split, satnam reassign, closing stop-recording split).; 4 turn(s) exceed ~400 words — may still blend speakers inside a pause-merged block.

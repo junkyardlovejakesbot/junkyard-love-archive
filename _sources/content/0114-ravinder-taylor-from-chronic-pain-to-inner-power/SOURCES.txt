@@ -1,0 +1,7 @@
+Description source: YouTube (primary per archive rules; YT≠RSS — RSS wraps same copy in HTML <p>/<ul>/<em>/<strong>, adds full https for social links and book; YT uses @handles. Archive uses YT wording + RSS full URLs for guest links.)
+YouTube chars: 2986
+RSS HTML chars: 3655
+Title source: YouTube (prefer YT for H1; YT≠RSS — RSS title "0114 with Ravinder Taylor - Psychotherapist, Hypnotherapist, Microbiologist, and Author - 'From Chronic Pain To Inner Power'")
+Title: From Chronic Pain To Inner Power - with Psychotherapist, Hypnotherapist, & Author - Ravinder Taylor
+Chapters source: none published (YT/RSS; inventory has_timestamps=no)
+Guest links: from published YouTube notes with https:// expanded from RSS (Facebook/Instagram/X/Website/Amazon)

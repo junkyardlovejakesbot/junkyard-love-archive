@@ -15,6 +15,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0117 Blake Hull — Good morning, Blakey Boy / Grace, written in code](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0117-blake-hull-good-morning-blakey-boy/) — 2025-10-27
 - [0116 Curtis L. Harnagel — Same Room, Different Angles](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0116-curtis-l-harnagel-same-room-different-angles/) — 2025-08-01
 - [0115 Nate Begle — The Puppet's Heart](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0115-nate-begle-the-puppets-heart/) — 2025-06-30
+- [0114 Ravinder Taylor — From Chronic Pain To Inner Power](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0114-ravinder-taylor-from-chronic-pain-to-inner-power/) — 2025-05-19
 - [0113 Wendy Cole — Later Bloom](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0113-wendy-cole-later-bloom/) — 2025-04-03
 - [0112 David Crayk — True Teachings](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0112-david-crayk-true-teachings/) — 2025-03-19
 - [0111 Nate Tanzman — Father](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0111-nate-tanzman-father/) — 2025-02-19
@@ -45,6 +46,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Nate Begle](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/nate-begle/)
 - [Nate Tanzman](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/nate-tanzman/)
 - [Rebecca Wild](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/rebecca-wild/)
+- [Ravinder Taylor](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/ravinder-taylor/)
 - [Sean Blackwell](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/sean-blackwell/)
 - [Sigmar Berg](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/sigmar-berg/)
 - [Tim Fraley](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/tim-fraley/)
@@ -67,6 +69,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0117-blake-hull-good-morning-blakey-boy/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0117-blake-hull-good-morning-blakey-boy/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0116-curtis-l-harnagel-same-room-different-angles/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0116-curtis-l-harnagel-same-room-different-angles/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0115-nate-begle-the-puppets-heart/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0115-nate-begle-the-puppets-heart/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0114-ravinder-taylor-from-chronic-pain-to-inner-power/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0114-ravinder-taylor-from-chronic-pain-to-inner-power/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0113-wendy-cole-later-bloom/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0113-wendy-cole-later-bloom/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0112-david-crayk-true-teachings/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0112-david-crayk-true-teachings/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0111-nate-tanzman-father/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0111-nate-tanzman-father/episode.md)

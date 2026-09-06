@@ -1,0 +1,5 @@
+- “I wanted to give people the why—not just another list of what to do. When you understand why something works, you stop outsourcing your power.”
+- “You don’t always have to know which thing healed you. Sometimes it’s the accumulation, the ripening—your belief meets your action, and something finally shifts.”
+- “Free will isn’t free—you have to take it. Most of our minds are running on autopilot, but we can interrupt the programming and rewire it intentionally.”
+- “Healing isn’t about becoming perfect. It’s about removing what blocks your authentic self from expressing.”
+- “Smiling is underrated medicine. It shifts your brain chemistry, helps others feel seen, and reminds you that you’re safe, here, now.”
