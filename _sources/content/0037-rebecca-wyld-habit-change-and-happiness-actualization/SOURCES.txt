@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (~itunes:summary). YT footer stripped. Quotes block stripped into Quotes. No guest contact/email invented; published social mention remains in About prose only; Guest links section none (inventory has_guest_links=no).
+YouTube chars: 3385
+RSS HTML chars: 3310
+Title source: YouTube / exact_public_title (fIhM0OH2C30). YT=RSS.
+Title: Episode 037 with Life Coach Rebecca Wyld of Wyld Wellness - Habit Change and Happiness Actualization
+RSS title: Episode 037 with Life Coach Rebecca Wyld of Wyld Wellness - Habit Change and Happiness Actualization
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YT chapters
+Guest links: none published as structured links (inventory has_guest_links=no); About may mention Instagram/Facebook/site in prose
+Quotes: 6 published quotes from YT/RSS Some quotes from our chat block (inventory has_quotes=yes)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube
+Guest name spelling: Rebecca Wyld; guest slug rebecca-wyld (NEW — not rebecca-wild)
+Duration: RSS itunes:duration 8445s (2:20:45); YT info.json duration 7005s — using RSS/inventory 8445
+Publish date: RSS/inventory 2020-04-23 (YT upload_date 20200424)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).

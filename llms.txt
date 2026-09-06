@@ -92,6 +92,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0040 Brandon Cruz — Formulating Perspective From Behind The Lens, Cognitive Change With Intention, and Being A Creative Individual](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0040-brandon-cruz-formulating-perspective-from-behind-the-lens-cognitive-change-with-intention-and-being-a-creative-individual/) — 2020-05-11
 - [0039 Erik Nordin — A Small Town Sound With Heart](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0039-erik-nordin-of-rosetan-a-small-town-sound-with-heart/) — 2020-05-10
 - [0038 Spencer Hicks — Mental and Physical Tips To Maintain Health At Home](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0038-spencer-hicks-mental-and-physical-tips-to-maintain-health-at-home/) — 2020-04-26
+- [0037 Rebecca Wyld — Habit Change and Happiness Actualization](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0037-rebecca-wyld-habit-change-and-happiness-actualization/) — 2020-04-23
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -146,6 +147,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Nate Tanzman](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/nate-tanzman/)
 - [Nike Anani](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/nike-anani/)
 - [Rebecca Wild](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/rebecca-wild/)
+- [Rebecca Wyld](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/rebecca-wyld/)
 - [Ricky Navarrete](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/ricky-navarrete/)
 - [Rikki Hall](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/rikki-hall/)
 - [Roman Merrell](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/roman-merrell/)
@@ -261,3 +263,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0040-brandon-cruz-formulating-perspective-from-behind-the-lens-cognitive-change-with-intention-and-being-a-creative-individual/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0040-brandon-cruz-formulating-perspective-from-behind-the-lens-cognitive-change-with-intention-and-being-a-creative-individual/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0039-erik-nordin-of-rosetan-a-small-town-sound-with-heart/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0039-erik-nordin-of-rosetan-a-small-town-sound-with-heart/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0038-spencer-hicks-mental-and-physical-tips-to-maintain-health-at-home/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0038-spencer-hicks-mental-and-physical-tips-to-maintain-health-at-home/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0037-rebecca-wyld-habit-change-and-happiness-actualization/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0037-rebecca-wyld-habit-change-and-happiness-actualization/episode.md)

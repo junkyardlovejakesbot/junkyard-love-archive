@@ -89,6 +89,7 @@ Plain static site. No domain configured yet — open `site/index.html` locally, 
 - **0040** Brandon Cruz — Formulating Perspective From Behind The Lens, Cognitive Change With Intention, and Being A Creative Individual — `site/episodes/0040-brandon-cruz-formulating-perspective-from-behind-the-lens-cognitive-change-with-intention-and-being-a-creative-individual/`
 - **0039** Erik Nordin — A Small Town Sound With Heart — `site/episodes/0039-erik-nordin-of-rosetan-a-small-town-sound-with-heart/`
 - **0038** Spencer Hicks — Mental and Physical Tips To Maintain Health At Home — `site/episodes/0038-spencer-hicks-mental-and-physical-tips-to-maintain-health-at-home/`
+- **0037** Rebecca Wyld — Habit Change and Happiness Actualization — `site/episodes/0037-rebecca-wyld-habit-change-and-happiness-actualization/`
 - **0100** JacobFromTheInternet (solo) — `site/episodes/0100-jacobfromtheinternet-mystical-experience/`
 
 ## Preview

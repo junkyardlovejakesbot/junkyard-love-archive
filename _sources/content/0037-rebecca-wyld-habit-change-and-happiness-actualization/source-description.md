@@ -1,0 +1,28 @@
+Rebecca Wyld is a Life Coach, Cosmetologist, outdoors advocate, motivator, health seeker, self-love practitioner, client-counselor and - story changer. This episode is a holy grail for anyone in search of a little life advice around habit change.
+
+Life Coaching - What is it? How did you get started and what do you do with it now? Who is it for? - Rebecca fills in all the blanks for me, and she shares how a small pain in the neck led to trails, inner healing, habit change, and her position towards life now. The philosophy at her company is pretty straight forward - Getting people back to the simple way of living. Here's a quote from Rebecca: "There's so many avenues to health (mental and physical) that people get paralysis by analysis and ultimately end up doing NOTHING. (No bueno!) - So my practice is about guiding people (women) to take empowered action by slowing down and building a solid foundation of a more primitive way of living. - Literally re-learning health. Eat the whole foods. drink the fucking water. intentionally embracing the silence for a few moments. Put down your phone. Put your feet in the grass. Heal yourself. Do the work. Walk before you run. Depression is real. Action is necessary."
+
+We share hiking stories and talk about bears, cougars, coyotes, and elephants - we discuss personal path obstacles, the importance of cosmetologists chats in the chair, when to be flexible and when to be rigid, people-pleasing and boundaries. I found we really dove into the weeds of self-actualization and habit change, with recommendations and mindset swaps up for offer. Holistic health, weight loss, self-love, breaking habit loops - Rebecca really offers introspective sparking perspective on all of these valuable and important human attainments.
+
+She believes in taking one step at a time, pushing through instant gratification with ACTION and repetition, not identifying with a story of pain and lack, and avoiding confirmation bias of our ill-served belief systems.
+
+There's concurrence between us that Inflammation is a total demon, writing is magic, discomfort is growth, and habits can be changed with awareness and persistence.
+
+We talk breaking family cycles, reframing interactions and boundaries with one another, energy vampires, creating ritualistic thresholds, mirror work, creating a 'ta'dah!' list, social anxiety and the mindset of making better decisions.
+
+Rebecca Wyld loves to learn why people do what they do. She's observant, present, intelligent, and professional. Our interaction was enthralling and filled with valuable information. Greatly appreciative of people like Rebecca for what they do.
+
+To get ahold of Rebecca, or to find out more about Wyld Wellness - checkout the Instagram @Wyld_Wellness, Facebook @wyldandwell, or Wyldandwell.com
+
+## Quotes
+
+- "Your beliefs are there because of your experiences and then those same experiences confirm your beliefs."
+- "Why am I being a jerk to myself, is there another way?"
+- "what if what you actually want is just a lil' bushwhack away?"
+- "if its your truth, own it!"
+- "It took a long time for me to be able to look into the mirror and point out the things I loved instead of the things I hate."
+- "Take me to a place where I feel small"
+
+## Guest links
+
+(none published in episode notes)

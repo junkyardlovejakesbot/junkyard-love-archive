@@ -1,0 +1,6 @@
+- "Your beliefs are there because of your experiences and then those same experiences confirm your beliefs."
+- "Why am I being a jerk to myself, is there another way?"
+- "what if what you actually want is just a lil' bushwhack away?"
+- "if its your truth, own it!"
+- "It took a long time for me to be able to look into the mirror and point out the things I loved instead of the things I hate."
+- "Take me to a place where I feel small"
