@@ -1,0 +1,1 @@
+No caption or video source was published for Episode 047. Listen via the links above.

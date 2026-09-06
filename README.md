@@ -79,6 +79,7 @@ Plain static site. No domain configured yet — open `site/index.html` locally, 
 - **0050** Jordenelle Tsugawa — Healing The Soul With Hands and Self-Love — `site/episodes/0050-jordenelle-tsugawa-healing-the-soul-with-hands-and-self-love/`
 - **0049** Airik Makaio Hokulani Mobbs — The Ever Evolving Chameleon, Vibe Surfing, Weird America and Giving Power To The Positive — `site/episodes/0049-airik-makaio-hokulani-mobbs-the-ever-evolving-chameleon-vibe-surfing-weird-america-and-giving-power-to-the-positive/`
 - **0048** Devon Sims — Being Kind, Flipping Perspective and Drinkin' Water — `site/episodes/0048-devon-sims-being-kind-flipping-perspective-and-drinkin-water/`
+- **0047** Trenten Kesler — Searching For Fluidity, Learning From Detail, and Laughing With Everyone (RSS/audio-only) — `site/episodes/0047-trenten-kesler-searching-for-fluidity-learning-from-detail-and-laughing-with-everyone/`
 - **0100** JacobFromTheInternet (solo) — `site/episodes/0100-jacobfromtheinternet-mystical-experience/`
 
 ## Preview

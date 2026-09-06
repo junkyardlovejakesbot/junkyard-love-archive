@@ -82,6 +82,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0050 Jordenelle Tsugawa — Healing The Soul With Hands and Self-Love](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0050-jordenelle-tsugawa-healing-the-soul-with-hands-and-self-love/) — 2020-07-31
 - [0049 Airik Makaio Hokulani Mobbs — The Ever Evolving Chameleon, Vibe Surfing, Weird America and Giving Power To The Positive](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0049-airik-makaio-hokulani-mobbs-the-ever-evolving-chameleon-vibe-surfing-weird-america-and-giving-power-to-the-positive/) — 2020-07-28
 - [0048 Devon Sims — Being Kind, Flipping Perspective and Drinkin' Water](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0048-devon-sims-being-kind-flipping-perspective-and-drinkin-water/) — 2020-07-13
+- [0047 Trenten Kesler — Searching For Fluidity, Learning From Detail, and Laughing With Everyone](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0047-trenten-kesler-searching-for-fluidity-learning-from-detail-and-laughing-with-everyone/) — 2020-07-05
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -143,6 +144,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Sigmar Berg](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/sigmar-berg/)
 - [Swami Nityananda](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/swami-nityananda/)
 - [Tim Fraley](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/tim-fraley/)
+- [Trenten Kesler](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/trenten-kesler/)
 - [Trevir Petitt](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/trevir-petitt/)
 - [Trevor May](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/trevor-may/)
 - [Tyler Milliken](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/tyler-milliken/)
@@ -234,3 +236,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0050-jordenelle-tsugawa-healing-the-soul-with-hands-and-self-love/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0050-jordenelle-tsugawa-healing-the-soul-with-hands-and-self-love/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0049-airik-makaio-hokulani-mobbs-the-ever-evolving-chameleon-vibe-surfing-weird-america-and-giving-power-to-the-positive/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0049-airik-makaio-hokulani-mobbs-the-ever-evolving-chameleon-vibe-surfing-weird-america-and-giving-power-to-the-positive/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0048-devon-sims-being-kind-flipping-perspective-and-drinkin-water/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0048-devon-sims-being-kind-flipping-perspective-and-drinkin-water/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0047-trenten-kesler-searching-for-fluidity-learning-from-detail-and-laughing-with-everyone/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0047-trenten-kesler-searching-for-fluidity-learning-from-detail-and-laughing-with-everyone/episode.md)

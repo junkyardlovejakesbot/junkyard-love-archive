@@ -1,0 +1,8 @@
+Source: none — no YouTube video, captions, or official transcript published for Episode 047.
+YouTube: unmatched / not uploaded (channel episode numbers jump 048 → 046).
+RSS: https://share.transistor.fm/s/e11bd719
+Audio enclosure: https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/e11bd719/b85473c6.mp3
+No transcript generated; do not invent from audio.
+Guest name spelling: Trenten Kesler (RSS/inventory); slug trenten-kesler (NEW).
+Inventory: youtube_match_method=unmatched; has_quotes=yes; has_timestamps=no; has_hashtags=no; has_guest_links=no.
+Archive picks: keywords/hashtags/bio from published RSS notes only; no chapter timestamps or caption quotes.

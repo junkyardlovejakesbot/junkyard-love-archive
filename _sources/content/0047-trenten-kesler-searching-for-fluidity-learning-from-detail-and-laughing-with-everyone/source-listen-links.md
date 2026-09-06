@@ -1,0 +1,7 @@
+- Transistor/RSS: https://share.transistor.fm/s/e11bd719
+- Spotify episode: https://open.spotify.com/episode/0fEpRQVw1u3wkgP8chJY8J
+- Spotify show: https://open.spotify.com/show/45J7CBdM8j29doqyBp2bFs
+- Apple episode: https://podcasts.apple.com/us/podcast/episode-047-with-trenten-kesler-searching-for-fluidity/id1489118788?i=1000482771599
+- Audio (enclosure): https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/e11bd719/b85473c6.mp3
+- Audio (direct): https://audio.transistor.fm/m/shows/5887/fa21001e72314f306af99934e7556b00.mp3
+- YouTube: Not on YouTube
