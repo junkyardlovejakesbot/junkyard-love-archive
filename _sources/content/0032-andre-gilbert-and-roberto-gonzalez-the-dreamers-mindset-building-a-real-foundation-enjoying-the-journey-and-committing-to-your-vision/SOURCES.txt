@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (~RSS itunes:summary). YT footer stripped.
+YouTube chars: 1520
+RSS HTML chars: 1397
+Title source: RSS preferred for H1 because YouTube title truncated with ellipsis (ESd6VriJ1TE). YT≠RSS.
+YT title: Episode 032 with Andre Gilbert and Roberto Gonzalez - The dreamers mindset, building a real found...
+RSS title / H1: Episode 032 with Andre Gilbert and Roberto Gonzalez - The dreamers mindset, building a real foundation, enjoying the journey and committing to your vision
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YT chapters
+Guest links: none as dedicated links (inventory has_guest_links=no) — eyeclothingco.com / @eyeclothingco / ep 002 mentioned inline in About || line only; no personal email
+Quotes: no dedicated Quotes list block (inventory has_quotes=yes from inline Steve Jobs phrase quote in About kept verbatim)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as 2 spaced paras from YouTube (main narrative + || checkout line)
+Guest name spelling: Andre Gilbert / Roberto Gonzalez; separate guest pages andre-gilbert (NEW) + roberto-gonzalez (NEW)
+Duration: RSS itunes:duration 5773s (1:36:13); YT info.json duration 5804s — using RSS/inventory 5773
+Publish date: RSS/inventory 2020-03-28 (YT upload_date 20200328)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bios) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).

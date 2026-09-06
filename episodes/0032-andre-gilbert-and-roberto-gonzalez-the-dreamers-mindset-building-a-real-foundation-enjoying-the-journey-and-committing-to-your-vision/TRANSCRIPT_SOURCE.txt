@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en/en-orig (captions.en.vtt / captions.en.json3; also archived as source-yt.en*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=ESd6VriJ1TE
+Turns: 247
+Word count: 19868
+Speaker map: pause-gap segmentation + sticky Jacob/Andre/Roberto content scoring (named speaker labels not present in captions; dual-guest auto diarization imperfect; captions often say Beto/Rob for Roberto)
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light ASR name tidy (Andre, Beto, Roberto, EYE Clothing from 'I clothing', Cowlitz/Clark County Fair, Steve Jobs, Bob Lazar, Joe Rogan, Junkyard Love); bumper/outro forced to Jacob where clear; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Andre Gilbert / Roberto Gonzalez (Rob / Beto); slugs andre-gilbert + roberto-gonzalez (both NEW).
+Note: automatic diarization is imperfect especially between Andre and Roberto (overlapping storytelling / backchannels); remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips. YT duration 5804s vs RSS/inventory 5773s (archive meta uses RSS duration). No published chapter timestamps. Title YT≠RSS (YT title ends with ellipsis; H1/slug use full RSS title). About YT~RSS (YT primary; footer stripped; 2 spaced paras including || checkout line). Inventory has_quotes=yes (inline Steve Jobs quote in About; no Quotes list block) / has_timestamps=no / has_hashtags=no / has_guest_links=no. Archive picks fills timestamped quotes/chapters/keywords/hashtags/bios. Guest pages: andre-gilbert (NEW) + roberto-gonzalez (NEW).
+Speaker balance: Jacob 118 turns/9455 words; Andre 83 turns/6926 words; Roberto 46 turns/3487 words.
+Heuristic speaker fixes: 5; post-splits: 1 (split Jacob ask / Andre space-company joke)
