@@ -1,0 +1,15 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (intro + CTA + For more on Juli links + Her Biography block). Guest websites kept inline in About and also under Guest links (inventory has_guest_links=yes).
+YouTube chars: 1716
+RSS HTML chars: 1716
+Title source: YouTube / exact_public_title (uIG8HQ7QqV4). YT≠RSS — RSS omits “The JYLP” prefix; otherwise same guest/role/topic title.
+Title: The JYLP 080 with Relationship Practitioner, Mediator, and Author Juli Geske-Peer - Personal Success
+RSS title: 080 with Relationship Practitioner, Mediator, and Author Juli Geske-Peer - Personal Success
+Chapters source: none published in episode notes (inventory has_timestamps=no); YT info.json has titled chapters (Intro / Bio / Boots on the Ground / Common Difficulties / ushering in epiphany / leadership / stepping into leadership / current leaders / growth mindset / Julis story / Senses / Mediation / Common Ground / Performance Optimization / Project Management / Strategy and Plan / Lessons Learned / Website) — used only to seed Archive picks, not as published Chapters
+Guest links: published https://juligeskepeer.com/#welcome and https://peerperformancesolutions.com/ (inventory has_guest_links=yes); also remain inline in About
+Quotes: none published (inventory has_quotes=no)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube; YT≈RSS body
+Guest name spelling: Juli Geske-Peer (YT hyphenation preferred over inventory truncation “Juli Geske”); guest slug juli-geske-peer; roles Relationship Practitioner, Mediator, and Author
+Duration: RSS itunes:duration 3668s (1:01:08); YT info.json duration 3701s — using RSS/inventory 3668
+Publish date: RSS pubDate 2021-11-13 (YT upload_date 20211113) — using RSS/inventory 2021-11-13
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.

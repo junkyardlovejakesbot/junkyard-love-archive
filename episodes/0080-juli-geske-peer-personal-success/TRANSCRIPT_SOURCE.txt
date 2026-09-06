@@ -1,0 +1,15 @@
+Source: YouTube automatic captions en-orig (captions.en-orig.vtt / captions.en-orig.json3); en track identical auto; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=uIG8HQ7QqV4
+Turns: 74
+Word count: 10313
+Speaker map: pause-gap segmentation (~2.0–2.8s; median caption gap ~2.08s) + marker-based Jacob/Juli flip splits + sticky content scoring (named speaker labels not present in auto captions); opening mediation clip before ~0:52 forced to Juli; Jacob ladies-and-gentlemen intro ~0:52; guest leadership/mediation/performance narratives forced Juli; closing CTA/bumper forced Jacob where matched
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments (cap ~200 words); HTML entities/nbsp unescaped; capitalized turn starts after merge; light name/term fixes (Juli Geske-Peer; julie→Juli; Peer Performance Solutions; Five Senses For Success; Junkyard Love; jacobfromtheinternet); dropped [Music]/foreign/trailing you cue noise; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Juli Geske-Peer (matches YouTube hyphenation; inventory guest_name truncates to Juli Geske); guest slug juli-geske-peer.
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en-orig) used; no official/manual track; no >> speaker flips. RSS itunes:duration 3668s; YT info.json duration 3701s — using RSS/inventory 3668. No published chapter timestamps/quotes/hashtags in episode notes (inventory has_timestamps/quotes/hashtags=no); YT has titled chapters (Intro / Bio / Boots on the Ground / … / Website) — used only to seed Archive picks, not as published Chapters. Title YT≠RSS — H1 uses YouTube/exact_public_title (“The JYLP 080 with…”); RSS omits “The JYLP” prefix (starts “080 with…”). About YT≈RSS. Publish date RSS 2021-11-13 (YT upload_date 20211113). Inventory has_guest_links=yes — https://juligeskepeer.com/#welcome and https://peerperformancesolutions.com/ kept inline in About and listed under Guest links. Archive picks fills gaps.
+Postfix diarization fixes: 12 ops.
+Speaker balance: Jacob 17 turns/1631 words; Juli 57 turns/8682 words.
+Postfix pass: surgical speaker flips + Jacob-question peels from blended Juli turns (11 ops).
+
+Additional postfix: common-ground speaker fix.
