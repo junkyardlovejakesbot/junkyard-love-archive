@@ -1,0 +1,13 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (narrative matches RSS <p>; guest CTA/links/books moved to Guest links)
+YouTube chars: 2631
+RSS HTML chars: 2811
+Title source: YouTube / exact_public_title (-Bygy52__es). YT≠RSS — RSS omits leading "The Junkyard Love Podcast Episode ".
+Title: The Junkyard Love Podcast Episode 099 with Brent Spirit - A Kundalini Awakening Story
+RSS title: 099 with Brent Spirit - A Kundalini Awakening Story
+Chapters source: none published (inventory has_timestamps=no; no YT chapters)
+Guest links: published (Spotify show, BrentSpirit.com, YouTube/Instagram @BrentSpirit) + books/resources list from notes
+Quotes: none published as labeled quotes (inventory has_quotes=yes flagged; no quote blocks in YT/RSS notes)
+About: Jacob published description verbatim as spaced paras from YouTube; link/resources block separated into Guest links
+Guest name spelling: Brent Spirit (matches YouTube/RSS/inventory); guest slug brent-spirit
+Duration: RSS itunes:duration 7173s (1:59:33); YT info.json duration 7172s — using RSS/inventory 7173
+Publish date: RSS pubDate 2023-07-08 (YT upload_date 20230709)
