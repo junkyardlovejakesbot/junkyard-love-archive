@@ -1,0 +1,9 @@
+Episode 0012: Episode 012 with Bob Kendall
+Guest: Bob Kendall
+Date: 2019-12-15
+YouTube: https://www.youtube.com/watch?v=vlwZgiNzBf4
+RSS: https://share.transistor.fm/s/8ab2f46e
+Title conflict: YT=RSS
+Guest slug: bob-kendall (NEW; not kendall-johns)
+About: YT~RSS identical body; YT footer stripped; no guest contact/email
+Transcript: YouTube auto-captions (en/en-orig); YT duration 4060s vs RSS 4033s (~27s; meta uses RSS); YT chapters present

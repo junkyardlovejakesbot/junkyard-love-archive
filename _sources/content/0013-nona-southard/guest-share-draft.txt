@@ -1,0 +1,9 @@
+Episode 0013: Episode 013 with Nona Southard
+Guest: Nona Southard
+Date: 2019-12-18
+YouTube: https://www.youtube.com/watch?v=svvD3mOCox0
+RSS: https://share.transistor.fm/s/c71f5888
+Title conflict: YT=RSS
+Guest slug: nona-southard (NEW)
+About: YT~RSS identical body; YT footer stripped; no guest contact/email
+Transcript: YouTube auto-captions (en/en-orig); YT duration 5033s vs RSS 5005s (~28s; meta uses RSS)

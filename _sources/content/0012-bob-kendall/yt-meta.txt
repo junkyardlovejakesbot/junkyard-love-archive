@@ -1,0 +1,7 @@
+title=Episode 012 with Bob Kendall
+upload_date=20191215
+duration=4060
+video_id=vlwZgiNzBf4
+rss_title=Episode 012 with Bob Kendall
+title_conflict=YT=RSS
+h1=Episode 012 with Bob Kendall

@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en/en-orig (captions.en.vtt / captions.en.json3; also archived as source-yt.en*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=svvD3mOCox0
+Turns: 286
+Word count: 16194
+Speaker map: pause-gap segmentation + sticky Jacob/Nona content scoring (named speaker labels not present in captions; auto diarization imperfect); host bumper/outro forced to Jacob where clear
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light ASR name tidy (Nona Southard; Wynonna; Mötley Crüe; Adderall; Castle Rock; Mount St. Helens; Raw Juice Bar; Junkyard Love; Jacob Rhines); bumper/outro forced to Jacob where clear; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Nona Southard (YT/RSS titles / inventory); slug nona-southard (NEW).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips. YT duration 5033s (~1:23:53) vs RSS/inventory 5005s (~1:23:25) — ~28s delta, not substantial; transcript follows YT captions; archive meta uses RSS duration. No published chapter timestamps; no YT chapters. Title YT=RSS. About YT~RSS identical body (YT footer stripped). Inventory has_quotes=yes (inline "uncool"; no Quotes list) / has_timestamps=no / has_hashtags=no / has_guest_links=no. Archive picks fills timestamped quotes/chapters/keywords/hashtags/bio. Guest page: nona-southard NEW.
+Speaker balance: Jacob 147 turns/9917 words; Nona 139 turns/6277 words.
+Heuristic speaker fixes: 3; post-splits: 0 ()

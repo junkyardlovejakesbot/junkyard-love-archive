@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from RSS plain (identical to YT after footer strip). Soft mid-sentence newlines joined. No guest contact/email.
+YouTube chars: 1631
+RSS HTML chars: 1496
+Title source: YT=RSS exact match (vlwZgiNzBf4). H1/slug use Episode 012 with Bob Kendall. YT=RSS.
+Title: Episode 012 with Bob Kendall
+RSS title: Episode 012 with Bob Kendall
+Chapters source: none published in episode notes (inventory has_timestamps=no); YouTube chapter markers present — used for Archive picks
+Guest links: none published (inventory has_guest_links=no)
+Quotes: inventory has_quotes=no — no Quotes list block (0 list quotes)
+Hashtags: none published as a block (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from RSS (YT~RSS); YT footer stripped
+Guest name spelling: Bob Kendall; guest slug bob-kendall (NEW; not kendall-johns)
+Duration: RSS itunes:duration 4033s (1:07:13); YT info.json duration 4060s — using RSS/inventory 4033; YT~RSS within ~27s (not substantial)
+Publish date: RSS/inventory 2019-12-15 (YT upload_date 20191215 — same day)
+Archive picks: added (timestamped transcript quotes, YT chapter timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + YT chapters + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).

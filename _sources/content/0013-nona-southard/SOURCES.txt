@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from RSS plain (identical to YT after footer strip). Soft mid-sentence newlines joined. No guest contact/email.
+YouTube chars: 1281
+RSS HTML chars: 1143
+Title source: YT=RSS exact match (svvD3mOCox0). H1/slug use Episode 013 with Nona Southard. YT=RSS.
+Title: Episode 013 with Nona Southard
+RSS title: Episode 013 with Nona Southard
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YT chapters
+Guest links: none published (inventory has_guest_links=no)
+Quotes: inventory has_quotes=yes — inline published "uncool" kept in About; no Quotes list block (0 list quotes)
+Hashtags: none published as a block (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from RSS (YT~RSS); YT footer stripped
+Guest name spelling: Nona Southard; guest slug nona-southard (NEW)
+Duration: RSS itunes:duration 5005s (1:23:25); YT info.json duration 5033s — using RSS/inventory 5005; YT~RSS within ~28s (not substantial)
+Publish date: RSS/inventory 2019-12-18 (YT upload_date 20191219 — next calendar day)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).

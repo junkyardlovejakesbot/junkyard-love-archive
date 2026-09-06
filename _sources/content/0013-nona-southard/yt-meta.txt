@@ -1,0 +1,7 @@
+title=Episode 013 with Nona Southard
+upload_date=20191225
+duration=5033
+video_id=svvD3mOCox0
+rss_title=Episode 013 with Nona Southard
+title_conflict=YT=RSS
+h1=Episode 013 with Nona Southard

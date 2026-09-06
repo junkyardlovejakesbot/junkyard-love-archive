@@ -1,0 +1,27 @@
+Nona Southard stops by to pour some of her overflowing bravery and courage into any new parents' cups.
+
+She speaks on the changes she experienced stepping into motherhood, like having to give up hobbies, quit medications, lose friends, fear judgments, and re-connect with her body and interests.
+
+We make it clear mom-shaming is officially "uncool".
+
+Nona wants new mothers to do their research on postpartum depression, which she offers some personal experience and advice with.
+
+Many women deal with drastic changes to their interests and personality after such changes but feel afraid to speak up about it or face it.
+
+Nona laying out her experience from such an honest place gives some strength to any listener who needs a bit extra today.
+
+We dive into Nona's newly switching interests and bailing on her social media avatar.
+
+She mentions her mom's fairly new smoothie business, (Raw Juice Bar), we talk about woodworking and passion amidst our jobs, and Nona offers a few light tips on weapons.
+
+I am grateful Nona was so eager to leave masks at the door and let other parents and women feel less alone through her vulnerability.
+
+She's awesome!
+
+## Quotes
+
+(none published as a Quotes list block — inventory has_quotes=yes from inline "uncool" phrasing kept verbatim in About)
+
+## Guest links
+
+(none published in episode notes)

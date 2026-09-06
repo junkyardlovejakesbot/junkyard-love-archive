@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en/en-orig (captions.en.vtt / captions.en.json3; also archived as source-yt.en*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=vlwZgiNzBf4
+Turns: 240
+Word count: 13733
+Speaker map: pause-gap segmentation + sticky Jacob/Bob content scoring (named speaker labels not present in captions; auto diarization imperfect); host bumper/outro forced to Jacob where clear
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light ASR name tidy (Bob Kendall; PacSun; Zumiez; Amazon; Junkyard Love; Jacob Rhines); bumper/outro forced to Jacob where clear; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Bob Kendall (YT/RSS titles / inventory); slug bob-kendall (NEW; distinct from kendall-johns).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips. YT duration 4060s (~1:07:40) vs RSS/inventory 4033s (~1:07:13) — ~27s delta, not substantial; transcript follows YT captions; archive meta uses RSS duration. YouTube chapter markers present (used for Archive picks). Title YT=RSS. About YT~RSS identical body (YT footer stripped). Inventory has_quotes=no / has_timestamps=no / has_hashtags=no / has_guest_links=no. Archive picks fills timestamped quotes/chapters/keywords/hashtags/bio. Guest page: bob-kendall NEW.
+Speaker balance: Jacob 121 turns/6994 words; Bob 119 turns/6739 words.
+Heuristic speaker fixes: 0; post-splits: 0 ()

@@ -1,0 +1,19 @@
+{
+  "episode_number": "0012",
+  "episodeNumber": 12,
+  "title": "Episode 012 with Bob Kendall",
+  "rss_title": "Episode 012 with Bob Kendall",
+  "guest": "Bob Kendall",
+  "datePublished": "2019-12-15",
+  "duration_seconds": 4033,
+  "duration_iso": "PT1H7M13S",
+  "duration_human": "1:07:13",
+  "youtube_url": "https://www.youtube.com/watch?v=vlwZgiNzBf4",
+  "rss_url": "https://share.transistor.fm/s/8ab2f46e",
+  "audio_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/8ab2f46e/c0d294df.mp3",
+  "spotify_show": "https://open.spotify.com/show/45J7CBdM8j29doqyBp2bFs",
+  "apple_show": "https://podcasts.apple.com/us/podcast/the-junkyard-love-podcast/id1489118788",
+  "slug": "0012-bob-kendall",
+  "guest_slug": "bob-kendall",
+  "title_conflict": "YT=RSS"
+}

@@ -113,6 +113,8 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0018 Nate 'NastyNate' Tanzman](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0018-nate-nastynate-tanzman/) — 2019-12-29
 - [0017 Spencer Hicks](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0017-spencer-hicks/) — 2019-12-28
 - [0015 Jordanne Crane](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0015-jordanne-crane/) — 2019-12-25
+- [0013 Nona Southard](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0013-nona-southard/) — 2019-12-18
+- [0012 Bob Kendall](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0012-bob-kendall/) — 2019-12-15
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -122,6 +124,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Andy of Team Banzai](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/andy-of-team-banzai/)
 - [Barbara McAfee](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/barbara-mcafee/)
 - [Blake Hull](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/blake-hull/)
+- [Bob Kendall](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/bob-kendall/)
 - [Bobby Barrz](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/bobby-barrz/)
 - [Brandon Cruz](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/brandon-cruz/)
 - [Brian 'DJ Toasty' Andrew](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/brian-dj-toasty-andrew/)
@@ -174,6 +177,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Nate Begle](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/nate-begle/)
 - [Nate Tanzman](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/nate-tanzman/)
 - [Nike Anani](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/nike-anani/)
+- [Nona Southard](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/nona-southard/)
 - [Rebecca Wild](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/rebecca-wild/)
 - [Rebecca Wyld](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/rebecca-wyld/)
 - [Ricky Navarrete](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/ricky-navarrete/)
@@ -318,3 +322,5 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0018-nate-nastynate-tanzman/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0018-nate-nastynate-tanzman/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0017-spencer-hicks/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0017-spencer-hicks/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0015-jordanne-crane/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0015-jordanne-crane/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0013-nona-southard/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0013-nona-southard/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0012-bob-kendall/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0012-bob-kendall/episode.md)
