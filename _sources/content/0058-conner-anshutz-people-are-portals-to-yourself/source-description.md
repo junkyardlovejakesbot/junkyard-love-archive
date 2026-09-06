@@ -1,0 +1,26 @@
+I've always held admiration for Conner's perspective on the world around him. Continuously making others laugh because it brings joy back to him, Conner Anshutz is intelligent, kind, a creative thinker, and a fantastic storyteller.
+
+In this episode of The Junkyard Love Podcast Conner and I kickback and let the conversation fill itself with fun ideas and stories around technology, thinking, human behavior, reality, people, animals, workin various jobs, and meeting various acquaintances.
+
+In the first half, we pour a couple of brews and chat about artificial intelligence, intrusive thoughts, wild theories of evolution, social implications of algorithms, society at large, animal experiments, altered states, depressive states, and traveling to different states.
+
+We go on to share stories from our past and how our perceptions change over time and through new opportunities with new people. We point out teachable moments along with some of the cool places life has taken us - and Conner shares views from a few of his previous jobs - like being a door to door salesmen of pest control products, workin the counter at a skateshop, selling weed at the weed store, fitting newlyweds for tuxedo rentals, grippin skateboards at the skateshop and gassin' up travelers at the gas station.
+
+Conner certainly has great perspective on exploring the human condition through other people's passion and he believes in experiencing their greatness right alongside them. He says 'yes' far more often than 'no' and he strives to bring laughter and lightheartedness to situations life hands him. He's just like you or me, a 'people' tryin to get by.
+
+If you enjoyed the episode please consider leaving a review, rating 5 stars, hitting the 'like' option or even sharing with a friend or two. Subscribe and follow to see when new episodes are posted. Follow Conner on instagram @conneranshutz
+
+## Quotes
+
+- "We're all just people tryin to get by." — Conner Anshutz
+- "You should always challenge yourself in any aspect of life. You should never settle. You should always pursue the next thing. Never stop learning never stop growing." — Conner Anshutz
+- "I love seeing that energy, 100%. I hate dream breakers. They're just trash to me. If someone has a dream, no matter how ridiculous it is, pursue it. I'm all for it. No matter how ridiculous it is. Don't let anybody stop you from doing something you love or that you want to pursue as an individual" — Conner Anshutz
+- "Time can be relative. You can cherish the small moments. You don't have to have a full 3-day hangout just to connect with someone." — Conner Anshutz
+- "I'm always stoked to hear about anyone I ever met to be doing good in their life." — Conner Anshutz
+- "Don't brag about putting other people down, brag about building yourself up." — Conner Anshutz
+- "I want to share your happiness. I want to do something with you that makes YOU happy as an individual. This is something you're really passionate about, and you have drive for it, I want to dip my toes in it. See if it's somethin for me, and share it with you. It may not be for me, but it's the time spent together." — Conner Anshutz
+- "Any river can be rebridged. The bridge can be rebuilt. Things happen, we're human" — Conner Anshutz
+
+## Guest links
+
+(none published in episode notes)

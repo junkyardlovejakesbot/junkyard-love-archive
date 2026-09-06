@@ -1,0 +1,8 @@
+- "We're all just people tryin to get by." — Conner Anshutz
+- "You should always challenge yourself in any aspect of life. You should never settle. You should always pursue the next thing. Never stop learning never stop growing." — Conner Anshutz
+- "I love seeing that energy, 100%. I hate dream breakers. They're just trash to me. If someone has a dream, no matter how ridiculous it is, pursue it. I'm all for it. No matter how ridiculous it is. Don't let anybody stop you from doing something you love or that you want to pursue as an individual" — Conner Anshutz
+- "Time can be relative. You can cherish the small moments. You don't have to have a full 3-day hangout just to connect with someone." — Conner Anshutz
+- "I'm always stoked to hear about anyone I ever met to be doing good in their life." — Conner Anshutz
+- "Don't brag about putting other people down, brag about building yourself up." — Conner Anshutz
+- "I want to share your happiness. I want to do something with you that makes YOU happy as an individual. This is something you're really passionate about, and you have drive for it, I want to dip my toes in it. See if it's somethin for me, and share it with you. It may not be for me, but it's the time spent together." — Conner Anshutz
+- "Any river can be rebridged. The bridge can be rebuilt. Things happen, we're human" — Conner Anshutz
