@@ -1,0 +1,17 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (~itunes:summary). On-the-fly quotes stripped from About into Quotes. No guest contact/email (Thought Catalog public writing link only).
+YouTube chars: 2553
+RSS HTML chars: 2418
+Title source: full RSS title preferred (YT truncated with ...); exact_public_title uses RSS. YT≠RSS.
+Title: Episode 036 with Mika Woodruff - Sharpening Your Emotional Toolkit Through Writing, Grit, Gratitude and Resilience
+RSS title: Episode 036 with Mika Woodruff - Sharpening Your Emotional Toolkit Through Writing, Grit, Gratitude and Resilience
+YT truncated title: Episode 036 with Mika Woodruff - Sharpening Your Emotional Toolkit Through Writing, Grit, Gratitu...
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YT chapters
+Guest links: Thought Catalog https://thoughtcatalog.com/mikalyn-woodruff/ (inventory has_guest_links=yes); also kept inline in About
+Quotes: 5 published quotes from YT/RSS on-the-fly quotes block (inventory has_quotes=yes)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube (quotes block stripped)
+Guest name spelling: Mika Woodruff; guest slug mika-woodruff (EXISTING — APPEND 0036; prior 0086 preserved)
+Duration: RSS itunes:duration 9001s (2:30:01); YT info.json duration 9031s — using RSS/inventory 9001
+Publish date: RSS/inventory 2020-04-15 (YT upload_date 20200416)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).

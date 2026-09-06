@@ -90,6 +90,7 @@ Plain static site. No domain configured yet — open `site/index.html` locally, 
 - **0039** Erik Nordin — A Small Town Sound With Heart — `site/episodes/0039-erik-nordin-of-rosetan-a-small-town-sound-with-heart/`
 - **0038** Spencer Hicks — Mental and Physical Tips To Maintain Health At Home — `site/episodes/0038-spencer-hicks-mental-and-physical-tips-to-maintain-health-at-home/`
 - **0037** Rebecca Wyld — Habit Change and Happiness Actualization — `site/episodes/0037-rebecca-wyld-habit-change-and-happiness-actualization/`
+- **0036** Mika Woodruff — Sharpening Your Emotional Toolkit Through Writing, Grit, Gratitude and Resilience — `site/episodes/0036-mika-woodruff-sharpening-your-emotional-toolkit-through-writing-grit-gratitude-and-resilience/`
 - **0100** JacobFromTheInternet (solo) — `site/episodes/0100-jacobfromtheinternet-mystical-experience/`
 
 ## Preview

@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en/en-orig (captions.en.vtt / captions.en.json3; also archived as source-yt.en*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=kbK8FCCKi30
+Turns: 513
+Word count: 29070
+Speaker map: pause-gap segmentation + sticky Jacob/Mika content scoring (named speaker labels not present in captions; auto diarization imperfect); formal host bumper present
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light ASR name tidy (Mika/Mica/Micah→Mika; Thought Catalog; Enneagram; Align; Stuff You Should Know; JYLP); bumper/outro forced to Jacob where clear; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Mika Woodruff (YT/RSS title); slug mika-woodruff (EXISTING — APPEND 0036 to 0086).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips. YT duration 9031s vs RSS/inventory 9001s (archive meta uses RSS duration). No published chapter timestamps. Title YT≠RSS (YT truncated with ...; H1/slug use full RSS title). About YT~itunes:summary (YT primary; on-the-fly quotes stripped into Quotes). Inventory has_quotes=yes / has_timestamps=no / has_hashtags=no / has_guest_links=yes. Archive picks fills timestamped quotes/chapters/keywords/hashtags/bio. Guest page: mika-woodruff (EXISTING APPEND).
+Speaker balance: Jacob 260 turns/16881 words; Mika 253 turns/12189 words.
+Heuristic speaker fixes: 6; post-splits: 2 (split bumper / jacob open chat; split Jacob greeting / Mika depression day)

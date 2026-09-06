@@ -1,0 +1,1 @@
+- Thought Catalog — https://thoughtcatalog.com/mikalyn-woodruff/

@@ -1,0 +1,5 @@
+- "Going from thinking that suicide or total decline as a plan B, to deciding that it's not an option."
+- "You can choose unconditional love and acceptance, or you can choose change"
+- "You don't know what the fuck you think until you think it."
+- "Decide to laugh, decide to make it easier on yourself, because we don't get to move time, we still have to experience what we are going through."
+- "When the bad things happen it draws your attention to the good things you weren't paying attention to"
