@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en/en-orig (captions.en.vtt / captions.en.json3; also archived as source-yt.en*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=lAOZvAUurL4
+Turns: 366
+Word count: 15542
+Speaker map: pause-gap segmentation + sticky Jacob/Zack content scoring (named speaker labels not present in captions; auto diarization imperfect); host bumper/outro forced to Jacob where clear
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light ASR name tidy (Zack Wyld; Brandon Cruz; Wyld Productions; Zakk Wylde; ADHD; Post Malone; Junkyard Love; Jacob Rhines); bumper/outro forced to Jacob where clear; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Zack Wyld (YT/RSS titles / inventory); slug zack-wyld (NEW; distinct from rebecca-wyld/rebecca-wild and brandon-cruz).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips. YT duration 5251s (~1:27:31) vs RSS/inventory 5223s (~1:27:03) — ~28s delta, not substantial; transcript follows YT captions; archive meta uses RSS duration. no YouTube chapter markers; Archive picks uses transcript-derived chapter-style timestamps. Title YT=RSS. About YT~RSS identical body (YT footer stripped). Inventory has_quotes=no / has_timestamps=no / has_hashtags=no / has_guest_links=no. Archive picks fills timestamped quotes/chapters/keywords/hashtags/bio. Guest page: zack-wyld NEW.
+Speaker balance: Jacob 188 turns/10485 words; Zack 178 turns/5057 words.
+Heuristic speaker fixes: 0; post-splits: 0 ()

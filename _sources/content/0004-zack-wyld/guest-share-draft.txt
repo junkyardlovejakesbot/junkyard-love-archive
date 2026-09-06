@@ -1,0 +1,9 @@
+Episode 0004: Episode 004 with Zack Wyld of Wyld Productions
+Guest: Zack Wyld of Wyld Productions
+Date: 2019-11-25
+YouTube: https://www.youtube.com/watch?v=lAOZvAUurL4
+RSS: https://share.transistor.fm/s/158d3d9e
+Title conflict: YT=RSS
+Guest slug: zack-wyld (NEW; not rebecca-wyld/rebecca-wild; not brandon-cruz)
+About: YT~RSS identical body; YT footer stripped; no guest contact/email
+Transcript: YouTube auto-captions (en/en-orig); YT duration 5251s vs RSS 5223s (~27s; meta uses RSS); YT chapters present

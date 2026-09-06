@@ -1,0 +1,19 @@
+{
+  "episode_number": "0004",
+  "episodeNumber": 4,
+  "title": "Episode 004 with Zack Wyld of Wyld Productions",
+  "rss_title": "Episode 004 with Zack Wyld of Wyld Productions",
+  "guest": "Zack Wyld of Wyld Productions",
+  "datePublished": "2019-11-25",
+  "duration_seconds": 5223,
+  "duration_iso": "PT1H27M3S",
+  "duration_human": "1:27:03",
+  "youtube_url": "https://www.youtube.com/watch?v=lAOZvAUurL4",
+  "rss_url": "https://share.transistor.fm/s/158d3d9e",
+  "audio_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/158d3d9e/058b00fd.mp3",
+  "spotify_show": "https://open.spotify.com/show/45J7CBdM8j29doqyBp2bFs",
+  "apple_show": "https://podcasts.apple.com/us/podcast/the-junkyard-love-podcast/id1489118788",
+  "slug": "0004-zack-wyld",
+  "guest_slug": "zack-wyld",
+  "title_conflict": "YT=RSS"
+}

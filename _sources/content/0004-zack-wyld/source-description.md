@@ -1,0 +1,15 @@
+In this episode, my guest is Brandon Cruz of Wyld Productions.
+
+Here the founder of Wyld and I speak up about bromances, creators, failing at art, and his alias - Zack Wyld.
+
+We touch on the importance and weirdness of alter egos and avatars for creators and artists, plus much more.
+
+A stunning photographer, videographer, and continuous creator - Brandon's work and vision on life always bring love and understanding to our meetups.
+
+## Quotes
+
+(none published — inventory has_quotes=no)
+
+## Guest links
+
+(none published in episode notes)
