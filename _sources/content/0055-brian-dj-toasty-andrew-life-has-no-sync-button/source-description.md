@@ -1,0 +1,15 @@
+Brian Andrew is a Disc Jockey, Information Technologist, Digital Marketer, Music Director, Event Producer, Father, Husband, and Friend.  He's been a Pacific Northwest DJ for more than 25 years and I've had the pleasure of working alongside him on multiple occasions. He comes by the Junkyard Love Studio to give the low-down on a streaming electronic music event we have been working on called Glow In The Dark - Virtual Insanity. This virtual event is available for free online at 7 pm Pacific on September 19th and showcases multiple talented DJs including Toasty, K3lls, Adastra, JacobFromTheInternet (me), and the trap duo Fo'Real. After we cover the details and how-to's on the upcoming show - Toasty and I transition the conversation into our personal journies with DJing, creating art, working live events and clubs, drug use, substances in the scene, mental health, suicide, personal growth, pain, friendship, change, work, and much much more.
+
+I am absolutely overfilled with gratitude to be able to offer space for such vulnerability and honest personal stories. Brian shows great bravery, openness and wisdom in this episode and I sincerely hope his words help a few folks navigate their own playlist of life.
+
+I would also like to note that me, nor Brian, are clinical psychologists, doctors, or mental health professionals of any sort. Any advice or guidance we offer is from firsthand experience, research, or critical thought. We are here in this episode to stumble through the hard conversations in favor of making mental health issues a more friendly and 'okay' piece of discussion. You are not alone, or weird for experiencing human thoughts and hardships :)
+
+For more info and the streaming link on the upcoming show check out glowinthedarkevents.com - and find DJ Toasty on social media @djtoasty
+
+## Quotes
+
+(none published in episode notes)
+
+## Guest links
+
+(none published in episode notes)

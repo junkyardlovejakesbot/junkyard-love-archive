@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en-orig (captions.en-orig.vtt / captions.en-orig.json3); en track identical auto; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=lD9W0zUKBco
+Turns: 165
+Word count: 28425
+Speaker map: pause-gap segmentation (~1.8–2.5s) + marker-based Jacob/Brian flip splits + sticky content scoring (named speaker labels not present in auto captions); Jacob bumper/live check/guest welcome forced through ~3:41; guest Glow In The Dark/DJ career/nightlife/mental-health narratives forced Brian; host questions/CTA/bumper forced Jacob where matched
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments (cap ~200 words); HTML entities/nbsp unescaped; capitalized turn starts after merge; light name/term fixes (Brian Andrew; DJ Toasty; Glow In The Dark; Virtual Insanity; Save Our Stages; Fo'Real; Adastra; K3lls; Mark Morris; Junkyard Love; COVID; CDJs; DJing; JacobFromTheInternet); dropped [Music]/trailing you cue noise; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Brian 'DJ Toasty' Andrew; guest slug brian-dj-toasty-andrew (NEW).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en / en-orig identical) freshly downloaded this run; no official/manual track; no >> speaker flips. RSS itunes:duration 10126s; YT info.json duration 10156s — using RSS/inventory 10126. Inventory has_timestamps=no / has_quotes=no / has_hashtags=no / has_guest_links=no. Title YT=RSS — H1 uses shared title (“Episode 055 with Brian 'DJ Toasty' Andrew - Life Has No Sync Button”). About YT≈RSS (YT primary; footer stripped; spaced verbatim paras). Publish date RSS/inventory 2020-09-17 (YT upload_date 20200918). No published quotes/chapters/hashtags/guest links (About mentions glowinthedarkevents.com / @djtoasty inline). Archive picks fills timestamped quotes/extra chapters/keywords/hashtags/bio. Guest page new.
+Postfix diarization fixes: 33 ops.
+Speaker balance: Jacob 57 turns/9806 words; Brian 108 turns/18619 words.

@@ -74,6 +74,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0058 Conner Anshutz — People Are Portals To Yourself](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0058-conner-anshutz-people-are-portals-to-yourself/) — 2020-10-11
 - [0057 Anna Cantwell — A Teacher Of The Human Spirit](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0057-anna-cantwell-a-teacher-of-the-human-spirit/) — 2020-10-04
 - [0056 Trevir Petitt & Jasmine Heagy — Get With The Picture, Grow Through It, And Laugh...](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0056-trevir-petitt-jasmine-heagy-get-with-the-picture-grow-through-it-and-laugh/) — 2020-09-24
+- [0055 Brian 'DJ Toasty' Andrew — Life Has No Sync Button](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0055-brian-dj-toasty-andrew-life-has-no-sync-button/) — 2020-09-17
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -82,6 +83,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Barbara McAfee](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/barbara-mcafee/)
 - [Blake Hull](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/blake-hull/)
 - [Bobby Barrz](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/bobby-barrz/)
+- [Brian 'DJ Toasty' Andrew](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/brian-dj-toasty-andrew/)
 - [Brent Spirit](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/brent-spirit/)
 - [Cameron 'Cam' Reid](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/cameron-reid/)
 - [Cetvies Cetvies](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/cetvies-cetvies/)
@@ -211,3 +213,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0058-conner-anshutz-people-are-portals-to-yourself/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0058-conner-anshutz-people-are-portals-to-yourself/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0057-anna-cantwell-a-teacher-of-the-human-spirit/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0057-anna-cantwell-a-teacher-of-the-human-spirit/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0056-trevir-petitt-jasmine-heagy-get-with-the-picture-grow-through-it-and-laugh/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0056-trevir-petitt-jasmine-heagy-get-with-the-picture-grow-through-it-and-laugh/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0055-brian-dj-toasty-andrew-life-has-no-sync-button/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0055-brian-dj-toasty-andrew-life-has-no-sync-button/episode.md)
