@@ -1,0 +1,2 @@
+- Website — johnlefebvre.com: https://www.johnlefebvre.com/
+- Book — All's Well Where Thou Art of Earth (Amazon): https://www.amazon.ca/Alls-Well-Where-Thou-Earth/dp/0995904200/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=

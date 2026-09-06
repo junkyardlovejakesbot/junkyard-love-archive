@@ -1,0 +1,8 @@
+- "Kids, don't drop acid until you're ready to be troubled"
+- “Hoarding is the wanking of wealth”
+- “The making love of wealth is the sharing of it”
+- “When we’re generous with people they don’t bust our balls”
+- “Here’s the difficult part of my theory Jacob: we have to use force.”
+- “The thing that is the most precious to me in my whole life has fallen into my lap, no more than it has into everybody’s, and that thing is: being a conscious being in the universe.”
+- “Be still, yet still be.”
+- “Get out there and show some people some great music and then get back to work”

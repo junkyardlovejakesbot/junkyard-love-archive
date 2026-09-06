@@ -1,0 +1,15 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (Facts bullets + narrative paras; website/book CTAs kept in About verbatim and also listed under Guest links; published quote block separated into Quotes; Recorded line omitted from About)
+YouTube chars: 2829
+RSS HTML chars: 2800
+Title source: YouTube / exact_public_title (ivq1xUi67DM). YT≠RSS — RSS omits leading "The JYLP Episode ".
+Title: The JYLP Episode 094 with 1/3 Billionaire John Lefebvre - Acid, Intellect, Money, and Morality
+RSS title: 094 with 1/3 Billionaire John Lefebvre - Acid, Intellect, Money, and Morality
+Chapters source: none published (inventory has_timestamps=no; no YT chapters)
+Guest links: published website https://www.johnlefebvre.com/ + Amazon book — inventory has_guest_links=yes
+Quotes: published in YT/RSS notes (inventory has_quotes=yes; no timestamps) — kept in Quotes block verbatim
+About: Jacob published description verbatim as spaced paras from YouTube (quotes section extracted to Quotes)
+Guest name spelling: John Lefebvre (matches YouTube/RSS/inventory); guest slug john-lefebvre
+Duration: RSS itunes:duration 4540s (1:15:40); YT info.json duration 4540s — using RSS/inventory 4540
+Publish date: RSS pubDate 2022-12-29 (YT upload_date 20221231); recorded 9/16/21 per notes
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published website/book links; kept separate from Jacob published About/Chapters/Quotes.
+Postfix diarization: rebalanced Jacob/John turns (28 ops).

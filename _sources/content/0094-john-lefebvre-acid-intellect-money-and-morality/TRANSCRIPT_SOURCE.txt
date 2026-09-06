@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en-orig (captions.en-orig.vtt / captions.en-orig.json3); en track identical auto; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=ivq1xUi67DM
+Turns: 81
+Word count: 13878
+Speaker map: pause-gap segmentation (~0.85–1.2s) + marker-based Jacob/John flip splits + sticky content scoring + postfix strong-cue / vocab bulk reassignment (named speaker labels not present in auto captions); pre-convo bumper/intro before ~3:43 forced to Jacob; guest origin/wealth/LSD/TM/democracy narratives forced John; closing CTA forced Jacob where matched
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments (cap ~220 words); HTML entities/nbsp unescaped; capitalized turn starts after merge; light name/term fixes (John Lefebvre, Junkyard Love, DeSmog.com, johnlefebvre.com, PayPal, Transcendental Meditation); dropped [Music]/foreign/end-bumper cue noise; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: John Lefebvre (matches YouTube/RSS/inventory); guest slug john-lefebvre; captions mishear Lefebvre as “the Faber” / “lafave”; show name as “John Caleb”; host as “Ed and Eddie”.
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en-orig) used; no official/manual track; no >> speaker flips. RSS itunes:duration 4540s; YT info.json duration 4540s — using RSS/inventory 4540. No published chapter timestamps. YT≠RSS title: YT includes leading "The JYLP Episode "; RSS omits it. H1 uses YouTube title. Inventory has_guest_links=yes. Inventory has_quotes=yes (8 published, no timestamps) / has_timestamps=no / has_hashtags=no — Archive picks fills gaps; published Quotes block kept first.
+Postfix diarization fixes: 28 ops (marker splits + John/Jacob strong-cue + mid-episode vocab bulk).
+Second postfix: website-ask/closing splits + Jacob protect (4 ops).
