@@ -66,6 +66,7 @@ Plain static site. No domain configured yet — open `site/index.html` locally, 
 - **0063** Shiloh Rister & Georgia Peach — Life, Loss, and Dogs — `site/episodes/0063-shiloh-rister-georgia-peach-life-loss-and-dogs/`
 - **0062** Abrielle Dunn — Aspiring Towards Inspiration, Creating Connection and Smiling Back At Life — `site/episodes/0062-abrielle-dunn-aspiring-towards-inspiration-creating-connection-and-smiling-back-at-life/`
 - **0061** Trevor May — Finding The Feel — `site/episodes/0061-trevor-may-finding-the-feel/`
+- **0060** Solo with Jacob Rhines — Sober October — A Personal Mental Review — `site/episodes/0060-solo-jacob-rhines-sober-october-a-personal-mental-review/`
 - **0100** JacobFromTheInternet (solo) — `site/episodes/0100-jacobfromtheinternet-mystical-experience/`
 
 ## Preview

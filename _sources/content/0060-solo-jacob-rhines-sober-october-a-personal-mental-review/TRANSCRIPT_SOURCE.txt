@@ -1,0 +1,10 @@
+Source: YouTube automatic captions en-orig (captions.en-orig.vtt / captions.en-orig.json3); en track identical auto; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=QIhVC0ZBI4Q
+Turns: 223
+Word count: 17177
+Speaker map: solo — all turns labeled Jacob; pause-gap segmentation (~2.6s) + merge short fragments (cap ~200 words); no guest speaker
+Cleanup: light dedupe of consecutive duplicate words; HTML entities/nbsp unescaped; capitalized turn starts; light name/term fixes (Junkyard Love; Sober October; jacobfromtheinternet; ADHD; Instagram; YouTube; Yeti; Kangen; ASR 'john care love'/'jay grunt'); YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest: none (solo / Jacob). No guest page (matches 0083 / 0093 / 0100).
+Note: automatic captions are imperfect ASR; timestamps and wording may drift; flagged imperfect ASR / imperfect auto diarization (solo — single speaker).
+Issue: YouTube automatic captions (en-orig) used; no official/manual track. RSS itunes:duration 5621s; YT info.json duration 5622s — using RSS/inventory 5621. No published chapter timestamps/quotes/hashtags/guest links (inventory has_timestamps/quotes/hashtags/has_guest_links=no). Title YT≠RSS — YT appends " (video)"; H1 uses YouTube title; slug/meta keep four-digit 0060. Publish date RSS/inventory 2020-11-06 (YT upload_date 20201107). About YT=RSS body (YT primary). Archive picks fills gaps.

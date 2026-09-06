@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (verbatim paragraphs). Inventory has_guest_links=no / has_quotes=no / has_timestamps=no / has_hashtags=no.
+YouTube chars: 749
+RSS plain chars: 749
+Title source: YouTube / exact_public_title (QIhVC0ZBI4Q). YT≠RSS — YT appends " (video)"; RSS omits it. H1/title use YouTube title; four-digit 0060 in slug/meta.
+Title: Episode 060 - Solo with Jacob Rhines - Sober October - A Personal Mental Review (video)
+RSS title: Episode 060 - Solo with Jacob Rhines - Sober October - A Personal Mental Review
+Chapters source: none published (inventory has_timestamps=no; YT info.json chapters=None)
+Guest links: none (solo)
+Quotes: none published (inventory has_quotes=no)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube; YT=RSS body (YT primary). Spelling Alchohol kept as published.
+Guest: none (solo / Jacob Rhines). No guest page.
+Duration: RSS itunes:duration 5621s (1:33:41); YT info.json duration 5622s — using RSS/inventory 5621
+Publish date: RSS/inventory 2020-11-06 (YT upload_date 20201107)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps from transcript beats, keywords/hashtags, solo episode framing) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).

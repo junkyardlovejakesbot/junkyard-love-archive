@@ -69,6 +69,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0063 Shiloh Rister & Georgia Peach — Life, Loss, and Dogs](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0063-shiloh-rister-georgia-peach-life-loss-and-dogs/) — 2020-12-13
 - [0062 Abrielle Dunn — Aspiring Towards Inspiration](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0062-abrielle-dunn-aspiring-towards-inspiration-creating-connection-and-smiling-back-at-life/) — 2020-11-30
 - [0061 Trevor May — Finding The Feel](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0061-trevor-may-finding-the-feel/) — 2020-11-20
+- [0060 Solo with Jacob Rhines — Sober October — A Personal Mental Review](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0060-solo-jacob-rhines-sober-october-a-personal-mental-review/) — 2020-11-06
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -197,3 +198,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0063-shiloh-rister-georgia-peach-life-loss-and-dogs/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0063-shiloh-rister-georgia-peach-life-loss-and-dogs/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0062-abrielle-dunn-aspiring-towards-inspiration-creating-connection-and-smiling-back-at-life/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0062-abrielle-dunn-aspiring-towards-inspiration-creating-connection-and-smiling-back-at-life/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0061-trevor-may-finding-the-feel/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0061-trevor-may-finding-the-feel/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0060-solo-jacob-rhines-sober-october-a-personal-mental-review/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0060-solo-jacob-rhines-sober-october-a-personal-mental-review/episode.md)

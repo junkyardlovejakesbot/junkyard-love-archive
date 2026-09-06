@@ -1,0 +1,7 @@
+For the month of October 2020 I chose to quit Social Media, Alchohol, Weed, Masturbation and Caffeine. In exchange - I chose to commit to every day drinking 1 gallon of water, writing 1 page, performing 20 minutes of yoga, as well as run/cardio 5 days a week.
+
+This episode entails my thoughts along the way, some of the hardships, a few of the victories, and lots of the personal psychology along the way.
+
+I attempted to analyze my own thoughts and feelings around the challenge, and insert some tips, tricks, new thoughts, and encouragement to anyone who would like to give their own 30 day challenge a try.
+
+Find this episode over on youtube for the video version. Best of luck to you Self-Actualizers - You're much more than your vices and habits.

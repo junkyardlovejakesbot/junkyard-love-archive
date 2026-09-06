@@ -1,0 +1,8 @@
+id: QIhVC0ZBI4Q
+title: Episode 060 - Solo with Jacob Rhines - Sober October - A Personal Mental Review (video)
+upload_date: 20201107
+duration: 5622
+channel: The Junkyard Love Podcast
+webpage_url: https://www.youtube.com/watch?v=QIhVC0ZBI4Q
+chapters: None
+automatic_captions: en-orig, en (auto only; no official subs)

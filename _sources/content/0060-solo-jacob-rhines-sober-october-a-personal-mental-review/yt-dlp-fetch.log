@@ -1,0 +1,20 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?v=QIhVC0ZBI4Q
+[youtube] QIhVC0ZBI4Q: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] QIhVC0ZBI4Q: Downloading visionos player API JSON
+[youtube] QIhVC0ZBI4Q: Downloading m3u8 information
+[info] QIhVC0ZBI4Q: Downloading subtitles: en-orig, en
+[info] QIhVC0ZBI4Q: Downloading 1 format(s): 136+251
+[info] Writing video description to: /workspace/junkyard-love-archive/content/0060-solo-jacob-rhines-sober-october-a-personal-mental-review/source-yt.description
+[info] Writing video subtitles to: /workspace/junkyard-love-archive/content/0060-solo-jacob-rhines-sober-october-a-personal-mental-review/source-yt.en-orig.vtt
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: /workspace/junkyard-love-archive/content/0060-solo-jacob-rhines-sober-october-a-personal-mental-review/source-yt.en-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.41MiB/s (00:00:00)[download]    7.00KiB at    4.31MiB/s (00:00:00)[download]   15.00KiB at    8.12MiB/s (00:00:00)[download]   31.00KiB at    4.63MiB/s (00:00:00)[download]   63.00KiB at    5.37MiB/s (00:00:00)[download]  127.00KiB at    7.12MiB/s (00:00:00)[download]  255.00KiB at   10.53MiB/s (00:00:00)[download]  511.00KiB at   16.16MiB/s (00:00:00)[download]  867.25KiB at   23.91MiB/s (00:00:00)[download] 100% of  867.25KiB in 00:00:00 at 3.53MiB/s
+[info] Writing video subtitles to: /workspace/junkyard-love-archive/content/0060-solo-jacob-rhines-sober-october-a-personal-mental-review/source-yt.en.vtt
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: /workspace/junkyard-love-archive/content/0060-solo-jacob-rhines-sober-october-a-personal-mental-review/source-yt.en.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.23MiB/s (00:00:00)[download]    7.00KiB at    4.36MiB/s (00:00:00)[download]   15.00KiB at    8.16MiB/s (00:00:00)[download]   31.00KiB at    4.86MiB/s (00:00:00)[download]   63.00KiB at    5.42MiB/s (00:00:00)[download]  127.00KiB at    7.11MiB/s (00:00:00)[download]  255.00KiB at   10.53MiB/s (00:00:00)[download]  511.00KiB at   16.27MiB/s (00:00:00)[download]  867.25KiB at   24.16MiB/s (00:00:00)[download] 100% of  867.25KiB in 00:00:00 at 3.59MiB/s
+[info] Writing video metadata as JSON to: /workspace/junkyard-love-archive/content/0060-solo-jacob-rhines-sober-october-a-personal-mental-review/source-yt.info.json
+[SubtitlesConvertor] Converting subtitles
+Deleting original file /workspace/junkyard-love-archive/content/0060-solo-jacob-rhines-sober-october-a-personal-mental-review/source-yt.en.vtt (pass -k to keep)
+Deleting original file /workspace/junkyard-love-archive/content/0060-solo-jacob-rhines-sober-october-a-personal-mental-review/source-yt.en-orig.vtt (pass -k to keep)
