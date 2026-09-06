@@ -1,0 +1,10 @@
+Description source: YouTube primary per archive rules; About spaced from RSS <p> (YT plain-text narrative matches; RSS has empty <br> paras omitted)
+YouTube chars: 1180
+RSS HTML chars: 1233
+Title source: YouTube / exact_public_title (YT≠RSS — RSS drops "The JYLP "; YT: "The JYLP 0105 w Tutor…")
+Title: The JYLP 0105 w Tutor and Educational Consultant Matt McGee - How To Stand Out In College Admissions
+Chapters source: none published (inventory has_timestamps=no; no YT chapters)
+Guest links: mrmeducation.com, Instagram @mattmcgee_edconsulting, @mrmeducation (inline in published notes; inventory has_guest_links=no but contact info published)
+Quotes: none published (inventory has_quotes=no)
+About: Jacob published description verbatim as spaced paras; Hit-subscribe / see-ya / - Jacob outro omitted
+Guest name spelling: Matt McGee (matches YouTube/RSS/inventory)

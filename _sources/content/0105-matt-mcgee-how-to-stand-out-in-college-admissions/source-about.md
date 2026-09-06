@@ -1,0 +1,5 @@
+Matt McGee is an educational expert, tutor, and college admissions specialist. He is the founder of MRM Education - An elite tutoring and college admissions consultancy that aims to fosters academic curiosity, mental health, and confidence in students' - with the ultimate goal of admission into a top university. Matt is a member of the National Association for College Admission Counseling and has over a decade of experience as a tutor. His intensive mentorship method helps students raise their grades and gain admission to Ivy Plus schools.
+
+Matt and I talk about neurodiverse students, how technology impacts college admissions, some students he's helped get into great colleges, how he became a tutor, best practices for standing out to admissions, choosing the right college, building a business, how he got where he is today, and a lot more. For more on Matt, checkout his site mrmeducation.com, or on Instagram @mattmcgee_edconsulting and @mrmeducation.
+
+Episode 0105 - College Admissions Anxiety, Neurodivergent Paths, And Using Your Voice
