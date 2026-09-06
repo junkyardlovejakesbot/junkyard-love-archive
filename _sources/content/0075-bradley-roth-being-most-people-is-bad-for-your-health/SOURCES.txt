@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (bio + In this episode + For more on Bradley links + Books mentioned + Follow/CTA). Quotes block split out of description into published Quotes. Guest website/Instagram/podcast kept inline in About and also under Guest links (inventory has_guest_links=yes).
+YouTube chars: 1706
+RSS HTML chars: 1706
+Title source: YouTube / exact_public_title (iggD2NbxHXQ). YT≠RSS — RSS omits “The JYLP” prefix; otherwise same guest/topic title.
+Title: The JYLP Episode 075 with Bradley Roth - Being Most People Is Bad For Your Health
+RSS title: Episode 075 with Bradley Roth - Being Most People Is Bad For Your Health
+Chapters source: none published in episode notes (inventory has_timestamps=no); YT info.json has titled chapters (Intro / Meet Bradley Roth / The Mastermind / Tony Robbins Event / Awareness / Meditation / Walks / Crossfit / Stretching / Ignorance is bliss / Moving away from pain / Whats your end goal / Have a direct plan) — used only to seed Archive picks, not as published Chapters
+Guest links: published http://bradleyroth.com + Instagram @bradley_roth + Not Most People Podcast (inventory has_guest_links=yes); also remain inline in About
+Quotes: published (2 Bradley fire quotes in description); inventory has_quotes=yes
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube (quotes section moved to Quotes); YT≈RSS body
+Guest name spelling: Bradley Roth; guest slug bradley-roth; roles Entrepreneur / Personal Development Teacher / Relationship Coach / Not Most People Podcast host
+Duration: RSS itunes:duration 5620s (1:33:40); YT info.json duration 5623s — using RSS/inventory 5620
+Publish date: RSS pubDate 2021-08-13 (YT upload_date 20210814) — using RSS/inventory 2021-08-13
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About/quotes/links; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).

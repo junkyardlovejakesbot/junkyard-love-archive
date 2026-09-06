@@ -54,6 +54,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0078 Jerry Fu — Be Free From The Fear Of Conflict](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0078-jerry-fu-be-free-from-the-fear-of-conflict/) — 2021-10-13
 - [0077 Devin Mullins — A Friendly Conversation About Weed](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0077-devin-mullins-a-friendly-conversation-about-weed/) — 2021-09-30
 - [0076 Heather Hutchison — Seeing More Clearly](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0076-heather-hutchison-seeing-more-clearly/) — 2021-09-10
+- [0075 Bradley Roth — Being Most People Is Bad For Your Health](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0075-bradley-roth-being-most-people-is-bad-for-your-health/) — 2021-08-13
 
 ## Guests
 - [Anne Riley](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/anne-riley/)
@@ -156,3 +157,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0078-jerry-fu-be-free-from-the-fear-of-conflict/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0078-jerry-fu-be-free-from-the-fear-of-conflict/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0077-devin-mullins-a-friendly-conversation-about-weed/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0077-devin-mullins-a-friendly-conversation-about-weed/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0076-heather-hutchison-seeing-more-clearly/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0076-heather-hutchison-seeing-more-clearly/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0075-bradley-roth-being-most-people-is-bad-for-your-health/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0075-bradley-roth-being-most-people-is-bad-for-your-health/episode.md)

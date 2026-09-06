@@ -1,0 +1,3 @@
+- Website — bradleyroth.com: http://bradleyroth.com
+- Instagram — @bradley_roth: https://www.instagram.com/bradley_roth/
+- Podcast — Not Most People Podcast: http://bradleyroth.com

@@ -1,0 +1,2 @@
+- "My highest value in life is freedom - time freedom, thought freedom, location freedom, financial freedom, etc." — Bradley Roth
+- "Most people are not very happy, healthy, or wealthy – so why would you want to live, think, and be like most people?" — Bradley Roth
