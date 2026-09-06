@@ -5,3 +5,4 @@ Title source: YouTube
 Title: The Junkyard Love Podcast Episode 0116 w Curtis L. Harnagel - Same Room, Different Angles
 Chapters source: none published (YT/RSS)
 Guest links: from published YouTube Resources / Links (+ playlist line)
+Archive picks: added (timestamped quotes, chapter-style beats, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About/links; kept separate from Jacob published About/Chapters/Quotes/Hashtags (published notes already have polished quotes without timestamps — left Quotes block unchanged; Chapters/Hashtags '(none published…)' left unchanged). See source-archive-picks.md.
