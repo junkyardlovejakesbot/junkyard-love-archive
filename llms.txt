@@ -108,6 +108,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0023 Spencer Hicks](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0023-spencer-hicks/) — 2020-02-02
 - [0022 Taya Sanders of Clover+Tribe](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0022-taya-sanders/) — 2020-01-27
 - [0021 "rosetan" the band](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0021-rosetan-the-band/) — 2020-01-17
+- [0020 Megan Elam](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0020-megan-elam/) — 2020-01-10
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -159,6 +160,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Matt McGee](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/matt-mcgee/)
 - [Matt Young](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/matt-young/)
 - [Maxx V. Payne](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/maxx-v-payne/)
+- [Megan Elam](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/megan-elam/)
 - [Megan Hawkins](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/megan-hawkins/)
 - [Megan Robinson](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/megan-robinson/)
 - [Mika Woodruff](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/mika-woodruff/)
@@ -305,3 +307,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0023-spencer-hicks/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0023-spencer-hicks/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0022-taya-sanders/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0022-taya-sanders/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0021-rosetan-the-band/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0021-rosetan-the-band/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0020-megan-elam/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0020-megan-elam/episode.md)

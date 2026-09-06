@@ -1,0 +1,9 @@
+Episode 0020: Episode 020 with Megan Elam
+Guest: Megan Elam
+Date: 2020-01-10
+YouTube: https://www.youtube.com/watch?v=oUcyl3f3L4Y
+RSS: https://share.transistor.fm/s/cb0cec30
+Title conflict: YT=RSS
+Guest slug: megan-elam (NEW; distinct from megan-hawkins / megan-robinson)
+About: YT~RSS identical body; YT footer stripped; no guest contact/email
+Transcript: YouTube auto-captions (en/en-orig); YT duration 4421s vs RSS 7492s (YT truncated)

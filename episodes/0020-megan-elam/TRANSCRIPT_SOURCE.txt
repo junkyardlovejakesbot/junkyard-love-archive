@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en/en-orig (captions.en.vtt / captions.en.json3; also archived as source-yt.en*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=oUcyl3f3L4Y
+Turns: 223
+Word count: 14836
+Speaker map: pause-gap segmentation + sticky Jacob/Megan content scoring (named speaker labels not present in captions; auto diarization imperfect); host bumper forced to Jacob where clear
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light ASR name tidy (Megan Elam; Family House Academy; Starbucks; Spartan Race; Ghana; Portland State University; OHSU; Kelso; Castle Rock; Lisa; Junkyard Love; Jacob Rhines; Whole30); bumper/outro forced to Jacob where clear; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Megan Elam (YT/RSS titles / inventory); captions sometimes hear Meaghan / Megalodon nickname — normalized lightly to Megan / Megalodon; slug megan-elam (NEW; not megan-hawkins / megan-robinson).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips. YT duration 4421s (~1:13:41) vs RSS/inventory 7492s (~2:04:52) — YouTube upload appears truncated; transcript covers YT portion only; About Whole30/diet topics are beyond YT captions. Archive meta uses RSS duration. No published chapter timestamps; no YT chapters. Title YT=RSS. About YT~RSS identical body (YT footer stripped). Inventory has_quotes=no / has_timestamps=no / has_hashtags=no / has_guest_links=no. Archive picks fills timestamped quotes/chapters/keywords/hashtags/bio. Guest page: megan-elam (NEW).
+Speaker balance: Jacob 107 turns/5857 words; Megan 116 turns/8979 words.
+Heuristic speaker fixes: 3; post-splits: 1 (split Jacob intro / Megan bio)

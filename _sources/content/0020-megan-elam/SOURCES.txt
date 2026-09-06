@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from RSS plain (identical to YT after footer strip). Soft mid-sentence newlines joined. No guest contact/email.
+YouTube chars: 1747
+RSS HTML chars: 1631
+Title source: YT=RSS exact match (oUcyl3f3L4Y). H1/slug use Episode 020 with Megan Elam. YT=RSS.
+Title: Episode 020 with Megan Elam
+RSS title: Episode 020 with Megan Elam
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YT chapters
+Guest links: none published (inventory has_guest_links=no)
+Quotes: inventory has_quotes=no — no Quotes list (0 list quotes)
+Hashtags: none published as a block (inventory has_hashtags=no); About keeps inline '(hashtags finishers)'
+About: Jacob published description verbatim as spaced paras from RSS (YT~RSS)
+Guest name spelling: Megan Elam; guest slug megan-elam (NEW; distinct from megan-hawkins / megan-robinson)
+Duration: RSS itunes:duration 7492s (2:04:52); YT info.json duration 4421s — using RSS/inventory 7492; note YT video truncated vs full audio
+Publish date: RSS/inventory 2020-01-10 (YT upload_date 20200111)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).
