@@ -1,0 +1,10 @@
+Source: YouTube automatic captions en (captions.en.vtt / captions.en.json3); en-orig identical auto track; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=zlQCXoUdWNk
+Turns: 326
+Word count: 33881
+Speaker map: pause-gap segmentation + sticky content scoring assigned to Jacob/Megan; solo intro before @11:03 forced to Jacob; forced turn breaks at skip/welcome timestamps
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light name/term fixes (BetterU); bumper outro after goodbye dropped
+No sentence rewriting.
+Guest name spelling: Megan Hawkins (matches YouTube/RSS).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en) used; no official/manual track. YT≠RSS title. Published skip chapter @11:03. Manual speaker fixes/splits applied: 0. Clip BpleEXjPCNk not used.

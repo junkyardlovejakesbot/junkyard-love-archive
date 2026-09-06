@@ -1,0 +1,3 @@
+- BetterU website → https://www.betterucare.com/
+- Instagram @betterucare → https://www.instagram.com/betterucare
+- BetterU / Ketamine Therapy YouTube → https://youtube.com/@ketaminetherapy

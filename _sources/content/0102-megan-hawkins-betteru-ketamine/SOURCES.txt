@@ -1,0 +1,11 @@
+Description source: RSS preferred (longer/complete); YouTube primary checked — YT plain narrative matches RSS body but omits Notable Quotes block and truncates earlier; RSS feed itself truncates final quote with ellipsis (published as-is)
+YouTube chars: 4917
+RSS HTML chars: 7876
+Title source: YouTube / exact_public_title / youtube-uploads.tsv (zlQCXoUdWNk). YT≠RSS — RSS inserts "At Home" before "Ketamine Therapy…". Do NOT use clip BpleEXjPCNk.
+Title: 0102 with Megan Hawkins From 'BetterU' Psychedelic Therapy - Ketamine To Heal Anxiety And Depression
+RSS title: 0102 with Megan Hawkins From 'BetterU' Psychedelic Therapy - At Home Ketamine Therapy To Heal Anxiety And Depression
+Chapters source: published skip marker only — To skip solo intro: @11:03 (inventory has_timestamps=yes; no full chapter list / no YT chapters)
+Guest links: betterucare.com, Instagram @betterucare, youtube.com/@ketaminetherapy (from published notes; inventory has_guest_links=yes)
+Quotes: from RSS "Some notable quotes from the episode" (final quote truncated in published Transistor feed with …)
+About: Jacob published description verbatim as spaced paras from RSS <p>/<br>; skip-intro line retained; link URLs normalized to https for list
+Guest name spelling: Megan Hawkins (matches YouTube/RSS/inventory)

@@ -27,6 +27,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0105 Matt McGee — How To Stand Out In College Admissions](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0105-matt-mcgee-how-to-stand-out-in-college-admissions/) — 2024-08-15
 - [0104 Julie Hoyle — Awakening From The Lucid Dream](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0104-julie-hoyle-awakening-from-the-lucid-dream/) — 2024-04-06
 - [0103 Landon 'Dirtyzen' Smith — Breaking Into The Abyss](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0103-landon-dirtyzen-smith-breaking-into-the-abyss/) — 2023-12-19
+- [0102 Megan Hawkins — BetterU / Ketamine To Heal Anxiety And Depression](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0102-megan-hawkins-betteru-ketamine/) — 2023-09-11
 
 ## Guests
 - [Anne Riley](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/anne-riley/)
@@ -42,6 +43,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Landon 'Dirtyzen' Smith](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/landon-dirtyzen-smith/)
 - [Marty Strong](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/marty-strong/)
 - [Matt McGee](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/matt-mcgee/)
+- [Megan Hawkins](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/megan-hawkins/)
 - [Meredith Bennett](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/meredith-bennett/)
 - [Nate Begle](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/nate-begle/)
 - [Nate Tanzman](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/nate-tanzman/)
@@ -81,3 +83,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0105-matt-mcgee-how-to-stand-out-in-college-admissions/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0105-matt-mcgee-how-to-stand-out-in-college-admissions/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0104-julie-hoyle-awakening-from-the-lucid-dream/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0104-julie-hoyle-awakening-from-the-lucid-dream/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0103-landon-dirtyzen-smith-breaking-into-the-abyss/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0103-landon-dirtyzen-smith-breaking-into-the-abyss/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0102-megan-hawkins-betteru-ketamine/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0102-megan-hawkins-betteru-ketamine/episode.md)

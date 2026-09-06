@@ -1,0 +1,13 @@
+"We tend to focus on the big things that we're coming to this treatment for. 'I'm severely depressed, I have crippling anxiety, how do I get rid of these huge things?'. We want that magic pill to fix us and heal us. We want it to go away. But the way that this really works, is it starts off slow. It's the little things that start trickling in, they start compounding into the bigger things. Psychedelics, they tend to give us what we need, not necessarily what we want. A lot of the times we have to go through the things that we need in order to get to the things we want."
+
+"I think that in life it's about 10 percent of what happens to you and 90 percent how you react or respond to things. Things are just going to happen. You could not have prepared for it, there's absolutely nothing you could've done to avoid it or change it. That's the way of the world. The world, it's got a mind of it's own, it's going to keep on spinning, so why get out and push?"
+
+"You worked so hard to have this armor, to put on this mask, that protects you from any external threat. Not knowing that sometimes the biggest threat is inside our armor, it's inside our minds."
+
+"It's not only just the physical set and setting that you're in, it's the MIND-set you're in going into it. If you're going into this feeling closed off, just like with any experience in life, the expectations or pre-conceived notions you go into any kind of experience with is more likely than not going to be the outcome." - "Yeah, you'll find ways to make that true."
+
+"I lost my professional purpose, then romantic, then my last sense of freedom since when I had initially moved away from home. So at that point, that's where I hit my real rock bottom."
+
+"Over the past 9 years I've been learning every step of the way. I'm never gonna not be learning, mental health is a journey not a destination. A lot of us don't tend to remember as often, we're like "I just wanna get here, then I'll be good!" but, it's like no, no, no - we're fluid creatures, we're constantly changing and evolving, always trying to be a better version of who we were yesterday. It's reminding people that it's so easy to be so hard on ourselves. "Why can't I just GET it together?" "Why can't I just be this?" "Why am I always doing this to myself?" - it's important to remember that the only way out, is through. You have to be patient with yourself, you have to give yourself grace. It is okay to not be okay."
+
+"I'm working with patients, I'm talking with them, when they are that rock bottom place in themself when they're first coming to this treatment for whatever the reason is, whatever they've gone through, whatever pain or trauma...
