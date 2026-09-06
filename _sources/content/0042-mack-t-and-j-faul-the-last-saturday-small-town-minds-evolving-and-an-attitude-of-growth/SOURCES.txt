@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (~RSS). YT footer stripped.
+YouTube chars: 2133
+RSS HTML chars: 2000
+Title source: RSS preferred for H1 because YouTube title truncated with ellipsis (lVpWxPnEp1E). YT≠RSS.
+YT title: Episode 042 with Mack T and J Faul - The Last Saturday: Small Town Minds Evolving and An Attitude...
+RSS title / H1: Episode 042 with Mack T and J Faul - The Last Saturday: Small Town Minds Evolving and An Attitude of Growth
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YT chapters
+Guest links: none as dedicated links (inventory has_guest_links=no) — TheSipco / solo episodes mentioned inline in About only; no personal email
+Quotes: no dedicated Quotes list block (inventory has_quotes=yes likely from inline phrase quotes in About kept verbatim)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as 3 spaced paras from YouTube (single newlines between logical paras)
+Guest name spelling: Mack T / J Faul; separate guest pages mack-t (NEW) + j-faul (NEW)
+Duration: RSS itunes:duration 8990s (2:29:50); YT info.json duration 9020s — using RSS/inventory 8990
+Publish date: RSS/inventory 2020-05-19 (YT upload_date 20200520)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bios) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).

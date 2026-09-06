@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en/en-orig (captions.en.vtt / captions.en.json3; also archived as source-yt.en*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=lVpWxPnEp1E
+Turns: 418
+Word count: 29564
+Speaker map: pause-gap segmentation + sticky Jacob/Mack/J content scoring (named speaker labels not present in captions; dual-guest auto diarization imperfect)
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light ASR name tidy (Mack T, J Faul, Mackenzie, Kalama bridge from 'claim a breeze', Rupert Sheldrake, TheSipco, Junkyard Love); bumper/outro forced to Jacob where clear; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Mack T (Mackenzie Thornquist) / J Faul (Jessica Faul); slugs mack-t + j-faul (both NEW).
+Note: automatic diarization is imperfect especially between Mack and J (overlapping storytelling / backchannels); remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips. YT duration 9020s vs RSS/inventory 8990s (archive meta uses RSS duration). No published chapter timestamps. Title YT≠RSS (YT title ends with ellipsis; H1/slug use full RSS title). About YT~RSS (YT primary; footer stripped; 3 spaced paras). Inventory has_quotes=yes (inline phrase quotes only; no Quotes list block) / has_timestamps=no / has_hashtags=no / has_guest_links=no. Archive picks fills timestamped quotes/chapters/keywords/hashtags/bios. Guest pages: mack-t (NEW) + j-faul (NEW).
+Speaker balance: Jacob 192 turns/11433 words; Mack 171 turns/14567 words; J 55 turns/3564 words.
+Heuristic speaker fixes: 8; post-splits: 3 (split Jacob ask / J intro; split Jacob ask / Mack intro; split Jacob ask / Mack bridge)

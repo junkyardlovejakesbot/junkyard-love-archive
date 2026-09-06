@@ -84,6 +84,7 @@ Plain static site. No domain configured yet — open `site/index.html` locally, 
 - **0045** Solo with Jacob Rhines — How To Take Care Of Yourself A Bit — `site/episodes/0045-solo-jacob-rhines-how-to-take-care-of-yourself-a-bit/`
 - **0044** Spencer Hicks — Operating Optimally Should Be Your Goal — `site/episodes/0044-spencer-hicks-operating-optimally-should-be-your-goal/`
 - **0043** Joseph Crumb — Redefining your life and - wait why are you taking me seriously? — `site/episodes/0043-joseph-crumb-redefining-your-life-and-wait-why-are-you-taking-me-seriously/`
+- **0042** Mack T & J Faul — The Last Saturday: Small Town Minds Evolving and An Attitude of Growth — `site/episodes/0042-mack-t-and-j-faul-the-last-saturday-small-town-minds-evolving-and-an-attitude-of-growth/`
 - **0100** JacobFromTheInternet (solo) — `site/episodes/0100-jacobfromtheinternet-mystical-experience/`
 
 ## Preview

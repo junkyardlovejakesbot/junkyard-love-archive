@@ -87,6 +87,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0045 Solo with Jacob Rhines — How To Take Care Of Yourself A Bit](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0045-solo-jacob-rhines-how-to-take-care-of-yourself-a-bit/) — 2020-06-18
 - [0044 Spencer Hicks — Operating Optimally Should Be Your Goal](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0044-spencer-hicks-operating-optimally-should-be-your-goal/) — 2020-06-10
 - [0043 Joseph Crumb — Redefining your life and - wait why are you taking me seriously?](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0043-joseph-crumb-redefining-your-life-and-wait-why-are-you-taking-me-seriously/) — 2020-05-29
+- [0042 Mack T & J Faul — The Last Saturday: Small Town Minds Evolving and An Attitude of Growth](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0042-mack-t-and-j-faul-the-last-saturday-small-town-minds-evolving-and-an-attitude-of-growth/) — 2020-05-19
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -114,6 +115,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Ian](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/ian-camp-reeducation/)
 - [JACE Saltzman](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/jace-saltzman/)
 - [Jasmine Heagy](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/jasmine-heagy/)
+- [J Faul](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/j-faul/)
 - [Jeremy Sherman](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/jeremy-sherman/)
 - [Jerry Fu](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/jerry-fu/)
 - [John Lee](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/john-lee/)
@@ -126,6 +128,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Kevin Foreman](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/kevin-foreman/)
 - [Landon 'Dirtyzen' Smith](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/landon-dirtyzen-smith/)
 - [Lynn Cherry](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/lynn-cherry/)
+- [Mack T](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/mack-t/)
 - [Marty Strong](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/marty-strong/)
 - [Matt McGee](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/matt-mcgee/)
 - [Matt Young](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/matt-young/)
@@ -247,3 +250,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0045-solo-jacob-rhines-how-to-take-care-of-yourself-a-bit/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0045-solo-jacob-rhines-how-to-take-care-of-yourself-a-bit/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0044-spencer-hicks-operating-optimally-should-be-your-goal/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0044-spencer-hicks-operating-optimally-should-be-your-goal/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0043-joseph-crumb-redefining-your-life-and-wait-why-are-you-taking-me-seriously/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0043-joseph-crumb-redefining-your-life-and-wait-why-are-you-taking-me-seriously/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0042-mack-t-and-j-faul-the-last-saturday-small-town-minds-evolving-and-an-attitude-of-growth/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0042-mack-t-and-j-faul-the-last-saturday-small-town-minds-evolving-and-an-attitude-of-growth/episode.md)
