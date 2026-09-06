@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (bio + memoir blurb + For more on Heather links). Memoir book quote stays in About (inventory has_quotes=yes from that embedded blurb — not split into Quotes). Guest links kept inline in About and also under Guest links (inventory has_guest_links=yes).
+YouTube chars: 1660
+RSS HTML chars: 1664
+Title source: YouTube / exact_public_title (hSJOOH1IkP0). YT≠RSS — RSS omits “The JYLP” prefix; otherwise same guest/role/topic title.
+Title: The JYLP Episode 076 with Singer/Songwriter & Blind Author Heather Hutchison - Seeing More Clearly
+RSS title: Episode 076 with Singer/Songwriter & Blind Author Heather Hutchison - Seeing More Clearly
+Chapters source: none published in episode notes (inventory has_timestamps=no); YT info.json has titled chapters (Anxiety Attacks / Meditation / The State of Mental Health / How Do You Hold On through the Dark Moments / Physical Activity) — used only to seed Archive picks, not as published Chapters
+Guest links: published https://books.heather-hutchison.com/ + Spotify artist + YouTube HHutchisonMusic + Instagram heatherhutchisonmusic + Amazon ebook (inventory has_guest_links=yes); also remain inline in About
+Quotes: none published as a Quotes block; inventory has_quotes=yes from memoir blurb in About — treated as About
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube; YT≈RSS body
+Guest name spelling: Heather Hutchison; guest slug heather-hutchison; role Singer/Songwriter & Blind Author
+Duration: RSS itunes:duration 3564s (59:24); YT info.json duration 3570s — using RSS/inventory 3564
+Publish date: RSS pubDate 2021-09-10 (YT upload_date 20210910) — using RSS/inventory 2021-09-10
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About/links; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* this run (auto only; en identical to en-orig).

@@ -1,0 +1,5 @@
+- Website — books.heather-hutchison.com: https://books.heather-hutchison.com/
+- Spotify — Heather Hutchison: https://open.spotify.com/artist/07t3LapcWFZmhrUN5FJ15n?si=yC-WPZbPSHmzXqtOTIp8lA&dl_branch=1
+- YouTube — HHutchisonMusic: https://www.youtube.com/user/HHutchisonMusic
+- Instagram — @heatherhutchisonmusic: https://www.instagram.com/heatherhutchisonmusic/
+- Amazon — Holding On by Letting Go: https://www.amazon.com/Holding-Letting-Go-Heather-Hutchison-ebook/dp/B094674YMR

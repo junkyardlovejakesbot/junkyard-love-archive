@@ -53,6 +53,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0079 Lynn Cherry — Here, Use My Paddle!](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0079-lynn-cherry-here-use-my-paddle/) — 2021-11-03
 - [0078 Jerry Fu — Be Free From The Fear Of Conflict](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0078-jerry-fu-be-free-from-the-fear-of-conflict/) — 2021-10-13
 - [0077 Devin Mullins — A Friendly Conversation About Weed](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0077-devin-mullins-a-friendly-conversation-about-weed/) — 2021-09-30
+- [0076 Heather Hutchison — Seeing More Clearly](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0076-heather-hutchison-seeing-more-clearly/) — 2021-09-10
 
 ## Guests
 - [Anne Riley](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/anne-riley/)
@@ -68,6 +69,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Daniel T. Matalon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/daniel-t-matalon/)
 - [David Crayk](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/david-crayk/)
 - [David Hulse](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/david-hulse/)
+- [Heather Hutchison](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/heather-hutchison/)
 - [Jeremy Sherman](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/jeremy-sherman/)
 - [Jerry Fu](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/jerry-fu/)
 - [John Lee](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/john-lee/)
@@ -153,3 +155,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0079-lynn-cherry-here-use-my-paddle/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0079-lynn-cherry-here-use-my-paddle/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0078-jerry-fu-be-free-from-the-fear-of-conflict/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0078-jerry-fu-be-free-from-the-fear-of-conflict/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0077-devin-mullins-a-friendly-conversation-about-weed/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0077-devin-mullins-a-friendly-conversation-about-weed/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0076-heather-hutchison-seeing-more-clearly/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0076-heather-hutchison-seeing-more-clearly/episode.md)
