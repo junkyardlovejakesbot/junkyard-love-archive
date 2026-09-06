@@ -1,0 +1,11 @@
+Source: YouTube automatic captions en-orig (captions.en-orig.vtt / captions.en-orig.json3); en track identical auto; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=opdlpGA7QIs
+Turns: 87
+Word count: 11749
+Speaker map: pause-gap segmentation (~1.8–2.4s; median caption gap ~2.08s) + marker-based Jacob/Sandy flip splits + sticky content scoring (named speaker labels not present in auto captions); bumper before ~0:18 forced to Jacob; guest spirituality/ego/bio narratives forced Sandy; closing CTA/bumper forced Jacob where matched
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments (cap ~180 words); HTML entities/nbsp unescaped; capitalized turn starts after merge; light name/term fixes (Sandy Vo; sandyvo.com; Einstein; Ram Dass; Alan Watts; Junkyard Love); dropped [Music]/foreign/trailing you cue noise
+No sentence rewriting.
+Guest name spelling: Sandy Vo (matches YouTube/RSS/inventory); guest slug sandy-vo.
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en-orig) used; no official/manual track; no >> speaker flips. RSS itunes:duration 3694s; YT info.json duration 3729s — using RSS/inventory 3694. Published notes HAVE quotes + guest links; lack timestamps/hashtags (inventory has_timestamps=no, has_quotes=yes, has_hashtags=no, has_guest_links=yes). YT has auto/untitled chapters — used only to seed Archive picks chapters, not as published Chapters. Title YT=RSS (exact_public_title / no title_conflict). Publish date RSS 2021-12-27 (YT upload_date 20211227). About/Quotes/links kept from published notes; Archive picks fills chapters/keywords/hashtags/timestamped quotes/short bio gaps.
+Postfix diarization fixes: surgical+2 ops. Speaker balance: Jacob 18 turns/1452 words; Sandy 69 turns/10297 words.

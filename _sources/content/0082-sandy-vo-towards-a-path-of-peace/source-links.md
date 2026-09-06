@@ -1,0 +1,3 @@
+- Website — sandyvo.com: https://www.sandyvo.com/
+- Podcast — Prosperous: https://podcasts.apple.com/us/podcast/prosperous/id1321799656
+- Instagram — isandyvo: https://www.instagram.com/isandyvo/

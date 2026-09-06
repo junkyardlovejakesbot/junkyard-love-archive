@@ -1,0 +1,7 @@
+'Sandy encountered the path of meditation after living with crippling depression and anxiety for most of her teen years. Through practicing self-transformation methods, she learned how to self-heal mental, emotional, physical trauma, and break generational patterns. Today, Sandy speaks on stages, hosts live events, and facilitates experiences for people to remember their true nature.'
+
+Sandy Vo really shows up for this chat. Her wise responses to my abstract and lucid questioning are deeply felt and communicated with grace. In this conversation, we each share some of our journey with depression, spirituality, and awakening with one another, we speak about consciousness, we define spiritual awakening, we discuss technology and its effects on modern spiritual beliefs, we talk about the Self, ego and "I". We talk the connectedness of all beings, the emphasis on the body and meditation, burnout, core values, saying yes when you wanna say no, and tons more. This was a great conversation and I'm grateful for the opportunity to have such a platform for these sorts of discussions. If you enjoyed this convo with Sandy as much as I did, consider giving it a quick thumbs-up, rating, share or follow. See ya next episode, thanks for listening.
+
+For more on Sandy - check out her website https://www.sandyvo.com/
+subscribe to her podcast: https://podcasts.apple.com/us/podcast/prosperous/id1321799656
+follow her on Instagram: isandyvo

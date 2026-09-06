@@ -1,0 +1,8 @@
+- "We are spirits having a human experience" — Sandy
+- "You are here to learn and practice how to be human" — Sandy
+- "Pressure might work to create diamonds, but constant applied pressure on a human being is going to completely burn that human out." — Sandy
+- "When you don't know how to befriend the ego, or you don't know how to offer it the types of internal technologies that it needs in order to thrive, that's when the ego starts believing more information from the unconscious part of the mind, versus the conscious or superconscious part of the mind." — Sandy
+- "Don't judge yourself for judging, because that's what the mind does. Just be aware of it." — Sandy
+- "The greatest gift of life is to be present, to receive what is in front of you" — Sandy
+- "Most people that cross your boundaries don't know that they're actually crossing them." — Sandy
+- "A Spiritual Awakening is waking up to your spiritual nature" — Sandy

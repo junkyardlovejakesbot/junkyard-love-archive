@@ -47,6 +47,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0085 Cetvies Cetvies — Censoring and Trafficking Humans](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0085-cetvies-cetvies-censoring-and-trafficking-humans/) — 2022-04-11
 - [0084 Jeremy Sherman — The Trying Self](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0084-jeremy-sherman-the-trying-self/) — 2022-02-03
 - [0083 Solo — Making Sense Of My Depression & Anxiety pt. 1](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0083-making-sense-of-my-depression-and-anxiety-pt-1/) — 2022-01-14
+- [0082 Sandy Vo — Towards A Path Of Peace](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0082-sandy-vo-towards-a-path-of-peace/) — 2021-12-27
 
 ## Guests
 - [Anne Riley](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/anne-riley/)
@@ -79,6 +80,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Rebecca Wild](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/rebecca-wild/)
 - [Roman Merrell](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/roman-merrell/)
 - [Ravinder Taylor](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/ravinder-taylor/)
+- [Sandy Vo](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/sandy-vo/)
 - [Sean Blackwell](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/sean-blackwell/)
 - [Sigmar Berg](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/sigmar-berg/)
 - [Swami Nityananda](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/swami-nityananda/)
@@ -136,3 +138,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0085-cetvies-cetvies-censoring-and-trafficking-humans/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0085-cetvies-cetvies-censoring-and-trafficking-humans/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0084-jeremy-sherman-the-trying-self/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0084-jeremy-sherman-the-trying-self/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0083-making-sense-of-my-depression-and-anxiety-pt-1/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0083-making-sense-of-my-depression-and-anxiety-pt-1/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0082-sandy-vo-towards-a-path-of-peace/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0082-sandy-vo-towards-a-path-of-peace/episode.md)
