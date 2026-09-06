@@ -1,0 +1,5 @@
+- “Listening is the cornerstone of communication. Most people hear - you have to actually listen.”
+- “Kindness is not niceness. Kindness and goodness have one thing in common: benevolence.”
+- “Observation itself is a form of communication.”
+- “Every move is a signature... make it count.”
+- “Your emergency is not my emergency. Take a beat, be polite.”

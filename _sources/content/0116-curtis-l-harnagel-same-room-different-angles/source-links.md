@@ -1,0 +1,10 @@
+- Website: www.gesamtcurtiswerk.com
+- Instagram: @gesamtcurtiswerk
+- YouTube: GESAMTCURTISWERK
+- Bold Journey Interview - https://boldjourney.com/meet-curtis-l-harnagel/
+- Voyage Dallas Interview - https://voyagedallas.com/interview/conversations-with-curtis-l-harnagel/
+- Canvas Rebel Interview - https://canvasrebel.com/meet-curtis-l-harnagel/
+- DIFFA - 2025 theme trailer: https://www.youtube.com/watch?v=gugNT39gHjw
+- DIFFA website: https://www.diffadallas.org/hod
+- DIFFA Instagram: @diffadallastx
+- Checkout Curtis's official music playlist for Ep: 0116 Junkyard Love: https://open.spotify.com/playlist/06CsHwodO7jxWav75ieiX6?si=BI8KIR9qR5SbSsxODd3eeg&pi=lUYZBKGITUmCj

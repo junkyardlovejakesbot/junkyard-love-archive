@@ -1,0 +1,7 @@
+Description source: YouTube (primary per archive rules; matches RSS narrative; RSS used for paragraph spacing of same copy)
+YouTube chars: 3781
+RSS HTML chars: 4500
+Title source: YouTube
+Title: The Junkyard Love Podcast Episode 0116 w Curtis L. Harnagel - Same Room, Different Angles
+Chapters source: none published (YT/RSS)
+Guest links: from published YouTube Resources / Links (+ playlist line)

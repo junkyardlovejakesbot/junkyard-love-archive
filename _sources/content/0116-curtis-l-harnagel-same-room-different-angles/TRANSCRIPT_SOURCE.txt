@@ -1,0 +1,10 @@
+Source: YouTube automatic captions en (captions.en.vtt / captions.en.json3); no official/manual en-US track available
+Video: https://www.youtube.com/watch?v=9Wkx7i9CO2U
+Turns: 189
+Word count: 32371
+Speaker map: auto-caption >> diarization segments, assigned to Jacob/Curtis with sticky content scoring (named speaker labels not present in auto captions)
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; Harnagle→Harnagel; bumper/outro forced to Jacob where clear
+No sentence rewriting.
+Guest name spelling: Curtis L. Harnagel (matches YouTube/RSS).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: Auto diarization imperfect (>> + sticky scoring); some mid-turn blends / short backchannels may be swapped.; YT duration 9955s vs RSS 9956s (1s); using RSS.; No published chapter timestamps on YT or RSS.; YT title differs from RSS itunes title (YT used per archive rules).
