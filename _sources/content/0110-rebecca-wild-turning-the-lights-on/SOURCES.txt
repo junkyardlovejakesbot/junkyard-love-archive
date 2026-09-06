@@ -7,3 +7,4 @@ Chapters source: none published (YT/RSS; inventory has_timestamps=no)
 Guest links: from published YouTube notes (inventory has_guest_links=no but YT publishes book/site/IG/YT/Insight Timer/Linktree lines)
 Quotes: none published (inventory has_quotes=no)
 About: narrative + Guest Highlight + QUALIFICATIONS + bio + guest-link lines verbatim; subscribe/review/IG outro omitted (same class as subscribe outros)
+Archive picks: added (timestamped quotes, chapter-style beats, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About/links; kept separate from Jacob published About/Chapters/Quotes/Hashtags (published notes had none for chapters/quotes — left '(none published…)' unchanged; guest links stay as published). See source-archive-picks.md.
