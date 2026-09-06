@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (single bio/topics paragraph). Inventory has_guest_links=no — no structured Guest links. No guest email.
+YouTube chars: 860
+RSS HTML chars: 860
+Title source: YouTube / exact_public_title (fcw0JBIB8Is). YT≠RSS — RSS omits “The JYLP” prefix; otherwise same guest/topic title.
+Title: The JYLP Episode 066 with Tim Fraley - Writin' Songs, Lentin' Booze and Upgradin' Society
+RSS title: Episode 066 with Tim Fraley - Writin' Songs, Lentin' Booze and Upgradin' Society
+Chapters source: YouTube info.json chapters (4; untitled remapped to Intro/song) published as Chapters even though inventory has_timestamps=no; Archive picks also snap those + extra beats to transcript cue anchors
+Guest links: none as structured Guest links (inventory has_guest_links=no)
+Quotes: none published as attributed quote block (inventory has_quotes=no)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube; YT≈RSS body (YT primary)
+Guest name spelling: Tim Fraley; guest slug tim-fraley (ALREADY EXISTS — later episode Surrendering The Porsche kept; both episodes listed)
+Duration: RSS itunes:duration 6975s (1:56:15); YT info.json duration 6975s — using RSS/inventory 6975
+Publish date: RSS pubDate 2021-02-01 (YT upload_date 20210202) — using RSS/inventory 2021-02-01
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps from YT chapters + beats, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About/chapters; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).

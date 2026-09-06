@@ -60,6 +60,7 @@ Plain static site. No domain configured yet — open `site/index.html` locally, 
 - **0069** Crystal Nyman — Trimming Off What No Longer Serves You — `site/episodes/0069-crystal-nyman-trimming-off-what-no-longer-serves-you/`
 - **0068** Abrielle Dunn — Wait Why Are We LARPing — `site/episodes/0068-abrielle-dunn-the-sense-making-sickness-series-wait-why-are-we-larping/`
 - **0067** Intuitive Healer Jaycie Randall — A Path From The Past — `site/episodes/0067-jaycie-randall-a-path-from-the-past/`
+- **0066** Tim Fraley — Writin' Songs, Lentin' Booze and Upgradin' Society — `site/episodes/0066-tim-fraley-writin-songs-lentin-booze-and-upgradin-society/`
 - **0100** JacobFromTheInternet (solo) — `site/episodes/0100-jacobfromtheinternet-mystical-experience/`
 
 ## Preview

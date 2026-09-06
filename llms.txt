@@ -63,6 +63,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0069 Crystal Nyman — Trimming Off What No Longer Serves You](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0069-crystal-nyman-trimming-off-what-no-longer-serves-you/) — 2021-02-23
 - [0068 Abrielle Dunn — Wait Why Are We LARPing](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0068-abrielle-dunn-the-sense-making-sickness-series-wait-why-are-we-larping/) — 2021-02-12
 - [0067 Intuitive Healer Jaycie Randall — A Path From The Past](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0067-jaycie-randall-a-path-from-the-past/) — 2021-02-05
+- [0066 Tim Fraley — Writin' Songs, Lentin' Booze and Upgradin' Society](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0066-tim-fraley-writin-songs-lentin-booze-and-upgradin-society/) — 2021-02-01
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -180,3 +181,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0069-crystal-nyman-trimming-off-what-no-longer-serves-you/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0069-crystal-nyman-trimming-off-what-no-longer-serves-you/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0068-abrielle-dunn-the-sense-making-sickness-series-wait-why-are-we-larping/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0068-abrielle-dunn-the-sense-making-sickness-series-wait-why-are-we-larping/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0067-jaycie-randall-a-path-from-the-past/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0067-jaycie-randall-a-path-from-the-past/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0066-tim-fraley-writin-songs-lentin-booze-and-upgradin-society/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0066-tim-fraley-writin-songs-lentin-booze-and-upgradin-society/episode.md)

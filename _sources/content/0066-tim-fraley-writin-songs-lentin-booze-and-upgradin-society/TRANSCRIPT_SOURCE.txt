@@ -1,0 +1,13 @@
+Source: YouTube automatic captions en-orig (captions.en-orig.vtt / captions.en-orig.json3); en track identical auto; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=fcw0JBIB8Is
+Turns: 165
+Word count: 22806
+Speaker map: pause-gap segmentation (~1.8–2.5s) + marker-based Jacob/Tim flip splits + sticky content scoring (named speaker labels not present in auto captions); Jacob bumper/intro forced through ~1:28; Tim original-song performance forced ~1:28–8:08; guest Mercedes/autonomous/songwriting/alcohol narratives forced Tim; host questions/CTA/bumper forced Jacob where matched
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments (cap ~200 words); HTML entities/nbsp unescaped; capitalized turn starts after merge; light name/term fixes (Tim Fraley; Mercedes-Benz; Distronic; Bridgeport; Henry Weinhard's; Oregon City; Junkyard Love; jacobfromtheinternet; COVID); dropped [Music]/trailing you cue noise; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Tim Fraley; guest slug tim-fraley (already existed from later episode); role singer/songwriter, mechanic, dog father per published About.
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places. Song lyric section attributed to Tim.
+Issue: YouTube automatic captions (en-orig) freshly downloaded this run; no official/manual track; no >> speaker flips. RSS itunes:duration 6975s; YT info.json duration 6975s — using RSS/inventory 6975. Inventory has_timestamps=no but YT info.json has 4 chapters (1 untitled remapped to Intro/song + 3 titled) — published Chapters section uses those. Inventory has_quotes=no / has_hashtags=no / has_guest_links=no. Title YT≠RSS — H1 uses YouTube/exact_public_title (“The JYLP Episode 066 with…”); RSS omits “The JYLP” prefix. About YT≈RSS (YT primary). Publish date RSS 2021-02-01 (YT upload_date 20210202). Archive picks fills timestamped quotes/extra chapters/keywords/hashtags/bio. Guest page already listed later episode surrendering-the-porsche-tim-fraley — updated to list both (do not wipe).
+Postfix diarization fixes: 6 ops (close blends + first-song/age Q splits).
+Speaker balance: Jacob 46 turns/5409 words; Tim 119 turns/17397 words.
+
