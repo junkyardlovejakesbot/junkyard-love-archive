@@ -1,0 +1,9 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?v=BRKmGl5XGVA
+[youtube] BRKmGl5XGVA: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] BRKmGl5XGVA: Downloading visionos player API JSON
+[youtube] BRKmGl5XGVA: Downloading m3u8 information
+[info] BRKmGl5XGVA: Downloading 1 format(s): 271+251
+[info] Writing video description to: source-yt.description
+[info] There are no subtitles for the requested languages
+[info] Writing video metadata as JSON to: source-yt.info.json

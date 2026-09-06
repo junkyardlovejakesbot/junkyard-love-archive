@@ -1,0 +1,16 @@
+Description source: YT~RSS identical About body (YT footer stripped). Soft-split into spaced paras; inline quotes kept in About. No guest contact/email.
+YouTube chars: 3121
+RSS HTML chars: 2983
+Title source: YT=RSS exact match (BRKmGl5XGVA). H1/slug use Episode 025 with Jordenelle Tsugawa. YT=RSS.
+Title: Episode 025 with Jordenelle Tsugawa
+RSS title: Episode 025 with Jordenelle Tsugawa
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YT chapters
+Guest links: none published for 0025 (inventory has_guest_links=no); prior appearances keep Instagram handles on guest page
+Quotes: no dedicated Quotes list block (inventory has_quotes=yes from inline YOU ARE ENOUGH / ok-ego soundbite kept in About)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube (quotes section stripped to Quotes)
+Guest name spelling: Jordenelle Tsugawa; guest slug jordenelle-tsugawa (EXISTS — APPEND 0096); About also uses Jay
+Duration: RSS itunes:duration 8469s (2:21:09); YT info.json duration 8499s — using RSS/inventory 8469
+Publish date: RSS/inventory 2020-07-31 (YT upload_date 20200731)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: YouTube none — ASR via faster-whisper tiny/int8 → source-yt.en*.vtt/json3 (also mirrored as en-orig).

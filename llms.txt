@@ -103,6 +103,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0028 Yanis 'Kanideis' Pisarchuk](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0028-yanis-kanideis-pisarchuk/) — 2020-03-11
 - [0027 Mackenzie Thornquist](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0027-mackenzie-thornquist/) — 2020-03-02
 - [0026 Scott Pisapia of Roots Basketball Academy](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0026-scott-pisapia-of-roots-basketball-academy/) — 2020-02-24
+- [0025 Jordenelle Tsugawa](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0025-jordenelle-tsugawa/) — 2020-02-18
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -292,3 +293,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0028-yanis-kanideis-pisarchuk/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0028-yanis-kanideis-pisarchuk/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0027-mackenzie-thornquist/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0027-mackenzie-thornquist/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0026-scott-pisapia-of-roots-basketball-academy/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0026-scott-pisapia-of-roots-basketball-academy/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0025-jordenelle-tsugawa/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0025-jordenelle-tsugawa/episode.md)

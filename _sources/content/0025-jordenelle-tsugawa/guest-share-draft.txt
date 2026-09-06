@@ -1,0 +1,9 @@
+Episode 0025: Episode 025 with Jordenelle Tsugawa
+Guest: Jordenelle Tsugawa
+Date: 2020-02-18
+YouTube: https://www.youtube.com/watch?v=BRKmGl5XGVA
+RSS: https://share.transistor.fm/s/76e14b5a
+Title conflict: YT=RSS
+Guest slug: jordenelle-tsugawa (EXISTS — APPEND 0096+0050)
+About: YT~RSS identical body; YT footer stripped; no guest contact/email
+Transcript: YouTube has NO captions — faster-whisper ASR fallback

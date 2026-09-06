@@ -1,0 +1,7 @@
+title=Episode 025 with Jordenelle Tsugawa
+upload_date=20200218
+duration=8499
+video_id=BRKmGl5XGVA
+rss_title=Episode 025 with Jordenelle Tsugawa
+title_conflict=YT=RSS
+h1=Episode 025 with Jordenelle Tsugawa

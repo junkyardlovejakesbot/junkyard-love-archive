@@ -1,0 +1,12 @@
+Source: YouTube had NO captions/auto-captions for BRKmGl5XGVA — faster-whisper tiny/int8 ASR on downloaded audio, exported as captions.en.vtt / captions.en.json3 (also archived as source-yt.en* / en-orig*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=BRKmGl5XGVA
+Turns: 484
+Word count: 31364
+Speaker map: pause-gap segmentation + sticky Jacob/Jordenelle content scoring (named speaker labels not present in ASR; auto diarization imperfect); host bumper forced to Jacob when clear
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light ASR name tidy (Jordenelle; Tsugawa; Reiki; chakra(s); Murray Hidary; MindTravel; celestial gypsy witch; Jake Rhines); bumper/outro forced to Jacob where clear; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Jordenelle Tsugawa (YT/RSS titles / inventory); about also uses Jay; slug jordenelle-tsugawa (EXISTS from 0096 — APPEND).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube had NO captions/auto-captions for BRKmGl5XGVA; transcript from faster-whisper tiny/int8 ASR on downloaded audio (exported as source-yt.en*.vtt/json3). YT duration 8499s vs RSS/inventory 8469s (archive meta uses RSS duration). No published chapter timestamps; no YT chapters. Title YT=RSS. About YT~RSS identical body (footer stripped). Inventory has_quotes=yes (inline YOU ARE ENOUGH / ok-ego soundbite in About; no Quotes list) / has_timestamps=no / has_hashtags=no / has_guest_links=no. Archive picks fills timestamped quotes/chapters/keywords/hashtags/bio. Guest page: jordenelle-tsugawa (APPEND prior 0096+0050).
+Speaker balance: Jacob 260 turns/21414 words; Jordenelle 224 turns/9950 words.
+Heuristic speaker fixes: 30; post-splits: 0 ()
