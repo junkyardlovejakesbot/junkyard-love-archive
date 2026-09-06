@@ -1,0 +1,11 @@
+Source: YouTube automatic captions en-orig (captions.en-orig.vtt / captions.en-orig.json3); en track identical auto; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=gPfqqS6CC4k
+Turns: 99
+Word count: 18883
+Speaker map: pause-gap segmentation (~0.55s) + marker-based Jacob/Bobby flip splits + sticky content scoring (named speaker labels not present in auto captions); bumper before ~55s forced to Jacob; CEO/bio/open-mic forced Bobby; schedule/CTA/closing forced Jacob where matched
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments (cap ~200 words); HTML entities/nbsp unescaped; capitalized turn starts after merge; light name/term fixes (Big Bet Studios, BigBet, Bobby Barrz, They Ain't Ready, Feel Blessed, Junkyard Love, Linktree, XXL Freshman); dropped [Music] cue noise; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Bobby Barrz (matches YouTube/RSS/inventory); guest slug bobby-barrz; captions sometimes mishear Big Bet as “big bad” / “big best”.
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places. Guest is highly talkative; host share is smaller than typical even after fixes.
+Issue: YouTube automatic captions (en-orig) used; no official/manual track; no >> speaker flips. RSS itunes:duration 6521s; YT info.json duration ~6520s — using RSS/inventory 6521. No published chapter timestamps. YT≠RSS title: YT includes leading "The JYLP ep "; RSS is "095 with Rapper & CEO Bobby Barrz - The Only Real Game In Town Is Betting On Yourself". H1 uses YouTube title. Inventory has_guest_links=yes (Linktree). Inventory has_quotes=no / has_timestamps=no / has_hashtags=no — Archive picks fills gaps.
+Postfix diarization fixes: split “that’s dope though” host/guest blend; They Ain’t Ready / game-film / open-mic narratives forced Bobby; eggs-in-basket host metaphor split; schedule/closing protect Jacob.

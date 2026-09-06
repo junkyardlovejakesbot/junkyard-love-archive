@@ -34,11 +34,13 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0098 Swami Nityananda — Be Still, As The Universe Plays Through You](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0098-swami-nityananda-be-still-as-the-universe-plays-through-you/) — 2023-05-08
 - [0097 Kevin Foreman — Fighting For Sobriety](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0097-kevin-foreman-fighting-for-sobriety/) — 2023-03-08
 - [0096 Jordenelle Tsugawa — The Forever Umbilical Cord, And Grand-Mother Ayahuasca](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0096-jordenelle-tsugawa-the-forever-umbilical-cord-and-grand-mother-ayahuasca/) — 2023-02-09
+- [0095 Bobby Barrz — The Only Real Game In Town Is Betting On Yourself](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0095-bobby-barrz-the-only-real-game-in-town-is-betting-on-yourself/) — 2023-02-04
 
 ## Guests
 - [Anne Riley](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/anne-riley/)
 - [Barbara McAfee](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/barbara-mcafee/)
 - [Blake Hull](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/blake-hull/)
+- [Bobby Barrz](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/bobby-barrz/)
 - [Brent Spirit](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/brent-spirit/)
 - [Cameron 'Cam' Reid](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/cameron-reid/)
 - [Dr. Cristine Hull](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/cristine-hull/)
@@ -101,3 +103,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0098-swami-nityananda-be-still-as-the-universe-plays-through-you/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0098-swami-nityananda-be-still-as-the-universe-plays-through-you/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0097-kevin-foreman-fighting-for-sobriety/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0097-kevin-foreman-fighting-for-sobriety/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0096-jordenelle-tsugawa-the-forever-umbilical-cord-and-grand-mother-ayahuasca/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0096-jordenelle-tsugawa-the-forever-umbilical-cord-and-grand-mother-ayahuasca/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0095-bobby-barrz-the-only-real-game-in-town-is-betting-on-yourself/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0095-bobby-barrz-the-only-real-game-in-town-is-betting-on-yourself/episode.md)

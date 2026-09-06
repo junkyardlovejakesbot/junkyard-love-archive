@@ -1,0 +1,14 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (single-newline paras matching RSS; Linktree CTA kept in About verbatim and also listed under Guest links; Follow Jacob line kept as published)
+YouTube chars: 1715
+RSS HTML chars: 1719
+Title source: YouTube / exact_public_title (gPfqqS6CC4k). YT≠RSS — RSS omits leading "The JYLP ep ".
+Title: The JYLP ep 095 with Rapper & CEO Bobby Barrz - The Only Real Game In Town Is Betting On Yourself
+RSS title: 095 with Rapper & CEO Bobby Barrz - The Only Real Game In Town Is Betting On Yourself
+Chapters source: none published (inventory has_timestamps=no; no YT chapters)
+Guest links: published Linktree https://linktr.ee/bobbybarrz — inventory has_guest_links=yes
+Quotes: none published (inventory has_quotes=no)
+About: Jacob published description verbatim as spaced paras from YouTube
+Guest name spelling: Bobby Barrz (matches YouTube/RSS/inventory); guest slug bobby-barrz
+Duration: RSS itunes:duration 6521s (1:48:41); YT info.json duration 6520s — using RSS/inventory 6521
+Publish date: RSS pubDate 2023-02-04 (YT upload_date 20230205)
+Archive picks: added (quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published Linktree; kept separate from Jacob published About/Chapters/Quotes (those remain "(none published)" where empty).
