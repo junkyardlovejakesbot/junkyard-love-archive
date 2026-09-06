@@ -76,6 +76,7 @@ Plain static site. No domain configured yet — open `site/index.html` locally, 
 - **0053** Matt Young & Nate Tanzman — How To Build Confidence And Create Your Own Luck — `site/episodes/0053-matt-young-nate-tanzman-how-to-build-confidence-and-create-your-own-luck/`
 - **0052** Rikki Hall — Chest Pressure, Intrusive Thoughts, and Space Aliens — `site/episodes/0052-rikki-hall-chest-pressure-intrusive-thoughts-and-space-aliens/`
 - **0051** Ricky Navarrete — Hard Work and Heavy Weight — `site/episodes/0051-ricky-navarrete-hard-work-and-heavy-weight/`
+- **0050** Jordenelle Tsugawa — Healing The Soul With Hands and Self-Love — `site/episodes/0050-jordenelle-tsugawa-healing-the-soul-with-hands-and-self-love/`
 - **0100** JacobFromTheInternet (solo) — `site/episodes/0100-jacobfromtheinternet-mystical-experience/`
 
 ## Preview

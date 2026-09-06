@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en/en-orig (captions.en.vtt / captions.en.json3; also archived as source-yt.en*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=YdyeAXKtPD4
+Turns: 295
+Word count: 26156
+Speaker map: pause-gap segmentation + sticky Jacob/Jordenelle content scoring (named speaker labels not present in captions; auto diarization imperfect); long host 50-episode intro forced to Jacob before ~12:38
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light ASR name tidy (Jordenelle; Tsugawa; Reiki; chakra(s); Murray Hidary; MindTravel; celestial gypsy witch; Jake Rhines); bumper/outro forced to Jacob where clear; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Jordenelle Tsugawa (YT/RSS titles / inventory); about also uses Jay; slug jordenelle-tsugawa (EXISTS from 0096 — APPEND).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips. YT duration 7947s vs RSS/inventory 7917s (archive meta uses RSS duration). No published chapter timestamps. Title YT≠RSS — H1 uses exact truncated YT title (…S...); slug/RSS use complete Self-Love. About YT~RSS (YT primary; footer stripped; Notable Quotes split to Quotes). Inventory has_quotes=yes / has_timestamps=no / has_hashtags=no / has_guest_links=no (@celestial_gypsy_witch kept inline in About). Archive picks fills timestamped quotes/chapters/keywords/hashtags/bio. Guest page: jordenelle-tsugawa (APPEND prior 0096).
+Speaker balance: Jacob 159 turns/15640 words; Jordenelle 136 turns/10516 words.
+Heuristic speaker fixes: 6; post-splits: 0 ()

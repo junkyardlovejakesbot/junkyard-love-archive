@@ -79,6 +79,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0053 Matt Young & Nate Tanzman — How To Build Confidence And Create Your Own Luck](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0053-matt-young-nate-tanzman-how-to-build-confidence-and-create-your-own-luck/) — 2020-08-24
 - [0052 Rikki Hall — Chest Pressure, Intrusive Thoughts, and Space Aliens](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0052-rikki-hall-chest-pressure-intrusive-thoughts-and-space-aliens/) — 2020-08-17
 - [0051 Ricky Navarrete — Hard Work and Heavy Weight](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0051-ricky-navarrete-hard-work-and-heavy-weight/) — 2020-08-14
+- [0050 Jordenelle Tsugawa — Healing The Soul With Hands and Self-Love](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0050-jordenelle-tsugawa-healing-the-soul-with-hands-and-self-love/) — 2020-07-31
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -227,3 +228,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0053-matt-young-nate-tanzman-how-to-build-confidence-and-create-your-own-luck/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0053-matt-young-nate-tanzman-how-to-build-confidence-and-create-your-own-luck/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0052-rikki-hall-chest-pressure-intrusive-thoughts-and-space-aliens/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0052-rikki-hall-chest-pressure-intrusive-thoughts-and-space-aliens/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0051-ricky-navarrete-hard-work-and-heavy-weight/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0051-ricky-navarrete-hard-work-and-heavy-weight/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0050-jordenelle-tsugawa-healing-the-soul-with-hands-and-self-love/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0050-jordenelle-tsugawa-healing-the-soul-with-hands-and-self-love/episode.md)

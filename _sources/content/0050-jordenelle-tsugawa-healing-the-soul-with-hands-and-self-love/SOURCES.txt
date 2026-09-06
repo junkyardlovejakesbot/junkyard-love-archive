@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (~RSS). YT footer stripped; Notable Quotes moved to Quotes.
+YouTube chars: 3078
+RSS HTML chars: 2941
+Title source: YouTube / exact_public_title (YdyeAXKtPD4). YT≠RSS — RSS title ends “Self-Love”; archive H1 uses exact truncated YT title; slug prefers complete RSS Self-Love phrase.
+Title: Episode 050 with Starseed and Reiki Worker Jordenelle Tsugawa - Healing The Soul With Hands and S...
+RSS title: Episode 050 with Starseed and Reiki Worker Jordenelle Tsugawa - Healing The Soul With Hands and Self-Love
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YT chapters
+Guest links: none as structured Guest links (inventory has_guest_links=no); Instagram @celestial_gypsy_witch kept inline in About
+Quotes: 4 published quotes from YT/RSS Notable Quotes from the episode (inventory has_quotes=yes)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube (quotes section stripped to Quotes)
+Guest name spelling: Jordenelle Tsugawa; guest slug jordenelle-tsugawa (EXISTS — APPEND 0096); About also uses Jay
+Duration: RSS itunes:duration 7917s (2:11:57); YT info.json duration 7947s — using RSS/inventory 7917
+Publish date: RSS/inventory 2020-07-31 (YT upload_date 20200731)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).

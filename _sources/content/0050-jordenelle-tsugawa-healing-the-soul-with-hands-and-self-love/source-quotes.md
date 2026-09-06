@@ -1,0 +1,4 @@
+- "Reminding that person (yourself at a younger age) that you are loved, you are worthy."
+- "I deserve to be here. I want to be here. I love to be grounded. I am an artist. People enjoy my creations. My art matters. I am a good person. I allow my light to shine. I want to be here. I love having a physical vessel."
+- "just forgive it, don't hold it, it's so heavy."
+- "Do you even want everyone to be sexually attracted to you?"
