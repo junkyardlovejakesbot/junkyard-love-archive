@@ -1,0 +1,9 @@
+Episode 0024: Episode 024 with Maxx V. Payne
+Guest: Maxx V. Payne
+Date: 2020-02-10
+YouTube: https://www.youtube.com/watch?v=3qTZQeM8VZY
+RSS: https://share.transistor.fm/s/5aede685
+Title conflict: YT=RSS
+Guest slug: maxx-v-payne (NEW)
+About: YT~RSS identical body; YT footer stripped; no guest contact/email
+Transcript: YouTube auto-captions (en/en-orig)

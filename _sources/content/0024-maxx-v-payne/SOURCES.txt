@@ -1,0 +1,16 @@
+Description source: YT~RSS identical About body (YT footer stripped). Soft-split into spaced paras; inline 20% quote kept in About. No guest contact/email.
+YouTube chars: 2086
+RSS HTML chars: 1946
+Title source: YT=RSS exact match (3qTZQeM8VZY). H1/slug use Episode 024 with Maxx V. Payne. YT=RSS.
+Title: Episode 024 with Maxx V. Payne
+RSS title: Episode 024 with Maxx V. Payne
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YT chapters
+Guest links: none published for 0024 (inventory has_guest_links=no); @maxxvpayne kept only inside Jacob About
+Quotes: no dedicated Quotes list block (inventory has_quotes=yes from inline 20% quote kept in About)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube/RSS (quotes section stripped to Quotes)
+Guest name spelling: Maxx V. Payne; guest slug maxx-v-payne (NEW)
+Duration: RSS itunes:duration 6572s (1:49:32); YT info.json duration 6599s — using RSS/inventory 6572
+Publish date: RSS/inventory 2020-02-10 (YT upload_date 20200210)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: YouTube automatic captions en/en-orig (vtt + json3).

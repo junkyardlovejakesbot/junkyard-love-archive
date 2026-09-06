@@ -1,0 +1,12 @@
+Source: YouTube automatic captions (en + en-orig) for 3qTZQeM8VZY; no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=3qTZQeM8VZY
+Turns: 326
+Word count: 24078
+Speaker map: pause-gap segmentation + sticky Jacob/Maxx content scoring (named speaker labels not present in auto captions; auto diarization imperfect); host bumper forced to Jacob when clear
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light caption name tidy (Maxx V. Payne; Uncle Sugar; Coil and Payne; HAFLife Ent; The War of Art; Steven Pressfield; Jake Rhines); bumper/outro forced to Jacob where clear; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Maxx V. Payne (YT/RSS titles / inventory); captions often hear Max/pain/pay — normalized lightly; slug maxx-v-payne (NEW).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: none major. YT auto-captions present. YT duration 6599s vs RSS/inventory 6572s (archive meta uses RSS duration). No published chapter timestamps; no YT chapters. Title YT=RSS. About YT~RSS identical body (footer stripped). Inventory has_quotes=yes (inline 20% quote in About; no Quotes list) / has_timestamps=no / has_hashtags=no / has_guest_links=no. Archive picks fills timestamped quotes/chapters/keywords/hashtags/bio. Guest page: maxx-v-payne (NEW).
+Speaker balance: Jacob 169 turns/13301 words; Maxx 157 turns/10777 words.
+Heuristic speaker fixes: 1; post-splits: 0 ()

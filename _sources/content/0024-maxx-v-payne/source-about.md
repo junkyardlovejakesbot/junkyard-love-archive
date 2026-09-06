@@ -1,0 +1,10 @@
+Maxx is a rapper, comedian and creative artist I've been lucky enough to work with throughout my DJ career. He continuously brings his fans and the crowds plenty of laughter, irony and diverse language. An "all-in" type of performer and creator - it was my absolute pleasure to sit down with Maxx and allow me to pick his brain. The man gives us his musical background and who inspired him to begin rap/music for starters - and I learn about his church upbringing and how the rhymes of scripture led him to his love for being a storyteller. Being a kid who wanted something to write and rhyme about - Maxx gives me the details on his first alias - Uncle Sugar. We take a stroll around the wonderfully strange world of "artist alias'" and we stop by society's view and unknown need for the genius of comedians. We talk about learning and making your own lane with your skills and Maxx shares some heartfelt messages he's received from people who enjoy hearing him speak.
+
+We talk about creating an experience for the audience as opposed to simply showing up to perform a few lines, creating the extra work online AND in person - and keeping your head down to get the respect you've been working towards.
+
+He tells me about his teams' benefit shows and his workings with charity as well as a great background of the crew over at HAFLife Ent.
+
+"You have to focus on the 20% that shows you love" Maxx recalls as we chat about an older chunk of writing he read from me - 
+and he expands on his ability to hone in on the supporters and block out the undesirables by focusing on his 20.
+
+We even talk about changing and growing up in the age of Facebook and social media, we jot down some differences between ourselves and others, and even our parents and their parents before them. It's always a pleasure to hang with Maxx - checkout his music and visual stories @maxxvpayne and be on the lookout for laughs if you catch him near a comedy stage. Cheers!

@@ -101,6 +101,7 @@ Plain static site. No domain configured yet — open `site/index.html` locally, 
 - **0027** Mackenzie Thornquist — `site/episodes/0027-mackenzie-thornquist/`
 - **0026** Scott Pisapia of Roots Basketball Academy — `site/episodes/0026-scott-pisapia-of-roots-basketball-academy/`
 - **0025** Jordenelle Tsugawa — `site/episodes/0025-jordenelle-tsugawa/`
+- **0024** Maxx V. Payne — `site/episodes/0024-maxx-v-payne/`
 - **0100** JacobFromTheInternet (solo) — `site/episodes/0100-jacobfromtheinternet-mystical-experience/`
 
 ## Preview
