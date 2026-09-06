@@ -96,6 +96,7 @@ Plain static site. No domain configured yet — open `site/index.html` locally, 
 - **0033** Andy of Team Banzai — `site/episodes/0033-andy-of-team-banzai/`
 - **0032** Andre Gilbert & Roberto Gonzalez — The dreamers mindset, building a real foundation, enjoying the journey and committing to your vision — `site/episodes/0032-andre-gilbert-and-roberto-gonzalez-the-dreamers-mindset-building-a-real-foundation-enjoying-the-journey-and-committing-to-your-vision/`
 - **0031** Madi Allis of Vail Denim — `site/episodes/0031-madi-allis-of-vail-denim/`
+- **0030** Kelly St. Onge — Mathematics, Science, Quantum Physics and Unlocking The Universe With Knowledge — `site/episodes/0030-kelly-st-onge-mathematics-science-quantum-physics-and-unlocking-the-universe-with-knowledge/`
 - **0100** JacobFromTheInternet (solo) — `site/episodes/0100-jacobfromtheinternet-mystical-experience/`
 
 ## Preview

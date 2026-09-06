@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en/en-orig (captions.en.vtt / captions.en.json3; also archived as source-yt.en*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=kLTOTQmNXOk
+Turns: 484
+Word count: 16954
+Speaker map: pause-gap segmentation + sticky Jacob/Kelly content scoring (named speaker labels not present in captions; auto diarization imperfect); formal host bumper + recommendation present; host outro present
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light ASR name tidy (Kelly St. Onge; Judson Brewer; Tom Bilyeu; Schrödinger; Mandalorian; Kung Fu Panda; Archimedes; Eureka; Rick and Morty; Bassnectar; Junkyard Love); outro forced to Jacob where clear; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Kelly St. Onge (YT/RSS title; ASR Kelly st. Onge); slug kelly-st-onge (NEW).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips. YT duration 6179s vs RSS/inventory 6148s (archive meta uses RSS duration). No published chapter timestamps. Title YT≠RSS (YT truncated with ...; H1/slug use full RSS). About RSS primary (YT description is stub: Detailed description coming tomorrow). Inventory has_quotes=no / has_timestamps=no / has_hashtags=no / has_guest_links=no. Archive picks fills timestamped quotes/chapters/keywords/hashtags/bio. Guest page: kelly-st-onge (NEW).
+Speaker balance: Jacob 241 turns/8723 words; Kelly 243 turns/8231 words.
+Heuristic speaker fixes: 1; post-splits: 0 ()

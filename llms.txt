@@ -99,6 +99,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0033 Andy of Team Banzai](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0033-andy-of-team-banzai/) — 2020-03-31
 - [0032 Andre Gilbert & Roberto Gonzalez — The dreamers mindset, building a real foundation, enjoying the journey and committing to your vision](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0032-andre-gilbert-and-roberto-gonzalez-the-dreamers-mindset-building-a-real-foundation-enjoying-the-journey-and-committing-to-your-vision/) — 2020-03-28
 - [0031 Madi Allis of Vail Denim](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0031-madi-allis-of-vail-denim/) — 2020-03-22
+- [0030 Kelly St. Onge — Mathematics, Science, Quantum Physics and Unlocking The Universe With Knowledge](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0030-kelly-st-onge-mathematics-science-quantum-physics-and-unlocking-the-universe-with-knowledge/) — 2020-03-18
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -139,6 +140,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Josh Gebhardt](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/josh-gebhardt/)
 - [Juli Geske-Peer](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/juli-geske-peer/)
 - [Julie Hoyle](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/julie-hoyle/)
+- [Kelly St. Onge](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/kelly-st-onge/)
 - [Keenan 'Hurricane' Harvey](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/keenan-harvey/)
 - [Kevin Foreman](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/kevin-foreman/)
 - [Landon 'Dirtyzen' Smith](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/landon-dirtyzen-smith/)
@@ -281,3 +283,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0033-andy-of-team-banzai/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0033-andy-of-team-banzai/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0032-andre-gilbert-and-roberto-gonzalez-the-dreamers-mindset-building-a-real-foundation-enjoying-the-journey-and-committing-to-your-vision/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0032-andre-gilbert-and-roberto-gonzalez-the-dreamers-mindset-building-a-real-foundation-enjoying-the-journey-and-committing-to-your-vision/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0031-madi-allis-of-vail-denim/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0031-madi-allis-of-vail-denim/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0030-kelly-st-onge-mathematics-science-quantum-physics-and-unlocking-the-universe-with-knowledge/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0030-kelly-st-onge-mathematics-science-quantum-physics-and-unlocking-the-universe-with-knowledge/episode.md)

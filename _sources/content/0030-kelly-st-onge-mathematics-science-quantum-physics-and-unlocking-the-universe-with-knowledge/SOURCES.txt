@@ -1,0 +1,17 @@
+Description source: RSS/itunes:summary primary because YouTube description is a stub ("Detailed description coming tomorrow"). About spaced from RSS plain. No dedicated quotes block. No guest contact/email.
+YouTube chars: 413
+RSS HTML chars: 2411
+Title source: full RSS title preferred (YT truncated with ...); exact_public_title uses RSS. YT≠RSS.
+Title: Episode 030 with Kelly St. Onge - Mathematics, Science, Quantum Physics and Unlocking The Universe With Knowledge
+RSS title: Episode 030 with Kelly St. Onge - Mathematics, Science, Quantum Physics and Unlocking The Universe With Knowledge
+YT title: Episode 030 with Kelly St. Onge - Mathematics, Science, Quantum Physics and Unlocking The Univers...
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YT chapters
+Guest links: none published as dedicated links (inventory has_guest_links=no)
+Quotes: 0 published quotes (inventory has_quotes=no)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published RSS description verbatim as spaced paras (YT stub ignored for About body)
+Guest name spelling: Kelly St. Onge; guest slug kelly-st-onge (NEW)
+Duration: RSS itunes:duration 6148s (1:42:28); YT info.json duration 6179s — using RSS/inventory 6148
+Publish date: RSS/inventory 2020-03-18 (YT upload_date 20200318)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).

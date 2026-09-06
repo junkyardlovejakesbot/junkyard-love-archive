@@ -1,0 +1,7 @@
+title=Episode 030 with Kelly St. Onge - Mathematics, Science, Quantum Physics and Unlocking The Univers...
+upload_date=20200318
+duration=6179
+video_id=kLTOTQmNXOk
+rss_title=Episode 030 with Kelly St. Onge - Mathematics, Science, Quantum Physics and Unlocking The Universe With Knowledge
+title_conflict=YT≠RSS
+h1=Episode 030 with Kelly St. Onge - Mathematics, Science, Quantum Physics and Unlocking The Universe With Knowledge
