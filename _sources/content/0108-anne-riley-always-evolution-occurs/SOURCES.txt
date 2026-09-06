@@ -1,0 +1,9 @@
+Description source: YouTube (primary per archive rules; YT≠RSS wording — RSS adds "scientific wit", parenthetical "among many others", <strong> on concept headings, slightly different second paragraph; archive uses YT plain text)
+YouTube chars: 2439
+RSS HTML chars: 2591
+Title source: YouTube / exact_public_title (YT≠RSS — RSS: "0108 with Author of 'The Human Idea' Anne Riley - Always Evolution Occurs"; YT/exact uses "The JYLP Episode 0108 - … 'Always Evolution Occurs'")
+Title: The JYLP Episode 0108 - with Author of 'The Human Idea' Anne Riley - 'Always Evolution Occurs'
+Chapters source: none published (YT/RSS; inventory has_timestamps=no)
+Guest links: from published YouTube notes ("For more on Anne, checkout her pages here:" + site/IG/LinkedIn)
+Quotes: none published (inventory has_quotes=yes — likely false-positive from quoted book title)
+About: six spaced narrative/concept paras verbatim from YT; subscribe/IG/see-ya outro omitted; guest-link block kept in Guest links only

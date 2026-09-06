@@ -1,0 +1,4 @@
+- For more on Anne, checkout her pages here:
+- https://www.thehumanidea.com/
+- https://www.instagram.com/anne_riley_ideasphere/?hl=en
+- https://www.linkedin.com/in/anne-riley-656b0125a/

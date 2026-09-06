@@ -1,0 +1,11 @@
+Source: YouTube automatic captions en/en-orig (captions.en.vtt / captions.en.json3; also archived as auto.en.* / source-yt.en*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=xOsh-DCh6qU
+Turns: 161
+Word count: 17638
+Speaker map: pause-gap segmentation + sticky Jacob/Anne content scoring (named speaker labels not present in captions)
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; bumper/outro forced to Jacob where clear; opening bumper/Anne mash split where detected; sticky continuation for short mid-sentence fragments
+No sentence rewriting.
+Guest name spelling: Anne Riley (matches YouTube/RSS; captions sometimes render "Ann").
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips — turns segmented by pause gaps + sticky Jacob/Anne content scoring (imperfect). YT duration 5551s vs RSS/inventory 5552s (~1s difference; archive meta uses RSS duration; captions track YT length). No published chapter timestamps (inventory has_timestamps=no). YT≠RSS title (RSS drops "The JYLP Episode" / quote marks on Always Evolution Occurs); archive uses YouTube / exact_public_title. YT≠RSS description (RSS adds scientific wit / strong tags / slightly different second paragraph); About uses YT verbatim. Inventory has_quotes=yes but no published quote bullets — book title quotation marks (treated as none published). Subscribe/IG/see-ya outro omitted from About; narrative + concept lines kept verbatim; guest links extracted to Guest links section. Light sticky continuation merges for short lowercase/conjunction fragments: 8 Post-fix: Knowledge bumper forced to Jacob; Anne goodbye kept separate.
+Additional post-fix: 4 (split Anne mother-terms / Jacob empathy; early orphan->Anne @ 432000; early orphan->Anne @ 453000; early orphan->Anne @ 500000).

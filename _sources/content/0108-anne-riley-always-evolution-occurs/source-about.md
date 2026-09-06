@@ -1,0 +1,11 @@
+Anne Riley, armed with an MBA, experience in multiple industries, and the mind of a curious philosopher - has been on a lifelong quest to understand how humans logically fit into life's panorama.  Spending much of her time studying the works of Charles Darwin, Stephen Jay Gould, and Michael Rothschild among many others, and immersing herself in the basic knowledge of physics, chemistry, biology, economics, and government - all gave her the foundation for a new way of thinking about humans - and has arrived with her new book to encapsulate these concepts - "The Human Idea - Earths Newest Ecosystem"
+
+Anne Riley is the author of 'The Human Idea - Earths Newest Ecosystem': a book that flips humanity's attention upon itself, and uncovers the essence of what it means to be human. This episode explores the profound inquiries of why we are here and how our capacity for thought distinguishes us from other species. Riley invites us on a journey through the tapestry of life, blending scientific acumen with philosophical depth to illuminate how the survival tactics refined over eons can inform our modern challenges. Discover in Anne's book "The Human Idea":
+
+The Ecosystem of Life: Insights into the vast web of life that connects us all, tracing our evolutionary path to understand our place within it.
+
+The Power of Ideas: Exploring the uniquely human trait of ideation, fostering both our greatest triumphs and our most pressing dilemmas.
+
+The Ideasphere: Riley's innovative concept of the ideasphere, a lens through which we can view human society and leverage this understanding for sustainable progress.
+
+Anne Riley's narrative is more than a contemplation on our origins; it's a clarion call for our future. Facing existential crises like climate change and social divides, "The Human Idea" provides a blueprint for harnessing nature's lessons to forge a path toward a more harmonious existence. Join us for this enlightening conversation, about the human ecosystem. Episode 108 with Anne Riley - Always Evolution Occurs.

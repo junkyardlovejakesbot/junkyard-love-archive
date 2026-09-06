@@ -1,0 +1,13 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?v=xOsh-DCh6qU
+[youtube] xOsh-DCh6qU: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] xOsh-DCh6qU: Downloading visionos player API JSON
+[youtube] xOsh-DCh6qU: Downloading m3u8 information
+[info] xOsh-DCh6qU: Downloading subtitles: en
+[info] xOsh-DCh6qU: Downloading 1 format(s): 137+251
+[info] Writing video description to: /workspace/junkyard-love-archive/content/0108-anne-riley-always-evolution-occurs/source-yt.description
+[info] Writing video subtitles to: /workspace/junkyard-love-archive/content/0108-anne-riley-always-evolution-occurs/source-yt.en.vtt
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: /workspace/junkyard-love-archive/content/0108-anne-riley-always-evolution-occurs/source-yt.en.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:10)[download]    3.00KiB at  Unknown B/s (00:00:10)[download]    7.00KiB at    5.60MiB/s (00:00:10)[download]   15.00KiB at   10.14MiB/s (00:00:10)[download]   31.00KiB at    4.78MiB/s (00:00:10)[download]   63.00KiB at    5.25MiB/s (00:00:10)[download]  127.00KiB at    6.99MiB/s (00:00:10)[download]  255.00KiB at   10.34MiB/s (00:00:10)[download]  511.00KiB at   15.97MiB/s (00:00:10)[download]  838.02KiB at   21.35MiB/s (00:00:10)[download] 100% of  838.02KiB in 00:00:10 at 82.20KiB/s
+[info] Writing video metadata as JSON to: /workspace/junkyard-love-archive/content/0108-anne-riley-always-evolution-occurs/source-yt.info.json
