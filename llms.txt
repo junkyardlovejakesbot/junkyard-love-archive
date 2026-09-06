@@ -83,6 +83,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0049 Airik Makaio Hokulani Mobbs — The Ever Evolving Chameleon, Vibe Surfing, Weird America and Giving Power To The Positive](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0049-airik-makaio-hokulani-mobbs-the-ever-evolving-chameleon-vibe-surfing-weird-america-and-giving-power-to-the-positive/) — 2020-07-28
 - [0048 Devon Sims — Being Kind, Flipping Perspective and Drinkin' Water](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0048-devon-sims-being-kind-flipping-perspective-and-drinkin-water/) — 2020-07-13
 - [0047 Trenten Kesler — Searching For Fluidity, Learning From Detail, and Laughing With Everyone](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0047-trenten-kesler-searching-for-fluidity-learning-from-detail-and-laughing-with-everyone/) — 2020-07-05
+- [0046 JACE Saltzman — Killing The Ego and Stumbling Onto The Right Path](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0046-rapper-jace-saltzman-killing-the-ego-and-stumbling-onto-the-right-path/) — 2020-06-21
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -108,6 +109,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Georgia Peach](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/georgia-peach/)
 - [Heather Hutchison](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/heather-hutchison/)
 - [Ian](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/ian-camp-reeducation/)
+- [JACE Saltzman](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/jace-saltzman/)
 - [Jasmine Heagy](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/jasmine-heagy/)
 - [Jeremy Sherman](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/jeremy-sherman/)
 - [Jerry Fu](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/jerry-fu/)
@@ -237,3 +239,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0049-airik-makaio-hokulani-mobbs-the-ever-evolving-chameleon-vibe-surfing-weird-america-and-giving-power-to-the-positive/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0049-airik-makaio-hokulani-mobbs-the-ever-evolving-chameleon-vibe-surfing-weird-america-and-giving-power-to-the-positive/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0048-devon-sims-being-kind-flipping-perspective-and-drinkin-water/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0048-devon-sims-being-kind-flipping-perspective-and-drinkin-water/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0047-trenten-kesler-searching-for-fluidity-learning-from-detail-and-laughing-with-everyone/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0047-trenten-kesler-searching-for-fluidity-learning-from-detail-and-laughing-with-everyone/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0046-rapper-jace-saltzman-killing-the-ego-and-stumbling-onto-the-right-path/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0046-rapper-jace-saltzman-killing-the-ego-and-stumbling-onto-the-right-path/episode.md)

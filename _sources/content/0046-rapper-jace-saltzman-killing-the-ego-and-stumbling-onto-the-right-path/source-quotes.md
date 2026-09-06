@@ -1,0 +1,4 @@
+- "If I got a problem, I'm about a solution"
+- "I love that stick your chest out typea shit"
+- "I'm so obsessed now with the possibility of opportunity."
+- "I'm already goin that way, wanna ride?"

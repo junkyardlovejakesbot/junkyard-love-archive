@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en/en-orig (captions.en.vtt / captions.en.json3; also archived as source-yt.en*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=-FzLoWxATtU
+Turns: 377
+Word count: 26071
+Speaker map: pause-gap segmentation + sticky Jacob/JACE content scoring (named speaker labels not present in captions; auto diarization imperfect); host bumper + Richard Grannon rec forced to Jacob before ~02:03 (we got JACE)
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light ASR name tidy (JACE Saltzman; Richard Grannon; Joseph Crum; BIG MAD; Toosie Slide; Ellen DeGeneres); bumper/outro forced to Jacob where clear; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: JACE Saltzman (slug jace-saltzman); published title/inventory use Rapper JACE Saltzman; About also uses Jace / rapper JACE; ASR often jace/jayce → normalized to JACE; NEW guest page.
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places. Intro includes a Richard Grannon YouTube recommendation before the conversation.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips. YT duration 7678s vs RSS/inventory 7648s (archive meta uses RSS duration). No published chapter timestamps. Title YT=RSS. About YT~itunes:summary (YT primary; footer + guest Instagram/SoundCloud CTA stripped). Inventory has_quotes=yes / has_timestamps=no / has_hashtags=no / has_guest_links=no. Published quotes from RSS description. Archive picks fills timestamped quotes/chapters/keywords/hashtags/bio. Guest page: jace-saltzman (NEW).
+Speaker balance: Jacob 198 turns/18006 words; JACE 179 turns/8065 words.
+Heuristic speaker fixes: 2; post-splits: 0 ()
