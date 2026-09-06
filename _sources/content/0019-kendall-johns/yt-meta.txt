@@ -1,0 +1,7 @@
+title=Episode 019 with Kendall Johns of Dead Crown
+upload_date=20200105
+duration=8038
+video_id=NX9gMzdgwuQ
+rss_title=Episode 019 with Kendall Johns of Dead Crown
+title_conflict=YT=RSS
+h1=Episode 019 with Kendall Johns of Dead Crown

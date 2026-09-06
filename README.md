@@ -106,6 +106,7 @@ Plain static site. No domain configured yet — open `site/index.html` locally, 
 - **0022** Taya Sanders of Clover+Tribe — `site/episodes/0022-taya-sanders/`
 - **0021** "rosetan" the band — `site/episodes/0021-rosetan-the-band/`
 - **0020** Megan Elam — `site/episodes/0020-megan-elam/`
+- **0019** Kendall Johns of Dead Crown — `site/episodes/0019-kendall-johns/`
 - **0100** JacobFromTheInternet (solo) — `site/episodes/0100-jacobfromtheinternet-mystical-experience/`
 
 ## Preview

@@ -1,0 +1,9 @@
+Episode 0019: Episode 019 with Kendall Johns of Dead Crown
+Guest: Kendall Johns of Dead Crown
+Date: 2020-01-04
+YouTube: https://www.youtube.com/watch?v=NX9gMzdgwuQ
+RSS: https://share.transistor.fm/s/f366be1b
+Title conflict: YT=RSS
+Guest slug: kendall-johns (NEW)
+About: YT~RSS identical body; YT footer stripped; no guest contact/email
+Transcript: YouTube auto-captions (en/en-orig); YT duration 8038s vs RSS 8011s (~27s; meta uses RSS)

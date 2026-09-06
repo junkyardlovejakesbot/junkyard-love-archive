@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en/en-orig (captions.en.vtt / captions.en.json3; also archived as source-yt.en*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=NX9gMzdgwuQ
+Turns: 336
+Word count: 30255
+Speaker map: pause-gap segmentation + sticky Jacob/Kendall content scoring (named speaker labels not present in captions; auto diarization imperfect); host bumper forced to Jacob where clear
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light ASR name tidy (Kendall Johns; Dead Crown; We Rise The Tides; Crucify Me; Jake Hill; Post Malone; Junkyard Love; Jacob Rhines; Carol; 401k); bumper/outro forced to Jacob where clear; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Kendall Johns of Dead Crown (YT/RSS titles / inventory); slug kendall-johns (NEW).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips. YT duration 8038s (~2:13:58) vs RSS/inventory 8011s (~2:13:31) — ~27s delta, not substantial; transcript follows YT captions; archive meta uses RSS duration. No published chapter timestamps; no YT chapters. Title YT=RSS. About YT~RSS identical body (YT footer stripped). Inventory has_quotes=yes (inline boy/man teacher quote; no Quotes list) / has_timestamps=no / has_hashtags=no / has_guest_links=no. Archive picks fills timestamped quotes/chapters/keywords/hashtags/bio. Guest page: kendall-johns (NEW).
+Speaker balance: Jacob 176 turns/15600 words; Kendall 160 turns/14655 words.
+Heuristic speaker fixes: 4; post-splits: 0 ()

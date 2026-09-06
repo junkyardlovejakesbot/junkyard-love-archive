@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from RSS plain (identical to YT after footer strip). Soft mid-sentence newlines joined. No guest contact/email.
+YouTube chars: 3362
+RSS HTML chars: 3232
+Title source: YT=RSS exact match (NX9gMzdgwuQ). H1/slug use Episode 019 with Kendall Johns of Dead Crown. YT=RSS.
+Title: Episode 019 with Kendall Johns of Dead Crown
+RSS title: Episode 019 with Kendall Johns of Dead Crown
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YT chapters
+Guest links: none published (inventory has_guest_links=no)
+Quotes: inventory has_quotes=yes — inline published teacher quote kept in About; no Quotes list block (0 list quotes)
+Hashtags: none published as a block (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from RSS (YT~RSS)
+Guest name spelling: Kendall Johns of Dead Crown; guest slug kendall-johns (NEW)
+Duration: RSS itunes:duration 8011s (2:13:31); YT info.json duration 8038s — using RSS/inventory 8011; YT~RSS within ~27s (not substantial)
+Publish date: RSS/inventory 2020-01-04 (YT upload_date 20200105)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).
