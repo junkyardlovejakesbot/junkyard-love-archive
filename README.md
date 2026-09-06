@@ -113,6 +113,7 @@ Plain static site. No domain configured yet — open `site/index.html` locally, 
 - **0013** Nona Southard — `site/episodes/0013-nona-southard/`
 - **0012** Bob Kendall — `site/episodes/0012-bob-kendall/`
 - **0011** Spencer Hicks — `site/episodes/0011-spencer-hicks/`
+- **0010** Brian 'Dj Toasty' Andrews & Kelly 'K3lls' St. Onge — `site/episodes/0010-brian-dj-toasty-andrews-and-kelly-k3lls-st-onge/`
 - **0100** JacobFromTheInternet (solo) — `site/episodes/0100-jacobfromtheinternet-mystical-experience/`
 
 ## Preview

@@ -1,0 +1,11 @@
+source: YouTube automatic captions (en + en-orig json3/vtt)
+video_id: I5CT511iwvk
+method: yt-dlp --write-auto-sub --sub-lang en,en-orig --sub-format json3/vtt
+ASR: not used (YouTube auto captions available)
+Speaker map: pause-gap segmentation + sticky Jacob/Brian/Kelly content scoring (named speaker labels not present in captions; dual-guest auto diarization imperfect; captions often say Bryan/Kells/toasty)
+Speaker labels: Jacob / Brian / Kelly (3 speakers; Brian↔Kelly may be swapped in places)
+Guest name spelling: Brian 'Dj Toasty' Andrews (title) / Brian 'DJ Toasty' Andrew (guest page slug brian-dj-toasty-andrew); Kelly 'K3lls' St. Onge (title) / Kelly St. Onge (guest page slug kelly-st-onge)
+Duration: transcript follows YT captions (~6431s); archive meta uses RSS 6403s (~28s delta, not substantial)
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips. YT duration 6431s vs RSS/inventory 6403s (archive meta uses RSS duration). No published chapter timestamps; no YT chapters. Title match (YT=RSS). About YT~RSS (YT primary; footer stripped; 7 spaced paras). Inventory has_quotes=yes (inline phrase quotes; no Quotes list block) / has_timestamps=no / has_hashtags=no / has_guest_links=no. Archive picks fills timestamped quotes/chapters/keywords/hashtags/bios. Guest pages: brian-dj-toasty-andrew APPEND (0055+0010) + kelly-st-onge APPEND (0030+0010).
+Fixes applied: 1 heuristic label fixes; post_fixes=[]
+Turns: 384; words: 20752; balance turns={'Jacob': 181, 'Kelly': 71, 'Brian': 132} words={'Jacob': 9370, 'Kelly': 3773, 'Brian': 7609}

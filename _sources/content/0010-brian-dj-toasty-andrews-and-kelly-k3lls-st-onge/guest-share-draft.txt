@@ -1,0 +1,7 @@
+Episode 0010: Episode 010 with Brian 'Dj Toasty' Andrews and Kelly 'K3lls' St. Onge
+Guests: Brian 'Dj Toasty' Andrews & Kelly 'K3lls' St. Onge
+Date: 2019-12-13
+YouTube: https://www.youtube.com/watch?v=I5CT511iwvk
+RSS: https://share.transistor.fm/s/f05f59d0
+Title conflict: none (YT=RSS)
+Guest slugs: brian-dj-toasty-andrew (APPEND 0055+0010) + kelly-st-onge (APPEND 0030+0010)

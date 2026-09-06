@@ -116,6 +116,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0013 Nona Southard](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0013-nona-southard/) — 2019-12-18
 - [0012 Bob Kendall](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0012-bob-kendall/) — 2019-12-15
 - [0011 Spencer Hicks](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0011-spencer-hicks/) — 2019-12-13
+- [0010 Brian 'Dj Toasty' Andrews & Kelly 'K3lls' St. Onge](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0010-brian-dj-toasty-andrews-and-kelly-k3lls-st-onge/) — 2019-12-13
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -326,3 +327,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0013-nona-southard/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0013-nona-southard/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0012-bob-kendall/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0012-bob-kendall/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0011-spencer-hicks/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0011-spencer-hicks/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0010-brian-dj-toasty-andrews-and-kelly-k3lls-st-onge/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0010-brian-dj-toasty-andrews-and-kelly-k3lls-st-onge/episode.md)

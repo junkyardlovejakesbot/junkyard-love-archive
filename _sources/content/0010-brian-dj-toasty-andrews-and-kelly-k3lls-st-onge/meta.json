@@ -1,0 +1,34 @@
+{
+  "episode": "0010",
+  "ep_int": 10,
+  "title": "Episode 010 with Brian 'Dj Toasty' Andrews and Kelly 'K3lls' St. Onge",
+  "title_rss": "Episode 010 with Brian 'Dj Toasty' Andrews and Kelly 'K3lls' St. Onge",
+  "title_youtube": "Episode 010 with Brian 'Dj Toasty' Andrews and Kelly 'K3lls' St. Onge",
+  "title_conflict": "",
+  "guest": "Brian 'Dj Toasty' Andrews and Kelly 'K3lls' St. Onge",
+  "guests": [
+    "Brian 'Dj Toasty' Andrews",
+    "Kelly 'K3lls' St. Onge"
+  ],
+  "date": "2019-12-13",
+  "duration_seconds": 6403,
+  "duration_human": "1:46:43",
+  "yt_duration_seconds": 6431,
+  "youtube": "https://www.youtube.com/watch?v=I5CT511iwvk",
+  "rss": "https://share.transistor.fm/s/f05f59d0",
+  "audio": "https://2.gum.fm/op3.dev/e/pdcn.co/e/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/f05f59d0/ee5206cd.mp3",
+  "video_id": "I5CT511iwvk",
+  "slug": "0010-brian-dj-toasty-andrews-and-kelly-k3lls-st-onge",
+  "guest_slug": "brian-dj-toasty-andrew",
+  "guest_slugs": [
+    "brian-dj-toasty-andrew",
+    "kelly-st-onge"
+  ],
+  "transcript_source": "youtube-auto-captions",
+  "speakers": [
+    "Jacob",
+    "Brian",
+    "Kelly"
+  ],
+  "imperfect_auto_diarization": true
+}

@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from YT body after footer strip (YT~RSS).
+YouTube chars: 1310
+RSS plain chars: 1310
+Title source: YT=RSS exact match (I5CT511iwvk). H1/slug use Episode 010 with Brian 'Dj Toasty' Andrews and Kelly 'K3lls' St. Onge.
+Title: Episode 010 with Brian 'Dj Toasty' Andrews and Kelly 'K3lls' St. Onge
+RSS title: Episode 010 with Brian 'Dj Toasty' Andrews and Kelly 'K3lls' St. Onge
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YouTube chapter markers — Archive picks derived from transcript themes
+Guest links: none published (inventory has_guest_links=no); no personal email
+Quotes: inventory has_quotes=yes — inline phrase quotes only; no Quotes list block
+Hashtags: none published as a block (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YT (footer stripped); no guest contact/email
+Guest name spelling: Brian 'Dj Toasty' Andrews / Kelly 'K3lls' St. Onge; slugs brian-dj-toasty-andrew (APPEND) + kelly-st-onge (APPEND)
+Duration: RSS itunes:duration 6403s (1:46:43); YT info.json duration 6431s — using RSS/inventory 6403; YT~RSS within ~28s (not substantial)
+Publish date: RSS/inventory 2019-12-13 (YT upload_date 20191214 — next calendar day)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps from transcript, keywords/hashtags, short guest bios) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).
