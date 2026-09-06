@@ -1,0 +1,4 @@
+- "The news is not a tool to make your life better, it's a tool of control"
+- "Everyone owns a body. You pilot a meat vehicle, you do. You should know how to operate it optimally."
+- "Not everyone you talk to is going to be in good faith"
+- "Unfortunately there's money in symptoms, not health."

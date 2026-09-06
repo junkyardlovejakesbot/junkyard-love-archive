@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (~itunes:summary). YT footer stripped. No guest contact/email.
+YouTube chars: 1097
+RSS HTML chars: 352
+Title source: YouTube / exact_public_title (0NRmRX4QkRY). YT=RSS.
+Title: Episode 044 with Spencer Hicks - Operating Optimally Should Be Your Goal
+RSS title: Episode 044 with Spencer Hicks - Operating Optimally Should Be Your Goal
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YT chapters
+Guest links: none published (inventory has_guest_links=no)
+Quotes: 4 published quotes from RSS description (inventory has_quotes=yes); YT description had no quotes block
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube
+Guest name spelling: Spencer Hicks; guest slug spencer-hicks (EXISTING — APPEND 0044; prior 0088+0074+0059 preserved)
+Duration: RSS itunes:duration 5304s (1:28:24); YT info.json duration 5335s — using RSS/inventory 5304
+Publish date: RSS/inventory 2020-06-10 (YT upload_date 20200611)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).

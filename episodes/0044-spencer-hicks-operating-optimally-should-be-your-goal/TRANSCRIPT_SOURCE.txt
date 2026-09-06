@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en/en-orig (captions.en.vtt / captions.en.json3; also archived as source-yt.en*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=0NRmRX4QkRY
+Turns: 261
+Word count: 17654
+Speaker map: pause-gap segmentation + sticky Jacob/Spencer content scoring (named speaker labels not present in captions; auto diarization imperfect); host bumper + Dark Horse/Bret Weinstein rec forced to Jacob before ~02:03 (let's roll)
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light ASR name tidy (Spencer Hicks; Bret Weinstein; Dark Horse; Neuralink; Elon Musk; Lake Shasta); bumper/outro forced to Jacob where clear; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Spencer Hicks (YT/RSS titles / inventory); slug spencer-hicks (EXISTING — APPEND 0044 to 0088+0074+0059, do not wipe).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places. Intro includes a Dark Horse / Bret Weinstein recommendation before the conversation.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips. YT duration 5335s vs RSS/inventory 5304s (archive meta uses RSS duration). No published chapter timestamps. Title YT=RSS. About YT~itunes:summary (YT primary; footer stripped). Inventory has_quotes=yes / has_timestamps=no / has_hashtags=no / has_guest_links=no. Published quotes from RSS description. Archive picks fills timestamped quotes/chapters/keywords/hashtags/bio. Guest page: spencer-hicks (EXISTING APPEND).
+Speaker balance: Jacob 130 turns/9112 words; Spencer 131 turns/8542 words.
+Heuristic speaker fixes: 1; post-splits: 1 (noop-keep jacob close faith)
