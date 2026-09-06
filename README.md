@@ -95,6 +95,7 @@ Plain static site. No domain configured yet — open `site/index.html` locally, 
 - **0034** Nate 'NastyNate' Tanzman — Healing Toxic Masculinity, Male Vulnerability, Believing In Yourself, Being Scared To Be Different and Letting Go Of Outgrown Identities — `site/episodes/0034-nate-nastynate-tanzman-healing-toxic-masculinity-male-vulnerability-believing-in-yourself-being-scared-to-be-different-and-letting-go-of-outgrown-identities/`
 - **0033** Andy of Team Banzai — `site/episodes/0033-andy-of-team-banzai/`
 - **0032** Andre Gilbert & Roberto Gonzalez — The dreamers mindset, building a real foundation, enjoying the journey and committing to your vision — `site/episodes/0032-andre-gilbert-and-roberto-gonzalez-the-dreamers-mindset-building-a-real-foundation-enjoying-the-journey-and-committing-to-your-vision/`
+- **0031** Madi Allis of Vail Denim — `site/episodes/0031-madi-allis-of-vail-denim/`
 - **0100** JacobFromTheInternet (solo) — `site/episodes/0100-jacobfromtheinternet-mystical-experience/`
 
 ## Preview

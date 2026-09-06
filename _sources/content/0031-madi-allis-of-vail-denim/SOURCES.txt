@@ -1,0 +1,17 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (~itunes:summary / RSS identical). No dedicated quotes block. No guest contact/email.
+YouTube chars: 2025
+RSS HTML chars: 1897
+Title source: YT=RSS exact match. H1/slug use Episode 031 with Madi Allis of Vail Denim.
+Title: Episode 031 with Madi Allis of Vail Denim
+RSS title: Episode 031 with Madi Allis of Vail Denim
+YT title: Episode 031 with Madi Allis of Vail Denim
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YT chapters
+Guest links: none published as dedicated links (inventory has_guest_links=no); validenim.com / @vaildenim inline in About only
+Quotes: 0 published quotes (inventory has_quotes=no)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube
+Guest name spelling: Madi Allis; guest slug madi-allis (NEW; prefer madi-allis over madi-allis-of-vail-denim)
+Duration: RSS itunes:duration 6199s (1:43:19); YT info.json duration 6229s — using RSS/inventory 6199
+Publish date: RSS/inventory 2020-03-22 (YT upload_date 20200322)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).

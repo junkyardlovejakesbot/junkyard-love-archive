@@ -1,0 +1,29 @@
+Madi Allis has never met a stranger in her life. With the belief that everybody has something to offer, and the ability to cultivate compassion and open-mindedness in most any interaction - Madi comes by to hang out and teach me about the creation of her denim upcycling company, her journies of motherhood, her history into adulthood, her growing perspective on change and learning, and all cool things in between.
+
+Madi teaches me a a good bit about Vail Denim, a custom denim apparel distressing business she's at the helm of - and what her process there consists of.
+
+We share some of our college experiences as young adults and talk about finding a community through common interests.
+
+We learn of our shared fascination with psychology and exploring how people work -  and she tells me about her journies around being in a car club and taking photos for proud drivers.
+
+We hit on the complexities of social media, finding connection in a world that makes us feel disconnected, not talking to respond and I stumble us through some questions about development and real change.
+
+She tells me about growing up and living with a Neurological Disorder and the inspo behind her company name - Vail Denim.
+
+Madi and I discuss personal histories of ADHD, OCD, Tourette, Transient Tics, Anxiety, and Worry - plus we build on concepts like Patience, Impact, Potential, Influence, and Growth.
+
+We get to some of those 'Soul Sparkin' questions and Madi shows a great knack for sharing her realness in hopes to inspire others.
+
+A fantastically enjoyable conversation this was to have. I'm filled with gratitude to have such a talk recorded and available.
+
+We leave you with some phrases to take in: Be you, don't listen to respond, live on and be yourself, and educate if you've got something to teach.
+
+To find Vail Denim and more on Madi - checkout validenim.com and find them on insta @vaildenim. Be well!
+
+## Quotes
+
+(none published in episode notes)
+
+## Guest links
+
+(none published as dedicated guest links beyond About mentions)

@@ -98,6 +98,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0034 Nate 'NastyNate' Tanzman — Healing Toxic Masculinity, Male Vulnerability, Believing In Yourself, Being Scared To Be Different and Letting Go Of Outgrown Identities](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0034-nate-nastynate-tanzman-healing-toxic-masculinity-male-vulnerability-believing-in-yourself-being-scared-to-be-different-and-letting-go-of-outgrown-identities/) — 2020-04-04
 - [0033 Andy of Team Banzai](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0033-andy-of-team-banzai/) — 2020-03-31
 - [0032 Andre Gilbert & Roberto Gonzalez — The dreamers mindset, building a real foundation, enjoying the journey and committing to your vision](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0032-andre-gilbert-and-roberto-gonzalez-the-dreamers-mindset-building-a-real-foundation-enjoying-the-journey-and-committing-to-your-vision/) — 2020-03-28
+- [0031 Madi Allis of Vail Denim](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0031-madi-allis-of-vail-denim/) — 2020-03-22
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -143,6 +144,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [Landon 'Dirtyzen' Smith](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/landon-dirtyzen-smith/)
 - [Lynn Cherry](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/lynn-cherry/)
 - [Mack T](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/mack-t/)
+- [Madi Allis](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/madi-allis/)
 - [Marty Strong](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/marty-strong/)
 - [Matt McGee](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/matt-mcgee/)
 - [Matt Young](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/matt-young/)
@@ -278,3 +280,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0034-nate-nastynate-tanzman-healing-toxic-masculinity-male-vulnerability-believing-in-yourself-being-scared-to-be-different-and-letting-go-of-outgrown-identities/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0034-nate-nastynate-tanzman-healing-toxic-masculinity-male-vulnerability-believing-in-yourself-being-scared-to-be-different-and-letting-go-of-outgrown-identities/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0033-andy-of-team-banzai/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0033-andy-of-team-banzai/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0032-andre-gilbert-and-roberto-gonzalez-the-dreamers-mindset-building-a-real-foundation-enjoying-the-journey-and-committing-to-your-vision/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0032-andre-gilbert-and-roberto-gonzalez-the-dreamers-mindset-building-a-real-foundation-enjoying-the-journey-and-committing-to-your-vision/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0031-madi-allis-of-vail-denim/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0031-madi-allis-of-vail-denim/episode.md)

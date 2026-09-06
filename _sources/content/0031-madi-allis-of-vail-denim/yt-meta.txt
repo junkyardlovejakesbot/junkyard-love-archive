@@ -1,0 +1,7 @@
+title=Episode 031 with Madi Allis of Vail Denim
+upload_date=20200322
+duration=6229
+video_id=TrplEjfpthg
+rss_title=Episode 031 with Madi Allis of Vail Denim
+title_conflict=YT=RSS
+h1=Episode 031 with Madi Allis of Vail Denim
