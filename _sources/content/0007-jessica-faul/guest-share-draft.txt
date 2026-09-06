@@ -1,0 +1,9 @@
+Episode 0007: Episode 007 with Jessica Faul
+Guest: Jessica Faul
+Date: 2019-12-05
+YouTube: https://www.youtube.com/watch?v=rXieKKyBQRo
+RSS: https://share.transistor.fm/s/9268f021
+Title conflict: YT=RSS
+Guest slug: j-faul (APPEND — exists with 0042; same person as J Faul; do NOT create jessica-faul)
+About: YT~RSS identical body; YT footer stripped; no guest contact/email
+Transcript: YouTube auto-captions (en/en-orig); YT duration 9612s vs RSS 9584s (~28s; meta uses RSS)

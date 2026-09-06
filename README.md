@@ -116,6 +116,7 @@ Plain static site. No domain configured yet — open `site/index.html` locally, 
 - **0010** Brian 'Dj Toasty' Andrews & Kelly 'K3lls' St. Onge — `site/episodes/0010-brian-dj-toasty-andrews-and-kelly-k3lls-st-onge/`
 - **0009** Shaden 'Hvshi' Nugent — `site/episodes/0009-shaden-hvshi-nugent/`
 - **0008** Nate 'NastyNate' Tanzman — `site/episodes/0008-nate-nastynate-tanzman/`
+- **0007** Jessica Faul — `site/episodes/0007-jessica-faul/`
 - **0100** JacobFromTheInternet (solo) — `site/episodes/0100-jacobfromtheinternet-mystical-experience/`
 
 ## Preview

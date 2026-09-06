@@ -119,6 +119,7 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0010 Brian 'Dj Toasty' Andrews & Kelly 'K3lls' St. Onge](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0010-brian-dj-toasty-andrews-and-kelly-k3lls-st-onge/) — 2019-12-13
 - [0009 Shaden 'Hvshi' Nugent](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0009-shaden-hvshi-nugent/) — 2019-12-11
 - [0008 Nate 'NastyNate' Tanzman](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0008-nate-nastynate-tanzman/) — 2019-12-09
+- [0007 Jessica Faul](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0007-jessica-faul/) — 2019-12-05
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
@@ -333,3 +334,4 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0010-brian-dj-toasty-andrews-and-kelly-k3lls-st-onge/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0010-brian-dj-toasty-andrews-and-kelly-k3lls-st-onge/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0009-shaden-hvshi-nugent/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0009-shaden-hvshi-nugent/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0008-nate-nastynate-tanzman/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0008-nate-nastynate-tanzman/episode.md)
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0007-jessica-faul/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0007-jessica-faul/episode.md)

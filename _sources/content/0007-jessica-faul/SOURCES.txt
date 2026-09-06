@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from RSS plain (identical to YT after footer strip). Soft mid-sentence newlines joined. No guest contact/email.
+YouTube chars: 1070
+RSS HTML chars: 934
+Title source: YT=RSS exact match (rXieKKyBQRo). H1/slug use Episode 007 with Jessica Faul. YT=RSS.
+Title: Episode 007 with Jessica Faul
+RSS title: Episode 007 with Jessica Faul
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YT chapters
+Guest links: none published (inventory has_guest_links=no)
+Quotes: inventory has_quotes=yes — inline "what if's" / "isn't this crazy?'s" kept in About; no Quotes list block (0 list quotes)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from RSS (YT~RSS)
+Guest name spelling: Jessica Faul (same person as J Faul); guest slug j-faul (APPEND — 0042, 0007); display H1 Jessica Faul (J Faul)
+Duration: RSS itunes:duration 9584s (2:39:44); YT info.json duration 9612s — using RSS/inventory 9584; YT~RSS within ~28s (not substantial)
+Publish date: RSS/inventory 2019-12-05 (YT upload_date 20191206)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).
