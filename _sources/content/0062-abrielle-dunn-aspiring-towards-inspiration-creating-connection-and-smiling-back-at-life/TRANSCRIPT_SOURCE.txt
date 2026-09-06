@@ -1,0 +1,13 @@
+Source: YouTube automatic captions en-orig (captions.en-orig.vtt / captions.en-orig.json3); en track identical auto; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=z3hhvaNhWyc
+Turns: 157
+Word count: 24258
+Speaker map: pause-gap segmentation (~1.8–2.5s) + marker-based Jacob/Abrielle flip splits + sticky content scoring (named speaker labels not present in auto captions); Jacob bumper/intro forced through ~2:05 (soft-start welcome); guest name/brand/Krav Maga/journaling/design narratives forced Abrielle; host questions/CTA/bumper/book-rec forced Jacob where matched
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments (cap ~200 words); HTML entities/nbsp unescaped; capitalized turn starts after merge; light name/term fixes (Abrielle [ASR Gabrielle/Abril/Abrial]; Jacob Rhines; James Nestor; Krav Maga; Ellevate Media; Junkyard Love; Courage the Cowardly Dog; Instagram/YouTube/COVID); dropped [Music]/trailing you cue noise; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Abrielle Dunn; guest slug abrielle-dunn (EXISTING from 0068 — page updated for dual episodes, not wiped); Instagram @abriellehayley + ellevateme@gmail.com inline in About.
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places. This episode is ~2h08m — full transcript retained.
+Issue: YouTube automatic captions (en-orig) freshly downloaded this run; no official/manual track; no >> speaker flips. RSS itunes:duration 7697s; YT info.json duration 7698s — using RSS/inventory 7697. Inventory has_timestamps=no / has_hashtags=no / has_guest_links=no. Inventory has_quotes=yes — published “Some notable quotes from AD” block split into Quotes section. Title YT≠RSS — H1 uses YouTube/exact_public_title (“062 with Abrielle Dunn…”); RSS uses “Episode 062 with…”. About YT≈RSS (YT primary; quotes split out). Publish date RSS/inventory 2020-11-30 (YT upload_date 20201130). Archive picks fills timestamped quotes/chapters/keywords/hashtags/bio. Guest page updated to list BOTH 0068 and 0062 (not wiped).
+Postfix diarization fixes: 5 ops (postfix).
+Speaker balance: Jacob 87 turns/13871 words; Abrielle 70 turns/10387 words.
+Surgical post-pass fixes: 5 (split middle-name/model-page Jacob vs That's just because Abrielle; Jacob->Abrielle @ 00:17:37: That's it like they are fine with that and she wor; Jacob->Abrielle @ 00:18:34: Then i moved into a house i found on craigslist an; Jacob->Abrielle @ 01:44:23: Leads right into we did mention the word projectio; Jacob->Abrielle @ 01:46:23: Now that i'm more aware of it's something that you)

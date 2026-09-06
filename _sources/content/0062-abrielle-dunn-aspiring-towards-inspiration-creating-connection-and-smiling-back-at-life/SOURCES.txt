@@ -1,0 +1,16 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (narrative + CTA); published “Some notable quotes from AD” split into Quotes. Inventory has_guest_links=no — Instagram @abriellehayley and ellevateme@gmail.com remain inline in About only (not under Guest links).
+YouTube chars: 2525
+RSS HTML chars: 2525
+Title source: YouTube / exact_public_title (z3hhvaNhWyc). YT≠RSS — RSS uses “Episode 062 with…”; YT uses “062 with…”.
+Title: 062 with Abrielle Dunn - Aspiring Towards Inspiration, Creating Connection and Smiling Back At Life
+RSS title: Episode 062 with Abrielle Dunn - Aspiring Towards Inspiration, Creating Connection and Smiling Back At Life
+Chapters source: none published (inventory has_timestamps=no; YT info.json chapters=None)
+Guest links: none as structured Guest links (inventory has_guest_links=no); Instagram @abriellehayley and ellevateme@gmail.com remain inline in About
+Quotes: published “Some notable quotes from AD” (9 quotes) — inventory has_quotes=yes
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube (quotes block removed into Quotes); YT≈RSS body (YT primary)
+Guest name spelling: Abrielle Dunn; guest slug abrielle-dunn (EXISTING from 0068 — dual-episode page, not wiped)
+Duration: RSS itunes:duration 7697s (2:08:17); YT info.json duration 7698s — using RSS/inventory 7697
+Publish date: RSS pubDate 2020-11-30 (YT upload_date 20201130) — using RSS/inventory 2020-11-30
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About/quotes; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).
