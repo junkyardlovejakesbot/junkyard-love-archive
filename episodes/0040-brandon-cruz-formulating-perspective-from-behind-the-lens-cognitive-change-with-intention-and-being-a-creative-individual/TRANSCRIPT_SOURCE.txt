@@ -1,0 +1,12 @@
+Source: YouTube automatic captions en/en-orig (captions.en.vtt / captions.en.json3; also archived as source-yt.en*); no official/manual track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=_OIAJMKz0Ec
+Turns: 345
+Word count: 16443
+Speaker map: pause-gap segmentation + sticky Jacob/Brandon content scoring (named speaker labels not present in captions; auto diarization imperfect); formal host bumper present
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments; HTML entities/nbsp unescaped; capitalized turn starts after merge; light caption spacing tidy; light ASR name tidy (Brandon Cruz; Jordan Greenhall; Deep Code; Rebel Wisdom; Daniel Schmachtenberger; Rocky; JYLP); bumper/outro forced to Jacob where clear; YouTube swear blanks normalized to ****
+No sentence rewriting.
+Guest name spelling: Brandon Cruz (YT/RSS title); slug brandon-cruz (EXISTING — APPEND 0040 to 0041).
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en/en-orig) used; no official/manual track; no >> speaker flips. YT duration 5627s vs RSS/inventory 5596s (archive meta uses RSS duration). No published chapter timestamps. Title YT≠RSS (YT truncated with ...; H1/slug use full RSS title). About YT~itunes:summary (YT primary; Notable quotes stripped into Quotes). Inventory has_quotes=yes / has_timestamps=no / has_hashtags=no / has_guest_links=no. Archive picks fills timestamped quotes/chapters/keywords/hashtags/bio. Guest page: brandon-cruz (EXISTING APPEND).
+Speaker balance: Jacob 172 turns/8156 words; Brandon 173 turns/8287 words.
+Heuristic speaker fixes: 3; post-splits: 1 (split bumper water / hit record)

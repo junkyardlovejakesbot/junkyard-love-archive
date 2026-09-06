@@ -1,0 +1,12 @@
+My buddy Brandon, a fellow creator, interviewed me about some of my thoughts as a DJ, thought provoker, and storyteller - With his help, I introduce a few concepts and psychosomatic tools that I am in the process of creating, understanding, and utilizing. We explore flow states, the truth of vibes, taking in information to formulate a hypothesis, and the mind of creatives. We talk about some of the vast differences and misunderstandings between creators and unaware demanders, we talk about identifying with our roles and careers and developing the skills of understanding. Brandon and I braid firsthand stories from our jobs as creators (DJing and Photography) into analysis about the meta situation and we explore the great tragedy of "unawareness of reaction at being told 'no'". I point at some differences between a DJ and a jukebox and the concept of being caught in the maze is introduced. We talk about weed consumption, learning new skills, inventing possibilities through creation and art, being vulnerable through creativity, and the art of allowing something to unfold from the muse.
+
+The Narrator of the story, the observer of the narrator, the maze runner, and the guide - I explore the concept of creating a cognitive "third" and Brandon helps me unpack my theory in story terms. I share personal parts of my journey through depression and healing, the idea of your best self, the voice of consciousness, and intuition. We talk about change and the egoic mind, dopamine traps of society, our current time in history and human evolution. We unpack concepts of self and "I" - like - are you born with a "you" before your environment? I express the importance of knowledge and growing your changeable mind, we talk about fatherhood, always figuring it out, getting smarter, learning how you learn, studying, some tips and tricks to get reading and absorbing information. Not taking no for an answer, daydreaming about being Rocky, paying for ideas, the changing cost of knowledge, happiness in our careers, the changing of identity, and our attachment to jobs. Brandon asks me some great questions and leaves me plenty of runway to express my answers. I enjoy this level of conversation.
+
+## Quotes
+
+- "I'm neither the depressed person nor the person that is saying "no don't be depressed", but rather the observer of those two thoughts."
+- "A being with no circumstance does not exist."
+
+## Guest links
+
+(none published in episode notes)

@@ -1,0 +1,2 @@
+- "I'm neither the depressed person nor the person that is saying "no don't be depressed", but rather the observer of those two thoughts."
+- "A being with no circumstance does not exist."

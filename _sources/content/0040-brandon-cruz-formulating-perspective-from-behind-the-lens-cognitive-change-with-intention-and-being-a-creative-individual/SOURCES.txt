@@ -1,0 +1,17 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (~itunes:summary). Notable quotes stripped from About into Quotes. No guest contact/email.
+YouTube chars: 2539
+RSS HTML chars: 2496
+Title source: full RSS title preferred (YT truncated with ...); exact_public_title uses RSS. YT≠RSS.
+Title: Episode 040 with Brandon Cruz - Formulating Perspective From Behind The Lens, Cognitive Change With Intention, and Being A Creative Individual
+RSS title: Episode 040 with Brandon Cruz - Formulating Perspective From Behind The Lens, Cognitive Change With Intention, and Being A Creative Individual
+YT truncated title: Episode 040 with Brandon Cruz - Formulating Perspective From Behind The Lens, Cognitive Change Wi...
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YT chapters
+Guest links: none published on archive page (inventory has_guest_links=no)
+Quotes: 2 published quotes from YT/RSS Notable quotes block (inventory has_quotes=yes)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube (quotes block stripped)
+Guest name spelling: Brandon Cruz; guest slug brandon-cruz (EXISTING — APPEND 0040; prior 0041 preserved)
+Duration: RSS itunes:duration 5596s (1:33:16); YT info.json duration 5627s — using RSS/inventory 5596
+Publish date: RSS/inventory 2020-05-11 (YT upload_date 20200511)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).
