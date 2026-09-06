@@ -1,0 +1,15 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (poetic line breaks + body paras matching RSS; podcast/artist URLs kept in About verbatim and also listed under Guest links; closing CTA kept as published)
+YouTube chars: 2260
+RSS HTML chars: 2260
+Title source: YouTube / exact_public_title (sHyTTCMYUSY). YT!=RSS — RSS omits leading The JYLP Episode.
+Title: The JYLP Episode 092 with Roman Merrell of 'RFTA Podcast' - A Complicated Historical Paradigm
+RSS title: 092 with Roman Merrell of 'RFTA Podcast' - A Complicated Historical Paradigm
+Chapters source: none published (inventory has_timestamps=no; no YT chapters)
+Guest links: Rising From The Ashes / Moon Mysteries / GUSHMORR Spotify URLs — inventory has_guest_links=yes
+Quotes: four published Roman expands lines — inventory has_quotes=yes (kept in Quotes; Archive picks adds separate timestamped transcript quotes)
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube
+Guest name spelling: Roman Merrell (matches YouTube/RSS/inventory); guest slug roman-merrell; RFTA Podcast = Rising From The Ashes
+Duration: RSS itunes:duration 7419s (2:03:39); YT info.json duration 7419s — using RSS/inventory 7419
+Publish date: RSS pubDate 2022-12-11 (YT upload_date 20221213)
+Archive picks: added (timestamped quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published Spotify links; kept separate from Jacob published About/Chapters/Quotes.

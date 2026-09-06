@@ -1,0 +1,11 @@
+Source: YouTube automatic captions en-orig (captions.en-orig.vtt / captions.en-orig.json3); en track identical auto; no official/manual en track; no >> diarization markers
+Video: https://www.youtube.com/watch?v=sHyTTCMYUSY
+Turns: 162
+Word count: 22516
+Speaker map: pause-gap segmentation (~0.85-1.2s) + sticky content scoring with Jacob/Roman labels (named speaker labels not present in auto captions); bumper before ~70s forced to Jacob; Scorpio/Bellingham/alchemy narratives forced Roman; movie-theatre/nuns/postcard/RFTA CTA forced Jacob where matched
+Cleanup: light dedupe of consecutive duplicate words; merged consecutive same-speaker fragments (cap ~220 words); HTML entities/nbsp unescaped; capitalized turn starts after merge; light name/term fixes (Rising From The Ashes, Moon Mysteries, GUSHMORR, Junkyard Love, Scorpio); YouTube swear blanks normalized to ****; dropped [Music]/[Laughter]/foreign/end-bumper cue noise
+No sentence rewriting.
+Guest name spelling: Roman Merrell (matches YouTube/RSS/inventory); often discusses RFTA / Rising From The Ashes Podcast.
+Note: automatic diarization is imperfect; remaining short backchannels and some mid-turn blends may still be swapped in places.
+Issue: YouTube automatic captions (en-orig) used; no official/manual track; no >> speaker flips. YT duration 7419s matches RSS/inventory 7419s. No published chapter timestamps. YT!=RSS title: YT includes leading The JYLP Episode; RSS is 092 with Roman Merrell of 'RFTA Podcast' - A Complicated Historical Paradigm. H1 uses YouTube title. Inventory has_quotes=yes (published Quotes kept); has_timestamps=no / has_hashtags=no — Archive picks fills gaps. Manual/heuristic speaker fixes applied: 3
+Postfix diarization: after ~70s bumper, long turns (>=45 words) without strong host markers default to Roman; HOST_STRONG protects movie-theatre/nuns/astrology-door/postcard/RFTA CTA/listeners lines as Jacob.
