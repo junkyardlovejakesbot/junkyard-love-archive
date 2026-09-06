@@ -3,3 +3,4 @@ YouTube chars: 4955
 RSS HTML chars: 7692
 RSS text chars: 6440
 YouTube lacked Key Topics, Key Quotes, and complete book URLs (Amazon/Audible).
+Archive picks: added (timestamped quotes, chapter-style beats, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About/Chapters/Quotes; kept separate from Jacob published About/Chapters/Quotes/Hashtags (published notes already have polished quotes without timestamps and YouTube chapters — left those blocks unchanged; Guest links left unchanged). See source-archive-picks.md.
