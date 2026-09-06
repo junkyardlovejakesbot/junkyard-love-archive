@@ -1,0 +1,17 @@
+Description source: YouTube primary per archive rules; About spaced from YT plain description (~itunes:summary / RSS identical). No dedicated quotes block stripped. No guest contact/email.
+YouTube chars: 1991
+RSS HTML chars: 1991
+Title source: YouTube title preferred for H1/slug (YT≠RSS). exact_public_title uses YT. RSS title shorter without 'The Junkyard Love Podcast' prefix.
+Title: The Junkyard Love Podcast Episode 033 with Andy of Team Banzai
+RSS title: Episode 033 with Andy of Team Banzai
+YT title: The Junkyard Love Podcast Episode 033 with Andy of Team Banzai
+Chapters source: none published in episode notes (inventory has_timestamps=no); no YT chapters
+Guest links: none published on archive page (inventory has_guest_links=no)
+Quotes: 0 published quotes from dedicated notes block (none; inventory has_quotes=yes likely from embedded quote characters e.g. "vibe")
+Hashtags: none published (inventory has_hashtags=no)
+About: Jacob published description verbatim as spaced paras from YouTube
+Guest name spelling: Andy of Team Banzai; guest slug andy-of-team-banzai (NEW)
+Duration: RSS itunes:duration 5332s (1:28:52); YT info.json duration 5244s — using RSS/inventory 5332
+Publish date: RSS/inventory 2020-03-31 (YT upload_date 20200401)
+Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).
