@@ -4,13 +4,9 @@ Extracted from the YouTube auto-caption transcript and published About/quotes/li
 ## Memorable quotes
 
 - [00:12:32] Sandy: “We are spirits having a human experience.”
+- [00:12:32] Sandy: “You are here to learn and practice how to be human.”
 - [00:12:32] Sandy: “A Spiritual Awakening is waking up to your spiritual nature.”
-- [00:13:27] Sandy: “You are here to learn and practice how to be human.”
-- [00:23:45] Sandy: “Pressure might work to create diamonds, but constant applied pressure on a human being is going to completely burn that human out.”
-- [00:24:52] Sandy: “When you don't know how to befriend the ego, or you don't know how to offer it the types of internal technologies that it needs in order to thrive, that's when the ego starts believing more information from the unconscious part of the mind, versus the conscious or superconscious part of the mind.”
-- [00:35:00] Sandy: “Don't judge yourself for judging, because that's what the mind does. Just be aware of it.”
-- [00:50:36] Sandy: “It's about learning how do you navigate because whether we like it Or not these technologies are going To be here.”
-- [00:56:57] Sandy: “Most people that cross your boundaries don't know that they're actually crossing them.”
+- [00:13:27] Sandy: “You're being one with your higher self whereas if you weren't awakened to your spiritual nature.”
 
 ## Chapter-style timestamps
 

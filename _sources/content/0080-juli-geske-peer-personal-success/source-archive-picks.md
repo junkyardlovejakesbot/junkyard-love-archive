@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:01:04] Juli: “A ba in communication and then ma in organizational leadership but i also am a certified coach.”
-- [00:12:08] Juli: “Hard to To um tackle because it requires some Internal work and it requires a supportive environment as well.”
-- [00:19:46] Juli: “Your book a little bit of your bio it sounds like you've had your own growth.”
-- [00:19:46] Juli: “Profit and only on how much money we make for whatever the stakeholders are that realize.”
-- [00:30:11] Juli: “Bit about what happens in a mediation because it's really powerful in my mind and i hear other mediators.”
-- [00:35:36] Juli: “Anything that you can i like the finding the common ground that commonality because it shifts.”
-- [00:51:20] Juli: “Practices i put into the book were learned the hard way yeah learned by me making a lot of failures along.”
-- [00:51:20] Juli: “Wow i have learned so much about myself um so i can say that the practices.”
+- [00:07:25] Juli: “What's gonna happen if you don't make this change.”
+- [00:35:05] Juli: “The relationship goes even if just one side starts it so anybody.”
+- [00:40:38] Jacob: “Some of those practices when needed as well now when you take that into the family or into the community.”
+- [00:55:48] Jacob: “It's the same if you've learned to play the piano.”
 
 ## Chapter-style timestamps
 

@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:03:19] Bob: “I it was like a nice thing of a smaller business yeah I was able to wear many hats learn many things how many.”
-- [00:10:20] Bob: “I hit the sales floor cuz I knew that was where I could where I could actually continue to grow.”
-- [00:10:20] Bob: “I could where I could actually continue to grow and I became the top selling salesperson.”
-- [00:23:20] Bob: “I was catching myself saying that I'm not competitive because I never played organized sports I wasn't ever like sports like it was skateboarding.”
-- [00:23:20] Bob: “I don't care what you're doing I just want to do the nicest kickflip everyone listen.”
-- [00:30:39] Bob: “I was gonna talk you smoothies in front of them yeah like and because I knew.”
-- [00:35:18] Bob: “I don't think it's that way anymore because now someone can mass be like hey check out these kicks on Instagram and it gets.”
-- [00:36:08] Bob: “I need you to go pitch this brand to Amazon and Jimmy's.”
+- [00:14:37] Bob: “I learned from that I move on and I see what works with people.”
+- [00:15:17] Bob: “I learn from them and we have that power and a lot of people.”
+- [00:23:20] Bob: “I just want to do the nicest kickflip everyone listen to my music.”
+- [00:24:07] Bob: “I learned from you that I always pass on to anybody.”
 
 ## Chapter-style timestamps
 

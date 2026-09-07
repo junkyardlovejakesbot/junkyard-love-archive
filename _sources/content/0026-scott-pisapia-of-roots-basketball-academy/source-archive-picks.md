@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:06:02] Scott: “I together could do some things with it was roots awesome and so Josh and I got to know each other through this summers.”
-- [00:44:07] Scott: “Ways but he had very bad separation anxiety were hoping for a dog that we can leave at home.”
-- [00:48:48] Scott: “Wouldn't be bad because there's a lock yeah I'm trying to think of like vantage.”
-- [01:11:06] Scott: “Anxiety is kind of like spiraled now it's I struggle if I'm in a situation that I know.”
-- [01:11:06] Scott: “I know I can't get out of so I believe it's called agoraphobia maybe where you're in like a public.”
-- [01:40:04] Scott: “Depression it could be linked to anxiety it could be linked to cancer kit.”
-- [01:40:19] Scott: “I love to you in the in a second cool yeah well let's just go that way I'm so CBD I don't.”
-- [01:55:03] Scott: “Bar and then caught well maybe not Conor McGregor he's a bad example because he gets a bit of rest.”
+- [00:15:59] Scott: “The beginning was that we wanted to give back to the community.”
+- [00:15:59] Scott: “I had leverage because I was staying at my mom's house with no bills so I had time I had time.”
+- [00:21:21] Scott: “That's been in the community for a long time.”
+- [00:40:57] Scott: “I'm gonna shoot at this right what would your dream.”
 
 ## Chapter-style timestamps
 

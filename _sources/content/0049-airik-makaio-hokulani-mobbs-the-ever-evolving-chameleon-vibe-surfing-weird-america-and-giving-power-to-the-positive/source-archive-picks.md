@@ -4,13 +4,7 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:07:06] Makaio: “Narcissistic person like you're gonna you're gonna mold to whatever environment you're around because you want to blend in that's.”
-- [00:07:06] Makaio: “In that's this is human nature yeah you want to belong yeah you're.”
-- [00:18:23] Makaio: “There's thinking about just the sides of ourselves because there's.”
-- [00:38:19] Makaio: “Being a counselor yeah someone always needs you oh there you go.”
-- [00:38:34] Makaio: “That's you that's pretty real because i feel like i 100 wouldn't have i don't.”
-- [00:44:45] Makaio: “Racism Growing up but after a while because back then there was really like four or five.”
-- [00:44:45] Makaio: “Five of us like that the african-american community has grown a lot now but when i was in elementary.”
+- [00:18:23] Makaio: “There's thinking about just the sides of ourselves because there's a consistency.”
 - [00:47:38] Makaio: “Do you feel better? yeah? ok. C'mon.”
 
 ## Chapter-style timestamps

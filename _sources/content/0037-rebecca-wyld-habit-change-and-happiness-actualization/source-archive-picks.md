@@ -4,17 +4,9 @@ Extracted from the faster-whisper transcript of the full published MP3 (not trun
 
 ## Memorable quotes
 
-- [00:51:25] Rebecca: “experiences beliefs Your beliefs are there because of your experiences and then those same experiences confirm your beliefs So if i'm sitting there going I believe that I”
-- [00:57:04] Rebecca: “god, I'm I am being a jerk to myself that why am I'm gonna keep doing it because it obviously works And then if you can go one”
-- [01:14:47] Rebecca: “you have to own it if it's your truth own it and then it becomes like If they're gonna make fun of it doesn't matter It's what you're”
-- [00:13:18] Rebecca: “to a place where I feel small And it's the best thing for me because a lot of things happen and they're overwhelming”
-- [00:44:05] Rebecca: “that are causing us inflammation learning about all these things that we can do to like help Micro muscles all these little things. I just I just imagine”
-- [00:50:30] Rebecca: “I just ate as much Whole Foods as possible Drink a lot of water I needed vitamins because I was deficient in some And moving my body I”
-- [01:35:49] Rebecca: “up with this but the threshold theory So when I was in the salon and I would get that information at the end of the day I would”
-- [00:00:06] Jacob: “this am It is called awareness by Anthony de Mello. I got this recommendation myself from hearing that Tim Ferriss I don't know if somebody gifted it he”
-- [00:35:04] Rebecca: “of people's like the cosmetologist. That's what okay That's what I was the beauty people the beauty people Yeah, I think they're an important piece in our life”
-- [00:39:22] Rebecca: “of my the back of my neck pain Was uh was my eyes And like so I would start because you notice like if you're if you're looking”
-- [01:54:53] Rebecca: “like I had all like social anxiety and depression and all these things like when she and I first got together Like we would go out to clubs”
+- [00:13:18] Rebecca: “Take me to a place where I feel small.”
+- [00:51:25] Rebecca: “Your beliefs are there because of your experiences and then those same experiences confirm your beliefs.”
+- [01:40:09] Rebecca: “It took a long time for me to be able to look into the mirror and point out the things I loved instead of the things I hate.”
 
 ## Chapter-style timestamps
 

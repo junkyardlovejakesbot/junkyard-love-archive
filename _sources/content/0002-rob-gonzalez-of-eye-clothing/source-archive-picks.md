@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:01:26] Rob: “Planting the seed into our mind letting us know like hey whatever you put into your mind you can create.”
-- [00:02:18] Rob: “I wanted to be able to do something so that I can help humanity and that vision grew.”
-- [00:14:40] Rob: “This book talks about the compound effect okay and you know earning your excellence is the compound.”
-- [00:14:40] Rob: “I haven't actually heard of that one and this book talks about the compound.”
-- [00:17:20] Rob: “I started to realize like I want my designs to have meaning.”
-- [00:23:25] Rob: “Our store and they're like because first thing we ask.”
-- [00:36:38] Rob: “Meaning is the diamond so the reason I chose to go.”
-- [00:36:38] Rob: “The thing another one of our designs as meaning is the diamond.”
+- [00:02:02] Jacob: “I did have a vision of wanting to be my own boss.”
+- [00:04:22] Rob: “I had to fulfill another vision and you gotta get it together.”
+- [00:12:29] Rob: “I still didn't understand the full meaning of earning your excellence.”
+- [00:29:27] Rob: “I know that this has 10-year 20-year vision.”
 
 ## Chapter-style timestamps
 

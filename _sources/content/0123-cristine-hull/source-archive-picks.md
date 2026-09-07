@@ -6,12 +6,11 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 
 - [00:00:48] Cristine: “Love is an answer. It’s a solution for sure.”
 - [00:02:32] Cristine: “The wind is actually the spirit. The effects are the physical body.”
-- [00:07:05] Cristine: “Endorphins… stands for inner orphan, which like morphine… highly addictive… sugar.”
-- [00:10:44] Cristine: “The trick was not to try to change it and stay up. The trick was to realize when I was down, there was some work to do…”
-- [00:14:48] Cristine: “Really, all that matters is that you are whole and complete through a divine connection. And you bring your whole self to it.”
-- [00:20:20] Cristine: “I believe the person who overdosed came with her and walked through the door… this entity… attached to me.”
+- [00:02:32] Cristine: “I know that there’s this thing called spirit.”
+- [00:03:57] Cristine: “I had a chemical imbalance growing up, and that showed up for me as chronic depression — almost incapacitating anxiety.”
+- [00:10:44] Cristine: “My drug of choice was cocaine, so that fits in the dopamine category.”
 - [00:30:20] Cristine: “If we try to use the mind to correct the mind, we can get just a lot of chaos… the solution… is neutrality.”
-- [00:51:12] Cristine: “There’s not a lot in mental health and psychology to solve personality disorders… the problem is because there’s not really a spiritual solution in the mental health field.”
+- [00:57:48] Cristine: “What people are looking for in the endorphin experience is love. And it’s a capital L.”
 
 ## Chapter-style timestamps
 

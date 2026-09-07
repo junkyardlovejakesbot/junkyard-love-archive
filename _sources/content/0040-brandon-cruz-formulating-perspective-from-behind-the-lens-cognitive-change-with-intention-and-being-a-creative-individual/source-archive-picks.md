@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:12:21] Brandon: “I'm kind of sitting above all the vials I'm not just looking out for what songs I want to play personally like my ego.”
-- [00:17:26] Brandon: “My **** so you should listen to me because you're just a dumb photographer yeah when you're too caught.”
-- [00:25:14] Brandon: “I said sometimes you could say something sometimes it could be dramatic sometimes it could just be like hey listen.”
-- [00:25:14] Brandon: “Sometimes it could just be like hey listen it seems as if you're having a problem being told no right now.”
-- [00:31:15] Jacob: “A being with no circumstance does not exist.”
-- [00:42:49] Brandon: “Idea because I've heard you say it a bunch of times and every time it resonates is like as the situation comes.”
-- [00:45:58] Jacob: “I'm neither the depressed person nor the person that is saying "no don't be depressed", but rather the observer of those two thoughts.”
-- [00:54:31] Brandon: “Change because change is you know you're safe in your cave exactly.”
+- [00:05:44] Brandon: “I love having this option it's so cool it you look amazing space.”
+- [00:08:20] Brandon: “I had an interest in acting that probably sprouted it I had this teacher.”
+- [00:31:15] Brandon: “A being with no circumstance does not exist.”
+- [00:45:58] Brandon: “I'm neither the depressed person nor the person that is saying "no don't be depressed", but rather the observer of those two thoughts.”
 
 ## Chapter-style timestamps
 

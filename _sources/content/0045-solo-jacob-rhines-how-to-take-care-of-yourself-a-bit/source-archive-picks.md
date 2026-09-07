@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About. Labeled 
 
 ## Memorable quotes
 
-- [00:28:19] Jacob: “Breath there's a lot of breath work online you could look up wim HOF breathing you can do all.”
-- [00:28:19] Jacob: “You can do all these anxiety breaths there's a there's a lot of when it comes to yoga there's.”
-- [00:40:56] Jacob: “I **** love it cognitively it's one of the best things it's great for inflammation I have redness and like eczema and dry skin.”
-- [00:40:56] Jacob: “Choosing mouth pleasure over something that can benefit you greatly fasting I **** love it cognitively it's one of the best things it's great.”
-- [01:11:14] Jacob: “Your homeostasis to have a breath in a different area of your body so breath.”
-- [01:11:14] Jacob: “Your body so breath work just you can feel where is where it is physically.”
-- [01:46:04] Jacob: “Alone time and the reason why is because we're always doing something because somebody else.”
-- [02:04:45] Jacob: “They're okay with you setting boundaries and saying hey I don't want to do that anymore hey.”
+- [00:06:10] Jacob: “I get better and better as I go along the more I meditate the more I learn about the nature.”
+- [00:06:10] Jacob: “I learn about the nature of my own mind.”
+- [00:16:17] Jacob: “I'm interacting with a movie or a TV show the way that I personally just because the my personality type my perception of reality.”
+- [00:26:20] Jacob: “The modern times and get your body in tune with modern times meaning.”
 
 ## Chapter-style timestamps
 

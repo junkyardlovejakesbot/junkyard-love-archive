@@ -7,10 +7,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [00:07:23] Spencer: “The news is not a tool to make your life better, it's a tool of control.”
 - [00:07:32] Spencer: “Everyone owns a body. You pilot a meat vehicle, you do. You should know how to operate it optimally.”
 - [00:51:49] Spencer: “Not everyone you talk to is going to be in good faith.”
-- [00:51:49] Spencer: “On you and you gotta realize when that's happening but never going to in conversation.”
-- [00:52:19] Spencer: “You're never gonna learn anything you don't listen to people yeah and even if they've.”
-- [00:58:17] Spencer: “Taking humanities classes I've taken every single humanities class at the Community College and it was the most enriching thing that I've ever done.”
-- [00:58:17] Spencer: “I look at the world the way I think about things like it was very awesome and I highly recommend it I would love.”
 - [01:04:13] Spencer: “Unfortunately there's money in symptoms, not health.”
 
 ## Chapter-style timestamps

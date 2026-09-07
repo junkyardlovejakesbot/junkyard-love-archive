@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:01:24] Jeremy: “The hairpin ones are really interesting to me yeah how that happens yeah and then because at the moment it seems catastrophic.”
-- [00:07:19] Jeremy: “We have to struggle for our existence because um things fall apart it's the second.”
-- [00:27:26] Jeremy: “Did it start because it wasn't there before the before now.”
-- [00:27:26] Jeremy: “Want um uh So i love that stuff but as escapism I don't.”
-- [00:31:26] Jeremy: “We are also an extremely evasive organism because language also gives us a way to rationalize dismissing anxious thoughts So that's.”
-- [00:51:13] Jeremy: “It's virtual virtue so me posing as though i'm virtuous or a stud in bed or i think.”
-- [01:17:30] Jeremy: “The only things that can because we have language we can really take notes on the whole.”
-- [01:18:05] Jeremy: “It's all i love poetry i write dog earl every day.”
+- [00:33:36] Jeremy: “Our best guesses which is there's a huge difference between honesty and truth.”
+- [00:39:46] Jeremy: “Will turn it into a habit and stop thinking about it that's what consciousness.”
+- [01:04:19] Jeremy: “It originated because someone got stoned and needed words.”
+- [01:05:51] Jeremy: “The music that underlies that it's the emotional carrier way for our words.”
 
 ## Chapter-style timestamps
 

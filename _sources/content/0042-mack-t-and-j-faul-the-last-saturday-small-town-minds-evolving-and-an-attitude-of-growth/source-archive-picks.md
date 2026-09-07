@@ -4,14 +4,8 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:14:59] Mack: “My office yeah because it's a business now that's where our is yeah let's talk.”
-- [00:15:23] J: “It's pretty cool because it's something like and this is something like Lacey.”
-- [00:20:41] Mack: “I wouldn't want to learn something new so I think I'm like telling myself do that rather than like straying.”
-- [00:35:25] Mack: “I was in a pencil dive because everyone's making sure that your feet are crossed so I was like okay and then I jumped.”
-- [00:39:31] Mack: “Up my spine and of course they don't know the bridge story and they came in they're like you have had trauma.”
-- [00:40:35] Mack: “I came back to school I was really pissed off because it was my senior year.”
-- [02:20:25] Mack: “Conversations built your relationship right those times that we've had a lot of drunk conversation.”
-- [02:20:49] Mack: “You want to be a growth mindset person yeah the cool part is like all.”
+- [00:06:01] Mack: “I'm just trying to see where we're at in relationship.”
+- [00:30:30] J: “I don't have enough humility or ability to humble myself.”
 
 ## Chapter-style timestamps
 

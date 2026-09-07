@@ -4,14 +4,8 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:05:03] Megan: “Psychological title for it but because i know of people that have had it worse.”
-- [00:06:34] Megan: “Kind of poopy and just because my engine is expecting like okay you're going to give me a burst.”
-- [00:31:48] Megan: “Respect you but i would love to have this conversation and then him to also reciprocate that's.”
-- [00:32:46] Megan: “In me but i know that but because i know you i know that doesn't.”
-- [00:48:26] Megan: “Cancel culture too because like you know some people's whole entire.”
-- [00:48:59] Megan: “One with you because i also think it's kind of crap.”
-- [01:50:29] Megan: “What my career choice is fully going to be right now.”
-- [01:51:18] Megan: “Say it open To synchronicities open to listening to my intuition you know i'm really i really have this like strong.”
+- [01:06:52] Megan: “Once in a while so they can learn to look out for it in the future.”
+- [01:32:49] Jacob: “We're going to deal the young kids are going to grow up and deal with new things that humans.”
 
 ## Chapter-style timestamps
 

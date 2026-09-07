@@ -4,14 +4,7 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:03:49] Shiloh: “Cough breaking out in the house because my roommates they have two.”
-- [00:36:40] Shiloh: “Know that was really hard Because i had just talked to this person like two.”
-- [00:36:40] Shiloh: “Depressed About it because um Yeah it was just really hard.”
-- [00:49:04] Shiloh: “Music i've been listening To the new joyner uh lucas album Evolution i think i think that's.”
-- [00:49:04] Shiloh: “Have you been listening to A ton of christmas music i bet you've.”
-- [00:53:14] Shiloh: “You gotta create you got to be a creator of like Your profile in everything and yeah putting music on There having a playlist.”
-- [00:54:23] Shiloh: “I feel Like we would choose the bands based off of their merch.”
-- [01:05:20] Shiloh: “All the time or i'd get annoyed because he would just walk us around for 15 minutes outside without going potty.”
+- [01:00:38] Jacob: “Music changing is it's going to be super cool man.”
 
 ## Chapter-style timestamps
 

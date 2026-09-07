@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:17:36] Ryan: “Anime i watch now they have like because i use crunchyroll and funimation but crunchyroll has crunchyroll original i'm.”
-- [00:17:36] Ryan: “Oh yeah like because they have the apple original or apple.”
-- [00:25:05] Ryan: “Lately i've been Kind of feeling bad because it's like I haven't been giving her the time.”
-- [00:33:56] Ryan: “I wasn't contagious but i still had to tell them of course so i told one person because a Lot at that birthday party.”
+- [00:22:36] Ryan: “Life it'll just definitely change the way you think and what you feel.”
 - [00:40:43] Ryan: “Had it not the shortest time out of everyone at work because we were not work.”
-- [01:54:03] Ryan: “The ability to Choose the right importance but then but then and that's.”
-- [02:17:01] Ryan: “It made me love this song and i memorized it i was like dude and then katie.”
-- [02:17:28] Ryan: “Underrated movies i feel like because not a lot of people know the songs i guess i don't know.”
+- [01:01:01] Ryan: “Can go to restaurants breathe all over the crap using someone.”
+- [02:01:38] Ryan: “You learn maybe you need to be listening.”
 
 ## Chapter-style timestamps
 

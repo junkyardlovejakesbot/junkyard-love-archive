@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:14:04] Rosetan: “I even just in practice like when I'm over here working on stuff and you guys are behind.”
-- [00:14:04] Rosetan: “I get see that really good to like I even just in practice like when I'm.”
-- [00:24:15] Rosetan: “Necessary things how a mentor or a teacher teach you some things learn about things that like learn from someone who is better.”
-- [00:27:03] Rosetan: “I would ignore my guitar for a few hours and bike okay I got to practice.”
-- [00:48:27] Rosetan: “Trying to think like in retrospect if I was gonna learn guitar.”
-- [00:48:27] Rosetan: “I was gonna learn guitar differently what would I do the same.”
-- [02:21:19] Rosetan: “A theme that makes you realize like this is a song he made Crocodile Rock.”
-- [02:21:43] Rosetan: “I'm a piano player it would be his responsibility in a music community to be encouraging towards you no matter.”
+- [00:10:23] Rosetan: “I hope some day that we can get together and make music.”
+- [00:11:04] Rosetan: “I think it's important to go into something with a pretty big creative vision.”
+- [00:24:15] Rosetan: “I play guitar for a few months and posted for you on YouTube and I felt really good about myself.”
+- [00:27:03] Rosetan: “I got to practice that song before rehearsal.”
 
 ## Chapter-style timestamps
 

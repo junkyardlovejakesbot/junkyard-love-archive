@@ -4,14 +4,8 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:04:41] Alicia: “In a circle doing these communication games and i remember walking like literally.”
-- [00:04:41] Alicia: “Erwan i was in another relationship at the time that was like going downhill and this made it go.”
-- [00:08:26] Alicia: “Our mastery of relationship class that was primarily in person expanded like to three times the size.”
-- [00:13:46] Erwan: “Know speed dating online is pretty optimal because it's so convenient if i were single i would do two or three.”
-- [00:16:50] Erwan: “Call it a person's relationship blueprint and that relationship blueprint is something that's forged in the crucible of our childhood that sounds very profound.”
-- [00:17:28] Erwan: “Really fun and great you know we love supporting people in that stuff but where the biggest.”
-- [00:21:54] Erwan: “It could be walking body practice could be walking around barefoot it could be lifting weights.”
-- [00:22:35] Erwan: “Most famous zen master said practice is enlightenment that just totally blew me away so those are the ones.”
+- [00:09:53] Alicia: “It was really surprising because you can touch people.”
+- [00:27:13] Jacob: “The presence and to presence and then from there we can get into more subtle dimensions of being or being a human.”
 
 ## Chapter-style timestamps
 

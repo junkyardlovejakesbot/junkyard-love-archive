@@ -5,13 +5,9 @@ Extracted from the YouTube auto-caption transcript and published About already o
 ## Memorable quotes
 
 - [00:17:12] JACE: “If I got a problem, I'm about a solution.”
-- [00:17:12] JACE: “I always have to remember with myself because i'm such like an advice giver.”
 - [00:26:47] JACE: “I love that stick your chest out typea shit.”
-- [00:58:47] JACE: “I can relate because like the crying thing i used to like i'm such an emotional guy.”
-- [01:05:55] JACE: “Going with this is for because now i've been clean and sober again completely with no alcohol no weed.”
-- [01:05:55] JACE: “Start having like a **** panic attack because i haven't smoked in so long but where i'm.”
 - [01:53:33] JACE: “I'm already goin that way, wanna ride?”
-- [01:53:48] Jacob: “I'm so obsessed now with the possibility of opportunity.”
+- [01:53:48] JACE: “I'm so obsessed now with the possibility of opportunity.”
 
 ## Chapter-style timestamps
 

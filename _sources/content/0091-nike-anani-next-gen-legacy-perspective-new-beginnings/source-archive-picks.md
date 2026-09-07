@@ -5,13 +5,9 @@ Extracted from the YouTube auto-caption transcript and published notes already o
 ## Memorable quotes
 
 - [00:12:29] Nike: “You want to plan as early as yesterday. it’s never too early for legacy planning.”
-- [00:13:51] Nike: “Too early to start planning legacy planning because it takes time it takes time for the family to come.”
-- [00:15:12] Nike: “How do you then Galvanize a team your family members so also crew who create the vision the mission the purpose and the values.”
-- [00:23:13] Nike: “More Diverse teams, and true inclusion, leads to co-creation of better solutions.”
-- [00:23:13] Nike: “More about the community more about upholding one's honor reputation so I think.”
-- [00:33:20] Jacob: “Couple quotes from Nike in this episode:.”
-- [00:45:29] Nike: “A growth mindset when it comes to learning uh is just as an individual is helpful to the overall business.”
-- [00:54:08] Nike: “Powered by possibility because there's just an infinite amount of possibilities that the world has to offer.”
+- [00:25:38] Nike: “I'm not sure that's a good idea because this might not work.”
+- [00:33:20] Jacob: “I was thinking about first generation businesses so people who are starting to get some growth.”
+- [00:46:52] Jacob: “I'm listening to something and I try to make sure they range from mindset type work.”
 
 ## Chapter-style timestamps
 

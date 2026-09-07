@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:39:19] Conner: “You should always challenge yourself in any aspect of life. You should never settle. You should always pursue the next thing. Never stop learning never stop growing.”
-- [01:19:28] Conner: “I love seeing that energy, 100%. I hate dream breakers. They're just trash to me. If someone has a dream, no matter how ridiculous it is, pursue it. I'm all for it. No matter how ridiculous it is. Don't let anybody stop you from doing something you love or that you want to pursue as an individual.”
-- [01:21:31] Conner: “I've read was people change Conner you need to you need to accept that fact and I'm like oh **** this camer just laid.”
-- [01:22:29] Jacob: “Time can be relative. You can cherish the small moments. You don't have to have a full 3-day hangout just to connect with someone.”
+- [00:55:25] Conner: “People get stuck in their minds get really bad depression.”
+- [01:22:29] Conner: “Time can be relative. You can cherish the small moments. You don't have to have a full 3-day hangout just to connect with someone.”
 - [01:27:06] Conner: “I'm always stoked to hear about anyone I ever met to be doing good in their life.”
-- [01:27:48] Jacob: “Don't brag about putting other people down, brag about building yourself up.”
-- [01:46:34] Conner: “We're all just people tryin to get by.”
-- [01:57:50] Jacob: “Any river can be rebridged. The bridge can be rebuilt. Things happen, we're human.”
+- [01:57:50] Conner: “Any river can be rebridged. The bridge can be rebuilt. Things happen, we're human.”
 
 ## Chapter-style timestamps
 

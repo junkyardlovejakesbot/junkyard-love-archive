@@ -4,14 +4,8 @@ Extracted from the YouTube auto-caption transcript and published About. Labeled 
 
 ## Memorable quotes
 
-- [00:15:27] Keenan: “I think also awareness is such a superpower you know being aware that hey this is an echo chamber there's a lot of potentiality.”
-- [00:33:00] Keenan: “I happen to like the nickname so I'm going to run with it I'm gonna put it on all my campaign signs.”
-- [01:04:53] Keenan: “Jumping in to save them right here because you can reach them but at some point you got to go all.”
-- [01:04:53] Keenan: “I think that's really important the a lot of the cost of that build is actually because it's going to be above.”
-- [01:09:56] Keenan: “Some mindfulness for me like meditation and stuff really helped for me but you start learning like oh I'm.”
-- [01:23:44] Keenan: “I really like that I think that is a cool way of a cool example of community is local skate park people.”
-- [01:23:44] Keenan: “Say the quiet part out loud people love spray painting dips on everything yeah dude actually it's super bad.”
-- [02:09:00] Keenan: “I have the ability to actually affect change in this small town.”
+- [00:22:48] Keenan: “I talking to the people that I know are listening.”
+- [01:12:10] Keenan: “I know that making an angry reaction isn't going to benefit the future of my life or my community.”
 
 ## Chapter-style timestamps
 

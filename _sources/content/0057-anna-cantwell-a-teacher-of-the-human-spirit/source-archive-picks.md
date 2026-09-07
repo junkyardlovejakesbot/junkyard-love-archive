@@ -5,13 +5,9 @@ Extracted from the YouTube auto-caption transcript and published About already o
 ## Memorable quotes
 
 - [00:14:08] Anna: “In the wind I feel Spirit, when I'm swinging on the swingset at recess I am matching my breath and constructing universes in the clouds, that was me as a child.”
-- [00:19:00] Anna: “That insatiable curiosity was really hindered by this gripping of identity, trying to 'get it right', needing to always be 'the best', not 'my' best.”
-- [00:26:37] Anna: “I have to leave this battle here.”
-- [00:41:05] Anna: “Am I willing to see this, differently?”
 - [00:46:45] Anna: “The base definition of hope is seeing a more positive outcome, and multiple pathways to that outcome.”
-- [00:49:10] Anna: “Comparing is one of the silliest things we do. Why would I ever compare myself to someone who hasn't had the lived experience, or the DNA, or the childhood, to get you to where you are on your journey right now? OWN where your journey begins.”
 - [00:50:09] Anna: “Meditation is like showering for your brain.”
-- [01:28:08] Anna: “Your home is your vision board, surround yourself with the symbols that mean something to you.”
+- [01:40:44] Anna: “I just want to help people feel comfortable in their own bodies.”
 
 ## Chapter-style timestamps
 

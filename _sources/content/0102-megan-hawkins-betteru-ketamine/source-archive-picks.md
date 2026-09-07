@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Memorable quotes
 
-- [00:26:27] Megan: “Day and they don't really love it because it was Definitely a hard pill to swallow with that is that psychedelics.”
-- [01:09:12] Megan: “I would say the music is probably the Most important aspect of the session because essentially that music is going To be the driver.”
-- [01:25:29] Megan: “We put on Armor to protect ourselves from them ever happening again but through a lot of this healing real.”
-- [01:32:13] Jacob: “You worked so hard to have this armor, to put on this mask, that protects you from any external threat. Not knowing that sometimes the biggest threat is inside our armor, it's inside our minds.”
-- [01:33:25] Megan: “It's the mindset you're in going into it And if you're going into this feeling closed off and like this isn't going to work.”
+- [00:00:00] Megan: “I'm working with patients, I'm talking with them, when they are that rock bottom place in themself when they're first coming to this treatment for whatever the reason is, whatever they've gone through, whatever pain or trauma...”
+- [00:31:25] Megan: “I'm always talking about meditation and stuff on here it gives you the space.”
+- [01:31:39] Megan: “You worked so hard to have this armor, to put on this mask, that protects you from any external threat. Not knowing that sometimes the biggest threat is inside our armor, it's inside our minds.”
 - [01:46:03] Megan: “I lost my professional purpose, then romantic, then my last sense of freedom since when I had initially moved away from home. So at that point, that's where I hit my real rock bottom.”
-- [01:46:03] Megan: “I lost my like professional purpose then like the Romantic then my last quite a sense.”
-- [01:51:54] Megan: “I'm working with patients, I'm talking with them, when they are that rock bottom place in themself when they're first coming to this treatment for whatever the reason is, whatever they've gone through, whatever pain or trauma...”
 
 ## Chapter-style timestamps
 

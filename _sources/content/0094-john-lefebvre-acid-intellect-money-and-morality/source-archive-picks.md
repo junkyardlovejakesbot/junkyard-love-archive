@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published links already o
 
 ## Memorable quotes
 
-- [00:07:01] Jacob: “Be still, yet still be.”
 - [00:14:29] John: “Kids, don't drop acid until you're ready to be troubled.”
 - [00:28:23] John: “Hoarding is the wanking of wealth.”
-- [00:29:21] John: “The making love of wealth is the sharing Of it and you know the mysterious Astonishing.”
-- [00:31:36] John: “When we’re generous with people they don’t bust our balls.”
 - [00:31:36] John: “Here’s the difficult part of my theory Jacob: we have to use force.”
 - [00:59:23] John: “The thing that is the most precious to me in my whole life has fallen into my lap, no more than it has into everybody’s, and that thing is: being a conscious being in the universe.”
-- [01:08:09] John: “Get out there and show some people some great music and then get back to work.”
 
 ## Chapter-style timestamps
 

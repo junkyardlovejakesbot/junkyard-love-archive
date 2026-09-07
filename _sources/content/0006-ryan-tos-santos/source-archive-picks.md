@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:10:07] Ryan: “Is if you're listening right now that's you can quote me on that it says.”
-- [00:18:21] Ryan: “I go there probably once a week like the meditate up top there mmm but it's cool going there like because sometimes.”
-- [00:18:21] Ryan: “Mmm but it's cool going there like because sometimes I'll remember that random memory of that night.”
-- [00:18:21] Ryan: “I go this is Mike one of my favorite meditation city lookout spots I go here like once a week.”
-- [00:36:48] Ryan: “PTSD people with depression people who are lonely if you're listening to this and you've.”
-- [00:36:48] Ryan: “Lonely if you're listening to this and you've never tried any sort of like we're.”
-- [00:48:17] Ryan: “Could look it up but it's it's depression medication essentially it's so hard to describe.”
-- [00:48:17] Ryan: “Had SSRIs inhibitors mm-hmm which what I mean you could look it up but it's it's depression medication.”
+- [00:24:22] Ryan: “I can't remember I think I was 20 because I can't go to bars yet but even then I still look at myself.”
+- [00:53:20] Ryan: “I realized that none of it was real and it wasn't actually me feeling.”
+- [01:16:06] Ryan: “I had also before that I had gone to your house and experienced the love.”
+- [01:22:18] Ryan: “I love that album so much and the fact that there was a first time.”
 
 ## Chapter-style timestamps
 

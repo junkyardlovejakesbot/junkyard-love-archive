@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:02:10] Andy: “Podcast experience yes because it's more fun to be doing this in person than over shitty webcam and when you're in recording.”
-- [00:09:38] Andy: “The 90s the early 90s yeah the only green logo was LimeWire.”
-- [00:19:54] Andy: “Japan moved to Japan helped a lot because you know they don't card so I was like 18 years.”
-- [00:20:53] Andy: “Active thing and because I was like one of the foreigner DJ's I was playing the music.”
-- [00:35:53] Andy: “People kind of need to realize with when you do do a big.”
-- [00:35:53] Andy: “Listen what to listen for and but they know how to like create.”
-- [00:46:02] Andy: “A tattoo artist type of relationship yeah it's a bit more intimate than just like going somewhere.”
-- [00:46:02] Andy: “This type of person and because it's a much more intimate one-on-one type of thing almost like a tattoo.”
+- [00:27:14] Andy: “I'm making making all the music than playing the live shows.”
+- [00:37:29] Andy: “I have to say and if you do need to change.”
+- [00:46:58] Andy: “I say in this you use your hands to create what's in another person's head.”
+- [01:02:00] Andy: “I just do and if you're smart and your rear according it you go back and listen you go oh god.”
 
 ## Chapter-style timestamps
 

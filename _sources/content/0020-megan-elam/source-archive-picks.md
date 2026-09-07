@@ -4,14 +4,7 @@ Extracted from the faster-whisper transcript of the full published MP3 (not trun
 
 ## Memorable quotes
 
-- [00:15:30] Megan: “I think I mentioned K through 7th grade, it is a non-profit a private school, it hasn't been for me to learn.”
-- [00:15:30] Megan: “I didn't expect to learn this today, about what I can take.”
-- [00:21:03] Megan: “I was not a runner so the thought of running eight to 12 miles like gave me an anxiety talk.”
-- [00:46:55] Megan: “I do want to make sure that we get to Ghana which is kind of extension of Family House I say that's.”
-- [00:46:55] Megan: “I say that's Family House the wonderful Lisa Mesh and led you to Tell me about Ghana Africa.”
-- [01:09:36] Megan: “I did not realize I had a mentor.”
-- [01:27:04] Megan: “Change your diet and I was like I don't eat because I don't eat bad I don't go to McDonald's every day fast food.”
-- [01:27:04] Megan: “I went there and she's talking about my like what are the long-term effects of parlor set because you have me taking this every.”
+_(no stand-alone complete quotes retained for this episode)_
 
 ## Chapter-style timestamps
 

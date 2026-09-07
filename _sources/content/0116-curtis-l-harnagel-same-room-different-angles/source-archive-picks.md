@@ -4,13 +4,12 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Memorable quotes
 
+- [00:17:18] Curtis: “It hurts teachers as well because it doesn't give them the resources.”
+- [00:17:18] Curtis: “It's because the arts create connective tissues in your brain.”
 - [00:21:48] Curtis: “Every move is a signature... make it count.”
-- [00:36:02] Jacob: “Listening is the cornerstone of communication. Most people hear - you have to actually listen.”
-- [00:37:42] Curtis: “I have. I My parents were very influential in making sure to reinforce it. realizing that you had to learn.”
+- [00:21:48] Curtis: “You're not listening to what's innate to you or to me personally.”
 - [01:28:33] Curtis: “Kindness is not niceness. Kindness and goodness have one thing in common: benevolence.”
-- [01:28:33] Curtis: “Easier. Fantastic. But also, your emergency is not my emergency. So, that's the other thing.”
-- [01:39:06] Jacob: “Observation itself is a form of communication.”
-- [02:04:24] Curtis: “She was one of those teachers I was talking about earlier. She's not a teacher. She is a true educator.”
+- [01:39:06] Curtis: “Observation itself is a form of communication.”
 - [02:24:43] Curtis: “Your emergency is not my emergency. Take a beat, be polite.”
 
 ## Chapter-style timestamps

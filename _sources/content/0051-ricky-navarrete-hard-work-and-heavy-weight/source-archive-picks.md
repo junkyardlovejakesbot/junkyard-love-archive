@@ -4,14 +4,7 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:04:02] Ricky: “Write that down and so because it actually interested me and it'll help me have one like almost anchor.”
-- [00:04:02] Ricky: “I take notes because it's not so much that i'm gonna look at it later.”
-- [00:22:21] Ricky: “You kept lifting through that because i know that we worked out a few times.”
-- [00:22:21] Ricky: “Definitely like i was always because when i was in high school so in 10th.”
-- [00:25:01] Ricky: “In the past three years um competing because i've been competing.”
-- [00:25:15] Ricky: “Through the process because there isn't it's not just about the training it's about the nutrition definitely.”
-- [00:32:31] Ricky: “Usually the bars are all the way down yeah they just forget because like everyone's in the moment.”
-- [00:38:55] Ricky: “I was you're because you were oh electrician's stuff too yeah that was the second.”
+- [01:30:48] Ricky: “I was doing well it's creating and drawing and doodling and making music.”
 
 ## Chapter-style timestamps
 

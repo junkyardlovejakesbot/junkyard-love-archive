@@ -4,14 +4,9 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Memorable quotes
 
-- [00:32:43] Cam: “I am instead going to actively notice that bring awareness to that and choose to learn something new or do different things and try.”
-- [00:32:43] Cam: “I was dealt I'm probably going to end up in these positions I am instead going to actively notice that bring awareness.”
-- [00:58:47] Cam: “The Simpsons we're watching TV but I also had an awareness of I'm watching the family.”
-- [01:05:51] Cam: “I man I don't know how I don't know how people raise a kid or have a marriage without God.”
-- [01:18:58] Cam: “I love having pride in being a Texan but I take even more pride in being from Austin yeah seriously I don't say Texas.”
-- [01:18:58] Cam: “I'm from Austin when I go places I love being a Texan I love having pride.”
-- [01:31:32] Cam: “Not for yourself like laughter is for connection right and love it makes you feel.”
-- [01:33:03] Cam: “I think the Light in Me loves and and gives permission to light in you whatever it is yeah just by showing.”
+- [00:12:47] Cam: “I think a lot of artists a lot of performers a lot of the big times go through some level of ego.”
+- [00:32:43] Cam: “I'm probably going to end up in these positions I am instead going to actively notice that bring awareness.”
+- [00:32:43] Cam: “I think there's a little bit of that within ego.”
 
 ## Chapter-style timestamps
 

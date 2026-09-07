@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:06:18] Spencer: “I just find myself wanting I just don't want to talk and you want to listen to what they have to say.”
-- [00:06:18] Spencer: “I've reinforced it for so long that I just don't get to do that anymore oh yeah because yeah if you decide.”
-- [00:24:18] Spencer: “I want to vote and who do I vote for like what does it mean like how do I learn to vote I'm sure.”
-- [00:24:18] Spencer: “How do I learn to vote I'm sure there's like plenty of simple.”
-- [00:24:18] Spencer: “I'm saying it out loud I think I would love to like learn exactly.”
-- [00:44:05] Spencer: “The Frankfurt School of thought and just listen to their ideas okay can you explain.”
-- [01:13:27] Spencer: “Every Friday like whatever you love to do especially if it's by yourself.”
-- [01:36:24] Spencer: “Is never gonna grow like if you never break the chains of that you're never.”
+- [00:21:33] Spencer: “I know people who aren't listening to it they have no idea.”
+- [00:36:24] Spencer: “I'm making a connection obviously with that but I think that entire versions of words.”
+- [00:36:24] Spencer: “I think that entire versions of words faith is another good one the word ego.”
+- [00:44:05] Spencer: “School of thought and just listen to their ideas.”
 
 ## Chapter-style timestamps
 

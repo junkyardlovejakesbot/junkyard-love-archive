@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:03:22] Trevor: “Playing all my favorite music because i have like a spotify playlist a bunch of people follow so basically.”
-- [00:32:34] Trevor: “I just have that mindset and it's kind of a blessing and a curse that like you never know you're.”
-- [00:43:54] Trevor: “Meditation helps all kinds of stuff uh to actively be Engaged in what you're.”
-- [00:51:25] Trevor: “They talk about a state change where it's like tony robbins is where Right before he walks on stage.”
-- [00:53:41] Trevor: “Think you had a panic attack an anxiety attack and you have generally really bad anxiety i'm.”
-- [00:53:41] Trevor: “You have generally really bad anxiety i'm like it's never been this bad.”
-- [01:20:25] Trevor: “Know versus growth versus fixed mindset um just Kind of always improving and leaning towards.”
-- [01:20:25] Trevor: “You seem to be very growth mindset You know versus growth versus fixed.”
+- [00:36:48] Trevor: “It actually happening to you and then we can make it this fun camaraderie community.”
+- [00:41:56] Trevor: “I think you probably obviously do is you take purpose.”
+- [00:47:26] Trevor: “The physical stuff you can't you really there's very little you can do to change.”
+- [01:05:48] Trevor: “I need to rest so that later the other purpose.”
 
 ## Chapter-style timestamps
 

@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:14:48] Spencer: “At uh the community college where we live and I've taken a few at university.”
-- [00:14:48] Spencer: “Struggle to find meaning and something that doesn't have meaning inherently.”
-- [00:17:46] Spencer: “The capability to change it and a few of the ideas.”
-- [00:18:12] Spencer: “It's important to talk about because there is a lot of fear mongering.”
-- [00:35:57] Spencer: “Benign by nature they're tools of thought and what you do with them obviously.”
-- [00:49:54] Spencer: “Way that society instructors have exploited it because it separates the worker from the means.”
-- [02:04:20] Spencer: “Detract from self-actualization because you're spending too much time just generating gold and that is like Fundamentally.”
-- [02:13:10] Spencer: “You're listening to as a definitive source because a lot of times like i said before.”
+- [00:01:13] Spencer: “A more myopic political lens because it's what's actually important in the world.”
+- [00:09:20] Spencer: “In results but it's such a scary thing it puts us into such a fear.”
+- [01:22:00] Jacob: “Sometimes the conclusions that we just come to we didn't consciously choose but they actually have some interesting bias and ramifications and need.”
+- [01:38:53] Jacob: “You have an uncomplicated relationship with that you love.”
 
 ## Chapter-style timestamps
 

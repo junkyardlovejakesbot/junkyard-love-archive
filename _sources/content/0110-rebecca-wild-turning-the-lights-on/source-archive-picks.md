@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Memorable quotes
 
-- [00:04:49] Rebecca: “I was in an abusive relationship at the time I had early.”
-- [00:04:49] Rebecca: “I was my name friends Anything crazy and then my dog who was like the my soul dog.”
-- [00:25:56] Rebecca: “I never done that for me so for example a couple of things on my list is like I love to watch.”
-- [00:25:56] Rebecca: “I love to watch the end credits of films I don't know.”
-- [00:52:50] Rebecca: “I'm then doing 45 minutes twice a day and I come out of this thinking I can choose.”
-- [00:56:29] Rebecca: “I talk and my meditation does not look anything like how I thought it was supposed.”
-- [00:59:08] Rebecca: “Usually the morning after a really long meditation or whenever I really do it to be honest.”
-- [01:22:18] Rebecca: “If you're like well I'm never going to be fixed because I'm not ever going to do psychedelics do meditation.”
+- [00:04:49] Rebecca: “I was in an abusive relationship at the time.”
+- [00:09:24] Rebecca: “I've lived in living in a in an abusive relationship.”
+- [00:14:34] Rebecca: “I got through 2019 and then left my abusive relationship.”
+- [00:51:59] Rebecca: “Meditation type experience I really believe that if you do a 45 minutes medit 45 minute meditation.”
 
 ## Chapter-style timestamps
 

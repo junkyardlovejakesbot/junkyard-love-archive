@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:05:42] Cetvies: “Think it's possible because these people if they are forced and they are in prison.”
-- [00:10:14] Cetvies: “Lessened but explained because the volume is so incredible yeah but You might.”
-- [00:10:14] Cetvies: “Maybe this figure might be explained because um Kind of not lessened.”
-- [00:24:13] Cetvies: “Law but you spread over spirit of the law and means that if you sign.”
-- [00:24:13] Cetvies: “There's the law the law is the spirit of the law you follow the letter of the law but you spread.”
-- [00:24:13] Cetvies: “Evil if the spirit of the law say no you protect child what is certainly.”
-- [00:55:22] Cetvies: “A menace to be honest Because the amount of problem we're gonna have with nature for example.”
-- [00:55:22] Cetvies: “The plants will stop to grow away and there's diseases.”
+- [00:07:20] Cetvies: “The mafia because they tell them you know what if you are if you go we know where you live we know we know where your family.”
+- [00:42:04] Jacob: “They choose to say that you know you don't have a proof enough.”
+- [00:50:26] Cetvies: “They will have a courage to resist there's no courage.”
+- [00:52:44] Cetvies: “They are very unclose community to answer to answer.”
 
 ## Chapter-style timestamps
 

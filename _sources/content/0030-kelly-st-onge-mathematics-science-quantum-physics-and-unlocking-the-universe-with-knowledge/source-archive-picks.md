@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:04:04] Kelly: “I kind of wanted a I really wanted to create a podcast with you that I've.”
-- [00:18:30] Kelly: “I just wrote into assembly and then from assembly it breaks it down into that machine code for such that the computer can understand.”
-- [00:31:54] Kelly: “I can let's pull up his exact experiment is that because that does round.”
-- [00:31:54] Kelly: “Experiment is that because that does round it out that's a it's essentially.”
-- [00:41:24] Kelly: “Really fast right so that's why I wanted to get into so I'll make that segue and I'll go into prime numbers.”
-- [00:55:16] Kelly: “What our brains could actually do so our brains are still really **** powerful yeah like but it's just weird because you were now.”
-- [00:55:16] Kelly: “It's just weird because you were now starting to really get into the threshold of holy ****.”
-- [01:04:02] Kelly: “I heard one thing but it's not malicious it's just them making the connection.”
+- [00:08:52] Kelly: “It but humans are actually compared to computers are really smart meaning.”
+- [00:57:16] Jacob: “I'm not solving any of these quantum things myself so I don't know it's all different ones but it's going to change.”
+- [01:04:02] Kelly: “I think that I heard one thing but it's not malicious it's just them making the connection.”
+- [01:15:05] Kelly: “I had to do a special project board about something and how to do with music.”
 
 ## Chapter-style timestamps
 

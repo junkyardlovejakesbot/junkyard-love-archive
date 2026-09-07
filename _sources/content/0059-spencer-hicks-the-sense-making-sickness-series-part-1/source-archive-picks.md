@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:14:41] Spencer: “You were writing is essentially what is truth yes There's a lot of things that we just Take for granted as concepts.”
-- [00:14:41] Spencer: “Actual definition of truth and is it can you even arrive.”
-- [00:19:18] Spencer: “You stop seeking out this truth and find facts and just hold on to them forever You will definitely.”
-- [00:19:18] Spencer: “Must be had and you have to eliminate bias and dogma to actually do that because one of my favorite lines that i've ever.”
-- [00:30:45] Spencer: “Our beliefs so belief systems how are belief systems Installed.”
-- [00:30:45] Spencer: “Human brain you grow up And you know so a good.”
-- [01:29:33] Spencer: “Hammer home education like you just got to continue to learn about stuff because when you stop learning about stuff you become the Unchangeable.”
-- [01:29:33] Spencer: “There's been more change in the last 50 Years or since.”
+- [00:14:41] Spencer: “You were writing is essentially what is truth.”
+- [00:15:38] Spencer: “Can never actually arrive at the concrete truth.”
+- [00:30:45] Spencer: “Our beliefs so belief systems how are belief.”
+- [00:33:39] Spencer: “It's more concrete than what they've been provided before but because they've spent their entire life.”
 
 ## Chapter-style timestamps
 

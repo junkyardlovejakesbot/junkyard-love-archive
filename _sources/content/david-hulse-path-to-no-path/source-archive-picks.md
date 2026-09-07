@@ -5,12 +5,11 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 ## Memorable quotes
 
 - [00:00:12] David: “The path you’re really on should be the path to no path. We don’t need to get something we don’t have. We need to remember what we’ve forgotten.”
-- [00:00:12] David: “He said, I'm the way. And I think they cut out the way. You know, there's at 18 years missing in the Bible that nobody wants to talk about in Christian. Them. Like, okay, that wasn't important. He didn't say anything for 18 years that maybe you need to know.”
-- [00:00:12] David: “I want to work with what’s breaking through, not try to fix what’s breaking down.”
-- [00:08:35] David: “Don’t believe everything I say just because I say it. Take what resonates with your own innate intelligence. That’s where your own ‘I AM’ code comes in.”
+- [00:14:09] David: “Anyway, the words DNA was just everywhere and I thought, oo, this is entering the collective consciousness somehow.”
+- [00:14:09] David: “I was told to call you and tell you that there is a teacher.”
 - [00:27:45] David: “Transformation begins with chaos and disorder. The caterpillar doesn’t go through all that to become an enlightened caterpillar -it becomes a butterfly.”
-- [00:45:51] David: “I'm going around, "Who is he talking to?" And I realized it was me. And I said, "Well.”
-- [01:03:03] David: “It was like taking their because I teach I'm teaching a class right now called energy is currency.”
+- [00:27:45] David: “It comes to where you live, it starts changing all the frequencies, all the patterns of your humanity begin to change themselves.”
+- [00:27:45] David: “Our cells are changing their frequency and their vibrations.”
 - [01:15:45] David: “I'm sure that old caterpillar goes, what in the world is going on here? You know, I've been nibbling on this leaf, and now there's I've eaten all my resources. I have nowhere to go but what's happening inside of me? I don't know what's happening.”
 
 ## Chapter-style timestamps

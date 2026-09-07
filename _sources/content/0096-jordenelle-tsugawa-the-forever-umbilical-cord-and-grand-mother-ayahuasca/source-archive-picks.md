@@ -4,14 +4,9 @@ Extracted from the YouTube auto-caption transcript and published links already o
 
 ## Memorable quotes
 
-- [00:05:02] Jordenelle: “I get paid is to be of service but I also choose to be of service with every interaction I have like I literally.”
-- [00:05:02] Jordenelle: “Consciousness of Oneness which I am I realize everyone I'm seeing is myself so what does myself have to teach myself.”
-- [00:11:12] Jordenelle: “Sum it up is really serving the Consciousness to elevate the vibrational frequency of every single thing I come in contact.”
-- [00:11:12] Jordenelle: “I come in contact with if that's planting a seed in the garden it's not always with physical people that I'm being of service.”
-- [00:33:56] Jordenelle: “I'm here to speak to people to awaken DNA and to bring awareness of who you really are at the core everyone.”
-- [00:33:56] Jordenelle: “Dream like it just started to happen so after the DNA thing and all that sort of stuff happening I started to remember past.”
-- [01:04:28] Jordenelle: “I just felt free I felt like okay to just be a soul without all attachments of the matrixly world.”
-- [01:04:28] Jordenelle: “I don't know why so Anaconda is the spirit of Ayahuasca so you guys.”
+- [00:11:12] Jordenelle: “I come in contact with if that's planting a seed in the garden it's not always with physical people.”
+- [00:12:25] Jordenelle: “I am that to me is being of service but vibrational frequency.”
+- [00:21:55] Jordenelle: “I used to just suck everyone's trauma out of their body.”
 
 ## Chapter-style timestamps
 

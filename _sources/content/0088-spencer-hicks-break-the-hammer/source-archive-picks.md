@@ -4,14 +4,8 @@ Extracted from the YouTube auto-caption transcript and published links already o
 
 ## Memorable quotes
 
-- [00:18:48] Spencer: “Your paper say like what was the yeah I'm struggling to figure out where I Want to start this because this so his Work.”
-- [00:18:48] Spencer: “I Want to start this because this so his Work is complex but it's built on Another person's work that's.”
-- [00:41:51] Spencer: “I love the good Points yeah I think it's great yeah There's a moment that I find myself in Often where I'm.”
-- [00:41:51] Spencer: “It's because it's just like you're just Steeped in it like I'm.”
 - [01:25:57] Spencer: “It’s just like having your eyes refreshed all the time.”
-- [01:49:21] Spencer: “Part of humanity because we just Have this thing called cognitive Miserliness where you evolve to survive.”
-- [01:55:09] Spencer: “Helping in a community is like a really Good thing to do any anything that you Want.”
-- [02:03:27] Spencer: “I fundamentally disagree with myself last year, every year.”
+- [02:14:22] Jacob: “It sitting I 100 did it sitting because I got into my head.”
 
 ## Chapter-style timestamps
 

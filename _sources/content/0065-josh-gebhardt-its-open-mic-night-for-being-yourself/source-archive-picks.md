@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 
 ## Memorable quotes
 
-- [00:10:24] Josh: “Have worked for me and we typically create like a really strong brotherhood where we stay in touch after we work.”
-- [00:14:22] Josh: “Time that i felt comfortable doing so because i wasn't home right like i wasn't.”
 - [00:14:48] Josh: “I had the chance to be myself without any baggage of who you think you are, or the way you grow up, or who you're around, or pressures of hurting the people around you by being your authentic self.”
-- [00:38:05] Josh: “I was always able to be 100% myself, My family always made me feel like I could do anything I wanted to do.”
-- [00:38:05] Josh: “Sisters and my dad and my mom because they i always felt so like Inside my home and in my family.”
-- [00:54:52] Josh: “Shows where my mindset i'm looking i'm looking into disco right now no that's super.”
-- [01:10:53] Josh: “I think the world needs More like openness to Understanding.”
-- [01:14:42] Josh: “I love to see you wanting to grow that network and grow the positivity and you know.”
+- [00:21:20] Josh: “The more that people around me are going to be attracted to me because it is real it is genuine it is honest.”
+- [00:28:59] Josh: “There's no stakes in them there's no there's no meaning.”
+- [01:01:15] Josh: “It but it's been another thing with identity.”
 
 ## Chapter-style timestamps
 

@@ -4,14 +4,7 @@ Extracted from the YouTube auto-caption transcript and published links already o
 
 ## Memorable quotes
 
-- [00:06:17] Zach: “Love now i'm on a path of love so who knows what this one Might.”
-- [00:06:17] Zach: “Truth and Then truth led me to love now i'm on a path of love.”
-- [00:23:34] Zach: “Nature true nature is not the mind All right have you ever.”
-- [00:30:01] Zach: “It's that That to me is the truth of it is that Once you're ready.”
-- [01:12:17] Zach: “Was something that i think that I learned at a young age as like a Survival technique.”
-- [01:12:17] Zach: “Inquiry around unconditional love If it's possible If it's worth it can it be done.”
-- [01:20:15] Zach: “The obstacles against it And part of our path of moving from Conditions to unconditional love.”
-- [01:20:15] Zach: “Your task is not to Seek for love but merely to remove all The obstacles.”
+_(no stand-alone complete quotes retained for this episode)_
 
 ## Chapter-style timestamps
 

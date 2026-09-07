@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:09:15] Andre: “I guess but it did some weird turning and stuff where it like shot in one direction and then change.”
-- [00:09:15] Andre: “In one direction and then change direction super fast and when another plane.”
-- [00:12:52] Andre: “Oh yeah just because how big it was all like holy.”
-- [00:12:52] Andre: “Go that far because they say that there's a few moons.”
-- [00:25:48] Andre: “Fours in that rocket will get the rocket going like it says it takes six days for the countdown because it's such a process.”
-- [00:39:11] Roberto: “We need more stuff on the shelves because you're coming in you and you can't.”
-- [00:43:05] Roberto: “It's all about that should open I love it bro.”
-- [01:33:45] Roberto: “You want keep going you've gone yeah because there's always so many things that'll come up that will you'll.”
+- [00:27:51] Andre: “Your window I realized this when I was younger I used to love.”
+- [00:27:51] Andre: “I used to love just leaving the doors open on a hot summer day.”
+- [00:55:35] Roberto: “All the work that it takes to create anything but that's why a lot of people.”
+- [00:59:12] Andre: “I've started to feed my mind the more my vision.”
 
 ## Chapter-style timestamps
 

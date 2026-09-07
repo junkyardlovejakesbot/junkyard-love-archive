@@ -5,13 +5,12 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 ## Memorable quotes
 
 - [00:12:05] Wendy: “If you've never looked in the mirror and questioned your actual gender identity, 'I should have been a boy,' or 'I should have been a girl,' if you've never done that, I don't expect you to fully understand the depth of the distress.”
-- [00:13:43] Wendy: “My therapist challenged every one of my thoughts, every one of my beliefs in myself.”
-- [00:16:44] Wendy: “We're the best drug dealers going. Oh, yeah. They're highly addictive. We're all Holden. All Holden. And we can get totally addicted to depression.”
-- [00:26:42] Wendy: “Honor her, and show her that you love her by letting her go." That way.”
+- [00:12:05] Wendy: “Packing up and changing careers and moving across the country, that's a profound life change.”
+- [00:16:44] Wendy: “We can get totally addicted to depression, anxiety.”
+- [00:16:44] Wendy: “I just really can't begin to tell you how profound of a life change this really is for people.”
+- [00:31:41] Wendy: “It wasn't a gradual change, it was sudden and it just kept going 'cause I felt.”
+- [00:33:50] Wendy: “It also takes the word that's out there in the world, choice, that I chose to do this, it takes that off the table.”
 - [00:59:59] Wendy: “Every limiting belief I confronted was like shedding a layer; underneath, I found who I truly was.”
-- [01:24:07] Wendy: “Oh, lose the word trans. You're not being dis- disloyal to the community. You're being loyal to yourself.”
-- [01:27:42] Jacob: “When you're able to finally align your outside with your inside, the sense of peace and joy is indescribable.”
-- [01:29:11] Wendy: “Start to discover you have self-love. I can honestly say until 10 years ago, I had none. Wow.”
 
 ## Chapter-style timestamps
 

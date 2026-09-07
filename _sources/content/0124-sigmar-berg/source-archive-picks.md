@@ -9,7 +9,6 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 - [00:07:39] Sigmar: “It's kind of cheating because it's a shortcut to meditation.”
 - [00:12:32] Sigmar: “The most important thing is to slow down the exhale.”
 - [00:12:32] Sigmar: “Breath is basically your best friend.”
-- [00:17:44] Sigmar: “You're setting the tone of the day.”
 - [00:29:01] Sigmar: “If you look on the outside, you become a dreamer. If you go inside, you awaken.”
 - [00:34:48] Sigmar: “Authenticity is actually the key to wholeness.”
 

@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Memorable quotes
 
-- [00:07:58] Craig: “Yourself and so the one relationship you have from start to finish is the one you have with yourself.”
-- [00:12:17] Craig: “Conversations are what is the foundation Of your marriage a lot of times I think we're.”
-- [00:18:47] Craig: “Being married versus building the Marriage are two very different things cuz you can be married but never ever.”
-- [00:18:47] Craig: “A like it's the very teeny tiniest step That is required to build the marriage Like being married versus building the Marriage are two.”
-- [00:19:40] Craig: “We think it's a cheat code to life like it really is a cheat code when you can have build your dream.”
-- [00:19:40] Craig: “Code when you can have build your dream and do it with Your best friend.”
-- [00:34:52] Craig: “Nice way to maintain Connection in a relationship is like just a really specific check-in question What's the best.”
-- [00:34:52] Craig: “Know what was your favorite lesson you learned today like something just specific that prompts a thoughtful.”
+- [00:03:47] Craig: “We wanted to help because the housing market blew up and everywhere including here and we wanted to help firsttime home.”
+- [00:09:29] Craig: “I'm not going to do that and when you get into that you get into scorekeeping and that fractures the relationship.”
+- [00:09:29] Craig: “It all is the mindset that you need.”
+- [00:13:29] Craig: “We just it wasn't even a conversation that we had to discuss that we're stronger as a team it was just an inherent belief.”
 
 ## Chapter-style timestamps
 

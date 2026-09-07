@@ -4,14 +4,9 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:04:22] Nate: “Know matter its matter I'm patients the ego wants it right my boss.”
-- [00:04:22] Nate: “All figured out so I'm still working I would do not would absolutely love to quit my job.”
-- [00:08:44] Nate: “Friends or lose family or be misunderstood because people are allowing you to change it's just it just seems a world.”
-- [00:08:44] Nate: “It's worth every second but feeling that you're going to lose friends or lose family or be misunderstood because people.”
-- [00:15:42] Nate: “Over and that it's done because as Millennials when we're sensitive when we're sensitive and when we take things.”
-- [00:22:30] Nate: “I had to learn how to do that I had to learn how to be disciplined with positive thinking and I had to learn.”
-- [00:22:30] Nate: “I don't have time for it I really don't and it's hard again with the change it's hard to think that some people might.”
-- [00:54:02] Nate: “I know and that's one of the reasons I was afraid to change it because I did not know what is a functional training.”
+- [00:04:22] Nate: “I'm patients the ego wants it right my boss.”
+- [00:09:39] Nate: “I was in the deepest depths of depression.”
+- [00:22:30] Nate: “I really don't and it's hard again with the change.”
 
 ## Chapter-style timestamps
 

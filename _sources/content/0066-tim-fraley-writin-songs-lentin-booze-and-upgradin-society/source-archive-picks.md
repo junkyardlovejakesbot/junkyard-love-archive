@@ -4,14 +4,7 @@ Extracted from the YouTube auto-caption transcript and published About/chapters 
 
 ## Memorable quotes
 
-- [00:05:09] Tim: “Gypsy soul no Fools cowboy wants you'll never fool him.”
-- [00:05:09] Tim: “I'm still king girl Ain't nothing out there to see now what's up you couldn't see with me Gypsy soul.”
-- [00:17:01] Tim: “Now an occasional bark that's just kind of what you get like i feel like cove had opened the door for that because everybody.”
-- [00:17:01] Tim: “Door for that because everybody had to go it's not everything so professional.”
-- [00:29:31] Tim: “Mean i've i love music festivals blue paws off The counter.”
-- [00:30:19] Tim: “It was weird because like he's so unknown in general like out here.”
-- [01:00:55] Tim: “Smell of their breath and stuff and you're like whoa what are you drinking yeah god gave.”
-- [01:00:55] Tim: “I feel like when you're because you know your first type of alcohol you're.”
+- [00:15:52] Jacob: “If i've been having some drinks and we're at we're at a campfire and you pull out your guitar.”
 
 ## Chapter-style timestamps
 

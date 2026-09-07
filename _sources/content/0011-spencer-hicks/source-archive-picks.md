@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:04:47] Spencer: “Alert on her phone and it says listen they're zombies everywhere that shit's real is happening it's probably.”
 - [00:06:08] Spencer: “Life if there's one thing you learn from this podcast it's just find a good friend.”
-- [00:25:31] Spencer: “That's why a mindfulness practice is great right because it's the perfect temper to this we our bodies.”
-- [00:27:50] Spencer: “I think that even going to the gym when you're just like at this high anxiety level this parasympathetic level.”
-- [00:39:17] Spencer: “You could probably navigate a lot better because you have more of a baseline but you must.”
-- [00:39:17] Spencer: “Important and even bad ideas you must learn from them of course.”
-- [01:18:32] Spencer: “You just need to trust yourself and grow from all these things and just not be scared.”
-- [01:18:32] Spencer: “I'm gonna just keep doing what I'm doing and I'm not gonna change who I am because you pointed out that I was wrong.”
+- [00:12:32] Spencer: “I knew nothing about it but a change.”
+- [00:15:37] Spencer: “I've gone up there and it's just incredibly claustrophobic and I can't send her in on the music.”
+- [00:27:27] Spencer: “I actually can sleep less - so that's another benefit of meditation.”
 
 ## Chapter-style timestamps
 

@@ -4,14 +4,8 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:13:36] Mika: “It's a space to come in relax breathe kind of feel like you're in a movie theater when you take that breath.”
-- [00:13:36] Mika: “You take that breath before the movie starts and you're like oh yes i'm about to dive.”
-- [00:13:36] Mika: “More control over because i'm like this will not do like my eyes.”
-- [00:15:31] Mika: “I'm happy to be here it was episode 36 I remember because i have a memory.”
-- [00:15:31] Mika: “I remember because i have a memory for numbers also it was super fun for me so It's one of the things.”
-- [01:03:13] Mika: “I'm open to it now you know because a few years ago i would have i would have read.”
-- [01:27:58] Mika: “Intimately i've already learned that we don't really vibe on a conversational level.”
-- [01:27:58] Mika: “Need to watch it because she's like this already exists but yes i do think people.”
+- [00:57:33] Jacob: “If we can't physically recognize the trauma right out of the gate we have an opportunity to be traumatized if it looks different lessons.”
+- [01:30:38] Mika: “They're all just boring or they're all just aggressive or because we're not looking for the right things when we're on the app we're doing it to ourselves.”
 
 ## Chapter-style timestamps
 

@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About/quotes/li
 
 ## Memorable quotes
 
-- [00:06:42] Jerry: “I got to college i learned quickly just how Uh little i actually.”
-- [00:09:09] Jerry: “Never be interested in taking on a leadership position in a chain pharmacy just because there's.”
 - [00:33:12] Jerry: “You will never be free of conflict. You may never be free from that fear, but you can still deal with it. You don’t have to be afraid of it anymore.”
 - [00:34:47] Jerry: “Passive-aggressive comments are funny in movies but they’re terrible in real-life relationships.”
-- [00:34:47] Jerry: “Know what i'd love to say that it's like try that let me know how that goes.”
-- [00:34:47] Jerry: “Now That the truth is all out now we can actually.”
+- [00:59:33] Jerry: “You're the person who needs help having the courage.”
 - [01:24:08] Jerry: “How do I make the people around me great?”
-- [01:24:08] Jerry: “I think the world needs more humility you can say empathy but of all the good answers i Think the best one is humility.”
 
 ## Chapter-style timestamps
 

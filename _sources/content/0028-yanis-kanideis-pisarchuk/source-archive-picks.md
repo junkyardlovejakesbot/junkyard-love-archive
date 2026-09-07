@@ -4,14 +4,9 @@ Extracted from the YouTube auto-caption transcript, YouTube chapter markers, and
 
 ## Memorable quotes
 
-- [00:13:00] Yanis: “If you come up on a million because of the lottery you're probably gonna blow it on a bunch of dumb.”
-- [00:24:28] Yanis: “I was like such a hopeless romantic it's crazy like that's why I started talking about bog because we both.”
-- [00:31:27] Yanis: “You get any sort of anxiety or like how is that you've probably.”
-- [00:33:27] Yanis: “I've gone I go through many different layers of anxiety and where I'm at now I do a lot of like my alone time.”
-- [00:37:53] Yanis: “I'm telling you really at all it's so because of all those times that I was supposed to do that is funny.”
-- [00:37:53] Yanis: “I was supposed to do that is funny because I remember the first time I ever performed I'm.”
-- [01:29:25] Yanis: “I don't think I'll ever want to get into an open relationship.”
-- [01:29:25] Yanis: “I think this way like I changed open relationships now I'm a serial monogamist it's not something that I'll ever like I don't think.”
+- [00:04:37] Yanis: “I could consistently understand a lot more than I should understand at that point and the getting into the music.”
+- [00:04:37] Yanis: “I got any music and I started writing really emotional music.”
+- [00:25:33] Yanis: “I can now communicate with this language this music.”
 
 ## Chapter-style timestamps
 

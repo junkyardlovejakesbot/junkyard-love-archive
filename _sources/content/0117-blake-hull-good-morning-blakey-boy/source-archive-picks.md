@@ -4,14 +4,13 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 
 ## Memorable quotes
 
-- [00:01:40] Blake: “I feel most connected with you when you’re feeling.” - Blake recounting a moment in therapy that changed his understanding of connection and vulnerability.”
-- [00:01:40] Blake: “Anger isn’t the problem. It’s what happens when we stop letting it teach us.”
-- [00:04:30] Blake: “Emotions are information. You’d be stupid to ignore them.” - Blake quoting a college professor who first reframed feeling as intelligence.”
-- [00:06:45] Jacob: “When Jesus flipped tables, that was dharmic anger — anger in service of love.”
-- [00:20:45] Blake: “Something about me that I need to change, but hey, let's look into like why I was the way.”
-- [00:55:38] Blake: “It is beautiful because math to me is a method of beauty. Like it's not beautiful itself.”
-- [01:33:45] Blake: “Maybe consciousness has always been doing this — reflecting itself through whatever new medium we invent.” - Jacob, near the close, connecting AI, identity, and awareness.”
-- [01:33:45] Blake: “It's just a siphon from the human consciousness which belongs to all of us. So, either pay.”
+- [00:01:40] Blake: “I feel most connected with you when you’re feeling.’ - Blake recounting a moment in therapy that changed his understanding of connection and vulnerability.”
+- [00:04:30] Blake: “Emotions are information. You’d be stupid to ignore them.’ - Blake quoting a college professor who first reframed feeling as intelligence.”
+- [00:09:39] Blake: “It had something to teach me. I was angry because in the future.”
+- [00:16:18] Blake: “I'm going to flip this [ __ ] table because these people.”
+- [00:20:45] Blake: “I think we wouldn't be shocked to learn that there's plenty of other men.”
+- [00:35:16] Blake: “I was dealing with just insane anxiety, depression.”
+- [01:33:45] Blake: “Maybe consciousness has always been doing this — reflecting itself through whatever new medium we invent.’ - Jacob, near the close, connecting AI, identity, and awareness.”
 
 ## Chapter-style timestamps
 

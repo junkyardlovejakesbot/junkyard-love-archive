@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Memorable quotes
 
-- [00:09:45] Brent: “I have to just continue this practice of being a witness of observing and taking space and so I began to find.”
-- [00:12:12] Brent: “I sat down in meditation and suddenly like it instantly my neck began to Arch and my chin became to my chest.”
-- [00:25:46] Brent: “I could say okay yeah this is me this is I this is Brent this is the ego.”
-- [00:28:53] Brent: “Has become a dream and I thought oh this is actually what I'm experiencing Zen.”
-- [00:51:01] Brent: “This to be the practice of self-love unconditional self-love so it was like I was loving myself.”
-- [00:51:01] Brent: “I gave myself permission to feel more and more and I considered this to be the practice.”
-- [01:42:53] Brent: “Approaches you and says hey in that meditation I had a huge explosion of energy from my spine in my head.”
-- [01:42:53] Brent: “I can't stop vibrating after that meditation what's going on and somebody can say like how my friend.”
+- [00:05:31] Brent: “I didn't feel that I was this body or I was the mind I don't even think I had a formulated an ego.”
+- [00:05:31] Brent: “I would go through different experiences that would now begin to form this identity.”
+- [00:22:58] Brent: “I came out of this meditation went around went along with my day.”
+- [00:25:46] Brent: “I knew it was of a spiritual nature.”
 
 ## Chapter-style timestamps
 

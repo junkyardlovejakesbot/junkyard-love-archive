@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Memorable quotes
 
-- [00:14:28] Kevin: “I was like holy geez I literally felt saved because I had to stop drinking there's.”
-- [00:14:28] Kevin: “I had to stop drinking there's probably a little bit of fear.”
-- [00:15:31] Kevin: “I realized I had a huge anxiety issue like huge and that's really what was driving me to drink was the fact.”
-- [00:23:32] Kevin: “I could share one thing with anyone who's kind of in the middle on stuff it's like go all out just because the failure.”
-- [00:44:25] Kevin: “Accept and we love and we're like huge fans of the sober Kevin.”
-- [00:44:25] Kevin: “Hearing that really did something to me because a huge part of all this a huge part.”
-- [01:15:50] Kevin: “I've found my I own truth in Jesus I Think Jesus was the son.”
-- [01:15:50] Kevin: “I and that's just my own belief right because when I turn myself over to that I'm LED it's like the conduit to God.”
+- [00:03:56] Kevin: “I was pretty fatigued and stressed because I hadn't had learned about wearing yourself.”
+- [00:10:19] Kevin: “I was pretty loud because a lot of people.”
+- [00:11:42] Kevin: “I know was incredible at law and very intelligent because one of my best friends.”
+- [00:14:28] Kevin: “I literally felt saved because I had to stop drinking there's probably a little bit of fear.”
 
 ## Chapter-style timestamps
 

@@ -4,14 +4,9 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 
 ## Memorable quotes
 
-- [00:05:02] Crystal: “I'm like the puff bars are terrible because that's like it's in a plastic.”
-- [00:05:02] Crystal: “You're wasting so much just plastic because you use it once and then you throw it out but the jewels.”
-- [00:47:57] Crystal: “Change and like how those moments can be truly powerful.”
-- [01:05:26] Crystal: “Time and without thinking about it just because i was like in there in their home she just does piano lessons.”
-- [01:05:26] Crystal: “Crap like i feel bad because i hope i wasn't just too intense for him.”
-- [01:20:40] Crystal: “You push a boundaries and allow yourself to be able to you know.”
-- [01:40:49] Crystal: “I have ADHD or whoa i didn't realize it but i'm ocd or whatever and there's There's some extent.”
-- [01:40:49] Crystal: “There's some extent which is very good because people are like oh wow jesus that now i can find ways.”
+- [01:22:23] Jacob: “It's tough because your family is your family.”
+- [01:23:44] Jacob: “It's just important to live authentically to yourself because that's at the end of the day.”
+- [01:46:57] Crystal: “Love you sis thank you have a good rest of your day.”
 
 ## Chapter-style timestamps
 

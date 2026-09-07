@@ -4,14 +4,13 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 
 ## Memorable quotes
 
-- [00:03:52] Tim: “To really be whole, you need the feminine. A man needs the feminine… the action, the masculine, and then there’s the giving and the receiving, the feminine.”
-- [00:26:59] Tim: “For me, meditation really started as moving my body and stretching… reconnecting with self.”
-- [00:26:59] Tim: “I would just stretch, just like work on my breath.”
-- [01:16:23] Tim: “You know, the ego death and but rebirth and then there's the trust.”
-- [01:35:59] Tim: “Courage, but also courage is the courage to be willing to trip over your words.”
-- [01:35:59] Tim: “I'm giving him right now, etc. etc. I'm going to have the courage to still trust the intuition that I should go.”
-- [01:37:09] Jacob: “Pray for your future self… God, shape me into the person I’m down here to be.”
+- [00:03:52] Tim: “I realized that there's like everything has a duality.”
+- [00:17:52] Tim: “You’re not a pu*sy if you don’t meditate perfectly today… Today wasn’t the day. Not every day you’re going to have enlightenment.”
+- [01:04:02] Tim: “She's like because we agreed on a price.”
+- [01:25:45] Tim: “It's cool to be called towards a certain level of responsibility.”
+- [01:35:59] Tim: “We dis hate their suffering by having the courage.”
 - [01:45:59] Tim: “Gratitude I guess it's gratitude and thankfulness is how I start and my prayers.”
+- [01:45:59] Tim: “Always asking for that relationship and always um being thankful.”
 
 ## Chapter-style timestamps
 

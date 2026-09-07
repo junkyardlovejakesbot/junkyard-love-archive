@@ -417,37 +417,73 @@
   }
 
   function randomQuote(targetEl) {
-    return loadIndex().then(function (data) {
-      var el = typeof targetEl === "string" ? document.querySelector(targetEl) : targetEl;
-      if (!el) return;
-      var pool = [];
-      published(data.episodes).forEach(function (ep) {
-        (ep.quotes || []).forEach(function (q) {
-          if (q && q.text && q.text.length > 20) pool.push({ ep: ep, q: q });
+    var el = typeof targetEl === "string" ? document.querySelector(targetEl) : targetEl;
+    if (!el) return Promise.resolve();
+    var cleanUrl = abs("assets/quotes_clean.json");
+    return fetch(cleanUrl, { credentials: "same-origin" })
+      .then(function (r) {
+        if (!r.ok) throw new Error("no quotes_clean");
+        return r.json();
+      })
+      .then(function (payload) {
+        var list = payload.quotes || payload || [];
+        var pool = list.filter(function (q) {
+          return q && q.text && q.text.length > 20 && q.episode_slug;
+        });
+        var item = pick(pool);
+        if (!item) {
+          el.innerHTML = "";
+          return;
+        }
+        var t = parseTs(item.t_seconds != null ? item.t_seconds : item.timestamp);
+        var hash = item.timestamp ? "#t-" + fmtTs(t) : "";
+        var text = String(item.text).replace(/^["“]|["”]$/g, "");
+        var epUrl = abs("episodes/" + item.episode_slug + "/index.html") + hash;
+        el.innerHTML =
+          '<blockquote class="pull-quote">“' +
+          esc(text) +
+          '”</blockquote>' +
+          '<p class="note">' +
+          (item.speaker ? esc(item.speaker) + " · " : "") +
+          '<a href="' +
+          esc(epUrl) +
+          '">' +
+          esc(item.browse_title || item.episode_slug) +
+          " · Episode " +
+          esc(item.episode_number || "") +
+          "</a></p>";
+      })
+      .catch(function () {
+        return loadIndex().then(function (data) {
+          var pool = [];
+          published(data.episodes).forEach(function (ep) {
+            (ep.quotes || []).forEach(function (q) {
+              if (q && q.text && q.text.length > 20) pool.push({ ep: ep, q: q });
+            });
+          });
+          var item = pick(pool);
+          if (!item) {
+            el.innerHTML = "";
+            return;
+          }
+          var t = parseTs(item.q.t_seconds != null ? item.q.t_seconds : item.q.t);
+          var hash = item.q.t ? "#t-" + fmtTs(t) : "";
+          var text = item.q.text.replace(/^["“]|["”]$/g, "");
+          el.innerHTML =
+            '<blockquote class="pull-quote">“' +
+            esc(text) +
+            '”</blockquote>' +
+            '<p class="note">' +
+            (item.q.speaker ? esc(item.q.speaker) + " · " : "") +
+            '<a href="' +
+            esc(episodeUrl(item.ep, hash)) +
+            '">' +
+            esc(item.ep.browse_title || item.ep.canonical_title) +
+            " · Episode " +
+            esc(item.ep.number) +
+            "</a></p>";
         });
       });
-      var item = pick(pool);
-      if (!item) {
-        el.innerHTML = "";
-        return;
-      }
-      var t = parseTs(item.q.t_seconds != null ? item.q.t_seconds : item.q.t);
-      var hash = item.q.t ? "#t-" + fmtTs(t) : "";
-      var text = item.q.text.replace(/^["“]|["”]$/g, "");
-      el.innerHTML =
-        '<blockquote class="pull-quote">“' +
-        esc(text) +
-        '”</blockquote>' +
-        '<p class="note">' +
-        (item.q.speaker ? esc(item.q.speaker) + " · " : "") +
-        '<a href="' +
-        esc(episodeUrl(item.ep, hash)) +
-        '">' +
-        esc(item.ep.browse_title || item.ep.canonical_title) +
-        " · Episode " +
-        esc(item.ep.number) +
-        "</a></p>";
-    });
   }
 
   function search(query, targetEl) {

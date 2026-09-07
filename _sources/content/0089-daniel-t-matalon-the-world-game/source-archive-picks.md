@@ -4,14 +4,7 @@ Extracted from the YouTube auto-caption transcript and published links already o
 
 ## Memorable quotes
 
-- [00:06:16] Daniel: “This question is there Enough because it's not just 100 of Humanity but sometimes a hundred percent.”
-- [00:06:16] Daniel: “There enough Has generated a responsibility in people That the answer to that question.”
-- [00:08:40] Daniel: “An it's an it's a surprising thing So i have sort of more fun with that Part about it because i know.”
-- [00:13:21] Daniel: “I would love to dive into that yeah what Do you mean what What i actually have i have not done a Lot publicly.”
-- [00:15:54] Daniel: “The pot for people to begin to recognize That they have more power than they Realize.”
-- [00:15:54] Daniel: “Power than they Realize they do they have more ability To get things.”
-- [00:24:46] Daniel: “Even if by the way your story I would call false Based on some other facts like i learned This from jonathan.”
-- [00:53:04] Daniel: “I'd love talking about Marcia in this Conversation but so much uh that I'll emphasize her history a Little further.”
+- [00:09:41] Jacob: “We have to learn how to love ourselves.”
 
 ## Chapter-style timestamps
 

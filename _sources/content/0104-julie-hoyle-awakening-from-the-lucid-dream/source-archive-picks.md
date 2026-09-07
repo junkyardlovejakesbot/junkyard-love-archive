@@ -5,13 +5,9 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 ## Memorable quotes
 
 - [00:03:29] Julie: “I was always looking for someone who I knew could speak to the truth of who I was beyond the story.”
-- [00:03:29] Julie: “Life really was never the same again because even though I'd always been a lucid.”
-- [00:03:29] Julie: “I recognized him and from that touch then from that point on uh my life really was never the same again because even though.”
-- [00:13:13] Julie: “I dropped doing the all the practices all the meditation everything the chanting everything and the only thing that had any kind of resonance.”
-- [00:33:15] Julie: “I said there's absolutely no way I'm going to write a book if it comes from ego I don't want.”
-- [00:33:15] Julie: “Book if it comes from ego I don't want anything to do with it has to flow.”
-- [01:13:19] Julie: “I draw it and then I do stream of Consciousness writing around what I was being shown and it was always so incredibly profound.”
-- [01:13:19] Julie: “My journal and then do stream of Consciousness writing around that and another little kind of thing.”
+- [00:03:29] Julie: “I would have these out of body experiences and lucid dreams and for those that might not know a lucid dream.”
+- [00:03:29] Julie: “I suddenly felt myself falling through time and space and my subtle body landed through the heart.”
+- [00:13:13] Julie: “I came into my body it was 3:00 a.m. and I just couldn't sleep because I was filled with the most incredible energy.”
 
 ## Chapter-style timestamps
 

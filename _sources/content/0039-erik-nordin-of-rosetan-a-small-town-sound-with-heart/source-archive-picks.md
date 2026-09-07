@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:09:18] Erik: “I think it's close the closest thing we can describe it as is like folky because it's definitely acoustic led it used.”
-- [00:09:18] Erik: “Is like folky because it's definitely acoustic led it used to have more like electric guitar elements.”
-- [00:18:56] Erik: “Frustrated by it because like I'm not I don't have any politically charged argument about the situation I just want people to be safe.”
-- [00:33:46] Erik: “Band it doesn't help the integrity of the other two bandmates that you're.”
-- [00:36:41] Erik: “I think there will be a time that you realize that you look back and like oh yeah those are the good.”
+- [00:10:11] Erik: “I know that antidote will continue doing it because they made good relationships.”
+- [00:19:52] Erik: “I'm thinking about you because a lot of people.”
+- [00:50:34] Erik: “I need to complete this I think we it but we don't really have this back layer of because I need.”
 - [00:52:16] Erik: “Quarantine has taught me, that I am O.K. alone.”
-- [01:09:17] Erik: “I understand there's not much of an algorithm like if you're listening to like cuz most the stuff on Bandcamp is already niche that's.”
-- [01:09:17] Erik: “Let's say you listening to like a post rock band like an ambient.”
 
 ## Chapter-style timestamps
 

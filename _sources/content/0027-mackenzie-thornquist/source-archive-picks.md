@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript, YouTube chapter markers, and
 
 ## Memorable quotes
 
-- [00:09:13] Mackenzie: “Meaning they had enough flight attendants in those bases for the amount of flights going out each day.”
-- [00:10:46] Mackenzie: “I would actually get it because it's so competitive and then yeah I ended up getting it was a really quick process.”
-- [00:20:47] Mackenzie: “Up because it's Iceland you never really know how the weather.”
-- [00:21:09] Mackenzie: “There's glaciers there's a lot of different tours you can do scuba diving one of my favorite places.”
-- [00:27:16] Mackenzie: “You do you listen to a lot of dubstep and I go yeah I think I've heard.”
-- [00:29:27] Mackenzie: “Always do yeah because even in high school as going to concerts and Festivals I've.”
-- [01:10:31] Mackenzie: “I'm never I'm always shocked with Odesza at who people Ickes it like there will be people who like put it on or listen.”
-- [01:10:31] Mackenzie: “People who like put it on or listen to it or I'll say Odesza and they'll say.”
+- [00:12:07] Mackenzie: “I'm doing it so well it's a cool dream.”
+- [00:23:34] Mackenzie: “I can get how you can get anxiety.”
+- [00:24:31] Mackenzie: “I ended up getting the tube surgery last year because they drill a hole in your eardrum so essentially there's air.”
+- [00:27:16] Mackenzie: “I don't I just remember it was a school night because we had a class together.”
 
 ## Chapter-style timestamps
 

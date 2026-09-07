@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:04:44] Jacob: “If we take away 'jk', what can we say?”
+- [00:04:44] Joseph: “If we take away 'jk', what can we say?”
 - [00:15:44] Joseph: “It takes a lot to take a step back and look at it through a lens of - what the fuck?”
-- [00:16:41] Joseph: “I miss my pre-internet brain this whole FOMO this anxiety that I have this where's my phone when I leave a place.”
-- [00:16:41] Joseph: “This artist that I really love this tattoo artist did this on somebody I miss my pre-internet brain this whole.”
-- [00:32:58] Joseph: “Your life you're just scared because people landed you in a place or you landed.”
-- [00:38:17] Joseph: “I had done three triple stacks of ecstasy we're at a rave in Seattle I was **** up beyond belief.”
-- [00:57:36] Joseph: “Out there in the scene because if I didn't do that I wouldn't be in a band right now.”
-- [00:57:36] Joseph: “I'd love to talk about the ridiculousness of Henry I don't think people realize they have a job and they often time.”
+- [00:16:41] Joseph: “This artist that I really love this tattoo artist.”
+- [00:32:58] Joseph: “It’s your avatar telling you who the real you is.”
 
 ## Chapter-style timestamps
 

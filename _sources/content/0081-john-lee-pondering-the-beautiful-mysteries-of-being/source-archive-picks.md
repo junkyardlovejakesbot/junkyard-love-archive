@@ -4,14 +4,8 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:03:21] John: “Everything and they're unexamined so that was like the peak into it maybe 10 years ago now like i said um but i love.”
-- [00:14:25] John: “Know forward in consciousness or evolution or some sort of jump.”
-- [00:24:54] John: “The enormous amount of investment and time and love it takes to teach language.”
-- [00:33:23] John: “No one can live without a purpose without a sense of purpose you will die you will kill yourself if you don't.”
-- [00:33:23] John: “If you don't have a sense of purpose people don't think about it very much.”
-- [00:42:40] John: “It's gonna break you so there's no um breaking the laws of nature And in the middle it's funny like we live.”
-- [00:42:40] John: “Was thinking about like the laws of nature and i don't like the word law.”
-- [00:52:28] John: “It's kind of morbid to realize that Life is really short and there just isn't enough time.”
+- [00:09:33] Jacob: “It's of course only based off of our experiences because that's what we're trying to answer.”
+- [00:33:23] John: “No one can live without a purpose without a sense of purpose.”
 
 ## Chapter-style timestamps
 

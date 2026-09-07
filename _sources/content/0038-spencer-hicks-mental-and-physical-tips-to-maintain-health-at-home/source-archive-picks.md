@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:07:05] Spencer: “I mean because it's like if you're gonna be up for 16 hours no matter what you might.”
-- [00:07:59] Spencer: “Time to start because no one's gonna judge you in your house go.”
-- [00:11:04] Spencer: “The whole like marriage to heavy weight is I even when I'm at the gym.”
-- [00:13:57] Spencer: “Being mindful and that is awareness I think how do people become aware that like instead of saying that's.”
-- [00:36:13] Spencer: “I do Wim Hof breathing primarily I do a lot of breath work in general just because yoga introduces just and just Prom pranayama.”
-- [00:43:25] Spencer: “Is probably better than it usually is because you're running which posture is actually a really big.”
-- [01:09:55] Spencer: “I love fantasy I love fantasy like me personally but as an adult I read pretty much like mindfulness books.”
-- [01:09:55] Spencer: “Was your like when you were I love fantasy I love fantasy like me personally.”
+- [00:05:21] Spencer: “I've heard it takes twenty to thirty days to change.”
+- [00:12:44] Spencer: “I was and started get back into breath.”
+- [00:22:40] Spencer: “I go outside there's things that have changed obviously and can change.”
+- [00:38:42] Spencer: “I'm didn't realize that I was tensing up I personally my breath.”
 
 ## Chapter-style timestamps
 

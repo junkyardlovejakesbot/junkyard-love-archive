@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:13:44] Jaycie: “I just my life has changed drastically from meditation and yoga and stuff have you done into meditation now tell me about your meditation.”
-- [00:13:44] Jaycie: “Now tell me about your meditation so I think when you were like jumping off social media.”
-- [00:41:10] Jaycie: “Not having goals and ambitions because Goals are legitimately back this is a totally no I would love to cover this area.”
-- [00:41:10] Jaycie: “We need to change what's happening and he's like I think.”
-- [00:48:49] Jaycie: “Kind of brought awareness that like I was like hey I'm.”
-- [00:59:56] Jaycie: “I'm getting better at it whatever and then I wouldn't actually look at it and change it so if you're.”
-- [00:59:56] Jaycie: “At it and change it so if you're someone who just says I know yeah that's cool.”
-- [01:04:45] Jaycie: “Keep getting nasally you just talked about allergies earlier huh I know I know I'm like fighting my mom's cat and I'm.”
+- [00:13:44] Jaycie: “I just my life has changed drastically from meditation.”
+- [00:17:12] Jaycie: “I want people who have tried meditation and think they failed and I want people.”
+- [00:23:00] Jaycie: “I can realize that I can be a layer above this maze and I even be in it and watch myself.”
+- [00:59:56] Jaycie: “I'm getting better at it whatever and then I wouldn't actually look at it and change.”
 
 ## Chapter-style timestamps
 

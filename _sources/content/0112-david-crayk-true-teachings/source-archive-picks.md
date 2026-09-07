@@ -4,14 +4,12 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Memorable quotes
 
-- [00:26:50] David: “Over very well because when you dare to be different, which is my lifetime motto.”
-- [00:47:03] David: “I did it as a as a substitute, but they never knew I was the substitute because the I was I took the classes.”
-- [00:52:32] David: “I was looking for. And that truly made all the difference in the world because right away she took on me and my three.”
-- [00:52:32] David: “I fell in love with. That ticked off all the boxes for a woman that I was looking for. And that truly made all.”
-- [01:03:34] David: “Some kind of, you know, connection with me in some way, I wanted them to take that little piece.”
-- [01:07:14] David: “I told everybody, if you dare to be different, there's some risk to that because people want to put you in a box all.”
-- [01:18:16] David: “I can't resist it. I have to create. It's just who I am. So, I've been open to that pretty.”
-- [01:21:32] David: “I'm bombarded constantly with creativity. So, I either have to put it down to pen or I have to create something or negative things.”
+- [00:13:49] David: “It's very fun to be inspiring and encouraging.”
+- [00:19:14] David: “I don't think any teacher could say their class was as fun as mine.”
+- [00:29:51] David: “I think it be must be so difficult to be a teacher.”
+- [00:32:54] David: “David Crayk is a teacher, poet, writer, bodybuilder, disc golfer, kid whisperer, spiritual advisor, and traveler - inspiring all those that cross his path to ‘dare to be different’ in pursuit of their dreams.”
+- [00:34:41] David: “I think there's a reason why that teacher.”
+- [00:44:39] David: “I changed my dream to being a teacher.”
 
 ## Chapter-style timestamps
 

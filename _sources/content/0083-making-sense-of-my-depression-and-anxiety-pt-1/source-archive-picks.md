@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About. Labeled 
 
 ## Memorable quotes
 
-- [00:05:19] Jacob: “Here we just kind of like you grow up and then you start to become.”
-- [00:12:42] Jacob: “A lot of what our ego is and a lot of what our internal dialogue.”
-- [00:13:33] Jacob: “Back up let's not talk anxiety attacks yet i will get to those but let's.”
-- [00:17:45] Jacob: “Attach these things to our identity all the time maybe to open up conversations and understand ourselves.”
-- [00:48:34] Jacob: “Become obsessed with depression and anxiety and talking about it and like that's.”
-- [00:48:34] Jacob: “All this stuff because this one i needed at the beginning.”
-- [01:00:34] Jacob: “Know in the meditation we talk about a lot of we talk a lot about um observing.”
-- [01:00:34] Jacob: “My life to listen to the worst case scenario view of what may happen in the future.”
+- [00:26:04] Jacob: “I'm talking about the core of ultimate love.”
+- [00:37:00] Jacob: “It feels fake when you get to coming around to admitting you have depression.”
+- [00:50:23] Jacob: “This is not something that other people can solve for you this is not your fault but it is your responsibility.”
+- [01:15:05] Jacob: “There's no torpedo coming there's no lion coming because look at what's happening when you're having an anxiety.”
 
 ## Chapter-style timestamps
 

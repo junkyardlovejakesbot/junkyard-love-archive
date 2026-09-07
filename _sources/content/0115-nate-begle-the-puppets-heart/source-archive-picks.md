@@ -4,13 +4,11 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Memorable quotes
 
-- [00:03:38] Nate: “It’s like, if you see something that’s not available where you’re at - then make it.”
-- [00:40:00] Nate: “It's about your acting. It's capital A lowercase V because you are in fact acting with your voice.”
-- [00:40:56] Nate: “There's truth like these characters all these characters are acting and thinking and behaving truthfully in a way.”
-- [00:44:58] Nate: “There’s a moment where you stop trying to get it perfect and start asking if it feels true. That’s when you know you’re doing the work.”
-- [00:50:25] Nate: “Go do that right because but if your irreducible minimum is this like I can't do anything else then you're.”
-- [01:18:00] Nate: “A thousand times, there was always finding once you lock into it, then you can always find there's something we can change up a little.”
-- [01:18:00] Nate: “There's always a moment that you can change to give it new life, give it a slightly different energy, fun little reactions.”
+- [00:03:38] Nate: “I love that you listened to that chat.”
+- [00:03:38] Nate: “He of course has had a lot of people tell him he can't do something because of his physical limitations.”
+- [00:15:51] Nate: “There’s a moment where you stop trying to get it perfect and start asking if it feels true. That’s when you know you’re doing the work.”
+- [00:23:39] Nate: “I could click on a YouTube video and learn how to do monitor work.”
+- [00:24:56] Nate: “I found my love of musicals, musical theater and telling stories in that way and so doing stuff as a human.”
 - [01:21:10] Nate: “A lot of people think voiceover is just ‘talking,’ but it’s not. It’s acting. It’s truth-telling. It’s intention.”
 
 ## Chapter-style timestamps

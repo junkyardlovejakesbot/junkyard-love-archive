@@ -5,10 +5,9 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 ## Memorable quotes
 
 - [00:00:30] Barbara: “Most of us are using our kind of unconscious default voice that we think is us, but it’s not. It’s cobbled together with duct tape and popsicle sticks and trauma…”
-- [00:02:00] Barbara: “We’re all kind of wearing a vocal girdle.”
+- [00:04:10] Barbara: “I never wanted to sing alone ever in front of anyone, which is a common fear.”
 - [00:06:12] Barbara: “Pretending to be somebody else is kind of the secret sauce.”
-- [00:13:38] Barbara: “The parts of my voice I hate the most have the greatest gifts for me.”
-- [00:13:38] Barbara: “I feel most uncomfortable with have the greatest gifts for me because it represents a part of us that's in exile somehow.”
+- [00:06:12] Barbara: “He was my theater teacher in high school.”
 - [00:30:43] Barbara: “Singing is like the mycelial connections between trees.”
 - [00:40:46] Barbara: “Laughing is a great way to just open up the different sounds.”
 - [00:42:21] Barbara: “Our voice is the primary way we shape our world.”

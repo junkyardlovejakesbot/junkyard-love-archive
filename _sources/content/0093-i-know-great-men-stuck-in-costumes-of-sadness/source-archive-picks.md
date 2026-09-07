@@ -4,14 +4,9 @@ Extracted from the YouTube auto-caption transcript. Labeled separately from Jaco
 
 ## Memorable quotes
 
-- [00:06:19] Jacob: “We label ourselves as things so we can we have this part of our mind you know the ego part.”
-- [00:06:19] Jacob: “I've got it you know and there is some senses of thinking about that because I think depression.”
-- [00:26:11] Jacob: “Same thing do you want them to grow up with that well let me tell you the world might have might.”
-- [00:26:11] Jacob: “Anxiety and depression right now do you want your children to have the same thing do you want.”
-- [00:31:50] Jacob: “You're feeling the depression things are slowing down whatever you had to do that day.”
-- [01:09:03] Jacob: “Do something different brother you have to learn new information and you don't have to you know.”
-- [01:31:48] Jacob: “It has a purpose it fills my liquid in like if I had never seen.”
-- [01:32:15] Jacob: “You need to update your firmware our Hardware is malfunctioning if you have depression and anxiety and look at man the numbers like again.”
+- [00:11:00] Jacob: “I am going to consciously choose to change.”
+- [00:20:31] Jacob: “I keep saying you don't listen you're not **** listening.”
+- [00:20:31] Jacob: “I'm going to say here and the thing is you're not listening.”
 
 ## Chapter-style timestamps
 

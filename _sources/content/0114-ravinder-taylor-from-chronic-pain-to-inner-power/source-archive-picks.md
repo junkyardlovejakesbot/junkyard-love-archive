@@ -4,14 +4,12 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Memorable quotes
 
-- [00:00:55] Ravinder: “Healing isn’t about becoming perfect. It’s about removing what blocks your authentic self from expressing.”
-- [00:07:51] Ravinder: “I wanted to empower the reader. I wanted to give them the information. And so when I take this particular meditation apart.”
-- [00:07:51] Ravinder: “I don't want to create resistance in you to the actual process. I want you to understand it, personalize it and fly.”
-- [00:14:21] Ravinder: “If you try just as an experiment to take full responsibility for everything that goes on in your life, it can open up avenues of opportunities.”
-- [00:16:00] Ravinder: “I do know how to turn off those things that can block us from healing ourselves.”
-- [00:18:45] Jacob: “You don’t always have to know which thing healed you. Sometimes it’s the accumulation, the ripening—your belief meets your action, and something finally shifts.”
+- [00:07:51] Ravinder: “I don't want to create resistance in you to the actual process.”
+- [00:10:19] Ravinder: “A teacher saw my difficulty, reached in, pulled me up by my swimming cap.”
+- [00:10:19] Ravinder: “I just could not stand up. A teacher.”
+- [00:18:52] Ravinder: “You don’t always have to know which thing healed you. Sometimes it’s the accumulation, the ripening—your belief meets your action, and something finally shifts.”
 - [00:21:12] Ravinder: “I wanted to give people the why—not just another list of what to do. When you understand why something works, you stop outsourcing your power.”
-- [00:47:11] Ravinder: “Being used on you constantly. And having an awareness of it gives you the ability to make your own choices. You're not being driven.”
+- [01:09:43] Ravinder: “Free will isn’t free—you have to take it. Most of our minds are running on autopilot, but we can interrupt the programming and rewire it intentionally.”
 
 ## Chapter-style timestamps
 

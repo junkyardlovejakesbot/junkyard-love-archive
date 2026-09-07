@@ -4,14 +4,9 @@ Extracted from the YouTube auto-caption transcript and published notes already o
 
 ## Memorable quotes
 
-- [00:11:05] Will: “I think has been huge for my Evolution and growth you know over the last few years could you expand.”
-- [00:11:05] Will: “More East Coast mindset and then kind of the different things that you have used.”
-- [00:54:06] Will: “I fell in love with that album and I had always been a fan of Mac a little.”
-- [00:54:06] Will: “I didn't even remember this my brother reminded me of it but anyway so I fell in love with the Divine Feminine.”
-- [00:54:06] Will: “I fell in love with the Divine Feminine and then it was like dude Massachusetts.”
-- [01:12:21] Will: “We fell in love and we get along so I was like she doesn't she doesn't sugarcoat.”
-- [01:12:21] Will: “I think those are those are important people to identify and then and bucket them and then like hold them close because they'll make.”
-- [01:43:53] Will: “A nerve-wracking experience because I'm pretty good on my feet I'm pretty I'm a Salesman.”
+- [00:53:05] Will: “I've become such a huge podcaster just in the sense of I listen to podcasts all day.”
+- [00:53:05] Will: “I'm always just listening to podcasts it's I don't know what what other people.”
+- [01:18:23] Will: “I'm cool and I really not that I regret anything from my younger days it's all growth.”
 
 ## Chapter-style timestamps
 

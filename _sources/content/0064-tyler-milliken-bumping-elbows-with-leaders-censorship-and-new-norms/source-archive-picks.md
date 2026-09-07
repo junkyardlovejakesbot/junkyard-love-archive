@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:02:00] Tyler: “Were actually for listeners out there discussing how kind of Social decorum has is questionable as of now and because of You know i'll.”
-- [00:08:36] Tyler: “The low underlying fear that we all kind Of have walking.”
-- [00:12:20] Tyler: “Have this unfortunate Because we've built this on society right like we've created.”
-- [00:35:00] Tyler: “It's very difficult because we do these events where we cater.”
-- [00:48:43] Tyler: “On language Essentially but on cuss words and I think it comes down to the implied Meaning behind.”
-- [00:48:43] Tyler: “If the meaning and understanding is there like it's funny.”
-- [01:28:50] Tyler: “World could use more of is Non-apologetic patience The world needs more responses that say.”
-- [01:30:07] Tyler: “Could use more of is just Unapologetic patience i'm not Going to tell this individual that i am eight minutes late.”
+- [00:25:01] Jacob: “A you thought that because at the time.”
+- [00:38:39] Tyler: “They're just going to be killing it in the parent game because we a lot of people.”
+- [00:40:21] Tyler: “Saturday night live because it airs at 11 30 p.”
+- [01:07:43] Jacob: “We have to look at how it's used in the meaning.”
 
 ## Chapter-style timestamps
 

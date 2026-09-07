@@ -4,14 +4,9 @@ Extracted from the YouTube auto-caption transcript and published links already o
 
 ## Memorable quotes
 
-- [00:02:07] Bobby: “I would say man the podcast realm is crazy but you know what consistency is everything bro and you've been doing this media ****.”
-- [00:02:50] Bobby: “I'm CEO and creator of Big Bet Studios uh my dog is a logo he'd be singing on the mic.”
+- [00:05:45] Bobby: “I don't know if you heard too much of my music.”
 - [00:13:40] Bobby: “I didn't do it right that time let's make sure I do it right the next time because any time.”
-- [00:13:40] Bobby: “The next time because any time that you spent that you didn't learn something is a bad.”
-- [00:53:27] Bobby: “I like how it sounds and because I feel like I do got a vision for it in the ear.”
-- [00:53:27] Bobby: “I do got a vision for it in the ear for it but it's more than just Music Man it's about ownership.”
-- [00:58:12] Bobby: “Up to answer the call you know because sometimes we're like man what's my problem.”
-- [00:58:12] Bobby: “I love that like put yourself in the position and then also yeah just be easy on yourself if you are doing it bro.”
+- [00:19:30] Bobby: “I'm doing most people ain't got the courage.”
 
 ## Chapter-style timestamps
 

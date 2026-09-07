@@ -4,14 +4,7 @@ Extracted from the YouTube auto-caption transcript and published About/links alr
 
 ## Memorable quotes
 
-- [00:02:06] Heather: “I'm a singer-songwriter originally i have three albums out And my memoir as you were saying just came out in june and it basically.”
-- [00:20:40] Heather: “Everyday remind myself What my purpose is because i think when we don't have purpose is really when we get lost.”
-- [00:20:40] Heather: “Meditation is a big one i think the Biggest thing that helps me personally Is to everyday remind.”
-- [00:20:40] Heather: “Can do one thing every day that makes me feel like i have purpose.”
-- [00:20:40] Heather: “I have purpose that i'm doing some good in the world that i need.”
-- [00:31:05] Heather: “Good that you were hospitalized because now you will be shortlisted you'll like you'll be if you need psych.”
-- [00:31:05] Heather: “I think we need to work more preventatively because i think we're.”
-- [00:42:05] Heather: “A good example because the spiraling is certainly something that happens.”
+- [00:35:41] Jacob: “It's really unfortunate because how do you keep reaching out when you don't feel.”
 
 ## Chapter-style timestamps
 

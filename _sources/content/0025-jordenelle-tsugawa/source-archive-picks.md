@@ -4,14 +4,7 @@ Extracted from the faster-whisper ASR transcript (small/int8; prior tiny/int8) a
 
 ## Memorable quotes
 
-- [00:04:30] Jordenelle: “You treat this as a meditation or do you just like, so you set aside a couple of minutes.”
-- [00:31:07] Jordenelle: “You talk about nature. I'm huge into nature as well for this reason. Forest Bathing is real. Yeah. It's a force bathing.”
-- [00:31:07] Jordenelle: “The forest. Fantastic. So the reason we love and that's a big part of my Instagram too is like get outside.”
-- [00:37:11] Jordenelle: “I do to get there. So when you see these memories or visions of your future go for it because it's showing.”
-- [00:49:28] Jordenelle: “I love you for you and we don't I just got chills saying that to myself like we don't tell ourselves like our part.”
-- [01:17:00] Jordenelle: “It's funny to say like because I'm hosting my first Full Moon Circle you are what tell me tell.”
-- [01:22:01] Jordenelle: “I'm breaking the trauma like my mom has nine years clean next month and it's like I want.”
-- [02:12:30] Jordenelle: “It's like, so when I get off a plane, I get home and I'm like, I go in the back. Of course I love.”
+_(no stand-alone complete quotes retained for this episode)_
 
 ## Chapter-style timestamps
 

@@ -4,14 +4,9 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:05:55] Kendall: “I was gonna like bring up some specific lyrics I'm like that's just corny at this point because there was so many.”
-- [00:11:08] Kendall: “Did every date because that we also like made a meme out of this breakdown.”
-- [00:31:20] Kendall: “I like recognize from the Walmarts in our towns and generally make me happy because they're just happy.”
-- [00:32:27] Kendall: “I'm listening to people's lyrics and like oh like you guys can have 15.”
-- [00:40:48] Kendall: “Carol she's never been to a metal show but our narrow you yeah her nephew or not her nephew her grandson yeah he likes.”
-- [00:54:40] Kendall: “I definitely worked really hard it's so like crowd control crowd psychology like I'm really in all that **** I love working a crowd.”
-- [00:54:40] Kendall: “I love working a crowd I love getting a room of **** people and being like in ten.”
-- [01:11:17] Kendall: “I deal with like depression and **** like that already.”
+- [00:14:59] Kendall: “I did I literally cannot do any well so you mean they learn about it you're making this **** work.”
+- [00:20:42] Kendall: “I love it so origin story let's back up a little bit so what have you been into music.”
+- [00:34:39] Kendall: “I owe them something but they don't want anything for me they just love.”
 
 ## Chapter-style timestamps
 

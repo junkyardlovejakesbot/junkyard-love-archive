@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:20:44] Madi: “I did not like photography for a year just for that not that car club but like local car clubs in general from Portland.”
-- [00:37:53] Madi: “Love Instagram for inspiration so you also have a wonderful.”
-- [00:38:36] Madi: “I had cool ripped jeans I love jump distressed no you know loved distressed jeans I probably wore him everyday.”
-- [00:38:36] Madi: “Until she was almost too but um she don't she I had cool ripped jeans I love jump.”
-- [00:56:04] Madi: “Mean outside of ego like he literally does have like one of the biggest followings.”
-- [01:12:14] Madi: “I would like to talk to you about Tourette I don't think that I know anybody else with threats but I think.”
-- [01:13:36] Madi: “I have what's called don't like transient tics so no they come and go they know.”
-- [01:22:10] Madi: “Angry and really short patience is that a word patience no well.”
+- [00:15:23] Madi: “I wasn't showing up to be the person that the teacher.”
+- [00:23:48] Madi: “I said little bit it still holds up a big piece of my heart.”
+- [01:13:52] Madi: “I started clearing my throat no and then no the teacher.”
+- [01:27:04] Madi: “I've been listening to the last couple days didn't listen to you I lost a friend.”
 
 ## Chapter-style timestamps
 

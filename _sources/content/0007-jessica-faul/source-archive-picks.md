@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:08:35] Jessica: “I wouldn't I wouldn't identify with my childhood as a traumatic but there were events that caused me to have to learn.”
-- [00:17:47] Jessica: “I've been watching a lot of monks and like meditation guy doesn't stuff and there's times where old me would have been so impatient.”
-- [00:19:49] Jessica: “I said so yeah so that's something that uh but my sister says out says a lot because I said so and so I've.”
-- [00:48:51] Jessica: “I like I have a yard here I wave at people like I am a part of the community not outside of the community.”
-- [01:02:42] Jessica: “Through now sucks did this anxiety these all these things that you're feeling because these things that you they're.”
-- [01:02:42] Jessica: “These things that you're feeling because these things that you they're real they're real and I felt.”
-- [01:30:15] Jessica: “I always remember the baton the most basic one because I think social services I've been in it yes so is it like hierarchy.”
-- [01:38:14] Jessica: “I'm just saying because I have plenty of those karma yeah like what is karma.”
+- [00:12:58] Jessica: “If you choose I guess maybe that's it's the choice.”
+- [00:15:22] Jessica: “I think that's literally how knowledge and growth.”
+- [00:23:03] Jessica: “I'm just trying to wear a mask and follow my intuition.”
+- [00:35:10] Jessica: “I want to be clear that actually just because I think that people.”
 
 ## Chapter-style timestamps
 

@@ -4,14 +4,7 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:02:23] Lynn: “You can play singles but most people play doubles i think a lot of it is just Because it's such a social.”
-- [00:03:57] Lynn: “I just looked to see what was going on at the local recreation center and there was something called pickleball which i Like many.”
-- [00:20:22] Lynn: “Cool To see because i knew that we had this podcast coming and i recognized.”
-- [00:22:06] Lynn: “Is you're good to go okay yeah because i would have honestly thought would i thought i figured they were probably.”
-- [00:25:41] Lynn: “The for the sport in the community around you for the people you're interacting.”
-- [00:25:41] Lynn: “Is is there a Specific you know because a golf ball for example would have a specific.”
-- [00:39:12] Lynn: “Curriculum and it really does make sense because It's easy to play so even if you've got The kids.”
-- [00:40:45] Lynn: “Really male dominated Because it's you've got this This it's a rubber ball.”
+- [00:15:12] Jacob: “This big thing it has its own community.”
 
 ## Chapter-style timestamps
 

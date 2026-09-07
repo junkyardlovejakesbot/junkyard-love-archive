@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:02:00] Spencer: “Cognitive emotional and compassionate empathy and cognitive empathy is how I feel is when you view you can feel other people.”
-- [00:16:33] Spencer: “Ik is eating sleeping meditating okay deep breath sympathetic is a fight-or-flight nerves.”
-- [00:47:12] Spencer: “I've actually seen people when they do a lot of breath work and learn how to breathe correctly the diaphragm they stop having knots.”
-- [00:49:36] Spencer: “Chemical so how do we combat this meditation breathwork eating.”
-- [00:56:05] Spencer: “I always take a pin in because there was another thing that I was I wasn't honest with myself about is the caffeine thing.”
-- [00:59:19] Spencer: “Cold shower for two minutes and then do breath work because those two things they stimulate adrenaline and norepinephrine Act that's the same thing.”
-- [01:17:37] Spencer: “I did the sensory deprivation tank will end here because we got to get going here but when it comes to neck I actually.”
-- [01:17:37] Spencer: “Do want to end on because I did I tell you that I did the deprivation tank.”
+- [00:04:34] Spencer: “I will have a lot of empathy but I actually won't feel.”
+- [00:32:47] Spencer: “I'm you get social media you only post the pictures of you have music.”
+- [00:42:49] Spencer: “I just get a text out of nowhere it just says that my heart.”
+- [00:47:12] Spencer: “I've actually seen people when they do a lot of breath.”
 
 ## Chapter-style timestamps
 

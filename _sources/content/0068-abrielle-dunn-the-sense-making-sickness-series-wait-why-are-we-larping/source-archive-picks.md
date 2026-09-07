@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About/chapters 
 
 ## Memorable quotes
 
-- [00:14:24] Abrielle: “Taking the knee or whatever because it's like within what he said was this whole.”
-- [00:14:24] Abrielle: “It's interesting because i instantly saw Oh for me to have like if i want to have An actual conversation.”
-- [00:42:06] Abrielle: “Reject To me to me that's a truth like what you point out like ah.”
-- [00:47:49] Abrielle: “I've been pretty sober Yeah that's that's pretty similar i mean because i've gotten to different.”
-- [00:52:06] Abrielle: “A lot and But you learn from that and so instead of just being like all in your face.”
-- [00:52:38] Abrielle: “Base and i've realized my base is this Calm light happy.”
-- [01:22:28] Abrielle: “You bring Bringing compassion and understanding in Their lived experience.”
-- [01:22:28] Abrielle: “Their lived experience because exactly How we are like i get you i get.”
+- [00:32:16] Abrielle: “We don't understand what meaning is we don't understand what feelings are we don't understand what the human.”
+- [00:45:30] Abrielle: “You what happens there when you do come at someone who's not trying to inquire on their belief.”
+- [02:23:39] Abrielle: “We've learned we want to connect but we also need.”
+- [02:24:28] Abrielle: “In our faces and it's being used and weaponized against us our because we want to look out for our family.”
 
 ## Chapter-style timestamps
 

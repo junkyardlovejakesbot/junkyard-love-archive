@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Memorable quotes
 
-- [00:04:13] Marty: “Taking a risk because if you're so risk adverse that you've mitigated all.”
-- [00:19:26] Marty: “I've been a CEO for now 15 years everybody's about to communicate change I said but what's the first thing everybody's going to flash.”
-- [00:19:26] Marty: “Talk or and you send out of communication what's going to happen to me so the best.”
-- [00:29:04] Marty: “It's anticlimactic yeah because you train to a much worse set.”
-- [00:32:25] Marty: “In time the discipline of doing it over and over and over again repeated Behavior to achieve.”
-- [00:34:28] Marty: “Each element or increment of growth whether it's knowledge growth or whether was skill attainment.”
-- [01:12:21] Marty: “Convert yourself and be different because you're going to have to change your whole mindset.”
-- [01:12:21] Marty: “Have to change your whole mindset about life and work and yeah there's going to be it's a little.”
+- [00:04:13] Marty: “I didn't have a sense of the universe of myself yet for sure but I think I was always had an awareness.”
+- [00:04:13] Marty: “I think I was always had an awareness of it wasn't it wasn't something developed I had an awareness.”
+- [00:19:26] Marty: “I've been a CEO for now 15 years everybody's about to communicate change.”
+- [00:29:04] Marty: “It you have to hire for it and you have to maintain it by mentoring and doing these practice.”
 
 ## Chapter-style timestamps
 

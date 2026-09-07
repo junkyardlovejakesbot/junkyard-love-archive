@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:08:02] Devon: “I was talk about this hike you know when I was younger I was a skateboarder and so like bad.”
-- [00:12:21] Jacob: “Know like the habit change is one of the most difficult things that we've that we all.”
-- [00:51:00] Devon: “I think it's when I had first like kind of learned about my perspective ran it when I was younger.”
-- [00:58:05] Devon: “Know and so help me realize and appreciate the rain and the darkness.”
-- [01:08:06] Devon: “I have a stain on my shirt I didn't even notice because I wasn't I was just learning about the same person.”
-- [01:08:06] Devon: “Know yeah and then you'll realize like oh I'm not even think about my own insecurities he's.”
-- [01:15:00] Devon: “Change my life for the better and I commit to drinking a gallon of water every day which I peel.”
-- [01:16:51] Devon: “Spell it Kangen hey and GE and it actually means bring back to origin and Japanese I think beautiful yeah it's super.”
+- [00:14:45] Devon: “I have not stuck it through my dad plays drums and guitar.”
+- [00:14:45] Devon: “I admire the way that he can play guitar.”
+- [00:39:05] Devon: “My next steps around that being well that's just how I learned this right that's how life.”
+- [00:39:05] Devon: “I learned this right that's how life handed me the path.”
 
 ## Chapter-style timestamps
 

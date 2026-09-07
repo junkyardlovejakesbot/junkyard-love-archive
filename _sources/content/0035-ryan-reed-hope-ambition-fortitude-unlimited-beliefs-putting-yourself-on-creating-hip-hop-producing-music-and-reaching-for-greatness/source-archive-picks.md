@@ -4,14 +4,9 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:05:32] Ryan: “Super mice that don't live because we only test products on mice that are under eight months.”
-- [00:19:53] Ryan: “I was cutting weight on purpose and for wrestling in high school and that's what it felt like yeah that's.”
-- [00:19:53] Ryan: “Wrong I haven't been this light since I was cutting weight on purpose and for wrestling.”
+- [00:19:53] Ryan: “I was cutting weight on purpose and for wrestling in high school and that's what it felt.”
 - [00:31:17] Ryan: “I am not a creature of circumstance, rather a creator of circumstance.”
-- [00:39:58] Ryan: “I'm going to I need to grow up and be a **** man and so because I feel like I went through that darkness.”
-- [00:48:57] Ryan: “An undefeatable mindset yeah like I've just you just have to start but that's.”
-- [01:17:35] Ryan: “The only people that I told that I was in the hospital because it was creeping up on studio day and I'm like hey.”
-- [01:17:35] Ryan: “I was in the hospital he went into Guitar Center and bought a mini MIDI keyboard brought that and headphones.”
+- [00:31:17] Ryan: “I'm just saying when I go I have a choice.”
 
 ## Chapter-style timestamps
 

@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About. Labeled 
 
 ## Memorable quotes
 
-- [00:06:27] Jacob: “There is no path. There’s no path till you walk it, and you have to be willing to play the fool.”
-- [00:25:11] Brent: “I'd love to hear about your relationship with that type.”
-- [00:26:58] Brent: “Amongst my healing I started reading all these things and listening to podcasts and watching YouTube.”
-- [00:41:32] Brent: “I would just I would listen to Listen to lectures.”
-- [00:43:45] Brent: “I kept pushing I was like I gotta heal I gotta get.”
-- [00:56:11] Brent: “Consciousness or same aspect of your Consciousness that you had accessed which could look.”
-- [01:44:18] Jacob: “And that’s when art’s not a luxury, it’s actually sustenance. We need it.”
-- [01:58:21] Brent: “Whenever you talk about creativity, it can have this kind of feel that it’s just nice, or it’s warm or it’s something pleasant. It’s not. It’s vital. It’s the way we heal each other.”
+- [00:06:27] Brent: “There is no path. There’s no path till you walk it, and you have to be willing to play the fool.”
+- [00:25:11] Brent: “I'd love to hear about your relationship with that type of work.”
+- [00:26:58] Brent: “I started reading all these things and listening.”
+- [01:02:37] Brent: “I was in a relationship we were together.”
 
 ## Chapter-style timestamps
 

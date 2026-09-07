@@ -4,14 +4,7 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 
 ## Memorable quotes
 
-- [00:02:52] Shaye: “You YouTube meet because as soon as that comes up you're like ah.”
-- [00:23:06] Ian: “Nothing is for everyone, anymore.”
-- [00:23:06] Ian: “Also just shocking because we didn't see that coming we thought like the premise of the show.”
 - [00:26:33] Ian: “I think I feel more confident from this experience to try and believe something for a little while, with the understanding that I can be wrong with that belief and re-visit it later.”
-- [00:30:30] Ian: “A lot more with that mindset i imagine you have to yeah can we can we take.”
-- [00:30:30] Ian: “Too it's uh i don't know i love it's such a i feel like it's like a beginner's mind.”
-- [00:41:08] Ian: “He really i love the way he thinks about language so like i you know i warn.”
-- [00:41:08] Ian: “Debate with him about it because he thinks about it a lot and Shaye i know you speak spanish.”
 
 ## Chapter-style timestamps
 

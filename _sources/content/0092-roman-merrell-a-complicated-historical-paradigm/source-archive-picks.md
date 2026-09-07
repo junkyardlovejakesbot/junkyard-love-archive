@@ -4,14 +4,8 @@ Extracted from the YouTube auto-caption transcript and published links already o
 
 ## Memorable quotes
 
-- [00:13:10] Roman: “I just remember like looking up and I had my spirit leave and go out to what I what you would consider.”
-- [00:13:10] Roman: “Border incredibly cold and I had my spirit I like I had to lay down like on the ground.”
-- [00:53:04] Roman: “Millionaires don't have Astrologers, billionaires do.”
-- [01:11:52] Roman: “I'm a natural introvert in every way but I'm very good at being an extrovert because I've always.”
-- [01:11:57] Jacob: “When I was a kid, I had this movie theatre in my head.”
-- [01:13:02] Jacob: “There were these nuns, they would walk in through my ear, they would go and sit down in the seats in my head, watching what I'm watching, commenting on what I'm seeing, and I couldn't of been more than nine or ten years old.”
-- [01:35:27] Roman: “In love with love like humans are love like everything that we have down to our core.”
-- [01:35:27] Roman: “These animals and we choose that connection because we are so in love with love like humans.”
+- [00:39:38] Roman: “I can't remember her name unfortunately bless her soul.”
+- [01:11:57] Roman: “There were these nuns, they would walk in through my ear, they would go and sit down in the seats in my head, watching what I'm watching, commenting on what I'm seeing, and I couldn't of been more than nine or ten years old.”
 
 ## Chapter-style timestamps
 

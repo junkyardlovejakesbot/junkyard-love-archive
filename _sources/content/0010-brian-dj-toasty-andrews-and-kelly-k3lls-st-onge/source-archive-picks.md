@@ -2,14 +2,10 @@
 
 ## Memorable quotes
 
-- [00:11:38] Brian: “Getting thrown to the wolves because South Pacific was like 200 people max and you have different.”
-- [00:39:13] Kelly: “I got to go do this again because this is who I am so for me getting back into it you know.”
-- [00:39:47] Kelly: “I'm heading over to Bend like in February it'll be a two for you one for me meaning.”
-- [00:50:02] Brian: “I love that song but it's like not wedding appropriate.”
-- [00:59:00] Brian: “I didn't realize was like I started building a mobile DJ business and I didn't want to be a mobile.”
-- [01:06:13] Kelly: “I'm gonna learn how it's DJ hey here's what you do go by this hundred dollar.”
-- [01:24:06] Kelly: “Learn the copyright laws I've learned those on SoundCloud pretty well yeah so so all of the samples and all.”
-- [01:24:32] Brian: “I the more I like to learn about society and like all.”
+- [00:08:14] Kelly: “I want to go to these functions because that's part of that whole.”
+- [00:09:28] Brian: “They it was funny because they had started with house music.”
+- [00:13:37] Brian: “I really love but obviously it's not my full-time.”
+- [00:20:25] Brian: “I think that the technology and people in the crowd knowing more about music.”
 
 ## Chapter-style timestamps
 

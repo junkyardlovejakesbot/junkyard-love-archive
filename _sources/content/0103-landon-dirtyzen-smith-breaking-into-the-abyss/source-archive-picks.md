@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Memorable quotes
 
-- [00:38:10] Landon: “Have discernment when a reading comes across because a lot of people are doing it for their own egoic.”
-- [00:38:10] Landon: “I find on the internet but it's really important for people to have discernment when a reading comes across because a lot of people.”
-- [00:49:20] Landon: “I would say that psychedelic experience I had really helped Propel me forward into my spiritual journey more deeply because I recognize the potential.”
-- [00:49:20] Landon: “Forward into my spiritual journey more deeply because I recognize the potential possibilities of the path yeah nice that's.”
-- [01:03:02] Landon: “I think the purpose of the spiritual path is to kind of understand that answer and you can kind of explain it and I'm.”
-- [01:03:02] Landon: “Sense of like it's not the absolute truth it's relatively real but it's not it's not what you would call reality.”
-- [01:17:00] Landon: “What spiritual bypassing is tough because it's like a continuous kind of thing that we always almost.”
-- [01:26:23] Landon: “Discovering our spiritual nature and those sorts of things but it's also all the icky.”
+- [00:38:10] Landon: “I can do readings for other people but I initially did it for myself to have a better connection.”
+- [00:38:10] Landon: “I could navigate my situation with a little bit more awareness.”
+- [00:49:20] Landon: “I was having that experience of just uncovering fears I didn't know I had and I remember when I was in that depression.”
+- [00:49:20] Landon: “I went on YouTube and I was listening.”
 
 ## Chapter-style timestamps
 

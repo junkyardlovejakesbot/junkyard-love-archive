@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:04:15] Nate: “I was feeding my ego so many bad things I was constantly in challenge I wanted to challenge.”
-- [00:04:15] Nate: “I thought it was always a challenge the ego was if I have this many women.”
-- [00:17:50] Nate: “I wake up because I was so exhausted for so long I physically pushed myself I ride I go to the gym last year.”
-- [00:19:52] Nate: “I do every single day is make my bed right away love it yeah the first accomplishment of the day.”
-- [00:23:47] Nate: “Creates more sadness depression all that kind of stuff and it creates happiness and money and jobs.”
-- [00:24:39] Nate: “I find it's not why you're posting that thing's not wastefully you listen I Eric Thomas he's a motivational speaker.”
-- [00:38:27] Nate: “I love most about stunt riding and I think the thing that has drawn me so much to it is the culture.”
-- [00:38:27] Nate: “I imagine on like Wilson sir band par so the thing that I love most about stunt riding.”
+- [00:04:15] Nate: “I thought it was always a challenge the ego.”
+- [00:04:15] Nate: “I don't want to say I don't have one but I think it's because we relate ego.”
+- [00:16:02] Nate: “I barely graduated barely biggest by the hair and it was only because my girlfriend at the time.”
+- [00:17:50] Nate: “I wake up because I was so exhausted for so long I physically pushed myself.”
 
 ## Chapter-style timestamps
 

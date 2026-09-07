@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Memorable quotes
 
-- [00:13:16] Swami: “Asked me to teach kriya yoga so that's like a meditation that's taught one-on-one and so it's individually taught from the teacher.”
-- [00:13:16] Swami: “Helps you be more of your own signature energy and your own signature frequency so whatever you are here to share.”
-- [00:17:06] Swami: “Melts away and we're bringing healing we're bringing compassion we're bringing wisdom we're bringing awareness in humanly.”
-- [00:18:22] Swami: “Midst of daily life and if you want a slightly longer elevator talking yeah it's it shares yogic teachings so we are a meditation.”
-- [00:23:50] Swami: “Then that becomes the practice because of course like if you are a human and you are facing loss.”
 - [00:28:02] Swami: “Stay here. Every moment that you have to stay here in the body, stay here. Be fully here, and, when the time comes, do not fear. Absolutely do not fear.”
-- [00:28:02] Swami: “Body from the perspective of spirit it's amazing and I also want to really immediately say stay here every.”
-- [00:56:42] Swami: “I always like to ask this one what does the world need more of right now love just that energy of pure.”
+- [00:37:13] Swami: “I was laughing because for me one of the things I always noticed was sometimes people.”
+- [00:45:47] Swami: “I think it also probably helps to have a community.”
+- [00:47:42] Swami: “Is my teacher I would encourage you visit awake meditation.”
 
 ## Chapter-style timestamps
 

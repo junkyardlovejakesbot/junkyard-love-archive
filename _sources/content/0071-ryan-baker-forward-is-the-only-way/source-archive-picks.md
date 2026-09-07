@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 
 ## Memorable quotes
 
-- [00:10:22] Ryan: “Find your breaking point and make that your comfort zone. I found accelerating my life to be my comfort zone and to reach that level, I had to let go.”
-- [00:16:22] Ryan: “This is starting to weigh me down emotionally and stress me out, so it's gone.”
 - [00:26:34] Ryan: “After you climb a mountain, all of your other problems are small in comparison.”
-- [00:38:17] Ryan: “I was doing this set routine, over and over again, and I started to lose love for it.”
-- [00:38:17] Ryan: “Lose creativity and you lose love for what you're doing it's like that's.”
 - [00:38:17] Ryan: “You're trying to be what everyone else wants that's stressful and you lose creativity and you lose love.”
-- [01:01:44] Ryan: “You can't you can't love anyone else Until you truly love yourself you just Can't you can't give that same.”
-- [01:14:35] Jacob: “They're not down for discipline.”
+- [01:02:52] Jacob: “You ingest that's what you're telling yourself every single day you're hearing it you're making it a habit.”
+- [01:25:59] Ryan: “People at themselves to where they can love.”
 
 ## Chapter-style timestamps
 

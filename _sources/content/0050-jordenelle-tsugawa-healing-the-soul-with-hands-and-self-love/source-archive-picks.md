@@ -4,14 +4,8 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:23:58] Jordenelle: “It really is because each person that i can help elevate their frequency we're helping the whole.”
-- [00:45:10] Jordenelle: “Reminding that person (yourself at a younger age) that you are loved, you are worthy.”
-- [00:45:10] Jordenelle: “A crazy way it heals the present because you're healing your past because your past is happening.”
-- [00:45:10] Jordenelle: “It is so if you choose to go in the past usually that causes depression.”
+- [00:40:12] Jordenelle: “I want to just continue to show up and be authentic and to continue channeling things for people to enjoy listening.”
 - [01:45:06] Jordenelle: “I deserve to be here. I want to be here. I love to be grounded. I am an artist. People enjoy my creations. My art matters. I am a good person. I allow my light to shine. I want to be here. I love having a physical vessel.”
-- [01:45:06] Jordenelle: “These things to yourself you can just listen but so many of us need to hear that i want.”
-- [01:47:42] Jordenelle: “Being having no ego which is dangerous don't just go no ego like i did it's scary.”
-- [01:49:08] Jacob: “Do you even want everyone to be sexually attracted to you?”
 
 ## Chapter-style timestamps
 

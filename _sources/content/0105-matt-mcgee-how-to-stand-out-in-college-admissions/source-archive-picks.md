@@ -4,14 +4,8 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Memorable quotes
 
-- [00:02:51] Matt: “You need yeah because by the time this conversation finishes AI or chat.”
-- [00:05:26] Matt: “I want that job and it just it's like a positive feedback loop of anxiety and stress and destruction and whatnot and so here.”
-- [00:05:26] Matt: “Take some of the stress and the anxiety off this and figure out how we can best.”
-- [00:10:37] Matt: “Know academics and test scores because there's so much to that and then let's not be committed.”
-- [00:10:37] Matt: “What do you love to do and go pursue those things be proactive be interesting.”
-- [00:22:52] Matt: “Community College is a totally acceptable if not highly intelligent decision to make if you don't necessarily know where you're.”
-- [00:37:05] Matt: “They that they love and they have the attention span and the inclination to explore.”
-- [00:39:08] Matt: “I'm going because I want to be part of a big student.”
+- [00:15:30] Matt: “I'm going to download some applications write a personal statement I talk to my history teacher.”
+- [00:20:10] Matt: “I can do because he's not doing the work.”
 
 ## Chapter-style timestamps
 

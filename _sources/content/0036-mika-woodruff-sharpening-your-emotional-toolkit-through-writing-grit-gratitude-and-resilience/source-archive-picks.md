@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
+- [00:16:16] Mika: “I know that we don't grow up in a society that traditionally values men.”
 - [00:20:46] Mika: “You can choose unconditional love and acceptance, or you can choose change.”
-- [00:20:46] Mika: “Whether or not you actually want to change them like I have it on my water bottle and I don't remember.”
-- [00:52:22] Mika: “Decide to laugh, decide to make it easier on yourself, because we don't get to move time, we still have to experience what we are going through.”
-- [00:52:22] Mika: “I think that's my self-care is so important because like if it is like sand and it is false or your fingers.”
-- [00:57:11] Mika: “Going from thinking that suicide or total decline as a plan B, to deciding that it's not an option.”
-- [01:14:35] Jacob: “You don't know what the fuck you think until you think it.”
-- [01:15:35] Mika: “I started doing 10 things I'm grateful for before bed because I have I have nightmares and extremely lazy person.”
-- [01:15:35] Mika: “Have a daily writing practice now do try to insert a daily writing practice at all or no I don't.”
+- [00:33:12] Mika: “I must have been taught at a young age that because that's definitely that's been huge in my mind.”
+- [00:38:57] Mika: “I've actually been making the choice to have my back to the door and it's a I can feel.”
 
 ## Chapter-style timestamps
 

@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:03:48] Brian: “Music that they love and start sharing it and if it's if it's huge that's.”
-- [00:18:11] Brian: “Know there's no money uh because all the money's wrapped up in production.”
-- [00:22:10] Brian: “You're going to listen to it you're like oh they missed.”
-- [00:29:19] Brian: “Sounds garbagey right so you learn yes and no and in the end.”
-- [01:16:08] Brian: “It was tough because There are so many things that came out of that time.”
-- [01:22:27] Brian: “An individual it's up to You to choose what are currency what's a currency to you what are you spending what's.”
-- [01:24:06] Brian: “Hangover the next day would turn into depression that i didn't know was depression i was like i thought.”
-- [01:30:51] Brian: “I at the time realized that you know All i am as a dj.”
+- [00:15:55] Brian: “I wanted more involvement because we're gonna have it all set up so why not record more people.”
+- [00:18:11] Brian: “They've put out some pretty cool trap music.”
+- [02:10:19] Brian: “Love for my wife is very much different than my love.”
+- [02:18:07] Brian: “If you listen or if you have a friend.”
 
 ## Chapter-style timestamps
 

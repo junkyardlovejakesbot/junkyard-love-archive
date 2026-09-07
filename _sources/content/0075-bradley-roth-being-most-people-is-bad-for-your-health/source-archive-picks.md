@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About/quotes/li
 
 ## Memorable quotes
 
-- [00:04:36] Bradley: “I've kind of decided to specialize or niche down into relationship coaching.”
-- [00:04:36] Bradley: “Niche down into relationship coaching so for people who are in long-term relationships.”
-- [00:21:14] Bradley: “A silent meditation like My internal dialogue is like a thousand miles an hour at all.”
-- [00:21:14] Bradley: “I could tell the difference um i find for me i can't just do like a silent meditation like My internal dialogue.”
+- [00:20:36] Bradley: “Do you have a meditation practice yourself or do you find yourself.”
+- [00:51:53] Bradley: “Have to learn how to stumble over my words.”
 - [00:53:46] Bradley: “My highest value in life is freedom - time freedom, thought freedom, location freedom, financial freedom, etc.”
 - [01:07:19] Bradley: “Most people are not very happy, healthy, or wealthy – so why would you want to live, think, and be like most people?”
-- [01:29:43] Bradley: “It's funny because i have a question that i ask everyone too on my podcast And now i know what it feels.”
-- [01:29:43] Bradley: “A lot of problems um because Otherwise we're driven by like we don't.”
 
 ## Chapter-style timestamps
 

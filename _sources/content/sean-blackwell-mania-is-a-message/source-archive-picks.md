@@ -4,14 +4,13 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 
 ## Memorable quotes
 
-- [00:07:42] Sean: “People think delusions are random. But around the world, the same 13 spiritual delusions show up.”
+- [00:03:50] Sean: “What psychiatry calls a disorder can be the beginning of a profound inner journey.”
+- [00:03:50] Sean: “Mental disorders don't take you or mental illness doesn't take you in the non ordinary states of consciousness per se.”
 - [00:07:42] Sean: “The psyche speaks in myth and metaphor. Mania is often that language becoming audible.”
-- [00:12:54] Jacob: “Breakdowns often happen because something in us finally refuses to stay buried.”
+- [00:12:54] Sean: “Breakdowns often happen because something in us finally refuses to stay buried.”
 - [00:12:54] Sean: “The body whispers for years, and when we don’t listen, it eventually sends a storm.”
-- [00:39:30] Sean: “In itself is kind of a lie because it's taking a part of an experience that was so painful.”
-- [00:52:45] Sean: “If not, just keep it to yourself because people get threatened by this kind of thing.”
-- [01:01:30] Sean: “See it in the breathwork is the healing agent is actually a divine intelligence. It's a higher power. You can call.”
-- [01:12:48] Jacob: “When those energetic blockages release, the result can look like mania, visions, or symbolic delusions.”
+- [00:31:06] Sean: “Sometimes healing looks like falling apart in ways we can’t cleanly explain.”
+- [01:13:54] Sean: “I’ve met so many people who weren’t sick - they were overwhelmed by a truth they weren’t taught how to carry.”
 
 ## Chapter-style timestamps
 

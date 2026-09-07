@@ -4,14 +4,9 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:03:23] Nona: “I would love to dip into guns and carpentry and the things that you are amazing at but let's start with motherhood you recently.”
-- [00:06:11] Nona: “Was definitely during because um like we were talking about earlier I was on medication and I had a quick.”
-- [00:23:00] Nona: “The day and have them research postpartum depression mmm I mean I am so lucky that I had Brandon who will literally any question.”
-- [00:23:00] Nona: “Research like crazy on postpartum depression so when you do you think it helped me with struggling.”
-- [00:32:38] Nona: “I'm also I love woodworking I'm also a carpenter I'm also still a person yeah and you can't like that doesn't mean.”
-- [00:37:25] Nona: “Learn about it learn about postpartum depression learn about like how different.”
-- [00:56:28] Nona: “At your fingertips because you have a phone now I totally never even thought about that I'm.”
-- [00:56:28] Nona: “You can YouTube anything I mean if you want to learn how to handle a weapon.”
+- [00:16:25] Nona: “I just want you to never even learn of any of these terrible foods and things it's definitely hard but at the same time.”
+- [00:23:00] Nona: “The day and have them research postpartum depression.”
+- [00:35:57] Nona: “I'm not doing so good what's happening was postpartum depression.”
 
 ## Chapter-style timestamps
 

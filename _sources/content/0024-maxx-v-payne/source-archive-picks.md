@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:01:52] Maxx: “I don't know let's say when did I change it a year.”
-- [00:01:52] Maxx: “I change it a year ago two years ago year.”
-- [00:15:32] Maxx: “I was a pimp how old were you at Uncle Sugar four 15 clearly okay 15 and that's actually funny because at 17 years.”
-- [00:15:32] Maxx: “That's actually funny because at 17 years old is when I changed it to dopamine and people.”
-- [00:15:32] Maxx: “That's so stupid I'm like because who the **** is listening to a white kid named Uncle.”
+- [00:11:50] Maxx: “I could go to Z100 right and I was listening.”
 - [00:30:00] Maxx: “I love that dude I love that I think that more people.”
-- [01:23:44] Maxx: “This kind of relationship on like oh we're homies we both.”
-- [01:29:22] Maxx: “Cipher real quick you know because we had chosen them for this show.”
+- [00:35:51] Maxx: “In our last preparations for the show all right you don't have to tell us about the details of your guys' relationship.”
+- [00:59:08] Maxx: “I have the song recorded I just never put it out because I never had a never two unreleased tracks we need.”
 
 ## Chapter-style timestamps
 

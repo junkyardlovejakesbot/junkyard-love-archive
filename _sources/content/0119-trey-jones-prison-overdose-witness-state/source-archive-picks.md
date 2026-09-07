@@ -5,11 +5,10 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 ## Memorable quotes
 
 - [00:11:04] Trey: “Your willpower is a muscle. The more you exercise it, the stronger it is.”
-- [00:13:42] Trey: “The true you is the witness behind it all.”
+- [00:14:54] Trey: “Everything in my life needs to change, because everything in my life up to this point led me to this moment.”
 - [00:14:54] Trey: “Victim mentality is just inverted narcissism.”
+- [00:27:02] Trey: “My purpose now is to offer the same perspectives I went through so people don’t have to reach the same levels of rock bottom.”
 - [00:27:02] Trey: “I don’t believe everyone has to die to find their true self.”
-- [00:27:02] Trey: “We’re all just trying to pick different versions of ourselves up because we’re all a little piece of the puzzle.”
-- [00:30:26] Trey: “Healing isn’t being understood. Healing is becoming someone that your past can no longer control.”
 - [01:01:51] Trey: “Staying hard is the quickest way to never change.”
 - [01:09:55] Trey: “Empathy without standards creates weak adults.”
 

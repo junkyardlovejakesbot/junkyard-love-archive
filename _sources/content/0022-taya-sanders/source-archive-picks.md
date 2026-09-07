@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:06:51] Taya: “I worked for the last four years and I worked with at-risk youths in the community.”
-- [00:06:51] Taya: “I worked with at-risk youths in the community all schools in calots County so that was an amazing.”
-- [00:12:15] Taya: “I don't really know like obviously I'm totally YouTube learned that's right you to YouTube taught so I don't know.”
-- [00:23:28] Taya: “I've never been able to like set boundaries since starting this business it's like once I've never taken a break.”
-- [00:23:28] Taya: “I was sewing well actually I was sewing for him the night before I had him because he didn't have anything we're.”
-- [00:34:56] Taya: “I would work with at-risk youth so students that were at risk.”
-- [00:59:43] Taya: “I'll listen to something because it's like my break away from the kids I get like same thing.”
-- [01:00:05] Taya: “In my we upgraded to monsters University oh that's a great choice too.”
+- [00:03:57] Taya: “I've had two kids total mom bought but I would love.”
+- [00:06:09] Taya: “I didn't have kids at this point it would be dangerous because all I do is work.”
+- [00:18:48] Taya: “You'll text me all the time you'll be listening.”
+- [00:23:28] Taya: “I had him because he didn't have anything we're in the hospital I was sewing for everyone.”
 
 ## Chapter-style timestamps
 

@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 
 ## Memorable quotes
 
+- [00:12:31] Abrielle: “I'm a huge propornant of failing forward.”
+- [00:12:31] Abrielle: “There are people who are putting out good messages but they're not being heard because they either don't have good enough.”
 - [00:17:37] Abrielle: “You can wake up everyday and do it differently.”
-- [00:48:59] Abrielle: “I should only be comparing myself to myself, who I was yesterday, or who I was when I wasn't doing as well.”
 - [01:31:28] Abrielle: “How do I want people to feel? Inspired.”
-- [01:38:45] Abrielle: “When you have the perspective you're able to recognize all those little blessings.”
-- [01:41:06] Abrielle: “Theres a difference between functional analysis and dwelling.”
-- [01:46:23] Abrielle: “Is this person actually upset with me or am I projecting my feeling onto them?”
-- [02:03:48] Abrielle: “When you understand yourself, you can understand other people.”
-- [02:05:15] Jacob: “I don't wanna work with someone I don't beleive in.”
 
 ## Chapter-style timestamps
 

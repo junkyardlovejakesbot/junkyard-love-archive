@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Memorable quotes
 
-- [00:13:06] Anne: “We don't just have worms because Evolution changes all the everything all the time and even today even though.”
-- [00:13:06] Anne: “Though we can't see it because changes work slowly but things are changing all the time here.”
-- [00:24:34] Anne: “Different we are made to choose but what we can't do is harm each other and the coordinating system.”
-- [00:31:03] Anne: “Point in my book that morality is a human construct nature doesn't.”
-- [00:42:48] Anne: “Required to create our own goals if we are going to have a happy.”
-- [00:47:48] Anne: “I liken a baby to a full member of the ecosystem and a potential member of the ideas sphere oh I love.”
-- [01:03:01] Anne: “Again what you're saying is exactly the nature of humans is we want to maximize our freedom and I'm like all for maximizing Freedom.”
-- [01:29:32] Anne: “I love that one too and that was the what I used to write this book it was this is as simple.”
+- [00:06:30] Anne: “I'm sitting there listening to the supply and demand and the prices and everything and of course technology never change.”
+- [00:22:15] Anne: “I've had very hard time trying to answer this question because the answer.”
+- [00:24:34] Anne: “Love's the answer love isn't the answer we don't we're too different to for everybody to love.”
+- [00:32:39] Anne: “Do no harm and let people maximize their choice.”
 
 ## Chapter-style timestamps
 

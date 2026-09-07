@@ -4,14 +4,12 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Memorable quotes
 
-- [00:23:15] Jacob: “If you want what you say you want, expect it to be difficult.”
+- [00:08:13] Nate: “I don't want to listen back to those episodes.”
+- [00:23:15] Nate: “If you want what you say you want, expect it to be difficult.”
+- [00:24:44] Nate: “You wouldn't have had access to it meaning.”
 - [00:33:04] Nate: “The weight that you feel that makes you want to end the game is purpose and responsibility.”
 - [00:42:19] Nate: “I feel like everything is trying to tell us in some way. Stop thinking about yourself and serve other people.”
-- [00:48:18] Nate: “Is so much sweeter because I believe so much more because I met God in the trenches.”
-- [01:37:05] Nate: “Most of the stuff that we're supposed to do, we will never receive credit for. But that's what you're supposed to do.”
 - [01:38:09] Nate: “If you are not raising warriors in your homes, sons and daughters that have discernment, your lineage is doomed.”
-- [01:54:08] Jacob: “Serving the image of you is not the same thing as serving you.”
-- [01:54:08] Jacob: “Every action you take is a vote for the person you want to be.”
 
 ## Chapter-style timestamps
 

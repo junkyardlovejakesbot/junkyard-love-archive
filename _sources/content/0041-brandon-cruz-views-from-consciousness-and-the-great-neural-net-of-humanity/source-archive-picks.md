@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:04:22] Brandon: “I had the funniest breath I had the funniest idea.”
-- [00:15:51] Brandon: “A podium not to lie to them because nowadays we're **** smart you can't just be like everything's gonna be fine.”
-- [00:23:14] Brandon: “Really reality is like being ignored and we're just listening to the words so like what needs to happen in those situations.”
-- [00:24:27] Brandon: “The presidency is not now something that one person should be tasked with responsibility.”
-- [00:42:42] Brandon: “I think we started technically eating mushrooms and it changed our consciousness is Stoned Ape Theory yeah yeah I love it I think that's.”
-- [00:42:42] Brandon: “I love it I think that's kind of where I'm at right now but um so anyway so at one point when we start.”
-- [00:43:16] Brandon: “Make a community like advance the evolution of consciousness really so you started naming.”
-- [01:02:54] Brandon: “Playlist it's which you should because you would just be like whoa I mean I'm.”
+- [00:24:27] Brandon: “The presidency is not now something that one person should be tasked with responsibility for the u.”
+- [00:42:42] Brandon: “I think that it was a drug-sniffing photos mushrooms I think we started technically eating mushrooms and it changed our consciousness.”
+- [00:59:09] Brandon: “I think that humans might actually be trying to get off earth because earth.”
+- [01:29:26] Brandon: “I'm gonna work overtime we're all working as a people right now the entire world the entire community.”
 
 ## Chapter-style timestamps
 

@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:01:16] Shaden: “I was always just pushing against the grain trying to just have my fun but like create a life where I could be free.”
-- [00:01:42] Shaden: “I wanted to be able to do what I want and have a good time and like see the people I love.”
-- [00:13:36] Shaden: “The table like this is like a dream come true this is literally everything that they said.”
-- [00:38:37] Shaden: “I'm all about that yeah I love that bro I feel like your fans.”
-- [00:38:37] Shaden: “I want to say to stuff because I want to light the way for people that go through the **** I go.”
-- [00:41:41] Shaden: “I mean some people may not like it because it's getting crazy.”
-- [00:55:37] Shaden: “I feel like the 20s I'm like especially because if you look.”
-- [01:00:20] Shaden: “I think it's something we don't really realize when we're in these darkness and we think.”
+- [00:22:09] Shaden: “I was dealing with so consciously that I didn't even want to realize at the time.”
+- [00:25:37] Shaden: “I took perfect timing where you want to go and if I die tomorrow off because they're being remastered and a lot of people.”
+- [00:38:37] Shaden: “I want to say to stuff because I want to light.”
+- [00:59:41] Shaden: “I literally started making music so that I could sing it and listen to it for myself.”
 
 ## Chapter-style timestamps
 

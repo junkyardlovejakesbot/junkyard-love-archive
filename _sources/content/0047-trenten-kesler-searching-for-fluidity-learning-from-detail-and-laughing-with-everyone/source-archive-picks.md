@@ -4,14 +4,7 @@ Extracted from the faster-whisper transcript of the published MP3 and Jacob’s 
 
 ## Memorable quotes
 
-- [00:10:56] Trenten: “I think it was about three weeks, maybe two weeks before they finally let us open back up at the Clean Machine.”
-- [00:11:09] Trenten: “Open back up, I've just hit this because I was keep telling my dad and like my office manager.”
-- [00:29:51] Trenten: “We have liquor licenses in Oregon and Idaho working on Washington. Got to own that bar to get the Washington liquor license.”
-- [00:53:46] Trenten: “In the world that's going to change that. Although I did try.”
-- [01:50:37] Trenten: “They're yelling at each But they're arguing someone else's fight, and it's because the news media.”
-- [01:50:37] Trenten: “Fight, and it's because the news media, I'm really just want.”
-- [02:09:38] Trenten: “All right. Okay, so give me a background of why you went to Thailand And I think in my head.”
-- [02:34:11] Jacob: “People will forget what you've said, people will forget what you've done, but they will never forget how you made them feel.”
+- [02:34:11] Trenten: “People will forget what you've said, people will forget what you've done, but they will never forget how you made them feel.”
 
 ## Chapter-style timestamps
 

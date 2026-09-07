@@ -4,13 +4,9 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 
 ## Memorable quotes
 
-- [00:22:39] Jacob: “One kid at a time.”
-- [00:34:58] Jacob: “You'll grow up to be that person you needed when you was younger.”
-- [00:37:16] Nate: “His breakthrough became his income.”
+- [00:34:58] Matt: “You'll grow up to be that person you needed when you was younger.”
 - [00:41:39] Matt: “I'm just a baker, that found bread.”
-- [00:58:40] Matt: “When I was dealing with dyslexia, I never heard anybody say - 'You could be better.”
 - [01:06:48] Matt: “Once you get rid of the idol, you'll show yourself.”
-- [01:06:48] Matt: “Really believe that it's the idol bro because same thing with basketball wasn't just having fun that was daddy.”
 - [01:24:01] Matt: “The cost of entry to your business, to your podcast, to your personal growth - is listening to people tell you that you're fuckin crazy.”
 
 ## Chapter-style timestamps

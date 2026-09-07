@@ -4,14 +4,7 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:01:50] Devin: “I mean anxiety depression it's in an Endless list of things that it benefits people in reality.”
-- [00:23:58] Devin: “The psychoactive cannabis Compound or cannabinoid CBD is the non-psychoactive cannabinoid Cannabidiol and then THC.”
-- [00:23:58] Devin: “One drug and made it impossible for people to really benefit from it up until recently.”
-- [00:38:21] Devin: “Know overthinking that it can create That anxiety that you're trying to get.”
-- [00:45:16] Devin: “A little i'd love to carry on um Terpenes are awesome actually i'm gonna grab.”
-- [00:45:16] Devin: “It's a therapeutic Compound can you still hear me well i can okay Terpenes are just they're.”
-- [01:06:30] Devin: “As you can because we're ourselves we just want to help.”
-- [01:06:56] Devin: “Everybody just needs love more love in this world man if we had more love.”
+- [00:48:43] Devin: “Some of them are great for depression anxiety.”
 
 ## Chapter-style timestamps
 

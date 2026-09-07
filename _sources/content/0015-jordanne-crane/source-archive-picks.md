@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:08:09] Jordanne: “Happy and so I just kind of kept drinking I tried a relationship for a minute.”
-- [00:08:09] Jordanne: “I had my parents that actually sat me down and said listen this is not okay right about the drinking.”
-- [00:15:49] Jordanne: “Huge vulnerability yes right and at this point I was only working I wasn't really seeing my family.”
-- [00:17:25] Jordanne: “I do because you can't just disappear so and even if you're in the hospital it's not safe right so and I my parents.”
-- [00:27:32] Jordanne: “I went straight to a motel Motel 6 is kind of where I go and you can always find easy people out of Motel.”
-- [00:31:10] Jordanne: “I had nowhere else to go I literally stayed with him until the morning because what if I left and something else.”
-- [00:54:53] Jordanne: “I have a friend who he's like a wonderful human being like I love.”
-- [00:56:22] Jordanne: “Stuff right and just about healing and things like that and so she comes and she prays.”
+- [00:05:08] Jordanne: “I got it because I got the birth control.”
+- [00:08:59] Jordanne: “I was up at weird hours and I wasn't working I wasn't doing anything after that relationship.”
+- [00:18:53] Jordanne: “I think and it's just a lot because nobody.”
+- [00:48:17] Jordanne: “They shouldn't have to change her my wife for you but I think people.”
 
 ## Chapter-style timestamps
 

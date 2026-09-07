@@ -4,14 +4,10 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 
 ## Memorable quotes
 
-- [00:13:01] Jasmine: “Gonna do yeah and i have tons of photos unemployment is still nice like i've saved money it's been a blessing honestly.”
-- [00:23:20] Trevir: “Really have any addictive personalities when it comes to like drugs or alcohol or anything i don't think yeah and my dad's.”
-- [00:27:00] Trevir: “Why do you love that more than your kids you know.”
-- [00:37:24] Jacob: “It's so easy to be a bad person, it takes work to be a good person.”
-- [00:47:56] Jasmine: “What have you learned and how have you changed your style.”
-- [00:47:56] Jasmine: “I always just love hearing the perspective of the artist of the person.”
-- [01:29:16] Jacob: “That's the cool thing about America, we're one big melting pot.”
-- [01:51:08] Jasmine: “It's not your fault.”
+- [00:37:24] Trevir: “It's so easy to be a bad person, it takes work to be a good person.”
+- [01:21:58] Jasmine: “That's what we could all do very well is we can take a look at our own interactions and see how we can change.”
+- [01:29:16] Trevir: “That's the cool thing about America, we're one big melting pot.”
+- [02:03:00] Jacob: “It because there's no fans or anything but you still need.”
 
 ## Chapter-style timestamps
 
