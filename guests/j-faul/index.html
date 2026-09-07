@@ -1,7 +1,8 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="dark">
 <head>
 <base href="/junkyard-love-archive/">
+<script>(function(){try{var t=localStorage.getItem("jylp-theme");if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t);}catch(e){}})();</script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Jessica Faul (J Faul) — The Junkyard Love Podcast</title>
@@ -10,7 +11,10 @@
 <body>
 <div class="wrap">
 <header class="site">
-  <a class="brand" href="index.html">The Junkyard Love Podcast</a>
+  <div class="header-row">
+    <a class="brand" href="index.html">The Junkyard Love Podcast</a>
+    <button type="button" class="theme-toggle" data-theme-toggle aria-label="Toggle light and dark mode">Light</button>
+  </div>
   <nav>
     <a href="episodes/index.html">Episodes</a>
     <a href="guests/index.html">Guests</a>
@@ -24,8 +28,8 @@
 <p class="note">Also known as J Faul. Solo Episode 0007; co-guest with Mack T on Episode 0042.</p>
 <h2>Episodes</h2>
 <ul class="list">
-  <li><a href="episodes/0042-mack-t-and-j-faul-the-last-saturday-small-town-minds-evolving-and-an-attitude-of-growth/index.html">Episode 042 with Mack T and J Faul - The Last Saturday: Small Town Minds Evolving and An Attitude of Growth</a><br><span class="note">2020-05-19 · Episode 0042</span></li>
-  <li><a href="episodes/0007-jessica-faul/index.html">Episode 007 with Jessica Faul</a><br><span class="note">2019-12-05 · Episode 0007</span></li>
+  <li><a href="episodes/0042-mack-t-and-j-faul-the-last-saturday-small-town-minds-evolving-and-an-attitude-of-growth/index.html">The Last Saturday: Small Town Minds Evolving and An Attitude of Growth</a><br><span class="note">Episode 0042 · 2020-05-19 · Mack T &amp; J Faul</span></li>
+  <li><a href="episodes/0007-jessica-faul/index.html">Past pains laughs and future plans</a><br><span class="note">Episode 0007 · 2019-12-05 · Jessica Faul</span></li>
 </ul>
 <h2>From the episode notes</h2>
 <p class="note">Copied from published episode descriptions (not a new biography).</p>
@@ -51,5 +55,6 @@
   <p>The Junkyard Love Podcast — Jacob Rhines · <a href="guests/index.html">Guest index</a></p>
 </footer>
 </div>
+<script src="assets/theme.js" defer></script>
 </body>
 </html>

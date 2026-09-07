@@ -1,7 +1,8 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="dark">
 <head>
 <base href="/junkyard-love-archive/">
+<script>(function(){try{var t=localStorage.getItem("jylp-theme");if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t);}catch(e){}})();</script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Andy of Team Banzai — The Junkyard Love Podcast</title>
@@ -10,7 +11,10 @@
 <body>
 <div class="wrap">
 <header class="site">
-  <a class="brand" href="index.html">The Junkyard Love Podcast</a>
+  <div class="header-row">
+    <a class="brand" href="index.html">The Junkyard Love Podcast</a>
+    <button type="button" class="theme-toggle" data-theme-toggle aria-label="Toggle light and dark mode">Light</button>
+  </div>
   <nav>
     <a href="episodes/index.html">Episodes</a>
     <a href="guests/index.html">Guests</a>
@@ -23,7 +27,7 @@
 <p class="note">Appeared on The Junkyard Love Podcast (1 episode)</p>
 <h2>Episodes</h2>
 <ul class="list">
-  <li><a href="episodes/0033-andy-of-team-banzai/index.html">The Junkyard Love Podcast Episode 033 with Andy of Team Banzai</a><br><span class="note">2020-03-31 · Episode 0033</span></li>
+  <li><a href="episodes/0033-andy-of-team-banzai/index.html">Team Banzai at Black Diamond Studio</a><br><span class="note">Episode 0033 · 2020-03-31 · Andy of Team Banzai</span></li>
 </ul>
 <h2>From the episode notes</h2>
 <p class="note">Copied from published episode descriptions (not a new biography).</p>
@@ -47,5 +51,6 @@
   <p>The Junkyard Love Podcast — Jacob Rhines · <a href="guests/index.html">Guest index</a></p>
 </footer>
 </div>
+<script src="assets/theme.js" defer></script>
 </body>
 </html>
