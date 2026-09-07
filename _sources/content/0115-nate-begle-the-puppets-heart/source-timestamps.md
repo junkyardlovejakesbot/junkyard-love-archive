@@ -1,1 +1,30 @@
-(none published in episode notes)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:01:10](#t-00-01-10) — Opening — welcome Nate / voice actor & puppeteer intro
+- [00:02:12](#t-00-02-12) — DJ Bob Show / make a door if there isn’t one
+- [00:07:34](#t-00-07-34) — Formal welcome to Junkyard Love / how they connected
+- [00:10:44](#t-00-10-44) — Kids’ VO character workshop / elevator pitch setup
+- [00:12:08](#t-00-12-08) — Behind the mic / below the frame / puppetry as gateway
+- [00:14:33](#t-00-14-33) — Fraggle Rock light-switch moment at age 7
+- [00:18:41](#t-00-18-41) — Jim Henson Hour / magic is below the frame
+- [00:20:44](#t-00-20-44) — Camera reveal of puppeteers / “I need to do that”
+- [00:23:39](#t-00-23-39) — Goals: Sesame Street & Jim Henson Company — both achieved
+- [00:24:56](#t-00-24-56) — Kids on the Block / classical acting & musical theater path
+- [00:27:30](#t-00-27-30) — Amtrak to NYC / six months to book something
+- [00:28:37](#t-00-28-37) — Die Hard the Puppet Musical / NYC puppetry scene
+- [00:30:02](#t-00-30-02) — Tyler Bunch mentor: “Did you ever think about doing voice work?”
+- [00:34:17](#t-00-34-17) — Power of encouragement / we discount ourselves
+- [00:35:46](#t-00-35-46) — Coaching actors ages 4 to 92 / one size doesn’t fit all
+- [00:40:00](#t-00-40-00) — Voice acting = capital A, lowercase v / Meisner setup
+- [00:40:56](#t-00-40-56) — “Behaving truthfully under imaginary circumstances”
+- [00:42:14](#t-00-42-14) — Harmonica / spoon emotion exercise — storytelling without words
+- [00:46:53](#t-00-46-53) — Mick Wingert — find your irreducible minimum
+- [00:52:47](#t-00-52-47) — Ballet vs voiceover — effortless illusion & public discount
+- [00:58:10](#t-00-58-10) — Weird Al bus lip-sync / don’t yuck your yum
+- [01:00:01](#t-01-00-01) — Passion as pusher / gobbling gargoyles tongue twister
+- [01:05:16](#t-01-05-16) — First NYC month booking / no-waiting-tables vow / hustle jobs
+- [01:11:46](#t-01-11-46) — Blockbuster accents / bring joy / equal juice announcing
+- [01:16:44](#t-01-16-44) — John Tartaglia’s Imagination — 1000+ blacklight puppet shows
+- [01:19:24](#t-01-19-24) — Pocket universe / show must go on / one kid’s laugh
+- [01:21:10](#t-01-21-10) — Advice for beginners — pick a focus / free resources & coaches
+- [01:26:50](#t-01-26-50) — Megaphone to humanity — Kermit / do what you love

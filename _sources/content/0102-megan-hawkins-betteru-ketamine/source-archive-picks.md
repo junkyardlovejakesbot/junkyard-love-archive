@@ -11,8 +11,7 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Chapter-style timestamps
 
-- [00:00:00](#t-00-00-00) — Solo intro — Jacob’s at-home ketamine / BetterU framing
-- [00:11:12](#t-00-11-12) — Skip solo intro / conversation start
+- [00:12:05](#t-00-12-05) — Solo intro — Jacob’s at-home ketamine / BetterU framing
 - [00:13:54](#t-00-13-54) — Megan intro — BetterU, telemedicine, brain box, LA HQ
 - [00:15:54](#t-00-15-54) — Ketamine history — Spravato / costly IV clinics vs accessibility
 - [00:18:03](#t-00-18-03) — BetterU goals — affordable, quality care, not one-size-fits-all
@@ -42,8 +41,6 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [02:25:04](#t-02-25-04) — How to get started / next steps after this episode
 - [02:30:08](#t-02-30-08) — Broader psychedelic landscape — legality, telemedicine, workforce
 - [02:41:13](#t-02-41-13) — Where to find BetterU — betterucare.com / @betterucare
-- [02:52:35](#t-02-52-35) — Outro — free intro call, financing, gratitude
-
 
 ## Keywords
 

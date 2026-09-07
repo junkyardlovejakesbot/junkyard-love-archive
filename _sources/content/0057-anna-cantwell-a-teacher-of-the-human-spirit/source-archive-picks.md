@@ -11,7 +11,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Opening bumper — Junkyard Love
 - [00:02:21](#t-00-02-21) — Guest intro — Anna Cantwell
 - [00:03:07](#t-00-03-07) — Conversation starts — sunrise / fires
 - [00:10:14](#t-00-10-14) — Eckhart Tolle — beauty / enlightenment
@@ -33,8 +32,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [01:40:44](#t-01-40-44) — Medicine Cards
 - [01:48:54](#t-01-48-54) — Social Masculine Bring
 - [01:57:10](#t-01-57-10) — Learning / Yourself
-- [02:08:19](#t-02-08-19) — Outro CTA — water / self-love
-
 
 ## Keywords
 

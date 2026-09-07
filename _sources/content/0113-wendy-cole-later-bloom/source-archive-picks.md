@@ -14,8 +14,7 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Chapter-style timestamps
 
-- [00:00:00](#t-00-00-00) — Opening — welcome Wendy / Demystifying the Transgender Journey podcast
-- [00:05:44](#t-00-05-44) — Limiting beliefs from childhood / told parents at age 10
+- [00:05:44](#t-00-05-44) — Opening — welcome Wendy / Demystifying the Transgender Journey podcast
 - [00:06:36](#t-00-06-36) — “Gender’s between the ears, not the legs” / frontal cortex
 - [00:07:25](#t-00-07-25) — Dysphoria as incongruence / early socialization
 - [00:12:05](#t-00-12-05) — Mirror-question test / depth of distress most never feel
@@ -30,7 +29,7 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [00:42:07](#t-00-42-07) — “We just want to be” / acceptance over explanation
 - [00:46:02](#t-00-46-02) — Diagnostic code changed in 2012 / early-’70s history
 - [00:48:14](#t-00-48-14) — Mission to humanize being born transgender
-- [00:53:50](#t-00-53-50) — Open to new perspective / change is good
+- [00:53:50](#t-00-53-50) — Change, Perspective & Believes
 - [00:55:06](#t-00-55-06) — Embrace change / life is about possibility
 - [00:58:54](#t-00-58-54) — Work-as-identity / repressing the real self
 - [01:02:14](#t-01-02-14) — Sacral feel-first / Rhode Island leap of trust
@@ -44,8 +43,6 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [01:33:30](#t-01-33-30) — 16-week coaching / roadmap / life tests
 - [01:35:25](#t-01-35-25) — Grocery cart & Dunkin’ life tests / cops trigger old fear
 - [01:38:35](#t-01-38-35) — “Yep, you’re ready” / possibilities / resources
-- [01:44:08](#t-01-44-08) — Outro — ally community / informed allies pitch
-
 
 ## Keywords
 

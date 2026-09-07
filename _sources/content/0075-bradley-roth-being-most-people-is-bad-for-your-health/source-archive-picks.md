@@ -11,7 +11,6 @@ Extracted from the YouTube auto-caption transcript and published About/quotes/li
 
 ## Chapter-style timestamps
 
-- [00:00:08](#t-00-00-08) — Opening bumper — Junkyard Love
 - [00:01:10](#t-00-01-10) — Jacob welcome & Bradley intro
 - [00:02:25](#t-00-02-25) — The Mastermind
 - [00:08:43](#t-00-08-43) — Tony Robbins event
@@ -29,7 +28,6 @@ Extracted from the YouTube auto-caption transcript and published About/quotes/li
 - [01:19:03](#t-01-19-03) — Try Wake All Misc
 - [01:25:46](#t-01-25-46) — Understanding / Relationship
 - [01:29:11](#t-01-29-11) — What the world needs — soft skills / psychology
-- [01:32:13](#t-01-32-13) — Outro — water / mobility / self-love CTA
 
 ## Keywords
 

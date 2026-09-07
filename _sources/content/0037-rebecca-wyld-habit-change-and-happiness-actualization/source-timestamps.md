@@ -1,1 +1,27 @@
-(none published in episode notes — inventory has_timestamps=no; no YouTube chapter markers; Archive picks uses full-MP3 ASR-derived chapter-style timestamps)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:02:07](#t-00-02-07) — Conversation open — editing / being a beginner
+- [00:07:15](#t-00-07-15) — Self-love / living well
+- [00:13:18](#t-00-13-18) — Take me where I feel small
+- [00:14:43](#t-00-14-43) — Hiking / AllTrails
+- [00:19:44](#t-00-19-44) — Cougars / bears on hikes
+- [00:20:34](#t-00-20-34) — Coyotes
+- [00:21:32](#t-00-21-32) — Boundaries you didn’t know you had
+- [00:25:30](#t-00-25-30) — Flexible vs rigid
+- [00:28:37](#t-00-28-37) — Life coaching — what it is
+- [00:35:04](#t-00-35-04) — Cosmetologist chats in the chair
+- [00:39:22](#t-00-39-22) — Neck pain path into healing
+- [00:44:05](#t-00-44-05) — Inflammation
+- [00:50:30](#t-00-50-30) — Whole Foods / re-learning health
+- [00:51:25](#t-00-51-25) — Beliefs confirmed by experiences
+- [00:55:22](#t-00-55-22) — Holistic wellness
+- [00:57:04](#t-00-57-04) — Habit loops
+- [01:07:27](#t-01-07-27) — Writing is magic
+- [01:14:47](#t-01-14-47) — If it’s your truth, own it
+- [01:22:52](#t-01-22-52) — Ritual / spiritual practice
+- [01:26:39](#t-01-26-39) — Breaking family cycles
+- [01:35:49](#t-01-35-49) — Threshold theory
+- [01:54:53](#t-01-54-53) — Social anxiety / depression
+- [02:01:42](#t-02-01-42) — Child mind / curiosity over rigidity
+- [02:10:41](#t-02-10-41) — Choosing to be here / comparison traps
+- [02:17:07](#t-02-17-07) — Happiness without money stories

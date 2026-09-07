@@ -1,1 +1,23 @@
-(none published in episode notes)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:01:26](#t-00-01-26) — Host open — Grow, Towards & Choice
+- [00:04:02](#t-00-04-02) — Taking notes / remembering
+- [00:04:51](#t-00-04-51) — Tough upbringing / shaken baby aside
+- [00:07:35](#t-00-07-35) — Background — changing attitude / weight
+- [00:19:21](#t-00-19-21) — Finding a mentor
+- [00:22:21](#t-00-22-21) — Path into powerlifting
+- [00:25:01](#t-00-25-01) — Squatting 705 / competing
+- [00:29:05](#t-00-29-05) — Meet picture — Monolith / USPA / bracing
+- [00:36:34](#t-00-36-34) — Caffeine / ammonia at meets
+- [00:38:02](#t-00-38-02) — Meet prep phases
+- [00:38:55](#t-00-38-55) — Electrician knowledge
+- [00:46:40](#t-00-46-40) — Started / Younger
+- [00:55:05](#t-00-55-05) — Rebellious / Knowledge
+- [01:02:54](#t-01-02-54) — Hard / Life
+- [01:10:50](#t-01-10-50) — Electrician / Years
+- [01:14:21](#t-01-14-21) — Not stayin stag / Instagram realism
+- [01:19:52](#t-01-19-52) — Job site — junction box / hot wire
+- [01:27:30](#t-01-27-30) — Sniff Pneumonia
+- [01:34:49](#t-01-34-49) — Ego-lifting / pre-workout pump
+- [01:42:41](#t-01-42-41) — Connection / Weight
+- [01:50:09](#t-01-50-09) — Balance — girlfriend Rachel / gym life

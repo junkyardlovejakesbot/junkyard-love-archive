@@ -14,7 +14,7 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 
 ## Chapter-style timestamps
 
-- [00:00:20](#t-00-00-20) — Welcome back / reconnecting on the path
+- [00:00:20](#t-00-00-20) — Perfect, Clears & Throat
 - [00:01:43](#t-00-01-43) — Curating community / spirituality vs self-improvement
 - [00:03:52](#t-00-03-52) — Pendulum: discipline, gentleness, masculine & feminine
 - [00:13:36](#t-00-13-36) — Bracing the storm vs letting the stream carry you
@@ -39,7 +39,6 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 - [01:37:09](#t-01-37-09) — Pray for future self / shape me into who I’m here to be
 - [01:44:00](#t-01-44-00) — Ego death / pray for future self / call on support
 - [01:45:59](#t-01-45-59) — Start and end prayer with gratitude
-- [01:53:56](#t-01-53-56) — Outro — water, stretch, try prayer, love yourselves
 
 ## Keywords
 

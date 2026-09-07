@@ -9,8 +9,7 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Chapter-style timestamps
 
-- [00:00:01](#t-00-00-01) — Opening — welcome Matt / “who are you”
-- [00:00:49](#t-00-00-49) — Matt elevator pitch — educational consultant / alleviate family anxiety
+- [00:00:13](#t-00-00-13) — Opening — welcome Matt / “who are you”
 - [00:02:51](#t-00-02-51) — Why 2024 is harder — test-optional, application spikes, cost, FAFSA
 - [00:04:39](#t-00-04-39) — Opaque admissions / hyper-qualified kids still rejected
 - [00:05:26](#t-00-05-26) — Social-media doom-scroll loop / mental health + academics
@@ -34,8 +33,6 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [00:55:41](#t-00-55-41) — Founding MRM Education — professionalize tutoring / $80/hr tutors
 - [01:02:26](#t-01-02-26) — Business is hard / entrepreneur grind since mid-2020
 - [01:03:11](#t-01-03-11) — Connected to the why / mission-driven
-- [01:05:44](#t-01-05-44) — Outro — drink water / stretch / love yourselves
-
 
 ## Keywords
 

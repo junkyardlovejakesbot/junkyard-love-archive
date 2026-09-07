@@ -9,7 +9,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:00](#t-00-00-00) — Bumper — knowledge is power
 - [00:01:13](#t-00-01-13) — Bio ask
 - [00:03:21](#t-00-03-21) — Is consciousness built through evolution?
 - [00:07:40](#t-00-07-40) — Haven't Experienced
@@ -24,7 +23,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [00:46:37](#t-00-46-37) — Morality / Service
 - [00:50:18](#t-00-50-18) — Purpose / School
 - [00:52:28](#t-00-52-28) — Advice — life is short / own path
-- [00:53:59](#t-00-53-59) — Outro — thanks & listener CTA
 
 ## Keywords
 

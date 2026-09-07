@@ -11,8 +11,7 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Chapter-style timestamps
 
-- [00:00:02](#t-00-00-02) — Opening — depression tools / welcome newcomers + toe-dippers
-- [00:02:03](#t-00-02-03) — Catalyst people — “living is not working” / what do you do next
+- [00:02:03](#t-00-02-03) — Opening — depression tools / welcome newcomers + toe-dippers
 - [00:03:01](#t-00-03-01) — Healing path — you have to do the work (no outsourcing the pain)
 - [00:03:55](#t-00-03-55) — Childhood differentness / past-life dreams / traumatic upbringing
 - [00:04:49](#t-00-04-49) — 2019 cascade / Samaritans / “turn the light on” / Scotland trip
@@ -39,8 +38,6 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [01:11:34](#t-01-11-34) — Needle-movers — water fasting, grapefruit fast, biological supports
 - [01:15:13](#t-01-15-13) — Magic mushrooms / intentions, set & setting
 - [01:22:18](#t-01-22-18) — Meditation can reach the same place without psychedelics
-- [01:28:04](#t-01-28-04) — Outro — The Will To Live Project / coaching / Insight Timer / doula training
-
 
 ## Keywords
 

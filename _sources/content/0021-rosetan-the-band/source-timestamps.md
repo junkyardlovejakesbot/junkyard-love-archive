@@ -1,1 +1,30 @@
-(none published in episode notes — inventory has_timestamps=no; no YouTube chapter markers; Archive picks uses transcript-derived chapter-style timestamps)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:01:15](#t-00-01-15) — Year, Baseball & Rosetan
+- [00:04:58](#t-00-04-58) — Band, Eric & Rosetan
+- [00:08:50](#t-00-08-50) — How the band got started — solo to trio
+- [00:10:23](#t-00-10-23) — Meeting Erik & Jake Wilson / playing together
+- [00:14:04](#t-00-14-04) — Show practice / deliberate rehearsals
+- [00:24:15](#t-00-24-15) — Mentors vs teachers
+- [00:32:17](#t-00-32-17) — Build / Older
+- [00:35:04](#t-00-35-04) — Jake Carrol background
+- [00:42:52](#t-00-42-52) — Tabs Won't Check
+- [00:52:53](#t-00-52-53) — Gear / Guitar Center vs local shops
+- [01:01:08](#t-01-01-08) — Friends / Rosetan
+- [01:05:32](#t-01-05-32) — Music community / impact
+- [01:13:32](#t-01-13-32) — Place That's Why
+- [01:19:03](#t-01-19-03) — Bandcamp listening / catalog
+- [01:26:39](#t-01-26-39) — Community / Musicians
+- [01:34:31](#t-01-34-31) — Community / Favorite
+- [01:42:24](#t-01-42-24) — Community / Musician
+- [01:50:23](#t-01-50-23) — Community / Friends
+- [01:58:17](#t-01-58-17) — Momentum Currently
+- [02:06:26](#t-02-06-26) — Black Diamond That's
+- [02:14:22](#t-02-14-22) — Community / Artists
+- [02:21:43](#t-02-21-43) — Fears, insecurities & full-circle talk
+- [02:29:59](#t-02-29-59) — Community / Favorite
+- [02:38:07](#t-02-38-07) — Keep Playing
+- [02:46:01](#t-02-46-01) — Jake Wilson Weren't Trying
+- [02:54:00](#t-02-54-00) — Traverse' Changed Life
+- [03:02:03](#t-03-02-03) — Band All Dif
+- [03:09:47](#t-03-09-47) — Community / Friends

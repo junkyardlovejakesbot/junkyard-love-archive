@@ -1,23 +1,31 @@
-00:00:00 — Intro
-00:07:18 — Abrielles Note
-00:10:21 — The Illusion of Conversation
-00:14:03 — Abrielles Story
-00:21:52 — We Are Almost I
-00:24:12 — I Have Become
-00:29:22 — The Sense Making Sickness Series
-00:34:11 — Human Emotion
-00:38:17 — Practicing Awareness
-00:40:24 — Fogged Glass
-00:42:29 — No One Can Be Any Different
-00:43:06 — What If
-00:44:26 — Thinking Out Loud
-00:45:28 — We Dont Know The Truth
-00:46:11 — Why Would You Think
-00:47:10 — Psychedelic Experiences
-00:47:54 — Perception
-00:50:29 — Identity
-00:51:03 — Trying to not be annoying
-00:52:04 — Learning to be quiet
-00:54:44 — Being in the moment
-00:57:09 — What being here means
-00:57:24 — The pain of the moment
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:01:18](#t-00-01-18) — Host open — Sense, Trying & Conversation
+- [00:07:24](#t-00-07-24) — Abrielles Note
+- [00:10:48](#t-00-10-48) — The Illusion of Conversation
+- [00:13:45](#t-00-13-45) — Abrielles Story
+- [00:22:00](#t-00-22-00) — We Are Almost I
+- [00:24:02](#t-00-24-02) — I Have Become
+- [00:29:30](#t-00-29-30) — The Sense Making Sickness Series
+- [00:33:54](#t-00-33-54) — Human Emotion
+- [00:37:53](#t-00-37-53) — Practicing Awareness
+- [00:40:16](#t-00-40-16) — Fogged Glass
+- [00:42:47](#t-00-42-47) — No One Can Be Any Different
+- [00:44:26](#t-00-44-26) — Thinking Out Loud
+- [00:45:30](#t-00-45-30) — We Dont Know The Truth
+- [00:46:18](#t-00-46-18) — Why Would You Think
+- [00:47:13](#t-00-47-13) — Psychedelic Experiences
+- [00:50:01](#t-00-50-01) — Identity
+- [00:51:20](#t-00-51-20) — Trying to not be annoying
+- [00:52:06](#t-00-52-06) — Learning to be quiet
+- [00:54:30](#t-00-54-30) — Being in the moment
+- [00:56:44](#t-00-56-44) — What being here means
+- [00:57:44](#t-00-57-44) — The pain of the moment
+- [01:13:41](#t-01-13-41) — Hard Work
+- [01:23:03](#t-01-23-03) — Compassion amid conflicting realities
+- [01:46:10](#t-01-46-10) — I've I've
+- [01:51:26](#t-01-51-26) — Victim mindset / projection
+- [01:59:36](#t-01-59-36) — Within / Human
+- [02:13:13](#t-02-13-13) — Easily inspired / building the self
+- [02:28:44](#t-02-28-44) — What's World
+- [02:37:00](#t-02-37-00) — Expose Myself

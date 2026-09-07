@@ -8,7 +8,6 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Opening bumper — Junkyard Love
 - [00:01:37](#t-00-01-37) — Ask — Camp ReEducation origin
 - [00:02:38](#t-00-02-38) — Camp topic — reality TV
 - [00:07:46](#t-00-07-46) — Shaye — RetroLux / indie electronic
@@ -24,7 +23,6 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 - [00:45:11](#t-00-45-11) — Ignorance Bottle
 - [00:49:15](#t-00-49-15) — Demon Summoning
 - [00:53:11](#t-00-53-11) — Understanding / Learning
-- [00:58:11](#t-00-58-11) — Outro — knowledge is power
 
 ## Keywords
 

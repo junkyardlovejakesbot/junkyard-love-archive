@@ -13,8 +13,7 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Chapter-style timestamps
 
-- [00:00:00](#t-00-00-00) — Opening — welcome Ravinder / Mind Training intro
-- [00:00:55](#t-00-00-55) — Best version of self / remove blockages to authentic self
+- [00:00:55](#t-00-00-55) — Opening — welcome Ravinder / Mind Training intro
 - [00:05:29](#t-00-05-29) — Research solid, mystical explanations aren’t / what really works
 - [00:07:51](#t-00-07-51) — Empower the reader / personalize meditation / dig for truth
 - [00:08:59](#t-00-08-59) — Personal healing journey / rheumatoid arthritis question
@@ -39,8 +38,6 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [01:00:41](#t-01-00-41) — Next decade — spiritual search / realistic self-help hunger
 - [01:06:36](#t-01-06-36) — Look back at trauma when useful / otherwise forge forward
 - [01:08:38](#t-01-08-38) — One day at a time / happiness now / problems resolve
-- [01:13:17](#t-01-13-17) — Outro — Knowledge is power / Reality Is Junkyard Love
-
 
 ## Keywords
 

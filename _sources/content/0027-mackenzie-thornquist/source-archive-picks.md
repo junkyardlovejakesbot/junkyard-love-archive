@@ -11,7 +11,7 @@ Extracted from the YouTube auto-caption transcript, YouTube chapter markers, and
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Opening — Junkyard Love / Mackenzie
+- [00:01:30](#t-00-01-30) — Opening — Junkyard Love / Mackenzie
 - [00:07:48](#t-00-07-48) — Crowd nerves / entitlement at shows
 - [00:14:32](#t-00-14-32) — Podcast Tour
 - [00:18:17](#t-00-18-17) — New York vs Washington / cost of living
@@ -25,8 +25,6 @@ Extracted from the YouTube auto-caption transcript, YouTube chapter markers, and
 - [01:11:38](#t-01-11-38) — What's the Difference between a Regular Set and Dj Set
 - [01:20:02](#t-01-20-02) — Connecting with strangers at shows
 - [01:29:09](#t-01-29-09) — Bucket lists / Red Rocks dreams
-- [01:38:01](#t-01-38-01) — Favorites, friends & closing stories
-- [01:46:41](#t-01-46-41) — Outro — drink water
 
 ## Keywords
 

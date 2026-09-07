@@ -1,1 +1,21 @@
-(none published in episode notes)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:02:00](#t-00-02-00) — Guest intro — Trevor May
+- [00:03:22](#t-00-03-22) — Twitch / streaming & content
+- [00:11:12](#t-00-11-12) — Future Don't Remember Who's
+- [00:18:06](#t-00-18-06) — Purpose / doing things on purpose
+- [00:25:54](#t-00-25-54) — Blah Allowing Yourself
+- [00:34:17](#t-00-34-17) — Community / Streamer
+- [00:37:44](#t-00-37-44) — Esports brand / online communities
+- [00:45:23](#t-00-45-23) — Anxiety / strategies to improve
+- [00:51:25](#t-00-51-25) — State changes
+- [00:53:41](#t-00-53-41) — Panic attacks & adult ADD
+- [01:01:42](#t-01-01-42) — Huge Apps
+- [01:09:14](#t-01-09-14) — Self Awareness Awareness
+- [01:16:53](#t-01-16-53) — Process / Purpose
+- [01:20:25](#t-01-20-25) — Growth vs fixed mindset
+- [01:28:30](#t-01-28-30) — Free agent / baseball path
+- [01:36:16](#t-01-36-16) — Situations / Available
+- [01:44:12](#t-01-44-12) — Startup Called Fan Control Foot
+- [01:53:08](#t-01-53-08) — Legacy & purpose for kids
+- [01:57:15](#t-01-57-15) — Find that purpose

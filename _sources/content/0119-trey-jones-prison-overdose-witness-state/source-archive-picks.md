@@ -14,7 +14,7 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 
 ## Chapter-style timestamps
 
-- [00:00:21](#t-00-00-21) — Opening — welcome Trey / bone broth morning
+- [00:01:05](#t-00-01-05) — Opening — welcome Trey / bone broth morning
 - [00:04:56](#t-00-04-56) — Fuel for the engine / victim mentality & confirmation bias
 - [00:11:04](#t-00-11-04) — Willpower as a muscle / fasting progression
 - [00:13:42](#t-00-13-42) — Ken Wilber witness state / true you is the witness
@@ -39,7 +39,6 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 - [01:20:49](#t-01-20-49) — Synchronicity loops / Timothy Leary niece / Shulgin thread
 - [01:22:53](#t-01-22-53) — Invisible thread / Rupert Sheldrake / plants & knowing
 - [01:29:05](#t-01-29-05) — Predetermined purpose / amnesia / this too shall pass
-- [01:30:55](#t-01-30-55) — Outro — gift: chase your higher calling / outro
 
 ## Keywords
 

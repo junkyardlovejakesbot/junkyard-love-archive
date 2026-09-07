@@ -11,7 +11,7 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Chapter-style timestamps
 
-- [00:00:02](#t-00-00-02) — Opening — welcome and Loneliness of kundalini
+- [00:00:47](#t-00-00-47) — Opening — welcome and Loneliness of kundalini
 - [00:02:48](#t-00-02-48) — Bio — Brent Spirit alias, photographer, tumblr → spiritual teacher
 - [00:05:31](#t-00-05-31) — Childhood freedom / dissociation as survival
 - [00:09:45](#t-00-09-45) — High-school depression / Power of Now / witnessing
@@ -34,8 +34,6 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [01:39:12](#t-01-39-12) — Whoa Keep Tha
 - [01:42:53](#t-01-42-53) — Why talk about Kundalini openly — breadcrumbs / flags in the forest
 - [01:50:26](#t-01-50-26) — Resources — BATGAP, Adyashanti, Yvonne Kason, Matt Kahn, Ram Dass
-- [01:57:13](#t-01-57-13) — Outro — love yourselves / peace out
-
 
 ## Keywords
 

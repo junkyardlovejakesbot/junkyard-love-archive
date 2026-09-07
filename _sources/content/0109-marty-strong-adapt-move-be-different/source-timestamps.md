@@ -1,1 +1,26 @@
-(none published in episode notes)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:00:09](#t-00-00-09) — Opening — Junkyard Love check-in
+- [00:03:40](#t-00-03-40) — Jacob on intuition — how a 17–18-year-old said yes
+- [00:15:11](#t-00-15-11) — Continuous self-learning / no arrival point / frictions when people try to change
+- [00:16:47](#t-00-16-47) — Brain science — safety/stability switch vs explore/risk switch
+- [00:17:44](#t-00-17-44) — Be Different beat — creativity & awe available at any age
+- [00:18:50](#t-00-18-50) — Madame Curie — universe abhors stasis / conditioned for safety
+- [00:19:45](#t-00-19-45) — Frontload “what’s going to happen to me” / change as threat
+- [00:21:10](#t-00-21-10) — Hire for temperament — fragile vs open mindsets under change
+- [00:27:27](#t-00-27-27) — Scenario-based training / role-play lost clients & suppliers
+- [00:29:04](#t-00-29-04) — Hire + mentor + drills / train harder than combat (SEALs)
+- [00:32:25](#t-00-32-25) — Discipline defined — 200–300 words/day → habits → books
+- [00:34:28](#t-00-34-28) — Baby steps / eat the elephant one bite / reinforce before leaping
+- [00:38:25](#t-00-38-25) — Pull vs push motivation — horizon light as objective
+- [00:41:24](#t-00-41-24) — Own your goals / break year goals into weekly word counts
+- [00:44:37](#t-00-44-37) — Military→civilian transition / culture shock & diminished “pull”
+- [00:47:05](#t-00-47-05) — “Thank you for your service, now what” / put medals on the shelf
+- [00:49:44](#t-00-49-44) — Apprentice mindset — research 6–12 months before the leap
+- [00:55:14](#t-00-55-14) — Atlanta keynote rock-star moment → airport plastic seat
+- [00:58:33](#t-00-58-33) — Intellectual humility / school of life / don’t rest on laurels
+- [01:03:03](#t-01-03-03) — Freedom of mind — Hanoi Hilton / Frankl / help others to stay sane
+- [01:04:36](#t-01-04-36) — Imagination & storyboard freedom without leaving the chair
+- [01:09:46](#t-01-09-46) — Be Nimble / Be Visionary / Be Different — who the latest book is for
+- [01:12:21](#t-01-12-21) — Creativity collapse research / paint outside the lines / be different
+- [01:15:01](#t-01-15-01) — Nine novels + three business books / A Time for Glory / Death Before Dawn

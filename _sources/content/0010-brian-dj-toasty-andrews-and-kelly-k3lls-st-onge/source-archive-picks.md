@@ -25,8 +25,6 @@
 - [01:21:52](#t-01-21-52) — Analog Digital Mixers Earlier
 - [01:27:29](#t-01-27-29) — Bootleg vs remix vs edit
 - [01:34:56](#t-01-34-56) — Festivals / Kelly
-- [01:40:26](#t-01-40-26) — Glow / closing stories
-- [01:46:04](#t-01-46-04) — Outro — Glow / closing stories
 
 ## Keywords
 DJing, disc jockey, DJ Toasty, K3lls, clubs, weddings, mobile DJ, festivals, requests, bootleg, remix, edit, producer, controller, Ableton, SoundCloud, Bassnectar, Pacific Northwest, nightclub, hip-hop, EDM, house music, vinyl

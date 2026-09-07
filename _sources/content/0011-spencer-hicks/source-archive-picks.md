@@ -30,7 +30,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [01:22:53](#t-01-22-53) — View / Myself
 - [01:26:40](#t-01-26-40) — Saying fewer words / Thanksgiving
 - [01:33:02](#t-01-33-02) — Posture & standing up straight
-- [01:38:28](#t-01-38-28) — Outro — love the listener
 
 ## Keywords
 

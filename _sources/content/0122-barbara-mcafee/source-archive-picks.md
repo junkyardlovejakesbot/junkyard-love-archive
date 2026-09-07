@@ -36,7 +36,6 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 - [01:05:27](#t-01-05-27) — Comfort choir / gifts before death / Nature Boy
 - [01:10:05](#t-01-10-05) — Mantra / silence-after-song poem
 - [01:13:04](#t-01-13-04) — Courses, self-directed path, living/dying retreats
-- [01:16:36](#t-01-16-36) — Outro — drink water / stretch / love yourselves
 
 ## Keywords
 

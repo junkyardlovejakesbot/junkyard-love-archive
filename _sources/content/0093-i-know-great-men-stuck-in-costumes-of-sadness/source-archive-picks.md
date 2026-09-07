@@ -10,7 +10,7 @@ Extracted from the YouTube auto-caption transcript. Labeled separately from Jaco
 
 ## Chapter-style timestamps
 
-- [00:00:15](#t-00-00-15) — Solocast open — re-recording after 30 minutes of rambling
+- [00:00:15](#t-00-00-15) — Host open — Health, Mental & Send
 - [00:05:18](#t-00-05-18) — Suffering, labels, depression & anxiety in the Western mind
 - [00:13:07](#t-00-13-07) — Cannot Sit Silence Cannot Sit
 - [00:16:42](#t-00-16-42) — Armor — the front we keep vs how we truly feel
@@ -31,7 +31,6 @@ Extracted from the YouTube auto-caption transcript. Labeled separately from Jaco
 - [01:53:27](#t-01-53-27) — Growth mindset — who you are now held with love later
 - [02:01:32](#t-02-01-32) — Depression / Backwards
 - [02:06:00](#t-02-06-00) — Malfunction ≠ identity — change who you are
-- [02:06:43](#t-02-06-43) — Outro — love yourselves
 
 ## Keywords
 

@@ -9,10 +9,7 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Opening bumper — Junkyard Love
-- [00:07:41](#t-00-07-41) — Experience / Themselves
-- [00:12:07](#t-00-12-07) — Host close of intro — permission / believe in yourself
-- [00:13:12](#t-00-13-12) — Post-Reiki — first session experience
+- [00:13:07](#t-00-13-07) — Experience / Themselves
 - [00:18:59](#t-00-18-59) — Channeling / higher self / manifestation
 - [00:23:39](#t-00-23-39) — Energetic frequency / control
 - [00:27:25](#t-00-27-25) — Barefoot / copper water / earth
@@ -30,8 +27,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [01:47:19](#t-01-47-19) — Forgive it — don’t hold it
 - [01:55:12](#t-01-55-12) — Friendships / Spiritually
 - [02:04:02](#t-02-04-02) — Twin flame / partnerships / frequency
-- [02:09:55](#t-02-09-55) — Outro contact — celestial gypsy witch
-- [02:10:59](#t-02-10-59) — Outro — drink water / get present
 
 ## Keywords
 

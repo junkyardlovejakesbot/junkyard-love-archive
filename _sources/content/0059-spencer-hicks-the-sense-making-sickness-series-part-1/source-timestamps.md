@@ -1,1 +1,23 @@
-(none published in episode notes)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:00:34](#t-00-00-34) — Host open — Human, Each & Progress
+- [00:03:40](#t-00-03-40) — Mind virus / Western culture essay
+- [00:08:06](#t-00-08-06) — Sense-making apparatus / love in interaction
+- [00:09:27](#t-00-09-27) — Conversation starts — series framing
+- [00:13:39](#t-00-13-39) — Kickoff — what is truth?
+- [00:14:41](#t-00-14-41) — Spencer — defining truth
+- [00:19:18](#t-00-19-18) — Bias & dogma vs intelligence
+- [00:26:21](#t-00-26-21) — Why Systems Why Hav
+- [00:30:45](#t-00-30-45) — Left/right false dichotomy
+- [00:36:58](#t-00-36-58) — Arguing Versus
+- [00:43:32](#t-00-43-32) — Information / Sovereignty
+- [00:49:54](#t-00-49-54) — Understand / Important
+- [00:56:34](#t-00-56-34) — Reality Reality
+- [01:02:49](#t-01-02-49) — Conversation / Information
+- [01:09:17](#t-01-09-17) — Conversations / Conversation
+- [01:15:44](#t-01-15-44) — Civilization / Individual
+- [01:22:13](#t-01-22-13) — Individual / Understand
+- [01:26:20](#t-01-26-20) — Ethics / values / studying philosophy
+- [01:30:39](#t-01-30-39) — Sense-making crisis / personal responsibility
+- [01:31:26](#t-01-31-26) — Philosopher recs — Seneca / Arendt / Nietzsche
+- [01:32:26](#t-01-32-26) — YouTube as free curiosity school

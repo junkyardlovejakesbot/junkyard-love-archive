@@ -8,7 +8,7 @@ _(no stand-alone complete quotes retained for this episode)_
 
 ## Chapter-style timestamps
 
-- [00:00:00](#t-00-00-00) — Opening bumper — Junkyard Love
+- [00:01:45](#t-00-01-45) — Chakras, Start & Healing
 - [00:03:50](#t-00-03-50) — Chakras / energy body
 - [00:08:06](#t-00-08-06) — Whole30 / food energy
 - [00:15:47](#t-00-15-47) — Experiences / Thinking
@@ -29,7 +29,6 @@ _(no stand-alone complete quotes retained for this episode)_
 - [01:57:41](#t-01-57-41) — Herbalist / Sometimes
 - [02:05:38](#t-02-05-38) — Grounding / Happening
 - [02:13:38](#t-02-13-38) — Conversations / Visualization
-- [02:21:06](#t-02-21-06) — Outro — drink water / get present
 
 ## Keywords
 

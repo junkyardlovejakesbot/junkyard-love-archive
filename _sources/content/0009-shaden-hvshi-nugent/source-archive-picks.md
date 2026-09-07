@@ -29,8 +29,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [00:50:49](#t-00-50-49) — Remixes / creative process
 - [00:55:37](#t-00-55-37) — Butterfly stage / upcoming chapter
 - [00:57:02](#t-00-57-02) — Messages for listeners
-- [01:00:20](#t-01-00-20) — Dark place / closing
-- [01:03:09](#t-01-03-09) — Outro — Dark place / closing
 
 ## Keywords
 

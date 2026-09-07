@@ -1,1 +1,30 @@
-(none published in episode notes)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:00:20](#t-00-00-20) — Opening — kids changed Nate’s relationship with God / births
+- [00:02:15](#t-00-02-15) — Bike as God-gift that interrupted suicide / no coincidence
+- [00:09:55](#t-00-09-55) — Newcomer welcome / fourth appearance on the show
+- [00:10:59](#t-00-10-59) — Bio reset — 10 years stunt riding → husband/dad / content agency
+- [00:13:06](#t-00-13-06) — Willing to die for something / testimony of intensity
+- [00:13:52](#t-00-13-52) — Being okay with death as true faith / highway stunts
+- [00:16:14](#t-00-16-14) — “Nasty Nate is dead” → he evolves / develops
+- [00:17:01](#t-00-17-01) — Father litmus — son model / daughter’s husband test
+- [00:21:17](#t-00-21-17) — Happiness ≠ aim / fulfillment & “this is worth it”
+- [00:23:11](#t-00-23-11) — To whom much is given / expect it to be difficult
+- [00:29:12](#t-00-29-12) — Ferrari or food stamps / suicide option off the table
+- [00:33:04](#t-00-33-04) — Weight to end the game = purpose & responsibility
+- [00:36:00](#t-00-36-00) — John Eldredge / “who will give the man his name”
+- [00:37:15](#t-00-37-15) — Sharpen the sword 16 years / book already written
+- [00:42:19](#t-00-42-19) — Stop thinking about yourself / serve other people
+- [00:48:18](#t-00-48-18) — Met God in the trenches / explore the dark first
+- [00:53:24](#t-00-53-24) — Cold-plunge metaphor — get all the way in
+- [00:56:06](#t-00-56-06) — Beach-storming passion / intensity vs dull culture
+- [01:03:26](#t-01-03-26) — Highest energy is gratitude / rejoice in suffering
+- [01:07:11](#t-01-07-11) — $7 in the bank / try God’s way / money as tool/time
+- [01:16:10](#t-01-16-10) — Buying time to feel son’s rib cage / family-men business
+- [01:21:15](#t-01-21-15) — Afraid of your own mind / don’t over-credit the enemy
+- [01:29:30](#t-01-29-30) — God qualifies the called / disaster as calling card
+- [01:32:29](#t-01-32-29) — Parenting branch-out / meaning of life via lineage
+- [01:37:46](#t-01-37-46) — Plant fruit you never see / no-credit duty of men
+- [01:44:26](#t-01-44-26) — Heart on trial / discernment over performative good deeds
+- [01:52:27](#t-01-52-27) — Conversation continues
+- [01:56:25](#t-01-56-25) — Biggest money month → prayed remove it → lost clients

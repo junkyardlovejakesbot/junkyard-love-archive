@@ -11,7 +11,7 @@ Extracted from the YouTube auto-caption transcript and published About/chapters 
 
 ## Chapter-style timestamps
 
-- [00:00:00](#t-00-00-00) — Intro
+- [00:01:18](#t-00-01-18) — Host open — Sense, Trying & Conversation
 - [00:07:24](#t-00-07-24) — Abrielles Note
 - [00:10:48](#t-00-10-48) — The Illusion of Conversation
 - [00:13:45](#t-00-13-45) — Abrielles Story
@@ -40,9 +40,6 @@ Extracted from the YouTube auto-caption transcript and published About/chapters 
 - [02:13:13](#t-02-13-13) — Easily inspired / building the self
 - [02:28:44](#t-02-28-44) — What's World
 - [02:37:00](#t-02-37-00) — Expose Myself
-- [03:23:20](#t-03-23-20) — Close — Abrielle thanks / CTA
-- [03:24:49](#t-03-24-49) — Horse-sized duck outro
-- [03:27:05](#t-03-27-05) — Outro — drink water / love yourselves
 
 ## Keywords
 

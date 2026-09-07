@@ -11,7 +11,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Opening — Junkyard Love bumper / Jordan Greenhall Deep Code rec
 - [00:01:47](#t-00-01-47) — Drink some water / hit record
 - [00:08:45](#t-00-08-45) — DJ / artistic side / parties
 - [00:12:09](#t-00-12-09) — Controlling the vibe / flow / meta cognition
@@ -30,7 +29,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [01:14:41](#t-01-14-41) — Daydreaming Rocky / audiobooks / absorbing info
 - [01:21:27](#t-01-21-27) — Creative / Creators
 - [01:27:17](#t-01-27-17) — Identity / attachment to jobs / career change
-- [01:31:47](#t-01-31-47) — Outro — thanks / Brandon plugs JYLP
 
 ## Keywords
 

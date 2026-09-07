@@ -8,7 +8,7 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:00](#t-00-00-00) — Jacob cold open — Helga Pataki intro
+- [00:00:00](#t-00-00-00) — Host open — Cannabis, World & Episodes
 - [00:01:50](#t-00-01-50) — Interview midstream — medicinal uses
 - [00:06:46](#t-00-06-46) — Washington Washington Cannabis Ind
 - [00:11:45](#t-00-11-45) — Recreationally / Experience
@@ -26,7 +26,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [00:57:43](#t-00-57-43) — Delta-8 / legality fog
 - [01:02:35](#t-01-02-35) — Conversation / Experience
 - [01:06:56](#t-01-06-56) — What the world needs — more love
-- [01:08:52](#t-01-08-52) — Outro — listener CTA
 
 ## Keywords
 

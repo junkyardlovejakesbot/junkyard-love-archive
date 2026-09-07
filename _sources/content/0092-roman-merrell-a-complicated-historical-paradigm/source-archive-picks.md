@@ -9,7 +9,8 @@ Extracted from the YouTube auto-caption transcript and published links already o
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Bumper — knowledge is power / technical mishaps banter
+- [00:01:57](#t-00-01-57) — Music, Yourself & Ableton
+- [00:05:36](#t-00-05-36) — Growing, Catchy & Follow
 - [00:07:21](#t-00-07-21) — Scorpio loner / chameleon — celestial archetypes
 - [00:13:10](#t-00-13-10) — Bellingham — psychedelics and first out-of-body experience
 - [00:21:40](#t-00-21-40) — Experiences / Experience
@@ -26,7 +27,6 @@ Extracted from the YouTube auto-caption transcript and published links already o
 - [01:44:33](#t-01-44-33) — Lost lineage, retold histories, local weird histories
 - [01:52:17](#t-01-52-17) — Austin Places
 - [01:58:33](#t-01-58-33) — Rising From The Ashes — serpent / kundalini crossover plans
-- [02:01:55](#t-02-01-55) — Outro — drink water / stretch / love yourselves
 
 ## Keywords
 

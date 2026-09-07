@@ -1,1 +1,31 @@
-(none published in episode notes)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:05:44](#t-00-05-44) — Opening — welcome Wendy / Demystifying the Transgender Journey podcast
+- [00:06:36](#t-00-06-36) — “Gender’s between the ears, not the legs” / frontal cortex
+- [00:07:25](#t-00-07-25) — Dysphoria as incongruence / early socialization
+- [00:12:05](#t-00-12-05) — Mirror-question test / depth of distress most never feel
+- [00:13:43](#t-00-13-43) — Therapy rewrites stories / 4.5 decades of silence / “I’m happy”
+- [00:18:42](#t-00-18-42) — Deconstructing male socialization / journaling thought shifts
+- [00:20:51](#t-00-20-51) — Joe Dispenza / first therapy pour-out after decades
+- [00:22:59](#t-00-22-59) — Name “Wendy” / Stephanie accepts without conditions
+- [00:24:04](#t-00-24-04) — Don’t compromise a life change for someone else’s needs
+- [00:25:13](#t-00-25-13) — Breaking the Habit of Being Yourself ch. 7–8 / June liberation
+- [00:26:42](#t-00-26-42) — HRT announcement / divorce / honor her by letting go
+- [00:33:50](#t-00-33-50) — Authentically / Transitioned
+- [00:42:07](#t-00-42-07) — “We just want to be” / acceptance over explanation
+- [00:46:02](#t-00-46-02) — Diagnostic code changed in 2012 / early-’70s history
+- [00:48:14](#t-00-48-14) — Mission to humanize being born transgender
+- [00:53:50](#t-00-53-50) — Change, Perspective & Believes
+- [00:55:06](#t-00-55-06) — Embrace change / life is about possibility
+- [00:58:54](#t-00-58-54) — Work-as-identity / repressing the real self
+- [01:02:14](#t-01-02-14) — Sacral feel-first / Rhode Island leap of trust
+- [01:05:09](#t-01-05-09) — Toastmasters — “I was born transgender” / just me
+- [01:12:02](#t-01-12-02) — Theta walking meditation / thank younger selves
+- [01:16:40](#t-01-16-40) — Advice for early-stage: therapist + reconstruct beliefs
+- [01:17:51](#t-01-17-51) — Transition needn’t be long/hard / coaching accountability
+- [01:24:07](#t-01-24-07) — Lose the word “trans” as identity / energy you put out
+- [01:26:53](#t-01-26-53) — Five-second gender read / mannerisms as system
+- [01:29:11](#t-01-29-11) — Self-awareness → self-acceptance → self-love
+- [01:33:30](#t-01-33-30) — 16-week coaching / roadmap / life tests
+- [01:35:25](#t-01-35-25) — Grocery cart & Dunkin’ life tests / cops trigger old fear
+- [01:38:35](#t-01-38-35) — “Yep, you’re ready” / possibilities / resources

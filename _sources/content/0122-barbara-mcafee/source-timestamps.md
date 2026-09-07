@@ -1,16 +1,24 @@
-00:00:00 Why Most People Are Stuck in an Unconscious “Default” Voice
-00:00:58 The “Vocal Girdle”: How Old Wounds and Expectations Restrict Us
-00:02:13 How Childhood Trauma and Family Secrets Shape Your Voice Long-Term
-00:04:10 The Five Elements Framework (Earth, Fire, Water, Metal, Air) Explained
-00:05:40 Barbara’s Personal Story: Overcoming Fear of Singing Solo
-00:08:32 The Secret Power of Playing Characters and Archetypes
-00:13:38 Ego, “Brain Rats,” and Gently Expanding Beyond Your Comfort Zone
-00:22:55 Practical Voice Tools for Leaders, Presentations, and Difficult Conversations
-00:30:29 The Magic of Group Singing and Deep Human Connection
-00:34:05 Jacob’s Wild DJ Story: Unifying Experiences and Collective Flow
-00:40:06 Laugh, Yawn & Read Children’s Books: Easy Daily Practices to Open Your Voice
-00:46:26 Code Switching: Shifting Voices Authentically Across Situations
-00:55:12 Why Humans Crave Collective Ecstasy and Group Singing
-01:01:40 Barbara’s Books, Music, and Life’s Work
-01:12:45 Current Retreats, Courses, and What’s Next for Barbara
-01:17:01 Final Wisdom and Closing Reflections
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:00:15](#t-00-00-15) — Opening — unconscious vocal habits / TED spark
+- [00:02:00](#t-00-02-00) — Vocal girdle / gut truth stuck in throat / keepers of secrets
+- [00:04:10](#t-00-04-10) — Start with sound / solo-singing fear / Five Elements begin
+- [00:06:12](#t-00-06-12) — Earth Fire Water Metal Air / pretend characters = secret sauce
+- [00:10:03](#t-00-10-03) — Jungian archetypes / bird character / sacred unseen
+- [00:11:39](#t-00-11-39) — Maya Angelou cadre / high priestess & holy fool
+- [00:13:38](#t-00-13-38) — Voice ready before psyche / air-voice exile / sacred feminine
+- [00:17:48](#t-00-17-48) — Ego as protective dog / Brain Rats / gradual stretch
+- [00:19:59](#t-00-19-59) — Practical leader tools / fire voice / life rides along
+- [00:23:51](#t-00-23-51) — Mentor Shaul Ryan / Roy Hart path / France & Canada
+- [00:25:31](#t-00-25-31) — ~75 trainers / nephew Travis / next-generation teaching
+- [00:26:34](#t-00-26-34) — Broken wrist / let nephew lead / Little Blue
+- [00:30:13](#t-00-30-13) — TEDx: abdicate leadership / thousand people stop together
+- [00:32:11](#t-00-32-11) — Jacob’s DJ / mushrooms / collective flow story
+- [00:40:07](#t-00-40-07) — Laugh like a hairy oaf / yawn / children’s books
+- [00:46:26](#t-00-46-26) — Code switching / what the voice spills
+- [00:49:15](#t-00-49-15) — Authenticity vs shift / water = heart voice
+- [00:52:49](#t-00-52-49) — Vocal fry / young appetite for oral-tradition singing
+- [01:01:40](#t-01-01-40) — Full Voice & Vocal Intelligence / books & music
+- [01:05:27](#t-01-05-27) — Comfort choir / gifts before death / Nature Boy
+- [01:10:05](#t-01-10-05) — Mantra / silence-after-song poem
+- [01:13:04](#t-01-13-04) — Courses, self-directed path, living/dying retreats

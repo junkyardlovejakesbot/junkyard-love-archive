@@ -1,1 +1,29 @@
-(none published in episode notes)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:00:00](#t-00-00-00) — Host open — Friends, Conversations & Keenan
+- [00:05:28](#t-00-05-28) — Stump speech vs conversational politics
+- [00:08:11](#t-00-08-11) — Who Keenan is — Kelso Council, insurance, DOC, Humane Society, Rotary
+- [00:11:16](#t-00-11-16) — Running for Kelso City Council / local vs national politics
+- [00:15:27](#t-00-15-27) — Transparency, social media reach, echo chambers
+- [00:16:19](#t-00-16-19) — Tech glow-ups — MySpace / Facebook / TikTok
+- [00:23:44](#t-00-23-44) — Guess There's
+- [00:32:14](#t-00-32-14) — “Hurricane Harvey” nickname / push for municipal efficiency
+- [00:40:16](#t-00-40-16) — Re-election focus — basics, potholes, street lights
+- [00:44:34](#t-00-44-34) — Critical infrastructure before shiny new things
+- [00:51:10](#t-00-51-10) — Homelessness / low-barrier facility and community impacts
+- [00:59:12](#t-00-59-12) — Couple Hundred
+- [01:04:53](#t-01-04-53) — Upstream help — taking care of what you can reach
+- [01:08:37](#t-01-08-37) — Impulsivity, intrusive thoughts, mindfulness
+- [01:14:09](#t-01-14-09) — Obscure WA law / parole-probation, addiction, alienation
+- [01:22:54](#t-01-22-54) — South Kelso park pride / full ADA option
+- [01:23:44](#t-01-23-44) — Skatepark art, self-policing, spray-paint dicks & potholes
+- [01:28:56](#t-01-28-56) — Hometown love — Kelso/Longview rain, greenery, pride
+- [01:38:42](#t-01-38-42) — The Gorge / Watershed music festival
+- [01:46:41](#t-01-46-41) — Castle Rock hanging flower baskets
+- [01:49:40](#t-01-49-40) — Facebook questions — city hall Fridays, online pay
+- [01:59:33](#t-01-59-33) — Hurricane Harvey Facebook origin story
+- [02:09:00](#t-02-09-00) — Affecting change in a small town as a “hobby”
+- [02:12:25](#t-02-12-25) — “Fat camp” weight-loss surgery / feeling better
+- [02:20:30](#t-02-20-30) — Mental Health Led
+- [02:28:42](#t-02-28-42) — Best Ability
+- [02:36:28](#t-02-36-28) — Life Gets Stable

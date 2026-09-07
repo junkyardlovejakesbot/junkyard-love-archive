@@ -10,7 +10,7 @@ Extracted from the YouTube auto-caption transcript and published About/quotes/li
 
 ## Chapter-style timestamps
 
-- [00:00:00](#t-00-00-00) — Bumper — knowledge is power
+- [00:00:21](#t-00-00-21) — Einstein, Life & Work
 - [00:03:29](#t-00-03-29) — Sandy's fascination with Einstein / authentic self
 - [00:04:57](#t-00-04-57) — Sandy welcome & bio
 - [00:09:47](#t-00-09-47) — Journey into meditation / wellness path
@@ -28,7 +28,6 @@ Extracted from the YouTube auto-caption transcript and published About/quotes/li
 - [00:51:07](#t-00-51-07) — Boundaries & saying yes/no
 - [00:55:25](#t-00-55-25) — Every Single Week
 - [00:59:47](#t-00-59-47) — Where to find Sandy / Prosperous podcast
-- [01:00:16](#t-01-00-16) — Outro
 
 ## Keywords
 

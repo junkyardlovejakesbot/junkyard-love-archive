@@ -1,1 +1,29 @@
-(none published in episode notes)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:00:09](#t-00-00-09) — Opening — better conversations / better conversations with ourselves
+- [00:02:30](#t-00-02-30) — Cam nervous — first podcast / free-flowing talk vs “statement”
+- [00:06:09](#t-00-06-09) — Basement-of-the-mind work / snake shedding / perform what you’ve learned
+- [00:09:08](#t-00-09-08) — Travis Pastrana backflip / four-minute mile — permission to push edges
+- [00:10:38](#t-00-10-38) — Audience remembering / “show what humans can do”
+- [00:11:42](#t-00-11-42) — Mitch Hedberg — sunglasses, stage fright, ego on stage
+- [00:12:47](#t-00-12-47) — Ego death for artists & performers
+- [00:19:28](#t-00-19-28) — Anger issues / first love / entry into self-help
+- [00:21:11](#t-00-21-11) — Self-love / master any craft / janitor meditation origin
+- [00:23:33](#t-00-23-33) — Cleaning linoleum floors high — wax-on/wax-off breath counts
+- [00:26:20](#t-00-26-20) — Entrepreneur parents / poor childhood / underwear story
+- [00:30:31](#t-00-30-31) — Toyota Previa / “roach mobile” / kids unaware they were broke
+- [00:32:43](#t-00-32-43) — Don’t only play the hand you were dealt / route your own path
+- [00:36:45](#t-00-36-45) — Move to Cedar Park / Austin for opportunity / dad born 1935
+- [00:44:28](#t-00-44-28) — Dad ’35 / mom ’55 — realizing buddies’ parents weren’t that old
+- [00:48:01](#t-00-48-01) — Millennial raised with 60s–70s morals
+- [00:55:31](#t-00-55-31) — Dating someone with a toddler / kids’ emotional end-of-the-world
+- [00:58:47](#t-00-58-47) — Watching the family watch TV / talked-about-in-front-of awareness
+- [01:05:51](#t-01-05-51) — Truthful parenting + childhood illusion / faith & trust
+- [01:09:14](#t-01-09-14) — Catholic church / shared-values community / would take kids to church
+- [01:15:13](#t-01-15-13) — Spiritual journey — door that opens from the inside
+- [01:18:58](#t-01-18-58) — Pride in Austin (more than Texas)
+- [01:21:11](#t-01-21-11) — Edge-pushers / comedy & free-speech hub / four-minute-mile draw
+- [01:25:39](#t-01-25-39) — Brainstorm — weekly meetup / meaning without kids
+- [01:31:32](#t-01-31-32) — Premise of connection / laughter is for connection
+- [01:33:03](#t-01-33-03) — Holding space / light in me gives permission to light in you
+- [01:34:58](#t-01-34-58) — Floating / traveler community / bridge connections from servitude

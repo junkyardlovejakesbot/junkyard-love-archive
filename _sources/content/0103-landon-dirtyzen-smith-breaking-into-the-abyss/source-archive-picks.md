@@ -11,8 +11,7 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Chapter-style timestamps
 
-- [00:00:01](#t-00-00-01) — Opening — welcome Landon / bio ask
-- [00:00:56](#t-00-00-56) — Landon intro — chillstep mixes, Alan Watts, Ram Dass, Dharma / purpose
+- [00:00:20](#t-00-00-20) — Opening — welcome Landon / bio ask
 - [00:38:10](#t-00-38-10) — Tarot as present-moment mirror / God or source / discernment
 - [00:42:42](#t-00-42-42) — Algorithm feeds, attachments, and addictive scrolling of readings
 - [00:48:01](#t-00-48-01) — Jacob’s kitchen / breeze story (set for Landon’s trip share)
@@ -29,7 +28,6 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [01:26:23](#t-01-26-23) — “It’s all spiritual” — emotions as part of the dance
 - [01:28:55](#t-01-28-55) — Path of the guru vs modern YouTube lectures
 - [01:31:39](#t-01-31-39) — Remembering who you are / placing God outside the Self
-- [01:34:27](#t-01-34-27) — Outro — True Self / tattoos / keep making mixes / Instagram & YouTube
 
 ## Keywords
 

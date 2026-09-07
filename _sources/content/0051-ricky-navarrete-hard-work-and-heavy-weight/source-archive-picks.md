@@ -8,11 +8,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Opening — Junkyard Love / Barnacle Boy / host poem & lo-fi
+- [00:01:26](#t-00-01-26) — Host open — Grow, Towards & Choice
 - [00:04:02](#t-00-04-02) — Taking notes / remembering
 - [00:04:51](#t-00-04-51) — Tough upbringing / shaken baby aside
 - [00:07:35](#t-00-07-35) — Background — changing attitude / weight
-- [00:15:58](#t-00-15-58) — Starts Theme
 - [00:19:21](#t-00-19-21) — Finding a mentor
 - [00:22:21](#t-00-22-21) — Path into powerlifting
 - [00:25:01](#t-00-25-01) — Squatting 705 / competing
@@ -30,7 +29,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [01:34:49](#t-01-34-49) — Ego-lifting / pre-workout pump
 - [01:42:41](#t-01-42-41) — Connection / Weight
 - [01:50:09](#t-01-50-09) — Balance — girlfriend Rachel / gym life
-- [01:58:22](#t-01-58-22) — Outro — get in the gym / drink water
 
 ## Keywords
 

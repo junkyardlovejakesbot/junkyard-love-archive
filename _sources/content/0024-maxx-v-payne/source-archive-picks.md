@@ -11,7 +11,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Opening bumper — Junkyard Love / War of Art
 - [00:01:28](#t-00-01-28) — Introduce Maxx V. Payne
 - [00:05:00](#t-00-05-00) — Rap / music background & inspiration
 - [00:15:32](#t-00-15-32) — Uncle Sugar — first alias
@@ -28,7 +27,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [01:29:09](#t-01-29-09) — HAFLife Ent cipher / crew
 - [01:36:57](#t-01-36-57) — Writing / Comedy
 - [01:44:35](#t-01-44-35) — Where to find Maxx / close
-- [01:48:52](#t-01-48-52) — Outro — love yourselves
 
 ## Keywords
 

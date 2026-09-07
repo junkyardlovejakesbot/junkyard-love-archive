@@ -11,7 +11,6 @@ Extracted from the YouTube auto-caption transcript and published notes already o
 
 ## Chapter-style timestamps
 
-- [00:00:00](#t-00-00-00) — Bumper / warm-up — audience, mental health roots, golden nuggets
 - [00:01:17](#t-00-01-17) — Nike bio — Legacy Enterprises; Austin from Lagos
 - [00:02:50](#t-00-02-50) — Deloitte to Nigeria — joining the family construction business
 - [00:07:22](#t-00-07-22) — Businesses / Enterprise
@@ -28,7 +27,6 @@ Extracted from the YouTube auto-caption transcript and published notes already o
 - [00:45:29](#t-00-45-29) — Growth mindset in the family enterprise
 - [00:50:00](#t-00-50-00) — Conversation / Possibility
 - [00:53:45](#t-00-53-45) — Powered by possibility, not caged by fear
-- [00:55:21](#t-00-55-21) — Outro — love yourself / do not be caged by fear
 
 ## Keywords
 

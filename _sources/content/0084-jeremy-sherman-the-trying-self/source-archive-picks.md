@@ -11,7 +11,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:00](#t-00-00-00) — Bumper — knowledge is power
 - [00:01:08](#t-00-01-08) — Mid-life crisis & hairpin curves
 - [00:07:19](#t-00-07-19) — Struggle for existence / origins of trying
 - [00:12:36](#t-00-12-36) — Unknown Quantity
@@ -26,7 +25,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [01:05:51](#t-01-05-51) — Prosody Involuntary
 - [01:11:04](#t-01-11-04) — Playing God Easier
 - [01:13:56](#t-01-13-56) — Where to find Jeremy / current work
-- [01:19:41](#t-01-19-41) — Outro — thanks & listener CTA
 
 ## Keywords
 

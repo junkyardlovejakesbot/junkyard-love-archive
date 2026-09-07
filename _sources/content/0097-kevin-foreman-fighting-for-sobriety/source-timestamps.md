@@ -1,1 +1,21 @@
-(none published in episode notes)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:01:02](#t-00-01-02) — Opening — welcome and brief bio ask
+- [00:02:31](#t-00-02-31) — Aspiring rugby pro, dad’s property business, work hard play hard
+- [00:07:42](#t-00-07-42) — Travel years, utilities work, life-changing event at 27
+- [00:09:01](#t-00-09-01) — Whitecaps supporters’ section fight — charged with assault
+- [00:13:09](#t-00-13-09) — High-school friend lawyer, court order not to drink — felt saved
+- [00:14:28](#t-00-14-28) — Landfill phone call — Serenity, turning himself over
+- [00:17:51](#t-00-17-51) — First AA men’s meeting — Monday night 8 PM
+- [00:23:32](#t-00-23-32) — Go all out / fail big / grateful alcoholics
+- [00:26:14](#t-00-26-14) — Rugby “crash the ball” metaphor for failing and getting up
+- [00:32:23](#t-00-32-23) — First step — admitting powerlessness over addiction
+- [00:34:44](#t-00-34-44) — Taoism, spiritual connection, “God is real and it’s not you”
+- [00:40:20](#t-00-40-20) — Interesting / Experience
+- [00:44:25](#t-00-44-25) — Friends: “we love the sober Kevin” / family acknowledgment
+- [00:46:47](#t-00-46-47) — Anxiety clinic, therapy goal — stand in a circle and just talk
+- [00:53:07](#t-00-53-07) — Therapy / Inside
+- [01:00:24](#t-01-00-24) — Leadership — include everyone, praise breakthroughs, mini-creators
+- [01:04:12](#t-01-04-12) — One step on the staircase / a little bit of faith
+- [01:10:13](#t-01-10-13) — Leadership / Business
+- [01:15:50](#t-01-15-50) — Own truth in Jesus / faith as turning yourself over

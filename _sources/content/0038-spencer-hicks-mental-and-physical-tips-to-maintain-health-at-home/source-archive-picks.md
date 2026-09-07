@@ -31,7 +31,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [00:54:04](#t-00-54-04) — Borrowing Happiness
 - [00:59:39](#t-00-59-39) — Next Level Human
 - [01:09:55](#t-01-09-55) — Fantasy / Witcher / playground for the mind
-- [01:11:57](#t-01-11-57) — Outro — posture / listeners close
 
 ## Keywords
 

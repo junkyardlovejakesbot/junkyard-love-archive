@@ -29,7 +29,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [01:16:36](#t-01-16-36) — Every / Yourself
 - [01:20:24](#t-01-20-24) — Speaking out loud / message
 - [01:24:59](#t-01-24-59) — Survivor mindset
-- [01:29:53](#t-01-29-53) — Outro — / hope
 
 ## Keywords
 

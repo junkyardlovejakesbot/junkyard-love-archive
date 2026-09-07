@@ -9,9 +9,7 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:01](#t-00-00-01) — Jacob YouTube intro — late start / fasting note
-- [00:01:50](#t-00-01-50) — Opening bumper — Junkyard Love
-- [00:03:31](#t-00-03-31) — Into the conversation — fasting / nutrition
+- [00:03:31](#t-00-03-31) — Jacob YouTube intro — late start / fasting note
 - [00:06:34](#t-00-06-34) — Coffee / vitamins / body as engine
 - [00:13:07](#t-00-13-07) — Travel / meat / earth impact
 - [00:16:32](#t-00-16-32) — Food systems / technology expansion
@@ -27,9 +25,7 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [01:25:01](#t-01-25-01) — TikTok / designated free time
 - [01:32:49](#t-01-32-49) — Kids / screens / future communication
 - [01:41:00](#t-01-41-00) — Vulgar It'll
-- [01:48:34](#t-01-48-34) — Close — what's next for Megan
 - [01:50:29](#t-01-50-29) — Megan — live events / presence / synchronicities
-- [01:54:40](#t-01-54-40) — Outro — water / social media / love yourself
 
 ## Keywords
 

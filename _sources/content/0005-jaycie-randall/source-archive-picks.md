@@ -25,8 +25,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [00:54:05](#t-00-54-05) — Life / Myself
 - [01:00:08](#t-01-00-08) — 30-day challenges / lent / building habits
 - [01:04:45](#t-01-04-45) — Allergies / diet / food and cognitive function
-- [01:11:43](#t-01-11-43) — Outro — trying / figuring life out / invite back
-
 
 ## Keywords
 

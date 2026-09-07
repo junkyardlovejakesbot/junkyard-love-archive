@@ -11,7 +11,6 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Opening bumper — Junkyard Love
 - [00:01:21](#t-00-01-21) — Guest intro — Abrielle Dunn
 - [00:02:09](#t-00-02-09) — Abrielle — name / Abrielle Hayley
 - [00:04:56](#t-00-04-56) — Brand / good vibes energy
@@ -34,8 +33,6 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 - [01:52:52](#t-01-52-52) — Understand / Creative
 - [01:59:51](#t-01-59-51) — Legacy question
 - [02:03:48](#t-02-03-48) — Understand yourself / understand others
-- [02:06:18](#t-02-06-18) — Outro — drink water / get present
-
 
 ## Keywords
 

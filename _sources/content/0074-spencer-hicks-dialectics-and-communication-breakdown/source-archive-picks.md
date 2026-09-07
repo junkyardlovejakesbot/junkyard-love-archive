@@ -11,7 +11,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Opening bumper — Junkyard Love
 - [00:01:07](#t-00-01-07) — Into cancel culture — pop vs politics
 - [00:10:19](#t-00-10-19) — Epistemology / Perspectives
 - [00:14:48](#t-00-14-48) — Spencer background — metaphysics / epistemology
@@ -29,8 +28,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [01:48:42](#t-01-48-42) — Epistemology / Corporate
 - [01:56:51](#t-01-56-51) — Thinking / Focus
 - [02:04:20](#t-02-04-20) — Alan Watts backwards law / self-help
-- [02:17:17](#t-02-17-17) — Outro — water / cancel / breathe
-
 
 ## Keywords
 

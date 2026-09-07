@@ -10,7 +10,7 @@ Extracted from the YouTube auto-caption transcript and published links already o
 
 ## Chapter-style timestamps
 
-- [00:00:48](#t-00-00-48) — Opening banter — headset, pilots, welcome back
+- [00:01:37](#t-00-01-37) — Opening banter — headset, pilots, welcome back
 - [00:02:39](#t-00-02-39) — Meeting at 15, shared family trauma, dandelions through cement
 - [00:05:02](#t-00-05-02) — Full-time Reiki practitioner and choosing service in every interaction
 - [00:12:25](#t-00-12-25) — What Reiki is — channeling, vibration, stress reduction
@@ -27,7 +27,6 @@ Extracted from the YouTube auto-caption transcript and published links already o
 - [01:09:32](#t-01-09-32) — Spiritual / Give
 - [01:11:36](#t-01-11-36) — Kundalini / integration after ceremony — coming home different
 - [01:17:43](#t-01-17-43) — Experience / Speaking
-- [01:20:04](#t-01-20-04) — Outro — service, Instagram @cosmic_merrmaid, Linktree / Reiki
 
 ## Keywords
 

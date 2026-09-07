@@ -10,7 +10,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 - [00:00:00](#t-00-00-00) — Opening clip — pickleball diversity / accessibility
 - [00:00:53](#t-00-00-53) — Jacob welcome & Lynn intro
-- [00:01:34](#t-00-01-34) — What Is Pickleball
 - [00:07:58](#t-00-07-58) — Pre-Warm-Up Stretching
 - [00:10:15](#t-00-10-15) — Supporting the Muscles around the Injury
 - [00:13:42](#t-00-13-42) — Stretching
@@ -24,7 +23,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [00:39:12](#t-00-39-12) — Juniors Leagues
 - [00:43:15](#t-00-43-15) — Encouraging new players nationwide
 - [00:44:01](#t-00-44-01) — pickleballfire.com resources
-- [00:46:39](#t-00-46-39) — Outro — drink water / stretch / love yourselves
 
 ## Keywords
 

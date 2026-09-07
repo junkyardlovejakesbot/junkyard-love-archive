@@ -11,7 +11,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Opening bumper — Junkyard Love
 - [00:02:00](#t-00-02-00) — Social decorum after going digital
 - [00:03:07](#t-00-03-07) — Handshaking gone / elbow bumps
 - [00:08:36](#t-00-08-36) — Demolition Man / new norms
@@ -31,8 +30,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [01:26:52](#t-01-26-52) — Aldi shopping / bags & choices
 - [01:28:30](#t-01-28-30) — What does the world need more of?
 - [01:30:07](#t-01-30-07) — Unapologetic patience
-- [01:33:15](#t-01-33-15) — Outro — CTA
-
 
 ## Keywords
 

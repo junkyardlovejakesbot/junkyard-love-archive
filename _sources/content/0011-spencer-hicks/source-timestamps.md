@@ -1,1 +1,21 @@
-(none published in episode notes — inventory has_timestamps=no; no YouTube chapter markers — Archive picks derived from transcript)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:00:00](#t-00-00-00) — Echo chambers & online communication
+- [00:01:16](#t-00-01-16) — Opening — Junkyard Love / Spencer Hicks
+- [00:05:32](#t-00-05-32) — Tribalism
+- [00:15:00](#t-00-15-00) — Crowds, excitement & observing humans
+- [00:17:11](#t-00-17-11) — Bare feet / backyard reset
+- [00:20:33](#t-00-20-33) — Gym self-consciousness
+- [00:27:27](#t-00-27-27) — Line Tim
+- [00:32:57](#t-00-32-57) — Instagram talkers & looking good
+- [00:38:30](#t-00-38-30) — Questioning everything
+- [00:44:44](#t-00-44-44) — Vegan athletes / diet talk
+- [00:50:24](#t-00-50-24) — Calories, weight & Big Mac math
+- [00:54:00](#t-00-54-00) — Fitness goals
+- [01:02:58](#t-01-02-58) — Rounder worldview
+- [01:05:36](#t-01-05-36) — Language barriers inside our own language
+- [01:08:50](#t-01-08-50) — Talking heads & corporate agendas
+- [01:15:50](#t-01-15-50) — Fail Loud I've
+- [01:22:53](#t-01-22-53) — View / Myself
+- [01:26:40](#t-01-26-40) — Saying fewer words / Thanksgiving
+- [01:33:02](#t-01-33-02) — Posture & standing up straight

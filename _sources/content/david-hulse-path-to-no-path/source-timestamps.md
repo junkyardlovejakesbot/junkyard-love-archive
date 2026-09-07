@@ -1,16 +1,21 @@
-0:00 – Welcome & Awakening as Process vs. Event
-3:30 – Western Product Mindset and the Missing 18 Years of Jesus
-8:20 – Reevaluating New Age Teachings and Paradigm Shifts
-14:10 – Gnosis, Innate Intelligence, and Suppressed Knowledge
-21:00 – The 1980s DNA Meditation Download
-29:00 – Discovering Solfeggio Frequencies & Tuning Forks
-39:30 – Spiritual Growth Stages: Babes, Adolescents, Co-Creative Adults
-47:30 – Cellular Awakening: Inner Becoming Outer
-56:00 – Caterpillar Chaos to Butterfly Transformation
-1:04:30 – David’s 17-Year-Old Awakening & Cosmic Story
-1:11:00 – Starseeds, Critical Mass, and Global Evolution
-1:15:30 – Gospel Roots, Sound Spirals & Energy as Currency
-1:17:30 – Coccyx Activation, Etheric Blueprint & Tuning Fork Practice
-1:18:30 – HeartLight Center, Academy Legacy, and Community Building
-1:19:00 – Forgotten Pre-Incarnation Contracts and Future Activations
-1:19:20 – Closing Wisdom: Walking Each Other Home
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:00:00](#t-00-00-00) — Opening — what is awakening?
+- [00:04:59](#t-00-04-59) — Active awakening / Ken Wilber maturation
+- [00:07:53](#t-00-07-53) — “I’m not a teacher, I’m a reminder”
+- [00:10:47](#t-00-10-47) — Heretics, Nag Hammadi, Dead Sea Scrolls
+- [00:14:09](#t-00-14-09) — Etheric blueprint / 1980s DNA meditation download
+- [00:16:40](#t-00-16-40) — Solfeggio 528 Hz / tuning forks / epigenetics / SomaEnergetics / babes–adolescents–adults
+- [00:27:45](#t-00-27-45) — Cellular awakening / inner→outer / chaos→critical mass / caterpillar
+- [00:35:16](#t-00-35-16) — Metamorphosis to the atom / Bible languages awakening
+- [00:39:17](#t-00-39-17) — Born conscious / Elohim / starseeds portal story
+- [00:43:21](#t-00-43-21) — Remember who we are / critical mass / teachings not worship
+- [00:45:51](#t-00-45-51) — Preaching to cows / Tulsa revival / ministry at 17 / purpose living through him
+- [00:50:53](#t-00-50-53) — “It’s living through me”
+- [00:52:15](#t-00-52-15) — Stand in the gap / bridge West–East / 3D language, 5D frequency
+- [00:56:27](#t-00-56-27) — Gospel piano / Greenwood / Mahalia Jackson / Pythagoras spiral
+- [01:03:03](#t-01-03-03) — Coccyx activation / energy as currency / kundalini / etheric healing
+- [01:07:15](#t-01-07-15) — Keys of David / Solfeggio as keys to the kingdom
+- [01:09:25](#t-01-09-25) — HeartLight Charlotte / Academy legacy at 80
+- [01:11:27](#t-01-11-27) — From Sin to Zen podcast plan
+- [01:15:45](#t-01-15-45) — Pre-incarnation contracts tease / caterpillar confusion

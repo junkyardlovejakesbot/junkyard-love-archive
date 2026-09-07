@@ -11,7 +11,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Opening bumper — Junkyard Love / knowledge is power
 - [00:02:00](#t-00-02-00) — Three kinds of empathy
 - [00:03:49](#t-00-03-49) — Sympathy vs empathy / social norms
 - [00:09:42](#t-00-09-42) — Mitigate / Sympathy
@@ -29,7 +28,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [01:04:57](#t-01-04-57) — Phone in the bedroom / shutting down the mind
 - [01:10:33](#t-01-10-33) — Phone control / sleep environment
 - [01:17:37](#t-01-17-37) — Sensory deprivation / float tanks
-- [01:18:55](#t-01-18-55) — Outro — be kind / take care of yourself
 
 ## Keywords
 

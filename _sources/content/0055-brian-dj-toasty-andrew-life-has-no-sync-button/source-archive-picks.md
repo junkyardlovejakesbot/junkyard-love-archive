@@ -11,9 +11,7 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Opening bumper — Junkyard Love
-- [00:01:28](#t-00-01-28) — Live check / stream delay
-- [00:02:36](#t-00-02-36) — Guest intro — Brian / Glow In The Dark
+- [00:02:36](#t-00-02-36) — Live check / stream delay
 - [00:03:48](#t-00-03-48) — What is Glow In The Dark
 - [00:11:40](#t-00-11-40) — Course Regionally
 - [00:18:11](#t-00-18-11) — Save Our Stages / venues
@@ -37,7 +35,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [02:24:11](#t-02-24-11) — Conversations / Experiencing
 - [02:32:33](#t-02-32-33) — Self Outsider
 - [02:41:02](#t-02-41-02) — Every Song Plays He's
-- [02:46:35](#t-02-46-35) — Outro — you're worth it
 
 ## Keywords
 

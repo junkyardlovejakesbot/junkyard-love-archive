@@ -1,0 +1,1825 @@
+{
+  "episodes_processed": 120,
+  "episodes_error": 0,
+  "episodes_skip": 0,
+  "quotes_before": 963,
+  "quotes_after": 466,
+  "quotes_dropped": 497,
+  "thin_episodes": [
+    "0020",
+    "0025",
+    "0047",
+    "0049",
+    "0050",
+    "0051",
+    "0054",
+    "0060",
+    "0063",
+    "0066",
+    "0072",
+    "0073",
+    "0076",
+    "0077",
+    "0079",
+    "0081",
+    "0086",
+    "0087",
+    "0089"
+  ],
+  "zero_quote_episodes": [
+    "0020",
+    "0025",
+    "0087"
+  ],
+  "soft_asr": [
+    "0020",
+    "0025",
+    "0037",
+    "0047"
+  ],
+  "results": [
+    {
+      "num": "0002",
+      "slug": "0002-rob-gonzalez-of-eye-clothing",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I did have a vision of wanting to be my own boss.",
+        "I had to fulfill another vision and you gotta get it together.",
+        "I still didn't understand the full meaning of earning your excellence.",
+        "I know that this has 10-year 20-year vision."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0003",
+      "slug": "0003-spencer-hicks",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I'd ripped it off a little bit so back to the ego.",
+        "Thank you oh you've got a big ego.",
+        "I really encourage you to dive further into the word ego.",
+        "I don't want to feel this because at my core being all I want is the best for myself."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0004",
+      "slug": "0004-zack-wyld",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I think that's the voice that's true that's truth.",
+        "I love this person next to me we had a wonderful time.",
+        "People and scientists and everything are literally telling you the truth.",
+        "I'm going crazy trying to do all this stuff because it's so time-consuming and I literally feel."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0005",
+      "slug": "0005-jaycie-randall",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I just my life has changed drastically from meditation.",
+        "I want people who have tried meditation and think they failed and I want people.",
+        "I can realize that I can be a layer above this maze and I even be in it and watch myself.",
+        "I'm getting better at it whatever and then I wouldn't actually look at it and change."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0006",
+      "slug": "0006-ryan-tos-santos",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I can't remember I think I was 20 because I can't go to bars yet but even then I still look at myself.",
+        "I realized that none of it was real and it wasn't actually me feeling.",
+        "I had also before that I had gone to your house and experienced the love.",
+        "I love that album so much and the fact that there was a first time."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0007",
+      "slug": "0007-jessica-faul",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "If you choose I guess maybe that's it's the choice.",
+        "I think that's literally how knowledge and growth.",
+        "I'm just trying to wear a mask and follow my intuition.",
+        "I want to be clear that actually just because I think that people."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0008",
+      "slug": "0008-nate-nastynate-tanzman",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I thought it was always a challenge the ego.",
+        "I don't want to say I don't have one but I think it's because we relate ego.",
+        "I barely graduated barely biggest by the hair and it was only because my girlfriend at the time.",
+        "I wake up because I was so exhausted for so long I physically pushed myself."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0009",
+      "slug": "0009-shaden-hvshi-nugent",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I was dealing with so consciously that I didn't even want to realize at the time.",
+        "I took perfect timing where you want to go and if I die tomorrow off because they're being remastered and a lot of people.",
+        "I want to say to stuff because I want to light.",
+        "I literally started making music so that I could sing it and listen to it for myself."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0010",
+      "slug": "0010-brian-dj-toasty-andrews-and-kelly-k3lls-st-onge",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I want to go to these functions because that's part of that whole.",
+        "They it was funny because they had started with house music.",
+        "I really love but obviously it's not my full-time.",
+        "I think that the technology and people in the crowd knowing more about music."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0011",
+      "slug": "0011-spencer-hicks",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "Life if there's one thing you learn from this podcast it's just find a good friend.",
+        "I knew nothing about it but a change.",
+        "I've gone up there and it's just incredibly claustrophobic and I can't send her in on the music.",
+        "I actually can sleep less - so that's another benefit of meditation."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0012",
+      "slug": "0012-bob-kendall",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I learned from that I move on and I see what works with people.",
+        "I learn from them and we have that power and a lot of people.",
+        "I just want to do the nicest kickflip everyone listen to my music.",
+        "I learned from you that I always pass on to anybody."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0013",
+      "slug": "0013-nona-southard",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I just want you to never even learn of any of these terrible foods and things it's definitely hard but at the same time.",
+        "The day and have them research postpartum depression.",
+        "I'm just really lucky that I had someone that actually put in the time in the effort which makes me sad because I feel.",
+        "I'm not doing so good what's happening was postpartum depression."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0015",
+      "slug": "0015-jordanne-crane",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I got it because I got the birth control.",
+        "I was up at weird hours and I wasn't working I wasn't doing anything after that relationship.",
+        "I think and it's just a lot because nobody.",
+        "They shouldn't have to change her my wife for you but I think people."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0017",
+      "slug": "0017-spencer-hicks",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I know people who aren't listening to it they have no idea.",
+        "I'm making a connection obviously with that but I think that entire versions of words.",
+        "I think that entire versions of words faith is another good one the word ego.",
+        "School of thought and just listen to their ideas."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0018",
+      "slug": "0018-nate-nastynate-tanzman",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I'm patients the ego wants it right my boss.",
+        "It's worth every second but feeling that you're going to lose friends or lose family or be misunderstood because people.",
+        "I was in the deepest depths of depression.",
+        "I really don't and it's hard again with the change."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0019",
+      "slug": "0019-kendall-johns",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I needed to say and it all worked out perfectly and it's sick I love.",
+        "I did I literally cannot do any well so you mean they learn about it you're making this **** work.",
+        "I love it so origin story let's back up a little bit so what have you been into music.",
+        "I owe them something but they don't want anything for me they just love."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0020",
+      "slug": "0020-megan-elam",
+      "status": "ok",
+      "n_quotes": 0,
+      "n_published_used": 0,
+      "soft": true,
+      "samples": [],
+      "reason": null
+    },
+    {
+      "num": "0021",
+      "slug": "0021-rosetan-the-band",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I hope some day that we can get together and make music.",
+        "I think it's important to go into something with a pretty big creative vision.",
+        "I play guitar for a few months and posted for you on YouTube and I felt really good about myself.",
+        "I got to practice that song before rehearsal."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0022",
+      "slug": "0022-taya-sanders",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I've had two kids total mom bought but I would love.",
+        "I didn't have kids at this point it would be dangerous because all I do is work.",
+        "You'll text me all the time you'll be listening.",
+        "I had him because he didn't have anything we're in the hospital I was sewing for everyone."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0023",
+      "slug": "0023-spencer-hicks",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I will have a lot of empathy but I actually won't feel.",
+        "I'm you get social media you only post the pictures of you have music.",
+        "I just get a text out of nowhere it just says that my heart.",
+        "I've actually seen people when they do a lot of breath."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0024",
+      "slug": "0024-maxx-v-payne",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I could go to Z100 right and I was listening.",
+        "I love that dude I love that I think that more people.",
+        "In our last preparations for the show all right you don't have to tell us about the details of your guys' relationship.",
+        "I have the song recorded I just never put it out because I never had a never two unreleased tracks we need."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0025",
+      "slug": "0025-jordenelle-tsugawa",
+      "status": "ok",
+      "n_quotes": 0,
+      "n_published_used": 0,
+      "soft": true,
+      "samples": [],
+      "reason": null
+    },
+    {
+      "num": "0026",
+      "slug": "0026-scott-pisapia-of-roots-basketball-academy",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "The beginning was that we wanted to give back to the community.",
+        "I had leverage because I was staying at my mom's house with no bills so I had time I had time.",
+        "That's been in the community for a long time.",
+        "I'm gonna shoot at this right what would your dream."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0027",
+      "slug": "0027-mackenzie-thornquist",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I'm doing it so well it's a cool dream.",
+        "I can get how you can get anxiety.",
+        "I ended up getting the tube surgery last year because they drill a hole in your eardrum so essentially there's air.",
+        "I don't I just remember it was a school night because we had a class together."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0028",
+      "slug": "0028-yanis-kanideis-pisarchuk",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I could consistently understand a lot more than I should understand at that point and the getting into the music.",
+        "I got any music and I started writing really emotional music.",
+        "I'm a sample you saying man is bringing up later in your life for sure because I feel.",
+        "I can now communicate with this language this music."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0030",
+      "slug": "0030-kelly-st-onge-mathematics-science-quantum-physics-and-unlocking-the-universe-with-knowledge",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "It but humans are actually compared to computers are really smart meaning.",
+        "I'm not solving any of these quantum things myself so I don't know it's all different ones but it's going to change.",
+        "I think that I heard one thing but it's not malicious it's just them making the connection.",
+        "I had to do a special project board about something and how to do with music."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0031",
+      "slug": "0031-madi-allis-of-vail-denim",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I wasn't showing up to be the person that the teacher.",
+        "I said little bit it still holds up a big piece of my heart.",
+        "I started clearing my throat no and then no the teacher.",
+        "I've been listening to the last couple days didn't listen to you I lost a friend."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0032",
+      "slug": "0032-andre-gilbert-and-roberto-gonzalez-the-dreamers-mindset-building-a-real-foundation-enjoying-the-journey-and-committing-to-your-vision",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "Your window I realized this when I was younger I used to love.",
+        "I used to love just leaving the doors open on a hot summer day.",
+        "All the work that it takes to create anything but that's why a lot of people.",
+        "I've started to feed my mind the more my vision."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0033",
+      "slug": "0033-andy-of-team-banzai",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I'm making making all the music than playing the live shows.",
+        "I have to say and if you do need to change.",
+        "I say in this you use your hands to create what's in another person's head.",
+        "I just do and if you're smart and your rear according it you go back and listen you go oh god."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0034",
+      "slug": "0034-nate-nastynate-tanzman-healing-toxic-masculinity-male-vulnerability-believing-in-yourself-being-scared-to-be-different-and-letting-go-of-outgrown-identities",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 4,
+      "soft": false,
+      "samples": [
+        "We don't put in the effort on purpose because if we do fail we have an excuse and we're not disappointing ourself.",
+        "I'm not wired like that, yet.",
+        "I wake up every single day and I say what I am.",
+        "A lot of people are scared to associate themselves with something that they are not 'yet."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0035",
+      "slug": "0035-ryan-reed-hope-ambition-fortitude-unlimited-beliefs-putting-yourself-on-creating-hip-hop-producing-music-and-reaching-for-greatness",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 1,
+      "soft": false,
+      "samples": [
+        "I was cutting weight on purpose and for wrestling in high school and that's what it felt.",
+        "I am not a creature of circumstance, rather a creator of circumstance.",
+        "I'm just saying when I go I have a choice.",
+        "I'm going to I need to grow up and be a **** man and so because I feel."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0036",
+      "slug": "0036-mika-woodruff-sharpening-your-emotional-toolkit-through-writing-grit-gratitude-and-resilience",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 1,
+      "soft": false,
+      "samples": [
+        "I know that we don't grow up in a society that traditionally values men.",
+        "You can choose unconditional love and acceptance, or you can choose change.",
+        "I must have been taught at a young age that because that's definitely that's been huge in my mind.",
+        "I've actually been making the choice to have my back to the door and it's a I can feel."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0037",
+      "slug": "0037-rebecca-wyld-habit-change-and-happiness-actualization",
+      "status": "ok",
+      "n_quotes": 3,
+      "n_published_used": 3,
+      "soft": true,
+      "samples": [
+        "Take me to a place where I feel small.",
+        "Your beliefs are there because of your experiences and then those same experiences confirm your beliefs.",
+        "It took a long time for me to be able to look into the mirror and point out the things I loved instead of the things I hate."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0038",
+      "slug": "0038-spencer-hicks-mental-and-physical-tips-to-maintain-health-at-home",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I've heard it takes twenty to thirty days to change.",
+        "I was and started get back into breath.",
+        "I go outside there's things that have changed obviously and can change.",
+        "I'm didn't realize that I was tensing up I personally my breath."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0039",
+      "slug": "0039-erik-nordin-of-rosetan-a-small-town-sound-with-heart",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 1,
+      "soft": false,
+      "samples": [
+        "I know that antidote will continue doing it because they made good relationships.",
+        "I'm thinking about you because a lot of people.",
+        "I need to complete this I think we it but we don't really have this back layer of because I need.",
+        "Quarantine has taught me, that I am O.K. alone."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0040",
+      "slug": "0040-brandon-cruz-formulating-perspective-from-behind-the-lens-cognitive-change-with-intention-and-being-a-creative-individual",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 2,
+      "soft": false,
+      "samples": [
+        "I love having this option it's so cool it you look amazing space.",
+        "I had an interest in acting that probably sprouted it I had this teacher.",
+        "A being with no circumstance does not exist.",
+        "I'm neither the depressed person nor the person that is saying \"no don't be depressed\", but rather the observer of those two thoughts."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0041",
+      "slug": "0041-brandon-cruz-views-from-consciousness-and-the-great-neural-net-of-humanity",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "The presidency is not now something that one person should be tasked with responsibility for the u.",
+        "I think that it was a drug-sniffing photos mushrooms I think we started technically eating mushrooms and it changed our consciousness.",
+        "I think that humans might actually be trying to get off earth because earth.",
+        "I'm gonna work overtime we're all working as a people right now the entire world the entire community."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0042",
+      "slug": "0042-mack-t-and-j-faul-the-last-saturday-small-town-minds-evolving-and-an-attitude-of-growth",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I'm just trying to see where we're at in relationship.",
+        "I just listened to it then I listen to my own in my hotel room on a layover but I feel.",
+        "I don't have enough humility or ability to humble myself.",
+        "I was so embarrassed but as the years have gone by it's funny because people."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0043",
+      "slug": "0043-joseph-crumb-redefining-your-life-and-wait-why-are-you-taking-me-seriously",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 3,
+      "soft": false,
+      "samples": [
+        "If we take away 'jk', what can we say?",
+        "It takes a lot to take a step back and look at it through a lens of - what the fuck?",
+        "This artist that I really love this tattoo artist.",
+        "It\u2019s your avatar telling you who the real you is."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0044",
+      "slug": "0044-spencer-hicks-operating-optimally-should-be-your-goal",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 4,
+      "soft": false,
+      "samples": [
+        "The news is not a tool to make your life better, it's a tool of control.",
+        "Everyone owns a body. You pilot a meat vehicle, you do. You should know how to operate it optimally.",
+        "Not everyone you talk to is going to be in good faith.",
+        "Unfortunately there's money in symptoms, not health."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0045",
+      "slug": "0045-solo-jacob-rhines-how-to-take-care-of-yourself-a-bit",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I get better and better as I go along the more I meditate the more I learn about the nature.",
+        "I learn about the nature of my own mind.",
+        "I'm interacting with a movie or a TV show the way that I personally just because the my personality type my perception of reality.",
+        "The modern times and get your body in tune with modern times meaning."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0046",
+      "slug": "0046-rapper-jace-saltzman-killing-the-ego-and-stumbling-onto-the-right-path",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 4,
+      "soft": false,
+      "samples": [
+        "If I got a problem, I'm about a solution.",
+        "I love that stick your chest out typea shit.",
+        "I'm already goin that way, wanna ride?",
+        "I'm so obsessed now with the possibility of opportunity."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0047",
+      "slug": "0047-trenten-kesler-searching-for-fluidity-learning-from-detail-and-laughing-with-everyone",
+      "status": "ok",
+      "n_quotes": 1,
+      "n_published_used": 1,
+      "soft": true,
+      "samples": [
+        "People will forget what you've said, people will forget what you've done, but they will never forget how you made them feel."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0048",
+      "slug": "0048-devon-sims-being-kind-flipping-perspective-and-drinkin-water",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I have not stuck it through my dad plays drums and guitar.",
+        "I admire the way that he can play guitar.",
+        "My next steps around that being well that's just how I learned this right that's how life.",
+        "I learned this right that's how life handed me the path."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0049",
+      "slug": "0049-airik-makaio-hokulani-mobbs-the-ever-evolving-chameleon-vibe-surfing-weird-america-and-giving-power-to-the-positive",
+      "status": "ok",
+      "n_quotes": 2,
+      "n_published_used": 1,
+      "soft": false,
+      "samples": [
+        "There's thinking about just the sides of ourselves because there's a consistency.",
+        "Do you feel better? yeah? ok. C'mon."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0050",
+      "slug": "0050-jordenelle-tsugawa-healing-the-soul-with-hands-and-self-love",
+      "status": "ok",
+      "n_quotes": 2,
+      "n_published_used": 1,
+      "soft": false,
+      "samples": [
+        "I want to just continue to show up and be authentic and to continue channeling things for people to enjoy listening.",
+        "I deserve to be here. I want to be here. I love to be grounded. I am an artist. People enjoy my creations. My art matters. I am a good person. I allow my light to shine. I want to be here. I love having a physical vessel."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0051",
+      "slug": "0051-ricky-navarrete-hard-work-and-heavy-weight",
+      "status": "ok",
+      "n_quotes": 1,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I was doing well it's creating and drawing and doodling and making music."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0052",
+      "slug": "0052-rikki-hall-chest-pressure-intrusive-thoughts-and-space-aliens",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 4,
+      "soft": false,
+      "samples": [
+        "As soon as I woke up from my surgery, I could breathe.",
+        "Am I ever gonna be satisfied? No, but love your body for what it is.",
+        "You really have to find that healthy relationship with how you look and what you eat and how you wanna treat yourself and your body and your mind.",
+        "We\u2019re just too aware of being alive."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0053",
+      "slug": "0053-matt-young-nate-tanzman-how-to-build-confidence-and-create-your-own-luck",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 4,
+      "soft": false,
+      "samples": [
+        "You'll grow up to be that person you needed when you was younger.",
+        "I'm just a baker, that found bread.",
+        "Once you get rid of the idol, you'll show yourself.",
+        "The cost of entry to your business, to your podcast, to your personal growth - is listening to people tell you that you're fuckin crazy."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0054",
+      "slug": "0054-ian-shaye-camp-reeducation-you-dont-know-what-you-think-you-already-know",
+      "status": "ok",
+      "n_quotes": 1,
+      "n_published_used": 1,
+      "soft": false,
+      "samples": [
+        "I think I feel more confident from this experience to try and believe something for a little while, with the understanding that I can be wrong with that belief and re-visit it later."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0055",
+      "slug": "0055-brian-dj-toasty-andrew-life-has-no-sync-button",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I wanted more involvement because we're gonna have it all set up so why not record more people.",
+        "They've put out some pretty cool trap music.",
+        "Love for my wife is very much different than my love.",
+        "If you listen or if you have a friend."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0056",
+      "slug": "0056-trevir-petitt-jasmine-heagy-get-with-the-picture-grow-through-it-and-laugh",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 2,
+      "soft": false,
+      "samples": [
+        "It's so easy to be a bad person, it takes work to be a good person.",
+        "That's what we could all do very well is we can take a look at our own interactions and see how we can change.",
+        "That's the cool thing about America, we're one big melting pot.",
+        "It because there's no fans or anything but you still need."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0057",
+      "slug": "0057-anna-cantwell-a-teacher-of-the-human-spirit",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 4,
+      "soft": false,
+      "samples": [
+        "In the wind I feel Spirit, when I'm swinging on the swingset at recess I am matching my breath and constructing universes in the clouds, that was me as a child.",
+        "The base definition of hope is seeing a more positive outcome, and multiple pathways to that outcome.",
+        "Meditation is like showering for your brain.",
+        "I just want to help people feel comfortable in their own bodies."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0058",
+      "slug": "0058-conner-anshutz-people-are-portals-to-yourself",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 3,
+      "soft": false,
+      "samples": [
+        "People get stuck in their minds get really bad depression.",
+        "Time can be relative. You can cherish the small moments. You don't have to have a full 3-day hangout just to connect with someone.",
+        "I'm always stoked to hear about anyone I ever met to be doing good in their life.",
+        "Any river can be rebridged. The bridge can be rebuilt. Things happen, we're human."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0059",
+      "slug": "0059-spencer-hicks-the-sense-making-sickness-series-part-1",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "You were writing is essentially what is truth.",
+        "Can never actually arrive at the concrete truth.",
+        "Our beliefs so belief systems how are belief.",
+        "It's more concrete than what they've been provided before but because they've spent their entire life."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0060",
+      "slug": "0060-solo-jacob-rhines-sober-october-a-personal-mental-review",
+      "status": "ok",
+      "n_quotes": 1,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "It's good for you have water right next to your bed every single night and maybe try to make a habit."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0061",
+      "slug": "0061-trevor-may-finding-the-feel",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "It actually happening to you and then we can make it this fun camaraderie community.",
+        "I think you probably obviously do is you take purpose.",
+        "The physical stuff you can't you really there's very little you can do to change.",
+        "I need to rest so that later the other purpose."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0062",
+      "slug": "0062-abrielle-dunn-aspiring-towards-inspiration-creating-connection-and-smiling-back-at-life",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 3,
+      "soft": false,
+      "samples": [
+        "I'm a huge propornant of failing forward.",
+        "There are people who are putting out good messages but they're not being heard because they either don't have good enough.",
+        "You can wake up everyday and do it differently.",
+        "How do I want people to feel? Inspired."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0063",
+      "slug": "0063-shiloh-rister-georgia-peach-life-loss-and-dogs",
+      "status": "ok",
+      "n_quotes": 1,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "Music changing is it's going to be super cool man."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0064",
+      "slug": "0064-tyler-milliken-bumping-elbows-with-leaders-censorship-and-new-norms",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "A you thought that because at the time.",
+        "They're just going to be killing it in the parent game because we a lot of people.",
+        "Saturday night live because it airs at 11 30 p.",
+        "We have to look at how it's used in the meaning."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0065",
+      "slug": "0065-josh-gebhardt-its-open-mic-night-for-being-yourself",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 1,
+      "soft": false,
+      "samples": [
+        "I had the chance to be myself without any baggage of who you think you are, or the way you grow up, or who you're around, or pressures of hurting the people around you by being your authentic self.",
+        "The more that people around me are going to be attracted to me because it is real it is genuine it is honest.",
+        "There's no stakes in them there's no there's no meaning.",
+        "It but it's been another thing with identity."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0066",
+      "slug": "0066-tim-fraley-writin-songs-lentin-booze-and-upgradin-society",
+      "status": "ok",
+      "n_quotes": 1,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "If i've been having some drinks and we're at we're at a campfire and you pull out your guitar."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0067",
+      "slug": "0067-jaycie-randall-a-path-from-the-past",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 4,
+      "soft": false,
+      "samples": [
+        "You\u2019re able to shift. When you\u2019re in victimhood you often don\u2019t realize you\u2019re stuck in the victim mentality until you have someone point out \u2018yeah you have this going on but here\u2019s the reality of the situation.",
+        "Pain is energy but energy forms into your reality.",
+        "We have huge social media platforms with high expectations, that most of us feel like we have to kind of \u2018upkeep\u2019 with - when in reality.. who gives a shit?",
+        "You can be extremely intuitive, psychically smart, spiritually intelligent, and still be a human being who wants to do nice things for yourself like have nice clothes, have nice hair, nice stuff, all in the same swing."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0068",
+      "slug": "0068-abrielle-dunn-the-sense-making-sickness-series-wait-why-are-we-larping",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "We don't understand what meaning is we don't understand what feelings are we don't understand what the human.",
+        "You what happens there when you do come at someone who's not trying to inquire on their belief.",
+        "We've learned we want to connect but we also need.",
+        "In our faces and it's being used and weaponized against us our because we want to look out for our family."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0069",
+      "slug": "0069-crystal-nyman-trimming-off-what-no-longer-serves-you",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "It's tough because your family is your family.",
+        "It's just important to live authentically to yourself because that's at the end of the day.",
+        "There's some extent which is very good because people.",
+        "Love you sis thank you have a good rest of your day."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0070",
+      "slug": "0070-ryan-tos-santos-the-wiring-within-the-walls",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "Life it'll just definitely change the way you think and what you feel.",
+        "Had it not the shortest time out of everyone at work because we were not work.",
+        "Can go to restaurants breathe all over the crap using someone.",
+        "You learn maybe you need to be listening."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0071",
+      "slug": "0071-ryan-baker-forward-is-the-only-way",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 1,
+      "soft": false,
+      "samples": [
+        "After you climb a mountain, all of your other problems are small in comparison.",
+        "You're trying to be what everyone else wants that's stressful and you lose creativity and you lose love.",
+        "You ingest that's what you're telling yourself every single day you're hearing it you're making it a habit.",
+        "People at themselves to where they can love."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0072",
+      "slug": "0072-megan-robinson-social-creatures-having-an-internet-experience",
+      "status": "ok",
+      "n_quotes": 2,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "Once in a while so they can learn to look out for it in the future.",
+        "We're going to deal the young kids are going to grow up and deal with new things that humans."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0073",
+      "slug": "0073-alicia-erwan-davon-sex-pleasure-relationship-blueprints-and-orgasms",
+      "status": "ok",
+      "n_quotes": 2,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "It was really surprising because you can touch people.",
+        "The presence and to presence and then from there we can get into more subtle dimensions of being or being a human."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0074",
+      "slug": "0074-spencer-hicks-dialectics-and-communication-breakdown",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "A more myopic political lens because it's what's actually important in the world.",
+        "In results but it's such a scary thing it puts us into such a fear.",
+        "Sometimes the conclusions that we just come to we didn't consciously choose but they actually have some interesting bias and ramifications and need.",
+        "You have an uncomplicated relationship with that you love."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0075",
+      "slug": "0075-bradley-roth-being-most-people-is-bad-for-your-health",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 2,
+      "soft": false,
+      "samples": [
+        "Do you have a meditation practice yourself or do you find yourself.",
+        "Have to learn how to stumble over my words.",
+        "My highest value in life is freedom - time freedom, thought freedom, location freedom, financial freedom, etc.",
+        "Most people are not very happy, healthy, or wealthy \u2013 so why would you want to live, think, and be like most people?"
+      ],
+      "reason": null
+    },
+    {
+      "num": "0076",
+      "slug": "0076-heather-hutchison-seeing-more-clearly",
+      "status": "ok",
+      "n_quotes": 1,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "It's really unfortunate because how do you keep reaching out when you don't feel."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0077",
+      "slug": "0077-devin-mullins-a-friendly-conversation-about-weed",
+      "status": "ok",
+      "n_quotes": 1,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "Some of them are great for depression anxiety."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0078",
+      "slug": "0078-jerry-fu-be-free-from-the-fear-of-conflict",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 3,
+      "soft": false,
+      "samples": [
+        "You will never be free of conflict. You may never be free from that fear, but you can still deal with it. You don\u2019t have to be afraid of it anymore.",
+        "Passive-aggressive comments are funny in movies but they\u2019re terrible in real-life relationships.",
+        "You're the person who needs help having the courage.",
+        "How do I make the people around me great?"
+      ],
+      "reason": null
+    },
+    {
+      "num": "0079",
+      "slug": "0079-lynn-cherry-here-use-my-paddle",
+      "status": "ok",
+      "n_quotes": 1,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "This big thing it has its own community."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0080",
+      "slug": "0080-juli-geske-peer-personal-success",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "What's gonna happen if you don't make this change.",
+        "The relationship goes even if just one side starts it so anybody.",
+        "Some of those practices when needed as well now when you take that into the family or into the community.",
+        "It's the same if you've learned to play the piano."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0081",
+      "slug": "0081-john-lee-pondering-the-beautiful-mysteries-of-being",
+      "status": "ok",
+      "n_quotes": 2,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "It's of course only based off of our experiences because that's what we're trying to answer.",
+        "No one can live without a purpose without a sense of purpose."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0082",
+      "slug": "0082-sandy-vo-towards-a-path-of-peace",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 3,
+      "soft": false,
+      "samples": [
+        "We are spirits having a human experience.",
+        "You are here to learn and practice how to be human.",
+        "A Spiritual Awakening is waking up to your spiritual nature.",
+        "You're being one with your higher self whereas if you weren't awakened to your spiritual nature."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0083",
+      "slug": "0083-making-sense-of-my-depression-and-anxiety-pt-1",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I'm talking about the core of ultimate love.",
+        "It feels fake when you get to coming around to admitting you have depression.",
+        "This is not something that other people can solve for you this is not your fault but it is your responsibility.",
+        "There's no torpedo coming there's no lion coming because look at what's happening when you're having an anxiety."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0084",
+      "slug": "0084-jeremy-sherman-the-trying-self",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "Our best guesses which is there's a huge difference between honesty and truth.",
+        "Will turn it into a habit and stop thinking about it that's what consciousness.",
+        "It originated because someone got stoned and needed words.",
+        "The music that underlies that it's the emotional carrier way for our words."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0085",
+      "slug": "0085-cetvies-cetvies-censoring-and-trafficking-humans",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "The mafia because they tell them you know what if you are if you go we know where you live we know we know where your family.",
+        "They choose to say that you know you don't have a proof enough.",
+        "They will have a courage to resist there's no courage.",
+        "They are very unclose community to answer to answer."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0086",
+      "slug": "0086-mika-woodruff-the-individuals-innate-desire-for-belonging-and-understanding",
+      "status": "ok",
+      "n_quotes": 2,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "If we can't physically recognize the trauma right out of the gate we have an opportunity to be traumatized if it looks different lessons.",
+        "They're all just boring or they're all just aggressive or because we're not looking for the right things when we're on the app we're doing it to ourselves."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0087",
+      "slug": "0087-zach-beach-a-path-of-love",
+      "status": "ok",
+      "n_quotes": 0,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [],
+      "reason": null
+    },
+    {
+      "num": "0088",
+      "slug": "0088-spencer-hicks-break-the-hammer",
+      "status": "ok",
+      "n_quotes": 3,
+      "n_published_used": 1,
+      "soft": false,
+      "samples": [
+        "It\u2019s just like having your eyes refreshed all the time.",
+        "A lot of agency to do a lot of change.",
+        "It sitting I 100 did it sitting because I got into my head."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0089",
+      "slug": "0089-daniel-t-matalon-the-world-game",
+      "status": "ok",
+      "n_quotes": 1,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "We have to learn how to love ourselves."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0090",
+      "slug": "0090-will-andes-being-boys-becoming-men-and-bringing-peace",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I love you you need some sleep you're well fed your diapers changed we left we loved.",
+        "I've become such a huge podcaster just in the sense of I listen to podcasts all day.",
+        "I'm always just listening to podcasts it's I don't know what what other people.",
+        "I'm cool and I really not that I regret anything from my younger days it's all growth."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0091",
+      "slug": "0091-nike-anani-next-gen-legacy-perspective-new-beginnings",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 1,
+      "soft": false,
+      "samples": [
+        "You want to plan as early as yesterday. it\u2019s never too early for legacy planning.",
+        "I'm not sure that's a good idea because this might not work.",
+        "I was thinking about first generation businesses so people who are starting to get some growth.",
+        "I'm listening to something and I try to make sure they range from mindset type work."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0092",
+      "slug": "0092-roman-merrell-a-complicated-historical-paradigm",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 1,
+      "soft": false,
+      "samples": [
+        "I going to force myself to be in this relationship.",
+        "I haven't watched yet it's on my list to watch but I do love.",
+        "I can't remember her name unfortunately bless her soul.",
+        "There were these nuns, they would walk in through my ear, they would go and sit down in the seats in my head, watching what I'm watching, commenting on what I'm seeing, and I couldn't of been more than nine or ten years old."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0093",
+      "slug": "0093-i-know-great-men-stuck-in-costumes-of-sadness",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "You're suffering your suffering stuff sucks you're feeling depression.",
+        "I am going to consciously choose to change.",
+        "I keep saying you don't listen you're not **** listening.",
+        "I'm going to say here and the thing is you're not listening."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0094",
+      "slug": "0094-john-lefebvre-acid-intellect-money-and-morality",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 4,
+      "soft": false,
+      "samples": [
+        "Kids, don't drop acid until you're ready to be troubled.",
+        "Hoarding is the wanking of wealth.",
+        "Here\u2019s the difficult part of my theory Jacob: we have to use force.",
+        "The thing that is the most precious to me in my whole life has fallen into my lap, no more than it has into everybody\u2019s, and that thing is: being a conscious being in the universe."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0095",
+      "slug": "0095-bobby-barrz-the-only-real-game-in-town-is-betting-on-yourself",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I think it was at a good time because man.",
+        "I don't know if you heard too much of my music.",
+        "I didn't do it right that time let's make sure I do it right the next time because any time.",
+        "I'm doing most people ain't got the courage."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0096",
+      "slug": "0096-jordenelle-tsugawa-the-forever-umbilical-cord-and-grand-mother-ayahuasca",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I'm coming to an understanding I used to have such a block about it and I was I love.",
+        "I come in contact with if that's planting a seed in the garden it's not always with physical people.",
+        "I am that to me is being of service but vibrational frequency.",
+        "I used to just suck everyone's trauma out of their body."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0097",
+      "slug": "0097-kevin-foreman-fighting-for-sobriety",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I was pretty fatigued and stressed because I hadn't had learned about wearing yourself.",
+        "I was pretty loud because a lot of people.",
+        "I know was incredible at law and very intelligent because one of my best friends.",
+        "I literally felt saved because I had to stop drinking there's probably a little bit of fear."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0098",
+      "slug": "0098-swami-nityananda-be-still-as-the-universe-plays-through-you",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 1,
+      "soft": false,
+      "samples": [
+        "Stay here. Every moment that you have to stay here in the body, stay here. Be fully here, and, when the time comes, do not fear. Absolutely do not fear.",
+        "I was laughing because for me one of the things I always noticed was sometimes people.",
+        "I think it also probably helps to have a community.",
+        "Is my teacher I would encourage you visit awake meditation."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0099",
+      "slug": "0099-brent-spirit-a-kundalini-awakening-story",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I didn't feel that I was this body or I was the mind I don't even think I had a formulated an ego.",
+        "I would go through different experiences that would now begin to form this identity.",
+        "I came out of this meditation went around went along with my day.",
+        "I knew it was of a spiritual nature."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0100",
+      "slug": "0100-jacobfromtheinternet-mystical-experience",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 1,
+      "soft": false,
+      "samples": [
+        "There is no path. There\u2019s no path till you walk it, and you have to be willing to play the fool.",
+        "I'd love to hear about your relationship with that type of work.",
+        "I started reading all these things and listening.",
+        "I was in a relationship we were together."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0101",
+      "slug": "0101-keenan-hurricane-harvey-taking-care-of-what-you-can-reach",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I love that well hey man just as your friend.",
+        "I think the wrong word's politically active because people.",
+        "I talking to the people that I know are listening.",
+        "I know that making an angry reaction isn't going to benefit the future of my life or my community."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0102",
+      "slug": "0102-megan-hawkins-betteru-ketamine",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 3,
+      "soft": false,
+      "samples": [
+        "I'm working with patients, I'm talking with them, when they are that rock bottom place in themself when they're first coming to this treatment for whatever the reason is, whatever they've gone through, whatever pain or trauma...",
+        "I'm always talking about meditation and stuff on here it gives you the space.",
+        "You worked so hard to have this armor, to put on this mask, that protects you from any external threat. Not knowing that sometimes the biggest threat is inside our armor, it's inside our minds.",
+        "I lost my professional purpose, then romantic, then my last sense of freedom since when I had initially moved away from home. So at that point, that's where I hit my real rock bottom."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0103",
+      "slug": "0103-landon-dirtyzen-smith-breaking-into-the-abyss",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I can do readings for other people but I initially did it for myself to have a better connection.",
+        "I could navigate my situation with a little bit more awareness.",
+        "I was having that experience of just uncovering fears I didn't know I had and I remember when I was in that depression.",
+        "I went on YouTube and I was listening."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0104",
+      "slug": "0104-julie-hoyle-awakening-from-the-lucid-dream",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 1,
+      "soft": false,
+      "samples": [
+        "I was always looking for someone who I knew could speak to the truth of who I was beyond the story.",
+        "I would have these out of body experiences and lucid dreams and for those that might not know a lucid dream.",
+        "I suddenly felt myself falling through time and space and my subtle body landed through the heart.",
+        "I came into my body it was 3:00 a.m. and I just couldn't sleep because I was filled with the most incredible energy."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0105",
+      "slug": "0105-matt-mcgee-how-to-stand-out-in-college-admissions",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I am trying to go let's take a step back let's take some of the stress and the anxiety.",
+        "I'm going to download some applications write a personal statement I talk to my history teacher.",
+        "I can do because he's not doing the work.",
+        "I'm more of a teacher at 16 but by the time."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0106",
+      "slug": "0106-cameron-cam-reid-cleaning-the-floors-well",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I think a lot of artists a lot of performers a lot of the big times go through some level of ego.",
+        "I'm probably going to end up in these positions I am instead going to actively notice that bring awareness.",
+        "I think there's a little bit of that within ego.",
+        "I don't know where I was going that I don't know how much that ties into there but no I love."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0107",
+      "slug": "0107-meredith-craig-bennett-marriage-needs-sunlight-and-water",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "We wanted to help because the housing market blew up and everywhere including here and we wanted to help firsttime home.",
+        "I'm not going to do that and when you get into that you get into scorekeeping and that fractures the relationship.",
+        "It all is the mindset that you need.",
+        "We just it wasn't even a conversation that we had to discuss that we're stronger as a team it was just an inherent belief."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0108",
+      "slug": "0108-anne-riley-always-evolution-occurs",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I'm sitting there listening to the supply and demand and the prices and everything and of course technology never change.",
+        "I've had very hard time trying to answer this question because the answer.",
+        "Love's the answer love isn't the answer we don't we're too different to for everybody to love.",
+        "Do no harm and let people maximize their choice."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0109",
+      "slug": "0109-marty-strong-adapt-move-be-different",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I didn't have a sense of the universe of myself yet for sure but I think I was always had an awareness.",
+        "I think I was always had an awareness of it wasn't it wasn't something developed I had an awareness.",
+        "I've been a CEO for now 15 years everybody's about to communicate change.",
+        "It you have to hire for it and you have to maintain it by mentoring and doing these practice."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0110",
+      "slug": "0110-rebecca-wild-turning-the-lights-on",
+      "status": "ok",
+      "n_quotes": 4,
+      "n_published_used": 0,
+      "soft": false,
+      "samples": [
+        "I was in an abusive relationship at the time.",
+        "I've lived in living in a in an abusive relationship.",
+        "I got through 2019 and then left my abusive relationship.",
+        "Meditation type experience I really believe that if you do a 45 minutes medit 45 minute meditation."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0111",
+      "slug": "0111-nate-tanzman-father",
+      "status": "ok",
+      "n_quotes": 7,
+      "n_published_used": 4,
+      "soft": false,
+      "samples": [
+        "I didn't hit send because it just kept going on. I feel.",
+        "I don't want to listen back to those episodes.",
+        "If you want what you say you want, expect it to be difficult.",
+        "You wouldn't have had access to it meaning.",
+        "The weight that you feel that makes you want to end the game is purpose and responsibility.",
+        "I feel like everything is trying to tell us in some way. Stop thinking about yourself and serve other people.",
+        "If you are not raising warriors in your homes, sons and daughters that have discernment, your lineage is doomed."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0112",
+      "slug": "0112-david-crayk-true-teachings",
+      "status": "ok",
+      "n_quotes": 7,
+      "n_published_used": 1,
+      "soft": false,
+      "samples": [
+        "It's very fun to be inspiring and encouraging.",
+        "I don't think any teacher could say their class was as fun as mine.",
+        "I think it be must be so difficult to be a teacher.",
+        "David Crayk is a teacher, poet, writer, bodybuilder, disc golfer, kid whisperer, spiritual advisor, and traveler - inspiring all those that cross his path to \u201cdare to be different\u201d in pursuit of their dreams.",
+        "I think there's a reason why that teacher.",
+        "I changed my dream to being a teacher.",
+        "I always wanted to be a teacher, but man."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0113",
+      "slug": "0113-wendy-cole-later-bloom",
+      "status": "ok",
+      "n_quotes": 7,
+      "n_published_used": 2,
+      "soft": false,
+      "samples": [
+        "If you've never looked in the mirror and questioned your actual gender identity, 'I should have been a boy,' or 'I should have been a girl,' if you've never done that, I don't expect you to fully understand the depth of the distress.",
+        "Packing up and changing careers and moving across the country, that's a profound life change.",
+        "We can get totally addicted to depression, anxiety.",
+        "I just really can't begin to tell you how profound of a life change this really is for people.",
+        "It wasn't a gradual change, it was sudden and it just kept going 'cause I felt.",
+        "It also takes the word that's out there in the world, choice, that I chose to do this, it takes that off the table.",
+        "Every limiting belief I confronted was like shedding a layer; underneath, I found who I truly was."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0114",
+      "slug": "0114-ravinder-taylor-from-chronic-pain-to-inner-power",
+      "status": "ok",
+      "n_quotes": 7,
+      "n_published_used": 3,
+      "soft": false,
+      "samples": [
+        "I don't want to create resistance in you to the actual process.",
+        "I try to dig in deeper to find out what the truth.",
+        "A teacher saw my difficulty, reached in, pulled me up by my swimming cap.",
+        "I just could not stand up. A teacher.",
+        "You don\u2019t always have to know which thing healed you. Sometimes it\u2019s the accumulation, the ripening\u2014your belief meets your action, and something finally shifts.",
+        "I wanted to give people the why\u2014not just another list of what to do. When you understand why something works, you stop outsourcing your power.",
+        "Free will isn\u2019t free\u2014you have to take it. Most of our minds are running on autopilot, but we can interrupt the programming and rewire it intentionally."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0115",
+      "slug": "0115-nate-begle-the-puppets-heart",
+      "status": "ok",
+      "n_quotes": 7,
+      "n_published_used": 2,
+      "soft": false,
+      "samples": [
+        "I love that you listened to that chat.",
+        "He of course has had a lot of people tell him he can't do something because of his physical limitations.",
+        "I when I was 22, 23, I love.",
+        "There\u2019s a moment where you stop trying to get it perfect and start asking if it feels true. That\u2019s when you know you\u2019re doing the work.",
+        "I could click on a YouTube video and learn how to do monitor work.",
+        "I found my love of musicals, musical theater and telling stories in that way and so doing stuff as a human.",
+        "A lot of people think voiceover is just \u2018talking,\u2019 but it\u2019s not. It\u2019s acting. It\u2019s truth-telling. It\u2019s intention."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0116",
+      "slug": "0116-curtis-l-harnagel-same-room-different-angles",
+      "status": "ok",
+      "n_quotes": 7,
+      "n_published_used": 4,
+      "soft": false,
+      "samples": [
+        "It hurts teachers as well because it doesn't give them the resources.",
+        "It's because the arts create connective tissues in your brain.",
+        "Every move is a signature... make it count.",
+        "You're not listening to what's innate to you or to me personally.",
+        "Kindness is not niceness. Kindness and goodness have one thing in common: benevolence.",
+        "Observation itself is a form of communication.",
+        "Your emergency is not my emergency. Take a beat, be polite."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0117",
+      "slug": "0117-blake-hull-good-morning-blakey-boy",
+      "status": "ok",
+      "n_quotes": 7,
+      "n_published_used": 3,
+      "soft": false,
+      "samples": [
+        "I feel most connected with you when you\u2019re feeling.\u201d - Blake recounting a moment in therapy that changed his understanding of connection and vulnerability.",
+        "Emotions are information. You\u2019d be stupid to ignore them.\u201d - Blake quoting a college professor who first reframed feeling as intelligence.",
+        "It had something to teach me. I was angry because in the future.",
+        "I'm going to flip this [ __ ] table because these people.",
+        "I think we wouldn't be shocked to learn that there's plenty of other men.",
+        "I was dealing with just insane anxiety, depression.",
+        "Maybe consciousness has always been doing this \u2014 reflecting itself through whatever new medium we invent.\u201d - Jacob, near the close, connecting AI, identity, and awareness."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0118",
+      "slug": "0118-what-if-mania-is-a-message-sean-blackwell",
+      "status": "ok",
+      "n_quotes": 7,
+      "n_published_used": 6,
+      "soft": false,
+      "samples": [
+        "What psychiatry calls a disorder can be the beginning of a profound inner journey.",
+        "Mental disorders don't take you or mental illness doesn't take you in the non ordinary states of consciousness per se.",
+        "The psyche speaks in myth and metaphor. Mania is often that language becoming audible.",
+        "Breakdowns often happen because something in us finally refuses to stay buried.",
+        "The body whispers for years, and when we don\u2019t listen, it eventually sends a storm.",
+        "Sometimes healing looks like falling apart in ways we can\u2019t cleanly explain.",
+        "I\u2019ve met so many people who weren\u2019t sick - they were overwhelmed by a truth they weren\u2019t taught how to carry."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0119",
+      "slug": "0119-trey-jones-prison-overdose-witness-state",
+      "status": "ok",
+      "n_quotes": 7,
+      "n_published_used": 7,
+      "soft": false,
+      "samples": [
+        "Your willpower is a muscle. The more you exercise it, the stronger it is.",
+        "Everything in my life needs to change, because everything in my life up to this point led me to this moment.",
+        "Victim mentality is just inverted narcissism.",
+        "My purpose now is to offer the same perspectives I went through so people don\u2019t have to reach the same levels of rock bottom.",
+        "I don\u2019t believe everyone has to die to find their true self.",
+        "Staying hard is the quickest way to never change.",
+        "Empathy without standards creates weak adults."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0120",
+      "slug": "0120-im-not-a-teacher-david-hulse",
+      "status": "ok",
+      "n_quotes": 7,
+      "n_published_used": 3,
+      "soft": false,
+      "samples": [
+        "The path you\u2019re really on should be the path to no path. We don\u2019t need to get something we don\u2019t have. We need to remember what we\u2019ve forgotten.",
+        "Anyway, the words DNA was just everywhere and I thought, oo, this is entering the collective consciousness somehow.",
+        "I was told to call you and tell you that there is a teacher.",
+        "Transformation begins with chaos and disorder. The caterpillar doesn\u2019t go through all that to become an enlightened caterpillar -it becomes a butterfly.",
+        "It comes to where you live, it starts changing all the frequencies, all the patterns of your humanity begin to change themselves.",
+        "Our cells are changing their frequency and their vibrations.",
+        "I'm sure that old caterpillar goes, what in the world is going on here? You know, I've been nibbling on this leaf, and now there's I've eaten all my resources. I have nowhere to go but what's happening inside of me? I don't know what's happening."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0121",
+      "slug": "0121-surrendering-the-porsche-tim-fraley",
+      "status": "ok",
+      "n_quotes": 7,
+      "n_published_used": 1,
+      "soft": false,
+      "samples": [
+        "I realized that there's like everything has a duality.",
+        "You\u2019re not a pu*sy if you don\u2019t meditate perfectly today\u2026 Today wasn\u2019t the day. Not every day you\u2019re going to have enlightenment.",
+        "She's like because we agreed on a price.",
+        "It's cool to be called towards a certain level of responsibility.",
+        "We dis hate their suffering by having the courage.",
+        "Gratitude I guess it's gratitude and thankfulness is how I start and my prayers.",
+        "Always asking for that relationship and always um being thankful."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0122",
+      "slug": "0122-laughing-like-a-hairy-oaf-barbara-mcafee",
+      "status": "ok",
+      "n_quotes": 7,
+      "n_published_used": 5,
+      "soft": false,
+      "samples": [
+        "Most of us are using our kind of unconscious default voice that we think is us, but it\u2019s not. It\u2019s cobbled together with duct tape and popsicle sticks and trauma\u2026",
+        "I never wanted to sing alone ever in front of anyone, which is a common fear.",
+        "Pretending to be somebody else is kind of the secret sauce.",
+        "He was my theater teacher in high school.",
+        "Singing is like the mycelial connections between trees.",
+        "Laughing is a great way to just open up the different sounds.",
+        "Our voice is the primary way we shape our world."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0123",
+      "slug": "0123-endorphins-love-quantum-medicine-four-bodies",
+      "status": "ok",
+      "n_quotes": 7,
+      "n_published_used": 4,
+      "soft": false,
+      "samples": [
+        "Love is an answer. It\u2019s a solution for sure.",
+        "The wind is actually the spirit. The effects are the physical body.",
+        "I know that there\u2019s this thing called spirit.",
+        "I had a chemical imbalance growing up, and that showed up for me as chronic depression \u2014 almost incapacitating anxiety.",
+        "My drug of choice was cocaine, so that fits in the dopamine category.",
+        "If we try to use the mind to correct the mind, we can get just a lot of chaos\u2026 the solution\u2026 is neutrality.",
+        "What people are looking for in the endorphin experience is love. And it\u2019s a capital L."
+      ],
+      "reason": null
+    },
+    {
+      "num": "0124",
+      "slug": "0124-sigmar-berg-conscious-breathing-break",
+      "status": "ok",
+      "n_quotes": 7,
+      "n_published_used": 7,
+      "soft": false,
+      "samples": [
+        "This frequency triggers something in you that takes it out of your head, into your heart.",
+        "Hearts are always curious. What literally separates us is our intellect.",
+        "It's kind of cheating because it's a shortcut to meditation.",
+        "The most important thing is to slow down the exhale.",
+        "Breath is basically your best friend.",
+        "If you look on the outside, you become a dreamer. If you go inside, you awaken.",
+        "Authenticity is actually the key to wholeness."
+      ],
+      "reason": null
+    }
+  ]
+}

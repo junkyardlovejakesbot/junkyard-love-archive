@@ -10,7 +10,6 @@ Extracted from the faster-whisper transcript of the full published MP3 (not trun
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Opening bumper — Junkyard Love
 - [00:02:07](#t-00-02-07) — Conversation open — editing / being a beginner
 - [00:07:15](#t-00-07-15) — Self-love / living well
 - [00:13:18](#t-00-13-18) — Take me where I feel small
@@ -36,7 +35,6 @@ Extracted from the faster-whisper transcript of the full published MP3 (not trun
 - [02:01:42](#t-02-01-42) — Child mind / curiosity over rigidity
 - [02:10:41](#t-02-10-41) — Choosing to be here / comparison traps
 - [02:17:07](#t-02-17-07) — Happiness without money stories
-- [02:20:09](#t-02-20-09) — Outro — drink water / get present
 
 ## Keywords
 

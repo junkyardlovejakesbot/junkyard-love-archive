@@ -10,7 +10,7 @@ Extracted from the YouTube auto-caption transcript and published links already o
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Opening — Bobby Barrz
+- [00:01:26](#t-00-01-26) — Real, Stay & Position
 - [00:05:45](#t-00-05-45) — Betting on yourself — thesis
 - [00:13:40](#t-00-13-40) — Music origin story
 - [00:20:52](#t-00-20-52) — Support, Patreon & posting consistency
@@ -27,7 +27,6 @@ Extracted from the YouTube auto-caption transcript and published links already o
 - [01:33:41](#t-01-33-41) — More than music — whole life craft
 - [01:38:53](#t-01-38-53) — Doing your best in every moment
 - [01:43:35](#t-01-43-35) — Open mic — all genres welcome
-- [01:47:03](#t-01-47-03) — Outro
 
 ## Keywords
 

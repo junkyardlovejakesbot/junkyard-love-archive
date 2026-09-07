@@ -11,7 +11,7 @@ Extracted from the YouTube auto-caption transcript and published About. Labeled 
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Solocast open — trying again to talk depression
+- [00:00:06](#t-00-00-06) — Host open — Depression, Sadness & Record
 - [00:01:42](#t-00-01-42) — Depression is not (just) sadness
 - [00:05:19](#t-00-05-19) — Ram Dass — walking each other home
 - [00:13:33](#t-00-13-33) — What does a relaxed person look like
@@ -29,7 +29,6 @@ Extracted from the YouTube auto-caption transcript and published About. Labeled 
 - [01:26:12](#t-01-26-12) — Meditation / Thoughts
 - [01:33:02](#t-01-33-02) — Depression / Thoughts
 - [01:40:39](#t-01-40-39) — Depression Minutes May
-- [01:41:45](#t-01-41-45) — Outro — peace out, love yourselves
 
 ## Keywords
 

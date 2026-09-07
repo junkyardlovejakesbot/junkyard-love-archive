@@ -10,7 +10,7 @@ Extracted from the YouTube auto-caption transcript and published notes already o
 
 ## Chapter-style timestamps
 
-- [00:00:00](#t-00-00-00) — Bumper / self-promo — Austin show, DJ, open mic
+- [00:01:14](#t-00-01-14) — Host open — Played, Yoga & Instagram
 - [00:02:43](#t-00-02-43) — Guest intro — Will Andes; knowledge is power
 - [00:10:35](#t-00-10-35) — East Coast vs West Coast minds / presence
 - [00:18:29](#t-00-18-29) — Feminine / Crystal
@@ -32,8 +32,6 @@ Extracted from the YouTube auto-caption transcript and published notes already o
 - [02:26:48](#t-02-26-48) — Friends / Couple
 - [02:42:59](#t-02-42-59) — Crystal / Friends
 - [02:50:31](#t-02-50-31) — Work Free Work Live
-- [02:57:25](#t-02-57-25) — Outro — love your family, be present
-
 
 ## Keywords
 

@@ -8,7 +8,7 @@ _(no stand-alone complete quotes retained for this episode)_
 
 ## Chapter-style timestamps
 
-- [00:00:00](#t-00-00-00) — Opening — Zach Beach / yoga & poetry
+- [00:00:23](#t-00-00-23) — Opening — Zach Beach / yoga & poetry
 - [00:06:17](#t-00-06-17) — Path into teaching & writing
 - [00:11:35](#t-00-11-35) — Body, heart & ground of being
 - [00:17:51](#t-00-17-51) — Retreats & meditation practice
@@ -25,7 +25,6 @@ _(no stand-alone complete quotes retained for this episode)_
 - [01:12:17](#t-01-12-17) — Transactional love vs deeper love
 - [01:17:48](#t-01-17-48) — Compassion, intimacy & openness
 - [01:22:07](#t-01-22-07) — Natural world / open heart
-- [01:25:33](#t-01-25-33) — Outro — stretch / love yourselves
 
 ## Keywords
 

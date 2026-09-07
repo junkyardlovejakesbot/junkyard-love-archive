@@ -11,7 +11,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Opening bumper — better conversations
 - [00:01:43](#t-00-01-43) — Drink some water / let's roll
 - [00:02:42](#t-00-02-42) — Inflammation / mushrooms / collagen shake
 - [00:07:23](#t-00-07-23) — News as a tool of control
@@ -31,7 +30,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [01:17:31](#t-01-17-31) — Economy's Example Mis
 - [01:23:05](#t-01-23-05) — Neuralink / wealth gaps / Elon Musk
 - [01:27:05](#t-01-27-05) — Faith in humanity / optimistic close
-- [01:28:14](#t-01-28-14) — Outro — drink water / stretch / bye
 
 ## Keywords
 

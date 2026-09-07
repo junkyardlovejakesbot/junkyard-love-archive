@@ -11,7 +11,7 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Opening bumper — Junkyard Love
+- [00:01:43](#t-00-01-43) — Host open — Experience, Rikki & Sleep
 - [00:10:51](#t-00-10-51) — Life path — Canada / hockey
 - [00:12:27](#t-00-12-27) — Background — Woodland / Kalama
 - [00:20:22](#t-00-20-22) — Hawaii / LA years
@@ -29,7 +29,6 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 - [01:46:10](#t-01-46-10) — Consciousness / Evolution
 - [01:54:36](#t-01-54-36) — Girlfriend / Understand
 - [02:02:36](#t-02-02-36) — Aliens Ufos Alternate Realities
-- [02:04:45](#t-02-04-45) — Outro — get outside / stretch
 
 ## Keywords
 

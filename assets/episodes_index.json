@@ -11,7 +11,7 @@
     "0016",
     "0029"
   ],
-  "generated": "quotes-clean-rebuild",
+  "generated": "clip-index-rebuild",
   "episode_count": 120,
   "episodes": [
     {
@@ -40,124 +40,94 @@
       ],
       "chapters": [
         {
-          "start": "00:00:00",
-          "start_seconds": 0,
-          "title": "Welcome to The Junkyard Love Podcast with guest Sigmar Berg"
+          "start": "00:00:22",
+          "start_seconds": 22,
+          "title": "Opening — welcome Sigmar Berg"
         },
         {
-          "start": "00:00:42",
-          "start_seconds": 42,
-          "title": "Who is Sigmar Berg and what is the Lovetuner breathwork device"
+          "start": "00:01:46",
+          "start_seconds": 106,
+          "title": "Aqua Journey guided meditation / head → heart awakening"
         },
         {
-          "start": "00:01:51",
-          "start_seconds": 111,
-          "title": "The Aqua Journey guided meditation that started his spiritual awakening"
+          "start": "00:07:39",
+          "start_seconds": 459,
+          "title": "Living from head vs living from heart"
         },
         {
-          "start": "00:04:10",
-          "start_seconds": 250,
-          "title": "From architecture and fashion design to a 528 Hz love frequency tool"
+          "start": "00:11:41",
+          "start_seconds": 701,
+          "title": "Breathwork for beginners / slow exhale / yoga nidra straw analogy"
         },
         {
-          "start": "00:07:32",
-          "start_seconds": 452,
-          "title": "Living from the head vs living from the heart"
+          "start": "00:12:32",
+          "start_seconds": 752,
+          "title": "Audible feedback on exhale / fight-or-flight → parasympathetic / breath as best friend"
         },
         {
-          "start": "00:09:20",
-          "start_seconds": 560,
-          "title": "Heart coherence, thoughts per day, and spiritual hygiene"
+          "start": "00:16:43",
+          "start_seconds": 1003,
+          "title": "Morning practice vs emergency-only tools"
         },
         {
-          "start": "00:11:20",
-          "start_seconds": 680,
-          "title": "Breathwork for beginners: why a slow exhale regulates the nervous system"
+          "start": "00:17:44",
+          "start_seconds": 1064,
+          "title": "Setting the tone of the day / six cycles + silence / night cortisol & 2am window"
         },
         {
-          "start": "00:13:05",
-          "start_seconds": 785,
-          "title": "Fight or flight, yoga nidra, and breathing like you are blowing through a straw"
+          "start": "00:22:38",
+          "start_seconds": 1358,
+          "title": "Choosing what you start the morning on (phone vs own frequency)"
         },
         {
-          "start": "00:16:57",
-          "start_seconds": 1017,
-          "title": "Morning breathwork practice vs using tools only in an emergency"
+          "start": "00:24:41",
+          "start_seconds": 1481,
+          "title": "What is 528 Hz? Solfeggio / love frequency demystified"
         },
         {
-          "start": "00:18:40",
-          "start_seconds": 1120,
-          "title": "Setting the tone of the day"
+          "start": "00:25:27",
+          "start_seconds": 1527,
+          "title": "Bees, chlorophyll, green/heart center / forgotten C note / 440 vs older scales"
         },
         {
-          "start": "00:20:15",
-          "start_seconds": 1215,
-          "title": "Night practice, cortisol, sleep, and waking at 2am"
+          "start": "00:29:01",
+          "start_seconds": 1741,
+          "title": "Concert pitch 440 Hz and the forgotten note"
         },
         {
-          "start": "00:22:32",
-          "start_seconds": 1352,
-          "title": "Choosing what you start the morning on"
+          "start": "00:32:52",
+          "start_seconds": 1972,
+          "title": "Music, group coherence, dancing, raising frequency together"
         },
         {
-          "start": "00:24:55",
-          "start_seconds": 1495,
-          "title": "What is 528 Hz? Solfeggio frequencies and the love frequency"
-        },
-        {
-          "start": "00:26:40",
-          "start_seconds": 1600,
-          "title": "Nature, bees, chlorophyll, and how 528 Hz shows up in the living world"
-        },
-        {
-          "start": "00:28:55",
-          "start_seconds": 1735,
-          "title": "Concert pitch at 440 Hz and the forgotten note"
-        },
-        {
-          "start": "00:31:20",
-          "start_seconds": 1880,
-          "title": "Sound healing, church organs, and older musical scales"
-        },
-        {
-          "start": "00:33:11",
-          "start_seconds": 1991,
-          "title": "Music, group coherence, dancing, and raising frequency together"
-        },
-        {
-          "start": "00:34:41",
-          "start_seconds": 2081,
+          "start": "00:34:48",
+          "start_seconds": 2088,
           "title": "Authenticity in spiritual practice"
         },
         {
-          "start": "00:37:00",
-          "start_seconds": 2220,
-          "title": "Individual breathwork and collective spiritual awakening"
-        },
-        {
-          "start": "00:40:13",
-          "start_seconds": 2413,
+          "start": "00:40:20",
+          "start_seconds": 2420,
           "title": "Schumann resonance and a rising planetary frequency"
         },
         {
-          "start": "00:42:30",
-          "start_seconds": 2550,
+          "start": "00:42:47",
+          "start_seconds": 2567,
           "title": "Trust your intuition and your own channel"
         },
         {
-          "start": "00:45:55",
-          "start_seconds": 2755,
+          "start": "00:44:14",
+          "start_seconds": 2654,
+          "title": "Individual awakening over collective overnight shift"
+        },
+        {
+          "start": "00:45:43",
+          "start_seconds": 2743,
           "title": "Keep spiritual practice light"
         },
         {
-          "start": "00:47:20",
-          "start_seconds": 2840,
+          "start": "00:47:56",
+          "start_seconds": 2876,
           "title": "One Journey the book and where to find Lovetuner"
-        },
-        {
-          "start": "00:50:28",
-          "start_seconds": 3028,
-          "title": "Subscribe to The Junkyard Love Podcast - find clips from the show @jacobfromtheinternet"
         }
       ],
       "quotes": [
@@ -246,152 +216,107 @@
         {
           "start": "00:00:00",
           "start_seconds": 0,
-          "title": "Elevator pitch / “junkyard love” framing and four bodies intro"
+          "title": "Opening — elevator pitch / Junkyard Love framing"
         },
         {
-          "start": "00:01:30",
-          "start_seconds": 90,
-          "title": "Four Bodies for Medicines ebook and physical vs. vital/mental/quantum"
+          "start": "00:00:48",
+          "start_seconds": 48,
+          "title": "Love as vital-body + quantum-body solution"
         },
         {
-          "start": "00:03:00",
-          "start_seconds": 180,
-          "title": "Wind analogy for spirit/effects on the physical body"
+          "start": "00:02:32",
+          "start_seconds": 152,
+          "title": "Wind analogy — spirit vs physical effects"
         },
         {
-          "start": "00:04:30",
-          "start_seconds": 270,
-          "title": "Personal history: chemical imbalance, depression, anxiety, substances"
+          "start": "00:03:57",
+          "start_seconds": 237,
+          "title": "Chemical imbalance / depression / anxiety / self-medication"
         },
         {
-          "start": "00:06:30",
-          "start_seconds": 390,
-          "title": "First career in substance-abuse counseling; self-medication insight"
+          "start": "00:07:05",
+          "start_seconds": 425,
+          "title": "Serotonin / Potatoes Not Prozac / endorphins = inner orphan"
         },
         {
-          "start": "00:08:00",
-          "start_seconds": 480,
-          "title": "Serotonin, carbs, Potatoes Not Prozac, wheat sensitivity discovery"
+          "start": "00:09:35",
+          "start_seconds": 575,
+          "title": "Sugar on the narcotic continuum / endorphin mastery"
         },
         {
-          "start": "00:09:30",
-          "start_seconds": 570,
-          "title": "Endorphins as “inner orphan” / morphine parallel; sugar as narcotic continuum"
+          "start": "00:10:44",
+          "start_seconds": 644,
+          "title": "Dopamine vs endorphins / bipolar / spiral (abstinence → moderation → attainment)"
         },
         {
-          "start": "00:11:00",
-          "start_seconds": 660,
-          "title": "Dopamine vs. endorphins; cocaine, bipolar diagnosis, mastering the middle path"
+          "start": "00:14:48",
+          "start_seconds": 888,
+          "title": "Jail curriculum / Yom Kippur light shaft / at-one-ment"
         },
         {
-          "start": "00:13:00",
-          "start_seconds": 780,
-          "title": "Love addiction, romantic craving, spiral model (abstinence → moderation → attainment)"
-        },
-        {
-          "start": "00:15:00",
-          "start_seconds": 900,
-          "title": "Jail curriculum development; 20 years clean vs. relationship patterns still unresolved"
-        },
-        {
-          "start": "00:16:30",
-          "start_seconds": 990,
-          "title": "Yom Kippur night/boyfriend breakup; Day of Atonement context"
-        },
-        {
-          "start": "00:18:00",
-          "start_seconds": 1080,
-          "title": "Light shaft experience through the crown/spine; “whole and complete through divine connection”"
-        },
-        {
-          "start": "00:19:30",
-          "start_seconds": 1170,
+          "start": "00:18:55",
+          "start_seconds": 1135,
           "title": "Kundalini as vital-body tool (chakras, meridians, aura)"
         },
         {
-          "start": "00:21:00",
-          "start_seconds": 1260,
-          "title": "Growing up Christian, leaving religion, seeking freedom from guilt and pain"
+          "start": "00:20:20",
+          "start_seconds": 1220,
+          "title": "Yearning for Freedom / cocaine phase / entity attachment"
         },
         {
-          "start": "00:22:30",
-          "start_seconds": 1350,
-          "title": "Cocaine phase; friend returning from overdose funeral; entity/attachment theory"
+          "start": "00:25:22",
+          "start_seconds": 1522,
+          "title": "Perverse energy / generational clearing / Quantum University"
         },
         {
-          "start": "00:24:30",
-          "start_seconds": 1470,
-          "title": "“Perverse energy” (Quantum University language); generational clearing"
+          "start": "00:27:57",
+          "start_seconds": 1677,
+          "title": "EFT (Gary Craig) → Zero Point Meridian / vs EMDR"
         },
         {
-          "start": "00:26:00",
-          "start_seconds": 1560,
-          "title": "First Kundalini session clearing grandfather’s heavy emotion"
+          "start": "00:30:20",
+          "start_seconds": 1820,
+          "title": "Mental-body chaos / neutrality / “neutral game”"
         },
         {
-          "start": "00:27:30",
-          "start_seconds": 1650,
-          "title": "EFT training (2002–2003, Gary Craig); shift to private practice"
+          "start": "00:35:02",
+          "start_seconds": 2102,
+          "title": "Yoga entry / Baron Baptiste / stimulus–response gap"
         },
         {
-          "start": "00:29:00",
-          "start_seconds": 1740,
-          "title": "Zero Point Meridian (ZPM) development; claimed superiority data vs. EMDR"
+          "start": "00:38:30",
+          "start_seconds": 2310,
+          "title": "Vipassana / Mahasati / fear that stillness = non-existence"
         },
         {
-          "start": "00:31:00",
-          "start_seconds": 1860,
-          "title": "Mental body chaos of positive/negative thinking; neutrality / “neutral game”"
+          "start": "00:46:00",
+          "start_seconds": 2760,
+          "title": "TM journey / Quantum Wholeness Meditation / group practice"
         },
         {
-          "start": "00:34:00",
-          "start_seconds": 2040,
-          "title": "Yoga entry via client accountability + Baron Baptiste Journey into Power"
+          "start": "00:48:36",
+          "start_seconds": 2916,
+          "title": "Meditation research / MBSR / Western mental-health models"
         },
         {
-          "start": "00:36:00",
-          "start_seconds": 2160,
-          "title": "Gap between stimulus and response; mind-body necessity of yoga"
+          "start": "00:50:36",
+          "start_seconds": 3036,
+          "title": "Identity bridge / ego mastery / quantum body"
         },
         {
-          "start": "00:37:30",
-          "start_seconds": 2250,
-          "title": "TM interest; Vipassana documentary (Doing Time, Doing Vipassana)"
-        },
-        {
-          "start": "00:39:00",
-          "start_seconds": 2340,
-          "title": "Mahasati movement meditation; fear that stillness = non-existence / black hole"
-        },
-        {
-          "start": "00:41:00",
-          "start_seconds": 2460,
-          "title": "Moving through zero; zero-point field → unified field; John Hagelin / Frank Kinslow"
-        },
-        {
-          "start": "00:52:00",
-          "start_seconds": 3120,
-          "title": "Limits of conventional mental health on personality disorders (narcissism, borderline, ego structures)"
-        },
-        {
-          "start": "00:54:00",
-          "start_seconds": 3240,
-          "title": "Spiritual/quantum solution as transformative where pills and talk therapy fall short"
-        },
-        {
-          "start": "00:56:00",
-          "start_seconds": 3360,
+          "start": "00:55:57",
+          "start_seconds": 3357,
           "title": "Quantum Solutions Masterclass / ego-structure component"
         },
         {
-          "start": "00:57:30",
-          "start_seconds": 3450,
-          "title": "Chronic pain and the pain body (Eckhart Tolle); noticing pain-free body parts as anchors"
+          "start": "00:57:48",
+          "start_seconds": 3468,
+          "title": "Pain body (Eckhart Tolle) / notice pain-free anchors"
         },
         {
-          "start": "00:59:00",
-          "start_seconds": 3540,
-          "title": "Endorphins at quantum level = capital-L Love; closing gratitude"
+          "start": "01:01:32",
+          "start_seconds": 3692,
+          "title": "Website sign-off / cristinehull.com spelling"
         }
       ],
       "quotes": [
@@ -473,84 +398,114 @@
       ],
       "chapters": [
         {
-          "start": "00:00:00",
-          "start_seconds": 0,
-          "title": "Why Most People Are Stuck in an Unconscious “Default” Voice"
+          "start": "00:00:15",
+          "start_seconds": 15,
+          "title": "Opening — unconscious vocal habits / TED spark"
         },
         {
-          "start": "00:00:58",
-          "start_seconds": 58,
-          "title": "The “Vocal Girdle”: How Old Wounds and Expectations Restrict Us"
-        },
-        {
-          "start": "00:02:13",
-          "start_seconds": 133,
-          "title": "How Childhood Trauma and Family Secrets Shape Your Voice Long-Term"
+          "start": "00:02:00",
+          "start_seconds": 120,
+          "title": "Vocal girdle / gut truth stuck in throat / keepers of secrets"
         },
         {
           "start": "00:04:10",
           "start_seconds": 250,
-          "title": "The Five Elements Framework (Earth, Fire, Water, Metal, Air) Explained"
+          "title": "Start with sound / solo-singing fear / Five Elements begin"
         },
         {
-          "start": "00:05:40",
-          "start_seconds": 340,
-          "title": "Barbara’s Personal Story: Overcoming Fear of Singing Solo"
+          "start": "00:06:12",
+          "start_seconds": 372,
+          "title": "Earth Fire Water Metal Air / pretend characters = secret sauce"
         },
         {
-          "start": "00:08:32",
-          "start_seconds": 512,
-          "title": "The Secret Power of Playing Characters and Archetypes"
+          "start": "00:10:03",
+          "start_seconds": 603,
+          "title": "Jungian archetypes / bird character / sacred unseen"
+        },
+        {
+          "start": "00:11:39",
+          "start_seconds": 699,
+          "title": "Maya Angelou cadre / high priestess & holy fool"
         },
         {
           "start": "00:13:38",
           "start_seconds": 818,
-          "title": "Ego, “Brain Rats,” and Gently Expanding Beyond Your Comfort Zone"
+          "title": "Voice ready before psyche / air-voice exile / sacred feminine"
         },
         {
-          "start": "00:22:55",
-          "start_seconds": 1375,
-          "title": "Practical Voice Tools for Leaders, Presentations, and Difficult Conversations"
+          "start": "00:17:48",
+          "start_seconds": 1068,
+          "title": "Ego as protective dog / Brain Rats / gradual stretch"
         },
         {
-          "start": "00:30:29",
-          "start_seconds": 1829,
-          "title": "The Magic of Group Singing and Deep Human Connection"
+          "start": "00:19:59",
+          "start_seconds": 1199,
+          "title": "Practical leader tools / fire voice / life rides along"
         },
         {
-          "start": "00:34:05",
-          "start_seconds": 2045,
-          "title": "Jacob’s Wild DJ Story: Unifying Experiences and Collective Flow"
+          "start": "00:23:51",
+          "start_seconds": 1431,
+          "title": "Mentor Shaul Ryan / Roy Hart path / France & Canada"
         },
         {
-          "start": "00:40:06",
-          "start_seconds": 2406,
-          "title": "Laugh, Yawn & Read Children’s Books: Easy Daily Practices to Open Your Voice"
+          "start": "00:25:31",
+          "start_seconds": 1531,
+          "title": "~75 trainers / nephew Travis / next-generation teaching"
+        },
+        {
+          "start": "00:26:34",
+          "start_seconds": 1594,
+          "title": "Broken wrist / let nephew lead / Little Blue"
+        },
+        {
+          "start": "00:30:13",
+          "start_seconds": 1813,
+          "title": "TEDx: abdicate leadership / thousand people stop together"
+        },
+        {
+          "start": "00:32:11",
+          "start_seconds": 1931,
+          "title": "Jacob’s DJ / mushrooms / collective flow story"
+        },
+        {
+          "start": "00:40:07",
+          "start_seconds": 2407,
+          "title": "Laugh like a hairy oaf / yawn / children’s books"
         },
         {
           "start": "00:46:26",
           "start_seconds": 2786,
-          "title": "Code Switching: Shifting Voices Authentically Across Situations"
+          "title": "Code switching / what the voice spills"
         },
         {
-          "start": "00:55:12",
-          "start_seconds": 3312,
-          "title": "Why Humans Crave Collective Ecstasy and Group Singing"
+          "start": "00:49:15",
+          "start_seconds": 2955,
+          "title": "Authenticity vs shift / water = heart voice"
+        },
+        {
+          "start": "00:52:49",
+          "start_seconds": 3169,
+          "title": "Vocal fry / young appetite for oral-tradition singing"
         },
         {
           "start": "01:01:40",
           "start_seconds": 3700,
-          "title": "Barbara’s Books, Music, and Life’s Work"
+          "title": "Full Voice & Vocal Intelligence / books & music"
         },
         {
-          "start": "01:12:45",
-          "start_seconds": 4365,
-          "title": "Current Retreats, Courses, and What’s Next for Barbara"
+          "start": "01:05:27",
+          "start_seconds": 3927,
+          "title": "Comfort choir / gifts before death / Nature Boy"
         },
         {
-          "start": "01:17:01",
-          "start_seconds": 4621,
-          "title": "Final Wisdom and Closing Reflections"
+          "start": "01:10:05",
+          "start_seconds": 4205,
+          "title": "Mantra / silence-after-song poem"
+        },
+        {
+          "start": "01:13:04",
+          "start_seconds": 4384,
+          "title": "Courses, self-directed path, living/dying retreats"
         }
       ],
       "quotes": [
@@ -628,84 +583,129 @@
       ],
       "chapters": [
         {
-          "start": "00:00:00",
-          "start_seconds": 0,
-          "title": "Welcome Back & Reconnecting on the Spiritual Path"
+          "start": "00:00:20",
+          "start_seconds": 20,
+          "title": "Perfect, Clears & Throat"
         },
         {
-          "start": "00:02:30",
-          "start_seconds": 150,
-          "title": "What Does “On the Path” Really Mean? Spirituality vs Self-Improvement"
+          "start": "00:01:43",
+          "start_seconds": 103,
+          "title": "Curating community / spirituality vs self-improvement"
         },
         {
-          "start": "00:06:45",
-          "start_seconds": 405,
-          "title": "The Pendulum Swing: Discipline, Cravings & Self-Compassion for Men"
+          "start": "00:03:52",
+          "start_seconds": 232,
+          "title": "Pendulum: discipline, gentleness, masculine & feminine"
         },
         {
-          "start": "00:11:20",
-          "start_seconds": 680,
-          "title": "Balancing Masculine Drive & Feminine Grace"
+          "start": "00:13:36",
+          "start_seconds": 816,
+          "title": "Bracing the storm vs letting the stream carry you"
         },
         {
-          "start": "00:16:50",
-          "start_seconds": 1010,
-          "title": "Meditation, Yoga, Breathwork & Reconnecting With Your Body"
+          "start": "00:17:52",
+          "start_seconds": 1072,
+          "title": "Beacon / Ram Dass “come up for air” / leadership"
         },
         {
-          "start": "00:23:40",
-          "start_seconds": 1420,
-          "title": "Prayer Practice, Gratitude & Praying for Your Future Self"
+          "start": "00:26:59",
+          "start_seconds": 1619,
+          "title": "Meditation as stretch + breath / reconnecting with body"
         },
         {
-          "start": "00:29:15",
-          "start_seconds": 1755,
-          "title": "Yoga as Union, The Body Keeps the Score & Releasing Tension"
+          "start": "00:29:20",
+          "start_seconds": 1760,
+          "title": "Yoga as union / body keeps the score / don’t judge the day"
         },
         {
-          "start": "00:36:10",
-          "start_seconds": 2170,
-          "title": "Astrology, the Bible & Finding Your Own Spiritual Language"
+          "start": "00:37:59",
+          "start_seconds": 2279,
+          "title": "Astrology, Sagittarius hips, spiritual language"
         },
         {
-          "start": "00:44:50",
-          "start_seconds": 2690,
-          "title": "Visiting a Mosque, Religious Similarities & Open-Minded Faith"
+          "start": "00:44:42",
+          "start_seconds": 2682,
+          "title": "Bible, pastors slamming yoga/astrology, open doors"
         },
         {
-          "start": "00:52:30",
-          "start_seconds": 3150,
-          "title": "Synchronicities, Signs from the Universe & The Celestine Prophecy"
+          "start": "00:47:52",
+          "start_seconds": 2872,
+          "title": "Visiting a mosque with Zeus / prayer across faiths"
         },
         {
-          "start": "00:57:40",
-          "start_seconds": 3460,
-          "title": "The Porsche Story: Surrender, Divine Timing & Trusting the Redirect"
+          "start": "00:52:01",
+          "start_seconds": 3121,
+          "title": "Synchronicities & Cosmic giggle"
         },
         {
-          "start": "01:08:20",
-          "start_seconds": 4100,
-          "title": "Ego Death, Nature Loves Courage & New Timelines"
+          "start": "00:55:48",
+          "start_seconds": 3348,
+          "title": "The Porsche story chapter beat (published)"
         },
         {
-          "start": "01:15:50",
-          "start_seconds": 4550,
-          "title": "Working on Cruise Ships, Reputation & Man Plans God Laughs"
+          "start": "01:02:22",
+          "start_seconds": 3742,
+          "title": "The Celestine Prophecy / signs from the universe"
         },
         {
-          "start": "01:25:30",
-          "start_seconds": 5130,
-          "title": "Mentoring Young Men, Leadership & Being the Example"
+          "start": "01:04:02",
+          "start_seconds": 3842,
+          "title": "Porsche Cayenne lost → Mercedes GLA redirect"
         },
         {
-          "start": "01:35:45",
-          "start_seconds": 5745,
-          "title": "How Tim Prays: Knees, Gratitude, Ancestors & Body Prayer"
+          "start": "01:09:21",
+          "start_seconds": 4161,
+          "title": "“I asked, you provided” / surrender the fight"
         },
         {
-          "start": "01:48:00",
-          "start_seconds": 6480,
-          "title": "Closing Wisdom & Final Thoughts"
+          "start": "01:14:50",
+          "start_seconds": 4490,
+          "title": "Ego death / surrender / be new every day"
+        },
+        {
+          "start": "01:16:23",
+          "start_seconds": 4583,
+          "title": "Trust fall / new timeline"
+        },
+        {
+          "start": "01:17:28",
+          "start_seconds": 4648,
+          "title": "Nature loves courage"
+        },
+        {
+          "start": "01:20:43",
+          "start_seconds": 4843,
+          "title": "Cruise ships, reputation from age 15, man plans God laughs"
+        },
+        {
+          "start": "01:25:45",
+          "start_seconds": 5145,
+          "title": "Mentoring young men / being the example"
+        },
+        {
+          "start": "01:31:47",
+          "start_seconds": 5507,
+          "title": "“I’m the example” / adult in the room"
+        },
+        {
+          "start": "01:35:59",
+          "start_seconds": 5759,
+          "title": "How Tim prays: knees, gratitude, ancestors, body"
+        },
+        {
+          "start": "01:37:09",
+          "start_seconds": 5829,
+          "title": "Pray for future self / shape me into who I’m here to be"
+        },
+        {
+          "start": "01:44:00",
+          "start_seconds": 6240,
+          "title": "Ego death / pray for future self / call on support"
+        },
+        {
+          "start": "01:45:59",
+          "start_seconds": 6359,
+          "title": "Start and end prayer with gratitude"
         }
       ],
       "quotes": [
@@ -784,82 +784,97 @@
         {
           "start": "00:00:00",
           "start_seconds": 0,
-          "title": "Welcome & Awakening as Process vs. Event"
+          "title": "Opening — what is awakening?"
         },
         {
-          "start": "00:03:30",
-          "start_seconds": 210,
-          "title": "Western Product Mindset and the Missing 18 Years of Jesus"
+          "start": "00:04:59",
+          "start_seconds": 299,
+          "title": "Active awakening / Ken Wilber maturation"
         },
         {
-          "start": "00:08:20",
-          "start_seconds": 500,
-          "title": "Reevaluating New Age Teachings and Paradigm Shifts"
+          "start": "00:07:53",
+          "start_seconds": 473,
+          "title": "“I’m not a teacher, I’m a reminder”"
         },
         {
-          "start": "00:14:10",
-          "start_seconds": 850,
-          "title": "Gnosis, Innate Intelligence, and Suppressed Knowledge"
+          "start": "00:10:47",
+          "start_seconds": 647,
+          "title": "Heretics, Nag Hammadi, Dead Sea Scrolls"
         },
         {
-          "start": "00:21:00",
-          "start_seconds": 1260,
-          "title": "The 1980s DNA Meditation Download"
+          "start": "00:14:09",
+          "start_seconds": 849,
+          "title": "Etheric blueprint / 1980s DNA meditation download"
         },
         {
-          "start": "00:29:00",
-          "start_seconds": 1740,
-          "title": "Discovering Solfeggio Frequencies & Tuning Forks"
+          "start": "00:16:40",
+          "start_seconds": 1000,
+          "title": "Solfeggio 528 Hz / tuning forks / epigenetics / SomaEnergetics / babes–adolescents–adults"
         },
         {
-          "start": "00:39:30",
-          "start_seconds": 2370,
-          "title": "Spiritual Growth Stages: Babes, Adolescents, Co-Creative Adults"
+          "start": "00:27:45",
+          "start_seconds": 1665,
+          "title": "Cellular awakening / inner→outer / chaos→critical mass / caterpillar"
         },
         {
-          "start": "00:47:30",
-          "start_seconds": 2850,
-          "title": "Cellular Awakening: Inner Becoming Outer"
+          "start": "00:35:16",
+          "start_seconds": 2116,
+          "title": "Metamorphosis to the atom / Bible languages awakening"
         },
         {
-          "start": "00:56:00",
-          "start_seconds": 3360,
-          "title": "Caterpillar Chaos to Butterfly Transformation"
+          "start": "00:39:17",
+          "start_seconds": 2357,
+          "title": "Born conscious / Elohim / starseeds portal story"
         },
         {
-          "start": "01:04:30",
-          "start_seconds": 3870,
-          "title": "David’s 17-Year-Old Awakening & Cosmic Story"
+          "start": "00:43:21",
+          "start_seconds": 2601,
+          "title": "Remember who we are / critical mass / teachings not worship"
         },
         {
-          "start": "01:11:00",
-          "start_seconds": 4260,
-          "title": "Starseeds, Critical Mass, and Global Evolution"
+          "start": "00:45:51",
+          "start_seconds": 2751,
+          "title": "Preaching to cows / Tulsa revival / ministry at 17 / purpose living through him"
         },
         {
-          "start": "01:15:30",
-          "start_seconds": 4530,
-          "title": "Gospel Roots, Sound Spirals & Energy as Currency"
+          "start": "00:50:53",
+          "start_seconds": 3053,
+          "title": "“It’s living through me”"
         },
         {
-          "start": "01:17:30",
-          "start_seconds": 4650,
-          "title": "Coccyx Activation, Etheric Blueprint & Tuning Fork Practice"
+          "start": "00:52:15",
+          "start_seconds": 3135,
+          "title": "Stand in the gap / bridge West–East / 3D language, 5D frequency"
         },
         {
-          "start": "01:18:30",
-          "start_seconds": 4710,
-          "title": "HeartLight Center, Academy Legacy, and Community Building"
+          "start": "00:56:27",
+          "start_seconds": 3387,
+          "title": "Gospel piano / Greenwood / Mahalia Jackson / Pythagoras spiral"
         },
         {
-          "start": "01:19:00",
-          "start_seconds": 4740,
-          "title": "Forgotten Pre-Incarnation Contracts and Future Activations"
+          "start": "01:03:03",
+          "start_seconds": 3783,
+          "title": "Coccyx activation / energy as currency / kundalini / etheric healing"
         },
         {
-          "start": "01:19:20",
-          "start_seconds": 4760,
-          "title": "Closing Wisdom: Walking Each Other Home"
+          "start": "01:07:15",
+          "start_seconds": 4035,
+          "title": "Keys of David / Solfeggio as keys to the kingdom"
+        },
+        {
+          "start": "01:09:25",
+          "start_seconds": 4165,
+          "title": "HeartLight Charlotte / Academy legacy at 80"
+        },
+        {
+          "start": "01:11:27",
+          "start_seconds": 4287,
+          "title": "From Sin to Zen podcast plan"
+        },
+        {
+          "start": "01:15:45",
+          "start_seconds": 4545,
+          "title": "Pre-incarnation contracts tease / caterpillar confusion"
         }
       ],
       "quotes": [
@@ -941,94 +956,129 @@
       ],
       "chapters": [
         {
-          "start": "00:00:00",
-          "start_seconds": 0,
-          "title": "Morning rising ritual, meditation, and gratitude practice"
+          "start": "00:01:05",
+          "start_seconds": 65,
+          "title": "Opening — welcome Trey / bone broth morning"
         },
         {
-          "start": "00:04:00",
-          "start_seconds": 240,
-          "title": "Mobility work, cold showers, and light breakfast for energy"
+          "start": "00:04:56",
+          "start_seconds": 296,
+          "title": "Fuel for the engine / victim mentality & confirmation bias"
         },
         {
-          "start": "00:07:00",
-          "start_seconds": 420,
-          "title": "Why victim mentality is inverted narcissism and manipulation"
+          "start": "00:11:04",
+          "start_seconds": 664,
+          "title": "Willpower as a muscle / fasting progression"
         },
         {
-          "start": "00:12:00",
-          "start_seconds": 720,
-          "title": "Fasting as a mental game and building willpower like a muscle"
+          "start": "00:13:42",
+          "start_seconds": 822,
+          "title": "Ken Wilber witness state / true you is the witness"
         },
         {
-          "start": "00:18:00",
-          "start_seconds": 1080,
-          "title": "The witness state in meditation and observing your thoughts"
+          "start": "00:14:54",
+          "start_seconds": 894,
+          "title": "Inverted narcissism / fentanyl overdose turning point"
         },
         {
-          "start": "00:23:00",
-          "start_seconds": 1380,
-          "title": "Prison life, the fentanyl overdose, and the near-death turning point"
+          "start": "00:19:05",
+          "start_seconds": 1145,
+          "title": "Rock bottom case-by-case / near-death ripeness"
         },
         {
-          "start": "00:28:00",
-          "start_seconds": 1680,
-          "title": "Instant perspective after dying and working through deep regret"
+          "start": "00:21:04",
+          "start_seconds": 1264,
+          "title": "Street-pharmacist past / five closest people"
         },
         {
-          "start": "00:33:00",
-          "start_seconds": 1980,
-          "title": "Cutting ties with old energies while allowing redemption"
+          "start": "00:22:24",
+          "start_seconds": 1344,
+          "title": "Cutting ties / redeeming old friends when ready"
         },
         {
-          "start": "00:38:00",
-          "start_seconds": 2280,
-          "title": "God as energy, frequency, and universal consciousness"
+          "start": "00:27:02",
+          "start_seconds": 1622,
+          "title": "Prison to Purpose / don’t have to die to find true self"
         },
         {
-          "start": "00:43:00",
-          "start_seconds": 2580,
-          "title": "The double slit experiment and how belief creates reality"
+          "start": "00:28:30",
+          "start_seconds": 1710,
+          "title": "God as energy & frequency / double-slit awareness"
         },
         {
-          "start": "00:48:00",
-          "start_seconds": 2880,
-          "title": "Identity shifts from manual labor to purposeful social media work"
+          "start": "00:30:26",
+          "start_seconds": 1826,
+          "title": "Thumb injury → social media purpose / healing ≠ being understood"
         },
         {
-          "start": "00:55:00",
-          "start_seconds": 3300,
-          "title": "Christ consciousness and the current global awakening"
+          "start": "00:38:34",
+          "start_seconds": 2314,
+          "title": "Healing culture vs becoming / identity as baseline"
         },
         {
-          "start": "01:02:00",
-          "start_seconds": 3720,
-          "title": "Energetic healing, breathwork, and the power of mindset"
+          "start": "00:39:26",
+          "start_seconds": 2366,
+          "title": "Identity = subconscious beliefs / surround yourself"
         },
         {
-          "start": "01:08:00",
-          "start_seconds": 4080,
-          "title": "Levels of consciousness, empathy, and reading people"
+          "start": "00:46:24",
+          "start_seconds": 2784,
+          "title": "Max-security prison / change must come from within"
         },
         {
-          "start": "01:14:00",
-          "start_seconds": 4440,
-          "title": "Prison lessons on self-care first and real empathy with standards"
+          "start": "00:51:10",
+          "start_seconds": 3070,
+          "title": "Childhood discernment / Ken Wilber in prison / Talk Like Ted"
         },
         {
-          "start": "01:22:00",
-          "start_seconds": 4920,
-          "title": "Synchronicities, interconnections, and past-life loops"
+          "start": "00:55:43",
+          "start_seconds": 3343,
+          "title": "Schumann resonance / world waking up"
         },
         {
-          "start": "01:30:00",
-          "start_seconds": 5400,
-          "title": "Pre-planned journeys, amnesia, and chasing your higher calling"
+          "start": "00:58:11",
+          "start_seconds": 3491,
+          "title": "Second coming = Christ consciousness / software update"
         },
         {
-          "start": "01:36:00",
-          "start_seconds": 5760,
-          "title": "Final reflections and message to listeners"
+          "start": "01:01:51",
+          "start_seconds": 3711,
+          "title": "Staying hard / armor persona that never changes"
+        },
+        {
+          "start": "01:04:39",
+          "start_seconds": 3879,
+          "title": "Energetic healing / Wim Hof / belief creates reality"
+        },
+        {
+          "start": "01:08:20",
+          "start_seconds": 4100,
+          "title": "Levels of consciousness / elevator / map of the path"
+        },
+        {
+          "start": "01:09:55",
+          "start_seconds": 4195,
+          "title": "Three prison lessons / empathy with standards / self first"
+        },
+        {
+          "start": "01:13:37",
+          "start_seconds": 4417,
+          "title": "Fill your cup first / proof is in the pudding"
+        },
+        {
+          "start": "01:20:49",
+          "start_seconds": 4849,
+          "title": "Synchronicity loops / Timothy Leary niece / Shulgin thread"
+        },
+        {
+          "start": "01:22:53",
+          "start_seconds": 4973,
+          "title": "Invisible thread / Rupert Sheldrake / plants & knowing"
+        },
+        {
+          "start": "01:29:05",
+          "start_seconds": 5345,
+          "title": "Predetermined purpose / amnesia / this too shall pass"
         }
       ],
       "quotes": [
@@ -1121,79 +1171,159 @@
       ],
       "chapters": [
         {
-          "start": "00:00:00",
-          "start_seconds": 0,
-          "title": "Sean Blackwell on Bipolar Disorder & Spiritual Awakening"
+          "start": "00:00:44",
+          "start_seconds": 44,
+          "title": "Opening — Am I Bipolar or Waking Up? / Bipolar Awakenings"
         },
         {
-          "start": "00:00:25",
-          "start_seconds": 25,
-          "title": "What Bipolar Disorder Really Is (Symptoms vs Reality)"
+          "start": "00:01:36",
+          "start_seconds": 96,
+          "title": "What bipolar is — DSM labels, Bipolar I vs II, psychosis"
         },
         {
-          "start": "00:01:30",
-          "start_seconds": 90,
-          "title": "Bipolar I, Bipolar II & Psychosis Explained"
+          "start": "00:03:50",
+          "start_seconds": 230,
+          "title": "Trauma roots vs biology / 13 spiritual delusions"
         },
         {
-          "start": "00:02:20",
-          "start_seconds": 140,
-          "title": "Spiritual Delusions & the Ram Dass Connection"
+          "start": "00:07:42",
+          "start_seconds": 462,
+          "title": "“Why You Think You’re Jesus” / divine & demonic flips"
         },
         {
-          "start": "00:03:38",
-          "start_seconds": 218,
-          "title": "Sean’s Landmark Experience: The Turning Point"
+          "start": "00:09:46",
+          "start_seconds": 586,
+          "title": "Ram Dass brother story / we’re all Jesus"
         },
         {
-          "start": "00:05:05",
-          "start_seconds": 305,
-          "title": "Entering Psychosis: The Dreamlike State & Ego Death"
+          "start": "00:12:42",
+          "start_seconds": 762,
+          "title": "Landmark Forum origin story begins"
         },
         {
-          "start": "00:06:32",
-          "start_seconds": 392,
-          "title": "Crisis, Hospitalization & Early Integration"
+          "start": "00:20:47",
+          "start_seconds": 1247,
+          "title": "Stan Grof / spiritual emergency vs mental illness"
         },
         {
-          "start": "00:08:05",
-          "start_seconds": 485,
-          "title": "How Helping Others Became Sean’s Calling"
+          "start": "00:22:42",
+          "start_seconds": 1362,
+          "title": "Felt natural, not normal / post-hospital life"
         },
         {
-          "start": "00:09:16",
-          "start_seconds": 556,
-          "title": "Supporting His Niece Through Awakening"
+          "start": "00:25:45",
+          "start_seconds": 1545,
+          "title": "Niece’s awakening / calling to help others"
         },
         {
-          "start": "00:10:49",
-          "start_seconds": 649,
-          "title": "Why Psychiatry Defaults to Lifelong Medication"
+          "start": "00:29:18",
+          "start_seconds": 1758,
+          "title": "Two sisters / Soteria House / recovery without lifelong meds"
         },
         {
-          "start": "00:11:35",
-          "start_seconds": 695,
-          "title": "Kundalini, Trauma Energy & Somatic Roots of Bipolar"
+          "start": "00:33:13",
+          "start_seconds": 1993,
+          "title": "Synchronicity edge / falling dream / Skull Island"
         },
         {
-          "start": "00:14:11",
-          "start_seconds": 851,
-          "title": "Which Book to Read First"
+          "start": "00:37:06",
+          "start_seconds": 2226,
+          "title": "Healing as authenticity — natural, not normal"
         },
         {
-          "start": "00:15:24",
-          "start_seconds": 924,
-          "title": "Breathwork, Distance Sessions & Trauma Release"
+          "start": "00:39:30",
+          "start_seconds": 2370,
+          "title": "Trauma as root / funeral that doesn’t cry"
         },
         {
-          "start": "00:18:53",
-          "start_seconds": 1133,
-          "title": "Meaning, Intuition & Sean’s Multiverse Theory"
+          "start": "00:41:11",
+          "start_seconds": 2471,
+          "title": "Somatic trauma / Rolfing / Holotropic breathwork"
         },
         {
-          "start": "00:21:27",
-          "start_seconds": 1287,
-          "title": "Closing Reflections on Healing & Awakening"
+          "start": "00:43:41",
+          "start_seconds": 2621,
+          "title": "Bipolar Breathwork — private retreats, custom safety"
+        },
+        {
+          "start": "00:45:36",
+          "start_seconds": 2736,
+          "title": "First client — coccyx pain, kundalini release, meds-free years"
+        },
+        {
+          "start": "00:48:43",
+          "start_seconds": 2923,
+          "title": "Teaching via YouTube / meditation as psychosis trigger"
+        },
+        {
+          "start": "00:50:08",
+          "start_seconds": 3008,
+          "title": "Vipassana stronger than hospital / kriyas"
+        },
+        {
+          "start": "00:52:45",
+          "start_seconds": 3165,
+          "title": "Don’t force family — find the open door"
+        },
+        {
+          "start": "00:55:51",
+          "start_seconds": 3351,
+          "title": "Mission complete — teacher more than therapist"
+        },
+        {
+          "start": "00:57:44",
+          "start_seconds": 3464,
+          "title": "Videos as triggers / university & death as common triggers"
+        },
+        {
+          "start": "00:59:12",
+          "start_seconds": 3552,
+          "title": "Identity, individuation, divorce, somatic jerks"
+        },
+        {
+          "start": "01:01:30",
+          "start_seconds": 3690,
+          "title": "Divine intelligence as the healing agent"
+        },
+        {
+          "start": "01:02:58",
+          "start_seconds": 3778,
+          "title": "Ken Wilber stages / atheism / intuition / parallel Seans"
+        },
+        {
+          "start": "01:08:09",
+          "start_seconds": 4089,
+          "title": "Small talk, beer, Uber loneliness, connection"
+        },
+        {
+          "start": "01:12:48",
+          "start_seconds": 4368,
+          "title": "Demystifying Kundalini — Gopi Krishna to global awakening"
+        },
+        {
+          "start": "01:20:48",
+          "start_seconds": 4848,
+          "title": "Authentic podcast conversation → kundalini symptoms"
+        },
+        {
+          "start": "01:21:52",
+          "start_seconds": 4912,
+          "title": "Which book first / free PDFs on bipolarawakenings.com"
+        },
+        {
+          "start": "01:22:59",
+          "start_seconds": 4979,
+          "title": "Distance surrogate breathwork / Monica Kettler"
+        },
+        {
+          "start": "01:26:17",
+          "start_seconds": 5177,
+          "title": "Others’ energy passes through / no ego in the game"
+        },
+        {
+          "start": "01:29:01",
+          "start_seconds": 5341,
+          "title": "Untrained supporter does surrogate birth work"
         }
       ],
       "quotes": [
@@ -1302,164 +1432,149 @@
       ],
       "chapters": [
         {
-          "start": "00:00:00",
-          "start_seconds": 0,
-          "title": "Intro: Setting up, laughter, first exchange, Blake's Bio"
+          "start": "00:00:45",
+          "start_seconds": 45,
+          "title": "Opening — welcome Blake / Junkyard Love"
         },
         {
-          "start": "00:02:15",
-          "start_seconds": 135,
-          "title": "“I feel most connected when you’re feeling” – therapy and awareness"
+          "start": "00:01:40",
+          "start_seconds": 100,
+          "title": "Therapy line: “I feel most connected when you’re feeling”"
         },
         {
-          "start": "00:05:00",
-          "start_seconds": 300,
-          "title": "Logic vs emotion: learning how to feel again"
+          "start": "00:04:30",
+          "start_seconds": 270,
+          "title": "Emotions as information / become somebody before nobody"
         },
         {
-          "start": "00:07:25",
-          "start_seconds": 445,
-          "title": "Emotional intelligence and inner safety"
+          "start": "00:06:45",
+          "start_seconds": 405,
+          "title": "Dharmic anger / Jesus flipped tables"
         },
         {
-          "start": "00:10:45",
-          "start_seconds": 645,
-          "title": "Anger as sacred energy (“dharmic anger”)"
+          "start": "00:09:39",
+          "start_seconds": 579,
+          "title": "Anger has something to teach / let it pass through"
         },
         {
-          "start": "00:12:10",
-          "start_seconds": 730,
-          "title": "Modern society, Idiocracy, and humor as medicine"
+          "start": "00:11:31",
+          "start_seconds": 691,
+          "title": "Idiocracy / humor as medicine"
         },
         {
-          "start": "00:15:23",
-          "start_seconds": 923,
-          "title": "Aldous Huxley, psychedelics, and self-reflection"
+          "start": "00:13:49",
+          "start_seconds": 829,
+          "title": "Stamets, mushrooms, self-reflection"
         },
         {
-          "start": "00:16:09",
-          "start_seconds": 969,
-          "title": "Paul Stamets, microdosing, and consciousness"
+          "start": "00:16:18",
+          "start_seconds": 978,
+          "title": "Psychedelics / break default-network story grooves"
         },
         {
-          "start": "00:20:00",
-          "start_seconds": 1200,
-          "title": "Mushrooms, meditation, and integration"
+          "start": "00:17:38",
+          "start_seconds": 1058,
+          "title": "Masculinity template / single mom / Kelso kid"
         },
         {
-          "start": "00:26:00",
-          "start_seconds": 1560,
-          "title": "Masculinity and vulnerability"
+          "start": "00:20:45",
+          "start_seconds": 1245,
+          "title": "Body armor over the heart / revisit masculine & feeling"
         },
         {
-          "start": "00:31:00",
-          "start_seconds": 1860,
-          "title": "Meditation: honesty over peace"
+          "start": "00:26:52",
+          "start_seconds": 1612,
+          "title": "Meditation click / space between thoughts / metta"
         },
         {
-          "start": "00:36:03",
-          "start_seconds": 2163,
-          "title": "“Good morning, Blakey Boy” – the inner-child ritual"
+          "start": "00:33:41",
+          "start_seconds": 2021,
+          "title": "“Good morning, Blakey Boy” — inner-child ritual"
         },
         {
-          "start": "00:40:03",
-          "start_seconds": 2403,
-          "title": "Ego, death, and Ram Dass on becoming somebody"
+          "start": "00:35:16",
+          "start_seconds": 2116,
+          "title": "Anxiety breaking point / what is the self"
         },
         {
-          "start": "00:45:00",
-          "start_seconds": 2700,
-          "title": "Comic relief: fart jokes and humility"
+          "start": "00:39:25",
+          "start_seconds": 2365,
+          "title": "Loving myself = paying attention / alive at the same time"
         },
         {
-          "start": "00:50:00",
-          "start_seconds": 3000,
-          "title": "Math and metaphysics: when numbers become poetry"
+          "start": "00:43:14",
+          "start_seconds": 2594,
+          "title": "Zoom out / how precious / don’t overlook importance"
         },
         {
-          "start": "00:58:48",
-          "start_seconds": 3528,
-          "title": "Math as beauty and the language of existence"
+          "start": "00:46:15",
+          "start_seconds": 2775,
+          "title": "Ram Dass / if I were God / traffic anger"
         },
         {
-          "start": "01:00:26",
-          "start_seconds": 3626,
-          "title": "Group theory, triangles, and the philosophy of structure"
+          "start": "00:51:27",
+          "start_seconds": 3087,
+          "title": "Sharp corners / someone in your corner"
         },
         {
-          "start": "01:02:06",
-          "start_seconds": 3726,
-          "title": "Did humans discover or invent math?"
+          "start": "00:55:38",
+          "start_seconds": 3338,
+          "title": "Math as method of beauty / group theory triangles"
         },
         {
-          "start": "01:10:00",
-          "start_seconds": 4200,
-          "title": "Humor, curiosity, and teaching through questions"
+          "start": "01:00:40",
+          "start_seconds": 3640,
+          "title": "Galois / discover and invent math"
         },
         {
-          "start": "01:13:34",
-          "start_seconds": 4414,
-          "title": "The future of math, AI, and physics (the long view)"
+          "start": "01:08:27",
+          "start_seconds": 4107,
+          "title": "Kurzweil / father’s journals / long view"
         },
         {
-          "start": "01:14:13",
-          "start_seconds": 4453,
-          "title": "Ray Kurzweil and his father’s digital journals"
+          "start": "01:12:50",
+          "start_seconds": 4370,
+          "title": "Future of math, AI, human consciousness"
         },
         {
-          "start": "01:15:15",
-          "start_seconds": 4515,
-          "title": "iPhone, exponential tech, and AI acceleration"
+          "start": "01:21:18",
+          "start_seconds": 4878,
+          "title": "Information / Meditation"
         },
         {
-          "start": "01:16:00",
-          "start_seconds": 4560,
-          "title": "Touchscreens, prediction, and futurism"
+          "start": "01:33:45",
+          "start_seconds": 5625,
+          "title": "UBI dream / AI optimism / transformer attention"
         },
         {
-          "start": "01:20:00",
-          "start_seconds": 4800,
-          "title": "Consciousness and machine learning"
+          "start": "01:41:03",
+          "start_seconds": 6063,
+          "title": "What is consciousness, really?"
         },
         {
-          "start": "01:30:00",
-          "start_seconds": 5400,
-          "title": "Human identity in the age of algorithms"
+          "start": "01:59:58",
+          "start_seconds": 7198,
+          "title": "Journaling, memory, preserving the self"
         },
         {
-          "start": "01:37:01",
-          "start_seconds": 5821,
-          "title": "AI anxiety, UBI, and the ethics of automation"
+          "start": "02:04:56",
+          "start_seconds": 7496,
+          "title": "AI as DJ of human creativity"
         },
         {
-          "start": "01:43:56",
-          "start_seconds": 6236,
-          "title": "Consciousness itself: What is it, really?"
+          "start": "02:18:30",
+          "start_seconds": 8310,
+          "title": "Saying / Share"
         },
         {
-          "start": "02:00:00",
-          "start_seconds": 7200,
-          "title": "Journaling, memory, and the desire to preserve the self"
+          "start": "02:28:35",
+          "start_seconds": 8915,
+          "title": "Returning to “connected when you’re feeling”"
         },
         {
-          "start": "02:14:00",
-          "start_seconds": 8040,
-          "title": "Humor as grounding: “Even the enlightened still fart.”"
-        },
-        {
-          "start": "02:20:00",
-          "start_seconds": 8400,
-          "title": "Compassion as technology"
-        },
-        {
-          "start": "02:31:04",
-          "start_seconds": 9064,
-          "title": "Returning to therapy: “I feel most connected when you’re feeling.”"
-        },
-        {
-          "start": "02:40:00",
-          "start_seconds": 9600,
-          "title": "Closing reflections, gratitude, and quiet laughter"
+          "start": "02:30:06",
+          "start_seconds": 9006,
+          "title": "Hope for humanity / ChatGPT as harm reduction"
         }
       ],
       "quotes": [
@@ -1556,8 +1671,8 @@
       ],
       "chapters": [
         {
-          "start": "00:00:09",
-          "start_seconds": 9,
+          "start": "00:00:31",
+          "start_seconds": 31,
           "title": "Opening — welcome Curtis / Junkyard Love"
         },
         {
@@ -1699,21 +1814,6 @@
           "start": "02:28:43",
           "start_seconds": 8923,
           "title": "Finish the show / discuss later / move forward"
-        },
-        {
-          "start": "02:32:19",
-          "start_seconds": 9139,
-          "title": "Closing word: insight"
-        },
-        {
-          "start": "02:43:03",
-          "start_seconds": 9783,
-          "title": "Treat album suggestions as invitations / outro"
-        },
-        {
-          "start": "02:43:35",
-          "start_seconds": 9815,
-          "title": "Outro — drink water / stretch / love yourselves"
         }
       ],
       "quotes": [
@@ -1794,8 +1894,8 @@
       ],
       "chapters": [
         {
-          "start": "00:00:06",
-          "start_seconds": 6,
+          "start": "00:01:10",
+          "start_seconds": 70,
           "title": "Opening — welcome Nate / voice actor & puppeteer intro"
         },
         {
@@ -1932,11 +2032,6 @@
           "start": "01:26:50",
           "start_seconds": 5210,
           "title": "Megaphone to humanity — Kermit / do what you love"
-        },
-        {
-          "start": "01:29:14",
-          "start_seconds": 5354,
-          "title": "Outro — Keep pedaling / part two tease / outro hydrate"
         }
       ],
       "quotes": [
@@ -2008,14 +2103,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:00",
-          "start_seconds": 0,
-          "title": "Opening — welcome Ravinder / Mind Training intro"
-        },
-        {
           "start": "00:00:55",
           "start_seconds": 55,
-          "title": "Best version of self / remove blockages to authentic self"
+          "title": "Opening — welcome Ravinder / Mind Training intro"
         },
         {
           "start": "00:05:29",
@@ -2136,11 +2226,6 @@
           "start": "01:08:38",
           "start_seconds": 4118,
           "title": "One day at a time / happiness now / problems resolve"
-        },
-        {
-          "start": "01:13:17",
-          "start_seconds": 4397,
-          "title": "Outro — Knowledge is power / Reality Is Junkyard Love"
         }
       ],
       "quotes": [
@@ -2216,14 +2301,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:00",
-          "start_seconds": 0,
-          "title": "Opening — welcome Wendy / Demystifying the Transgender Journey podcast"
-        },
-        {
           "start": "00:05:44",
           "start_seconds": 344,
-          "title": "Limiting beliefs from childhood / told parents at age 10"
+          "title": "Opening — welcome Wendy / Demystifying the Transgender Journey podcast"
         },
         {
           "start": "00:06:36",
@@ -2298,7 +2378,7 @@
         {
           "start": "00:53:50",
           "start_seconds": 3230,
-          "title": "Open to new perspective / change is good"
+          "title": "Change, Perspective & Believes"
         },
         {
           "start": "00:55:06",
@@ -2364,11 +2444,6 @@
           "start": "01:38:35",
           "start_seconds": 5915,
           "title": "“Yep, you’re ready” / possibilities / resources"
-        },
-        {
-          "start": "01:44:08",
-          "start_seconds": 6248,
-          "title": "Outro — ally community / informed allies pitch"
         }
       ],
       "quotes": [
@@ -2456,14 +2531,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:01",
-          "start_seconds": 1,
+          "start": "00:00:23",
+          "start_seconds": 23,
           "title": "Opening — welcome David Crayk / high-school theatre teacher reunion"
-        },
-        {
-          "start": "00:01:01",
-          "start_seconds": 61,
-          "title": "~650 former students on Facebook / weddings & lifelong ties"
         },
         {
           "start": "00:02:58",
@@ -2594,11 +2664,6 @@
           "start": "01:35:26",
           "start_seconds": 5726,
           "title": "Don’t bargain with the inner voice / listen and act"
-        },
-        {
-          "start": "01:38:43",
-          "start_seconds": 5923,
-          "title": "Outro — YouTube Q&A pointer / subscribe outro"
         }
       ],
       "quotes": [
@@ -2680,8 +2745,8 @@
       ],
       "chapters": [
         {
-          "start": "00:00:00",
-          "start_seconds": 0,
+          "start": "00:00:20",
+          "start_seconds": 20,
           "title": "Opening — kids changed Nate’s relationship with God / births"
         },
         {
@@ -2818,11 +2883,6 @@
           "start": "01:56:25",
           "start_seconds": 6985,
           "title": "Biggest money month → prayed remove it → lost clients"
-        },
-        {
-          "start": "02:03:34",
-          "start_seconds": 7414,
-          "title": "Outro — men/fathers grab the wet torch / stop the neglect chain"
         }
       ],
       "quotes": [
@@ -2899,14 +2959,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:02",
-          "start_seconds": 2,
-          "title": "Opening — depression tools / welcome newcomers + toe-dippers"
-        },
-        {
           "start": "00:02:03",
           "start_seconds": 123,
-          "title": "Catalyst people — “living is not working” / what do you do next"
+          "title": "Opening — depression tools / welcome newcomers + toe-dippers"
         },
         {
           "start": "00:03:01",
@@ -3037,11 +3092,6 @@
           "start": "01:22:18",
           "start_seconds": 4938,
           "title": "Meditation can reach the same place without psychedelics"
-        },
-        {
-          "start": "01:28:04",
-          "start_seconds": 5284,
-          "title": "Outro — The Will To Live Project / coaching / Insight Timer / doula training"
         }
       ],
       "quotes": [
@@ -3109,8 +3159,8 @@
       ],
       "chapters": [
         {
-          "start": "00:00:00",
-          "start_seconds": 0,
+          "start": "00:00:09",
+          "start_seconds": 9,
           "title": "Opening — Junkyard Love check-in"
         },
         {
@@ -3227,11 +3277,6 @@
           "start": "01:15:01",
           "start_seconds": 4501,
           "title": "Nine novels + three business books / A Time for Glory / Death Before Dawn"
-        },
-        {
-          "start": "01:19:52",
-          "start_seconds": 4792,
-          "title": "Outro — stretch"
         }
       ],
       "quotes": [
@@ -3295,8 +3340,8 @@
       ],
       "chapters": [
         {
-          "start": "00:00:00",
-          "start_seconds": 0,
+          "start": "00:00:12",
+          "start_seconds": 12,
           "title": "Opening — better conversations / check-in with Anne"
         },
         {
@@ -3423,11 +3468,6 @@
           "start": "01:29:32",
           "start_seconds": 5372,
           "title": "Escaping old ideas / Einstein: as simple as possible but never simpler"
-        },
-        {
-          "start": "01:31:11",
-          "start_seconds": 5471,
-          "title": "Outro — gratitude / thehumanidea.com + IG + LinkedIn"
         }
       ],
       "quotes": [
@@ -3488,14 +3528,14 @@
       ],
       "chapters": [
         {
-          "start": "00:00:03",
-          "start_seconds": 3,
+          "start": "00:00:04",
+          "start_seconds": 4,
           "title": "Opening — welcome Meredith & Craig"
         },
         {
           "start": "00:03:47",
           "start_seconds": 227,
-          "title": "Family-first / real-estate bomb in six weeks / life-vision pause / personal growth → marriage coaching"
+          "title": "Family-first / real-estate bomb in six weeks / life-vision pause / personal growth → marri"
         },
         {
           "start": "00:07:58",
@@ -3583,19 +3623,9 @@
           "title": "Walk-and-talk cheat code for deeper conversations"
         },
         {
-          "start": "00:49:13",
-          "start_seconds": 2953,
-          "title": "Phone-free date time / closing gratitude"
-        },
-        {
           "start": "00:50:08",
           "start_seconds": 3008,
           "title": "Road of Life Podcast + Instagram @meredithandcraig"
-        },
-        {
-          "start": "00:50:55",
-          "start_seconds": 3055,
-          "title": "Outro — love yourself / drink water / set a date day / go for a walk"
         }
       ],
       "quotes": [
@@ -3654,8 +3684,8 @@
       ],
       "chapters": [
         {
-          "start": "00:00:00",
-          "start_seconds": 0,
+          "start": "00:00:09",
+          "start_seconds": 9,
           "title": "Opening — better conversations / better conversations with ourselves"
         },
         {
@@ -3787,11 +3817,6 @@
           "start": "01:34:58",
           "start_seconds": 5698,
           "title": "Floating / traveler community / bridge connections from servitude"
-        },
-        {
-          "start": "01:40:56",
-          "start_seconds": 6056,
-          "title": "Outro — drink water / stretch / love yourselves"
         }
       ],
       "quotes": [
@@ -3845,14 +3870,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:01",
-          "start_seconds": 1,
+          "start": "00:00:13",
+          "start_seconds": 13,
           "title": "Opening — welcome Matt / “who are you”"
-        },
-        {
-          "start": "00:00:49",
-          "start_seconds": 49,
-          "title": "Matt elevator pitch — educational consultant / alleviate family anxiety"
         },
         {
           "start": "00:02:51",
@@ -3968,11 +3988,6 @@
           "start": "01:03:11",
           "start_seconds": 3791,
           "title": "Connected to the why / mission-driven"
-        },
-        {
-          "start": "01:05:44",
-          "start_seconds": 3944,
-          "title": "Outro — drink water / stretch / love yourselves"
         }
       ],
       "quotes": [
@@ -4020,14 +4035,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening — welcome Julie / “who are you”"
-        },
-        {
           "start": "00:01:00",
           "start_seconds": 60,
-          "title": "Julie intro — spiritual coach, 1989 awakening, Talking True, intuitive art"
+          "title": "Opening — welcome Julie / “who are you”"
         },
         {
           "start": "00:03:04",
@@ -4123,11 +4133,6 @@
           "start": "01:18:01",
           "start_seconds": 4681,
           "title": "Informal practice — peeling potatoes / silence in daily life"
-        },
-        {
-          "start": "01:20:31",
-          "start_seconds": 4831,
-          "title": "Outro — gratitude / links / drink water / love yourselves"
         }
       ],
       "quotes": [
@@ -4191,14 +4196,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:01",
-          "start_seconds": 1,
+          "start": "00:00:20",
+          "start_seconds": 20,
           "title": "Opening — welcome Landon / bio ask"
-        },
-        {
-          "start": "00:00:56",
-          "start_seconds": 56,
-          "title": "Landon intro — chillstep mixes, Alan Watts, Ram Dass, Dharma / purpose"
         },
         {
           "start": "00:38:10",
@@ -4279,11 +4279,6 @@
           "start": "01:31:39",
           "start_seconds": 5499,
           "title": "Remembering who you are / placing God outside the Self"
-        },
-        {
-          "start": "01:34:27",
-          "start_seconds": 5667,
-          "title": "Outro — True Self / tattoos / keep making mixes / Instagram & YouTube"
         }
       ],
       "quotes": [
@@ -4358,9 +4353,154 @@
       ],
       "chapters": [
         {
-          "start": "00:11:03",
-          "start_seconds": 663,
-          "title": "To skip solo intro (conversation start)"
+          "start": "00:12:05",
+          "start_seconds": 725,
+          "title": "Solo intro — Jacob’s at-home ketamine / BetterU framing"
+        },
+        {
+          "start": "00:13:54",
+          "start_seconds": 834,
+          "title": "Megan intro — BetterU, telemedicine, brain box, LA HQ"
+        },
+        {
+          "start": "00:15:54",
+          "start_seconds": 954,
+          "title": "Ketamine history — Spravato / costly IV clinics vs accessibility"
+        },
+        {
+          "start": "00:18:03",
+          "start_seconds": 1083,
+          "title": "BetterU goals — affordable, quality care, not one-size-fits-all"
+        },
+        {
+          "start": "00:21:49",
+          "start_seconds": 1309,
+          "title": "Protocol — 4 vs 8 sessions, maintenance, member portal"
+        },
+        {
+          "start": "00:26:27",
+          "start_seconds": 1587,
+          "title": "“What we need, not what we want” / little things compound"
+        },
+        {
+          "start": "00:30:41",
+          "start_seconds": 1841,
+          "title": "Pause before reacting / kinder internal dialogue"
+        },
+        {
+          "start": "00:36:44",
+          "start_seconds": 2204,
+          "title": "Aftercare — don’t drive / go to work same day; let it settle"
+        },
+        {
+          "start": "00:42:31",
+          "start_seconds": 2551,
+          "title": "Troche timing — spit vs swallow, session length, dosing ramp"
+        },
+        {
+          "start": "00:48:52",
+          "start_seconds": 2932,
+          "title": "Meds interactions — stimulants, benzos, SSRIs / clinician dosing"
+        },
+        {
+          "start": "00:53:36",
+          "start_seconds": 3216,
+          "title": "Food, fasting, liquids before a session"
+        },
+        {
+          "start": "00:57:44",
+          "start_seconds": 3464,
+          "title": "Peer trip monitor role + post-session reflection"
+        },
+        {
+          "start": "01:03:34",
+          "start_seconds": 3814,
+          "title": "How set/prep heals — journaling as “clearing the hard drive”"
+        },
+        {
+          "start": "01:07:35",
+          "start_seconds": 4055,
+          "title": "Breath work, intentions, mantras: breathe / trust / let go / be open"
+        },
+        {
+          "start": "01:09:12",
+          "start_seconds": 4152,
+          "title": "Music as the driver — passenger analogy"
+        },
+        {
+          "start": "01:17:28",
+          "start_seconds": 4648,
+          "title": "Control, trust, “why get out and push”"
+        },
+        {
+          "start": "01:20:14",
+          "start_seconds": 4814,
+          "title": "Fear of bad trips / overwhelm — stay with breath"
+        },
+        {
+          "start": "01:29:20",
+          "start_seconds": 5360,
+          "title": "Who shouldn’t — screening, contraindications, psych history"
+        },
+        {
+          "start": "01:31:39",
+          "start_seconds": 5499,
+          "title": "Fear of loss of control / armor & mask / mindset going in"
+        },
+        {
+          "start": "01:37:23",
+          "start_seconds": 5843,
+          "title": "Megan’s story begins — “hold on to your seats”"
+        },
+        {
+          "start": "01:40:09",
+          "start_seconds": 6009,
+          "title": "Nightclub shooting at 19 / modeling interrupted"
+        },
+        {
+          "start": "01:46:03",
+          "start_seconds": 6363,
+          "title": "Rock bottom — careers, COVID, moving home"
+        },
+        {
+          "start": "01:51:54",
+          "start_seconds": 6714,
+          "title": "Working with patients at rock bottom / shared pain patterns"
+        },
+        {
+          "start": "01:53:23",
+          "start_seconds": 6803,
+          "title": "Mental health as journey; grace; okay to not be okay"
+        },
+        {
+          "start": "01:58:23",
+          "start_seconds": 7103,
+          "title": "Self / personality / identity and psychedelic therapy"
+        },
+        {
+          "start": "02:06:34",
+          "start_seconds": 7594,
+          "title": "Serious Needing"
+        },
+        {
+          "start": "02:15:01",
+          "start_seconds": 8101,
+          "title": "Software update analogy — clear bugs, keep useful code"
+        },
+        {
+          "start": "02:25:04",
+          "start_seconds": 8704,
+          "title": "How to get started / next steps after this episode"
+        },
+        {
+          "start": "02:30:08",
+          "start_seconds": 9008,
+          "title": "Broader psychedelic landscape — legality, telemedicine, workforce"
+        },
+        {
+          "start": "02:41:13",
+          "start_seconds": 9673,
+          "title": "Where to find BetterU — betterucare.com / @betterucare"
         }
       ],
       "quotes": [
@@ -4436,7 +4576,7 @@
         {
           "start": "00:00:00",
           "start_seconds": 0,
-          "title": "Intro — friend Keenan “Hurricane” Harvey, episode 0101"
+          "title": "Host open — Friends, Conversations & Keenan"
         },
         {
           "start": "00:05:28",
@@ -4567,11 +4707,6 @@
           "start": "02:36:28",
           "start_seconds": 9388,
           "title": "Life Gets Stable"
-        },
-        {
-          "start": "02:38:45",
-          "start_seconds": 9525,
-          "title": "Outro — love yourselves, Watershed tomorrow"
         }
       ],
       "quotes": [
@@ -4629,12 +4764,127 @@
         {
           "start": "00:00:00",
           "start_seconds": 0,
-          "title": "solocast intro"
+          "title": "Host open — Spiritual, Against & Whether"
         },
         {
-          "start": "00:22:36",
-          "start_seconds": 1356,
-          "title": "The interview starts"
+          "start": "00:01:48",
+          "start_seconds": 108,
+          "title": "Episode 100 welcome — solocast intro"
+        },
+        {
+          "start": "00:03:04",
+          "start_seconds": 184,
+          "title": "Mystical / Spiritual Awakening framing (kundalini)"
+        },
+        {
+          "start": "00:12:05",
+          "start_seconds": 725,
+          "title": "Ram Dass neurosis line / still just a dude"
+        },
+        {
+          "start": "00:15:46",
+          "start_seconds": 946,
+          "title": "Plans — weekly shows, transcripts, ketamine therapy"
+        },
+        {
+          "start": "00:21:55",
+          "start_seconds": 1315,
+          "title": "Solocast close — Spiritual Awakening Show interview ahead"
+        },
+        {
+          "start": "00:25:52",
+          "start_seconds": 1552,
+          "title": "Floor to Jacob — tell the spiritual awakening journey"
+        },
+        {
+          "start": "00:30:26",
+          "start_seconds": 1826,
+          "title": "Backstory — age ~26–27 / life leading into it"
+        },
+        {
+          "start": "00:35:50",
+          "start_seconds": 2150,
+          "title": "27 Club / artist identity darkness"
+        },
+        {
+          "start": "00:41:40",
+          "start_seconds": 2500,
+          "title": "Stumbling into meditation / extreme self-help"
+        },
+        {
+          "start": "00:44:45",
+          "start_seconds": 2685,
+          "title": "Peak nights — awareness, Greg Braden, heart work"
+        },
+        {
+          "start": "00:47:14",
+          "start_seconds": 2834,
+          "title": "Mind–heart connection / energy surge"
+        },
+        {
+          "start": "00:48:33",
+          "start_seconds": 2913,
+          "title": "Stuck in the body / fear / “shut my third eye”"
+        },
+        {
+          "start": "00:50:35",
+          "start_seconds": 3035,
+          "title": "Hypnosis / purple smoke bliss weeks"
+        },
+        {
+          "start": "00:51:45",
+          "start_seconds": 3105,
+          "title": "Inner-child healing — hug teenage self"
+        },
+        {
+          "start": "00:53:56",
+          "start_seconds": 3236,
+          "title": "Four experiences / energy centers / need for grounding"
+        },
+        {
+          "start": "01:01:39",
+          "start_seconds": 3699,
+          "title": "Integration — ordinary life, work, not preaching enlightenment"
+        },
+        {
+          "start": "01:11:04",
+          "start_seconds": 4264,
+          "title": "Artistry / spoken word after kundalini healing"
+        },
+        {
+          "start": "01:19:05",
+          "start_seconds": 4745,
+          "title": "Journey / Poetry"
+        },
+        {
+          "start": "01:27:19",
+          "start_seconds": 5239,
+          "title": "Integration / Meditation"
+        },
+        {
+          "start": "01:33:20",
+          "start_seconds": 5600,
+          "title": "Spirituality & artistry are personal work"
+        },
+        {
+          "start": "01:41:23",
+          "start_seconds": 6083,
+          "title": "Willing Meet"
+        },
+        {
+          "start": "01:50:25",
+          "start_seconds": 6625,
+          "title": "“Bottom dropping out” in spiritual practice"
+        },
+        {
+          "start": "01:52:41",
+          "start_seconds": 6761,
+          "title": "Personal spiritual path is okay — step where you are"
+        },
+        {
+          "start": "02:00:01",
+          "start_seconds": 7201,
+          "title": "Where to find Jacob — Instagram @jacobfromtheinternet / Junkyard Love"
         }
       ],
       "quotes": [
@@ -4696,8 +4946,8 @@
       ],
       "chapters": [
         {
-          "start": "00:00:02",
-          "start_seconds": 2,
+          "start": "00:00:47",
+          "start_seconds": 47,
           "title": "Opening — welcome and Loneliness of kundalini"
         },
         {
@@ -4809,11 +5059,6 @@
           "start": "01:50:26",
           "start_seconds": 6626,
           "title": "Resources — BATGAP, Adyashanti, Yvonne Kason, Matt Kahn, Ram Dass"
-        },
-        {
-          "start": "01:57:13",
-          "start_seconds": 7033,
-          "title": "Outro — love yourselves / peace out"
         }
       ],
       "quotes": [
@@ -4873,14 +5118,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:01",
-          "start_seconds": 1,
-          "title": "Opening — welcome and bio ask"
-        },
-        {
           "start": "00:01:18",
           "start_seconds": 78,
-          "title": "Juniper Ellis / Washington / natural oneness / Awake Yoga Meditation (Baltimore)"
+          "title": "Opening — welcome and bio ask"
         },
         {
           "start": "00:02:42",
@@ -4961,16 +5201,6 @@
           "start": "00:52:38",
           "start_seconds": 3158,
           "title": "Prison story / companion to yourself / Bhagavad Gita / network of light"
-        },
-        {
-          "start": "00:56:42",
-          "start_seconds": 3402,
-          "title": "What the world needs — pure love / closing Namaste"
-        },
-        {
-          "start": "00:58:21",
-          "start_seconds": 3501,
-          "title": "Outro — pure love / closing Namaste"
         }
       ],
       "quotes": [
@@ -5034,14 +5264,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:00",
-          "start_seconds": 0,
-          "title": "Opening — welcome and brief bio ask"
-        },
-        {
           "start": "00:01:02",
           "start_seconds": 62,
-          "title": "Kevin intro — Black Sheep Business Consulting, five and a half years sober"
+          "title": "Opening — welcome and brief bio ask"
         },
         {
           "start": "00:02:31",
@@ -5132,11 +5357,6 @@
           "start": "01:15:50",
           "start_seconds": 4550,
           "title": "Own truth in Jesus / faith as turning yourself over"
-        },
-        {
-          "start": "01:22:35",
-          "start_seconds": 4955,
-          "title": "Outro — bsbcon.com / Black Sheep Business Consulting"
         }
       ],
       "quotes": [
@@ -5203,8 +5423,8 @@
       ],
       "chapters": [
         {
-          "start": "00:00:48",
-          "start_seconds": 48,
+          "start": "00:01:37",
+          "start_seconds": 97,
           "title": "Opening banter — headset, pilots, welcome back"
         },
         {
@@ -5286,11 +5506,6 @@
           "start": "01:17:43",
           "start_seconds": 4663,
           "title": "Experience / Speaking"
-        },
-        {
-          "start": "01:20:04",
-          "start_seconds": 4804,
-          "title": "Outro — service, Instagram @cosmic_merrmaid, Linktree / Reiki"
         }
       ],
       "quotes": [
@@ -5350,9 +5565,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening — Bobby Barrz"
+          "start": "00:01:26",
+          "start_seconds": 86,
+          "title": "Real, Stay & Position"
         },
         {
           "start": "00:05:45",
@@ -5433,11 +5648,6 @@
           "start": "01:43:35",
           "start_seconds": 6215,
           "title": "Open mic — all genres welcome"
-        },
-        {
-          "start": "01:47:03",
-          "start_seconds": 6423,
-          "title": "Outro"
         }
       ],
       "quotes": [
@@ -5498,19 +5708,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:03",
-          "start_seconds": 3,
-          "title": "Jacob intro — delayed episode, Austin check-in"
-        },
-        {
-          "start": "00:02:19",
-          "start_seconds": 139,
-          "title": "Bumper — Junkyard Love / knowledge is power"
-        },
-        {
           "start": "00:04:02",
           "start_seconds": 242,
-          "title": "Hello John — Austin / Salt Spring / Calgary origin"
+          "title": "Jacob intro — delayed episode, Austin check-in"
         },
         {
           "start": "00:07:59",
@@ -5586,11 +5786,6 @@
           "start": "01:13:23",
           "start_seconds": 4403,
           "title": "Thoughtful Species Type Thou"
-        },
-        {
-          "start": "01:14:39",
-          "start_seconds": 4479,
-          "title": "Outro — stretch / love yourselves / peace out"
         }
       ],
       "quotes": [
@@ -5666,7 +5861,7 @@
         {
           "start": "00:00:15",
           "start_seconds": 15,
-          "title": "Solocast open — re-recording after 30 minutes of rambling"
+          "title": "Host open — Health, Mental & Send"
         },
         {
           "start": "00:05:18",
@@ -5767,11 +5962,6 @@
           "start": "02:06:00",
           "start_seconds": 7560,
           "title": "Malfunction ≠ identity — change who you are"
-        },
-        {
-          "start": "02:06:43",
-          "start_seconds": 7603,
-          "title": "Outro — love yourselves"
         }
       ],
       "quotes": [
@@ -5840,9 +6030,14 @@
       ],
       "chapters": [
         {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Bumper — knowledge is power / technical mishaps banter"
+          "start": "00:01:57",
+          "start_seconds": 117,
+          "title": "Music, Yourself & Ableton"
+        },
+        {
+          "start": "00:05:36",
+          "start_seconds": 336,
+          "title": "Growing, Catchy & Follow"
         },
         {
           "start": "00:07:21",
@@ -5923,11 +6118,6 @@
           "start": "01:58:33",
           "start_seconds": 7113,
           "title": "Rising From The Ashes — serpent / kundalini crossover plans"
-        },
-        {
-          "start": "02:01:55",
-          "start_seconds": 7315,
-          "title": "Outro — drink water / stretch / love yourselves"
         }
       ],
       "quotes": [
@@ -5978,11 +6168,6 @@
         }
       ],
       "chapters": [
-        {
-          "start": "00:00:00",
-          "start_seconds": 0,
-          "title": "Bumper / warm-up — audience, mental health roots, golden nuggets"
-        },
         {
           "start": "00:01:17",
           "start_seconds": 77,
@@ -6062,11 +6247,6 @@
           "start": "00:53:45",
           "start_seconds": 3225,
           "title": "Powered by possibility, not caged by fear"
-        },
-        {
-          "start": "00:55:21",
-          "start_seconds": 3321,
-          "title": "Outro — love yourself / do not be caged by fear"
         }
       ],
       "quotes": [
@@ -6130,9 +6310,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:00",
-          "start_seconds": 0,
-          "title": "Bumper / self-promo — Austin show, DJ, open mic"
+          "start": "00:01:14",
+          "start_seconds": 74,
+          "title": "Host open — Played, Yoga & Instagram"
         },
         {
           "start": "00:02:43",
@@ -6238,11 +6418,6 @@
           "start": "02:50:31",
           "start_seconds": 10231,
           "title": "Work Free Work Live"
-        },
-        {
-          "start": "02:57:25",
-          "start_seconds": 10645,
-          "title": "Outro — love your family, be present"
         }
       ],
       "quotes": [
@@ -6297,9 +6472,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:00",
-          "start_seconds": 0,
-          "title": "Bumper — knowledge is power"
+          "start": "00:01:21",
+          "start_seconds": 81,
+          "title": "Conversation, Buckminster & Resources"
         },
         {
           "start": "00:03:31",
@@ -6365,16 +6540,6 @@
           "start": "00:52:32",
           "start_seconds": 3152,
           "title": "World Game not a world order"
-        },
-        {
-          "start": "00:54:49",
-          "start_seconds": 3289,
-          "title": "Hopefulness — closing reflection"
-        },
-        {
-          "start": "00:59:18",
-          "start_seconds": 3558,
-          "title": "Outro — isthereenough.org / airport"
         }
       ],
       "quotes": [
@@ -6418,7 +6583,7 @@
         {
           "start": "00:00:00",
           "start_seconds": 0,
-          "title": "Bumper — Raymundo / Spencer intro / knowledge is power"
+          "title": "Host open — Communication, Listening & Every"
         },
         {
           "start": "00:07:52",
@@ -6524,11 +6689,6 @@
           "start": "02:34:41",
           "start_seconds": 9281,
           "title": "Company Stagehand"
-        },
-        {
-          "start": "02:39:55",
-          "start_seconds": 9595,
-          "title": "Outro — lunch / backlog / knowledge is power"
         }
       ],
       "quotes": [
@@ -6581,8 +6741,8 @@
       ],
       "chapters": [
         {
-          "start": "00:00:00",
-          "start_seconds": 0,
+          "start": "00:00:23",
+          "start_seconds": 23,
           "title": "Opening — Zach Beach / yoga & poetry"
         },
         {
@@ -6664,11 +6824,6 @@
           "start": "01:22:07",
           "start_seconds": 4927,
           "title": "Natural world / open heart"
-        },
-        {
-          "start": "01:25:33",
-          "start_seconds": 5133,
-          "title": "Outro — stretch / love yourselves"
         }
       ],
       "quotes": [],
@@ -6711,7 +6866,7 @@
         {
           "start": "00:00:01",
           "start_seconds": 1,
-          "title": "Opening — Mika return / aha moments"
+          "title": "Host open — Episodes, Life & Conversations"
         },
         {
           "start": "00:03:44",
@@ -6802,11 +6957,6 @@
           "start": "01:40:11",
           "start_seconds": 6011,
           "title": "Conversation chemistry over looks"
-        },
-        {
-          "start": "01:51:20",
-          "start_seconds": 6680,
-          "title": "Outro — love yourselves / peace out"
         }
       ],
       "quotes": [
@@ -6854,11 +7004,6 @@
         }
       ],
       "chapters": [
-        {
-          "start": "00:00:00",
-          "start_seconds": 0,
-          "title": "Bumper — knowledge is power"
-        },
         {
           "start": "00:00:18",
           "start_seconds": 18,
@@ -6923,11 +7068,6 @@
           "start": "00:57:25",
           "start_seconds": 3445,
           "title": "Spreading the word / listener responsibility"
-        },
-        {
-          "start": "01:00:03",
-          "start_seconds": 3603,
-          "title": "Outro — drink water / stretch / love yourselves"
         }
       ],
       "quotes": [
@@ -6987,11 +7127,6 @@
         }
       ],
       "chapters": [
-        {
-          "start": "00:00:00",
-          "start_seconds": 0,
-          "title": "Bumper — knowledge is power"
-        },
         {
           "start": "00:01:08",
           "start_seconds": 68,
@@ -7061,11 +7196,6 @@
           "start": "01:13:56",
           "start_seconds": 4436,
           "title": "Where to find Jeremy / current work"
-        },
-        {
-          "start": "01:19:41",
-          "start_seconds": 4781,
-          "title": "Outro — thanks & listener CTA"
         }
       ],
       "quotes": [
@@ -7132,7 +7262,7 @@
         {
           "start": "00:00:06",
           "start_seconds": 6,
-          "title": "Solocast open — trying again to talk depression"
+          "title": "Host open — Depression, Sadness & Record"
         },
         {
           "start": "00:01:42",
@@ -7218,11 +7348,6 @@
           "start": "01:40:39",
           "start_seconds": 6039,
           "title": "Depression Minutes May"
-        },
-        {
-          "start": "01:41:45",
-          "start_seconds": 6105,
-          "title": "Outro — peace out, love yourselves"
         }
       ],
       "quotes": [
@@ -7289,9 +7414,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:00",
-          "start_seconds": 0,
-          "title": "Bumper — knowledge is power"
+          "start": "00:00:21",
+          "start_seconds": 21,
+          "title": "Einstein, Life & Work"
         },
         {
           "start": "00:03:29",
@@ -7377,11 +7502,6 @@
           "start": "00:59:47",
           "start_seconds": 3587,
           "title": "Where to find Sandy / Prosperous podcast"
-        },
-        {
-          "start": "01:00:16",
-          "start_seconds": 3616,
-          "title": "Outro"
         }
       ],
       "quotes": [
@@ -7444,11 +7564,6 @@
         }
       ],
       "chapters": [
-        {
-          "start": "00:00:00",
-          "start_seconds": 0,
-          "title": "Bumper — knowledge is power"
-        },
         {
           "start": "00:01:13",
           "start_seconds": 73,
@@ -7518,11 +7633,6 @@
           "start": "00:52:28",
           "start_seconds": 3148,
           "title": "Advice — life is short / own path"
-        },
-        {
-          "start": "00:53:59",
-          "start_seconds": 3239,
-          "title": "Outro — thanks & listener CTA"
         }
       ],
       "quotes": [
@@ -7582,11 +7692,6 @@
           "start": "00:00:52",
           "start_seconds": 52,
           "title": "Jacob welcome & bio ask"
-        },
-        {
-          "start": "00:01:04",
-          "start_seconds": 64,
-          "title": "Juli bio — Peer Performance Solutions"
         },
         {
           "start": "00:03:35",
@@ -7662,11 +7767,6 @@
           "start": "00:54:08",
           "start_seconds": 3248,
           "title": "Leader within / speaking as a leader"
-        },
-        {
-          "start": "00:59:35",
-          "start_seconds": 3575,
-          "title": "Outro — love yourselves"
         }
       ],
       "quotes": [
@@ -7738,11 +7838,6 @@
           "title": "Jacob welcome & Lynn intro"
         },
         {
-          "start": "00:01:34",
-          "start_seconds": 94,
-          "title": "What Is Pickleball"
-        },
-        {
           "start": "00:07:58",
           "start_seconds": 478,
           "title": "Pre-Warm-Up Stretching"
@@ -7806,11 +7901,6 @@
           "start": "00:44:01",
           "start_seconds": 2641,
           "title": "pickleballfire.com resources"
-        },
-        {
-          "start": "00:46:39",
-          "start_seconds": 2799,
-          "title": "Outro — drink water / stretch / love yourselves"
         }
       ],
       "quotes": [
@@ -7853,8 +7943,8 @@
       ],
       "chapters": [
         {
-          "start": "00:00:00",
-          "start_seconds": 0,
+          "start": "00:01:36",
+          "start_seconds": 96,
           "title": "Opening clip — leadership training Jerry wished he'd had"
         },
         {
@@ -7951,11 +8041,6 @@
           "start": "01:23:12",
           "start_seconds": 4992,
           "title": "Relationships / Leadership"
-        },
-        {
-          "start": "01:25:16",
-          "start_seconds": 5116,
-          "title": "Outro"
         }
       ],
       "quotes": [
@@ -8016,7 +8101,7 @@
         {
           "start": "00:00:00",
           "start_seconds": 0,
-          "title": "Jacob cold open — Helga Pataki intro"
+          "title": "Host open — Cannabis, World & Episodes"
         },
         {
           "start": "00:01:50",
@@ -8102,11 +8187,6 @@
           "start": "01:06:56",
           "start_seconds": 4016,
           "title": "What the world needs — more love"
-        },
-        {
-          "start": "01:08:52",
-          "start_seconds": 4132,
-          "title": "Outro — listener CTA"
         }
       ],
       "quotes": [
@@ -8147,14 +8227,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:00",
-          "start_seconds": 0,
+          "start": "00:01:08",
+          "start_seconds": 68,
           "title": "Opening clip — preventative mental health"
-        },
-        {
-          "start": "00:00:47",
-          "start_seconds": 47,
-          "title": "Knowledge is power bumper"
         },
         {
           "start": "00:02:06",
@@ -8225,11 +8300,6 @@
           "start": "00:51:50",
           "start_seconds": 3110,
           "title": "Beautiful / Heather"
-        },
-        {
-          "start": "00:58:14",
-          "start_seconds": 3494,
-          "title": "Outro — water / self-love CTA"
         }
       ],
       "quotes": [
@@ -8274,11 +8344,6 @@
         }
       ],
       "chapters": [
-        {
-          "start": "00:00:08",
-          "start_seconds": 8,
-          "title": "Opening bumper — Junkyard Love"
-        },
         {
           "start": "00:01:10",
           "start_seconds": 70,
@@ -8363,11 +8428,6 @@
           "start": "01:29:11",
           "start_seconds": 5351,
           "title": "What the world needs — soft skills / psychology"
-        },
-        {
-          "start": "01:32:13",
-          "start_seconds": 5533,
-          "title": "Outro — water / mobility / self-love CTA"
         }
       ],
       "quotes": [
@@ -8434,11 +8494,6 @@
         }
       ],
       "chapters": [
-        {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening bumper — Junkyard Love"
-        },
         {
           "start": "00:01:07",
           "start_seconds": 67,
@@ -8523,11 +8578,6 @@
           "start": "02:04:20",
           "start_seconds": 7460,
           "title": "Alan Watts backwards law / self-help"
-        },
-        {
-          "start": "02:17:17",
-          "start_seconds": 8237,
-          "title": "Outro — water / cancel / breathe"
         }
       ],
       "quotes": [
@@ -8591,11 +8641,6 @@
         }
       ],
       "chapters": [
-        {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening bumper — Junkyard Love"
-        },
         {
           "start": "00:02:00",
           "start_seconds": 120,
@@ -8665,11 +8710,6 @@
           "start": "00:50:54",
           "start_seconds": 3054,
           "title": "Pushing All"
-        },
-        {
-          "start": "00:55:39",
-          "start_seconds": 3339,
-          "title": "Outro — drink water"
         }
       ],
       "quotes": [
@@ -8716,19 +8756,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:01",
-          "start_seconds": 1,
-          "title": "Jacob YouTube intro — late start / fasting note"
-        },
-        {
-          "start": "00:01:50",
-          "start_seconds": 110,
-          "title": "Opening bumper — Junkyard Love"
-        },
-        {
           "start": "00:03:31",
           "start_seconds": 211,
-          "title": "Into the conversation — fasting / nutrition"
+          "title": "Jacob YouTube intro — late start / fasting note"
         },
         {
           "start": "00:06:34",
@@ -8806,19 +8836,9 @@
           "title": "Vulgar It'll"
         },
         {
-          "start": "01:48:34",
-          "start_seconds": 6514,
-          "title": "Close — what's next for Megan"
-        },
-        {
           "start": "01:50:29",
           "start_seconds": 6629,
           "title": "Megan — live events / presence / synchronicities"
-        },
-        {
-          "start": "01:54:40",
-          "start_seconds": 6880,
-          "title": "Outro — water / social media / love yourself"
         }
       ],
       "quotes": [
@@ -8868,11 +8888,6 @@
         }
       ],
       "chapters": [
-        {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening bumper — Junkyard Love"
-        },
         {
           "start": "00:01:16",
           "start_seconds": 76,
@@ -8972,11 +8987,6 @@
           "start": "01:55:52",
           "start_seconds": 6952,
           "title": "What the world needs — discipline"
-        },
-        {
-          "start": "01:59:36",
-          "start_seconds": 7176,
-          "title": "Outro — water / self-love / discipline CTA"
         }
       ],
       "quotes": [
@@ -9038,9 +9048,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:00",
-          "start_seconds": 0,
-          "title": "Opening — Jacob solo preface"
+          "start": "00:01:07",
+          "start_seconds": 67,
+          "title": "Host open — Dealing, Beauty & Ryan"
         },
         {
           "start": "00:02:13",
@@ -9146,11 +9156,6 @@
           "start": "02:25:38",
           "start_seconds": 8738,
           "title": "Life Goes"
-        },
-        {
-          "start": "02:34:10",
-          "start_seconds": 9250,
-          "title": "Outro — take care / much love"
         }
       ],
       "quotes": [
@@ -9210,14 +9215,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening bumper — Junkyard Love"
-        },
-        {
           "start": "00:01:32",
           "start_seconds": 92,
-          "title": "Nicotine / quitting smoking"
+          "title": "Host open — Smoking, Cigarette & Though"
         },
         {
           "start": "00:04:11",
@@ -9298,11 +9298,6 @@
           "start": "01:46:05",
           "start_seconds": 6365,
           "title": "No one will do it for you — go get it"
-        },
-        {
-          "start": "01:46:47",
-          "start_seconds": 6407,
-          "title": "Outro"
         }
       ],
       "quotes": [
@@ -9355,9 +9350,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:00",
-          "start_seconds": 0,
-          "title": "Intro"
+          "start": "00:01:18",
+          "start_seconds": 78,
+          "title": "Host open — Sense, Trying & Conversation"
         },
         {
           "start": "00:07:24",
@@ -9410,11 +9405,6 @@
           "title": "No One Can Be Any Different"
         },
         {
-          "start": "00:43:50",
-          "start_seconds": 2630,
-          "title": "What If"
-        },
-        {
           "start": "00:44:26",
           "start_seconds": 2666,
           "title": "Thinking Out Loud"
@@ -9433,11 +9423,6 @@
           "start": "00:47:13",
           "start_seconds": 2833,
           "title": "Psychedelic Experiences"
-        },
-        {
-          "start": "00:47:49",
-          "start_seconds": 2869,
-          "title": "Perception"
         },
         {
           "start": "00:50:01",
@@ -9468,6 +9453,46 @@
           "start": "00:57:44",
           "start_seconds": 3464,
           "title": "The pain of the moment"
+        },
+        {
+          "start": "01:13:41",
+          "start_seconds": 4421,
+          "title": "Hard Work"
+        },
+        {
+          "start": "01:23:03",
+          "start_seconds": 4983,
+          "title": "Compassion amid conflicting realities"
+        },
+        {
+          "start": "01:46:10",
+          "start_seconds": 6370,
+          "title": "I've I've"
+        },
+        {
+          "start": "01:51:26",
+          "start_seconds": 6686,
+          "title": "Victim mindset / projection"
+        },
+        {
+          "start": "01:59:36",
+          "start_seconds": 7176,
+          "title": "Within / Human"
+        },
+        {
+          "start": "02:13:13",
+          "start_seconds": 7993,
+          "title": "Easily inspired / building the self"
+        },
+        {
+          "start": "02:28:44",
+          "start_seconds": 8924,
+          "title": "What's World"
+        },
+        {
+          "start": "02:37:00",
+          "start_seconds": 9420,
+          "title": "Expose Myself"
         }
       ],
       "quotes": [
@@ -9532,9 +9557,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening bumper — Junkyard Love"
+          "start": "00:01:30",
+          "start_seconds": 90,
+          "title": "Host open — Yourself, Keep & Jaycie"
         },
         {
           "start": "00:02:34",
@@ -9640,11 +9665,6 @@
           "start": "02:01:15",
           "start_seconds": 7275,
           "title": "Intuitive / Finding"
-        },
-        {
-          "start": "02:03:10",
-          "start_seconds": 7390,
-          "title": "Outro — drink water / get present"
         }
       ],
       "quotes": [
@@ -9712,7 +9732,12 @@
         {
           "start": "00:00:00",
           "start_seconds": 0,
-          "title": "Intro / Tim performs an original song"
+          "title": "Host open — Song, Background & Trying"
+        },
+        {
+          "start": "00:01:50",
+          "start_seconds": 110,
+          "title": "Tim performs an original song"
         },
         {
           "start": "00:07:56",
@@ -9720,14 +9745,84 @@
           "title": "When Did You First Write Your First Song"
         },
         {
+          "start": "00:16:46",
+          "start_seconds": 1006,
+          "title": "Brother Brother Law"
+        },
+        {
+          "start": "00:24:33",
+          "start_seconds": 1473,
+          "title": "Creating / Writing"
+        },
+        {
+          "start": "00:29:31",
+          "start_seconds": 1771,
+          "title": "Music as emotional outlet"
+        },
+        {
+          "start": "00:37:46",
+          "start_seconds": 2266,
+          "title": "Background / Alcohol"
+        },
+        {
+          "start": "00:45:41",
+          "start_seconds": 2741,
+          "title": "Liquor Expo"
+        },
+        {
+          "start": "00:53:40",
+          "start_seconds": 3220,
+          "title": "Alcohol / Breaks"
+        },
+        {
           "start": "01:00:55",
           "start_seconds": 3655,
           "title": "First Sip of Alcohol"
         },
         {
+          "start": "01:08:38",
+          "start_seconds": 4118,
+          "title": "Conspiracy, Country & Died"
+        },
+        {
+          "start": "01:11:39",
+          "start_seconds": 4299,
+          "title": "Beginning, States & Country"
+        },
+        {
+          "start": "01:15:20",
+          "start_seconds": 4520,
+          "title": "COVID drive-through strip club"
+        },
+        {
+          "start": "01:26:06",
+          "start_seconds": 5166,
+          "title": "Working at Mercedes-Benz"
+        },
+        {
           "start": "01:29:10",
           "start_seconds": 5350,
           "title": "Where Where Is Mercedes at with Autonomous Vehicles"
+        },
+        {
+          "start": "01:37:23",
+          "start_seconds": 5843,
+          "title": "Technology / Yourself"
+        },
+        {
+          "start": "01:42:45",
+          "start_seconds": 6165,
+          "title": "Conspiracies & sense-making"
+        },
+        {
+          "start": "01:50:59",
+          "start_seconds": 6659,
+          "title": "Country / Guy"
+        },
+        {
+          "start": "01:54:10",
+          "start_seconds": 6850,
+          "title": "What does the world need more of?"
         }
       ],
       "quotes": [
@@ -9771,11 +9866,6 @@
       ],
       "chapters": [
         {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening bumper — Junkyard Love"
-        },
-        {
           "start": "00:01:51",
           "start_seconds": 111,
           "title": "What have you been up to"
@@ -9803,7 +9893,7 @@
         {
           "start": "00:14:22",
           "start_seconds": 862,
-          "title": "Open with sexuality / LA assignment"
+          "title": "Environment, Authentic & Pressures"
         },
         {
           "start": "00:15:19",
@@ -9853,7 +9943,7 @@
         {
           "start": "00:55:22",
           "start_seconds": 3322,
-          "title": "Open mic night for being yourself"
+          "title": "Music, Listening & Interesting"
         },
         {
           "start": "01:02:16",
@@ -9869,11 +9959,6 @@
           "start": "01:10:42",
           "start_seconds": 4242,
           "title": "What does the world need more of?"
-        },
-        {
-          "start": "01:17:01",
-          "start_seconds": 4621,
-          "title": "Outro — CTA"
         }
       ],
       "quotes": [
@@ -9932,11 +10017,6 @@
         }
       ],
       "chapters": [
-        {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening bumper — Junkyard Love"
-        },
         {
           "start": "00:02:00",
           "start_seconds": 120,
@@ -10031,11 +10111,6 @@
           "start": "01:30:07",
           "start_seconds": 5407,
           "title": "Unapologetic patience"
-        },
-        {
-          "start": "01:33:15",
-          "start_seconds": 5595,
-          "title": "Outro — CTA"
         }
       ],
       "quotes": [
@@ -10098,11 +10173,6 @@
         }
       ],
       "chapters": [
-        {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening bumper — Junkyard Love"
-        },
         {
           "start": "00:02:46",
           "start_seconds": 166,
@@ -10182,11 +10252,6 @@
           "start": "00:58:45",
           "start_seconds": 3525,
           "title": "Change / World"
-        },
-        {
-          "start": "01:07:52",
-          "start_seconds": 4072,
-          "title": "Outro — water & get a dog"
         }
       ],
       "quotes": [
@@ -10234,11 +10299,6 @@
         }
       ],
       "chapters": [
-        {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening bumper — Junkyard Love"
-        },
         {
           "start": "00:01:21",
           "start_seconds": 81,
@@ -10348,11 +10408,6 @@
           "start": "02:03:48",
           "start_seconds": 7428,
           "title": "Understand yourself / understand others"
-        },
-        {
-          "start": "02:06:18",
-          "start_seconds": 7578,
-          "title": "Outro — drink water / get present"
         }
       ],
       "quotes": [
@@ -10416,19 +10471,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening bumper — Junkyard Love"
-        },
-        {
-          "start": "00:01:20",
-          "start_seconds": 80,
+          "start": "00:02:00",
+          "start_seconds": 120,
           "title": "Guest intro — Trevor May"
-        },
-        {
-          "start": "00:02:36",
-          "start_seconds": 156,
-          "title": "Major leagues milestone / big purchase"
         },
         {
           "start": "00:03:22",
@@ -10459,11 +10504,6 @@
           "start": "00:37:44",
           "start_seconds": 2264,
           "title": "Esports brand / online communities"
-        },
-        {
-          "start": "00:43:54",
-          "start_seconds": 2634,
-          "title": "Meditation / closing stress loops"
         },
         {
           "start": "00:45:23",
@@ -10524,11 +10564,6 @@
           "start": "01:57:15",
           "start_seconds": 7035,
           "title": "Find that purpose"
-        },
-        {
-          "start": "01:58:47",
-          "start_seconds": 7127,
-          "title": "Outro CTA — water / stretch / purpose"
         }
       ],
       "quotes": [
@@ -10601,14 +10636,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Open — Junkyard Love bumper / better conversations"
-        },
-        {
           "start": "00:02:30",
           "start_seconds": 150,
-          "title": "What I gave up / daily commitments (water, write, yoga, run)"
+          "title": "Host open — Coffee, Caffeine & Days"
         },
         {
           "start": "00:03:48",
@@ -10674,11 +10704,6 @@
           "start": "01:26:22",
           "start_seconds": 5182,
           "title": "Invite — next Sober October / stick to your guns"
-        },
-        {
-          "start": "01:31:54",
-          "start_seconds": 5514,
-          "title": "Outro — Instagram @jacobfromtheinternet / self-actualization"
         }
       ],
       "quotes": [
@@ -10729,9 +10754,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening bumper — Junkyard Love"
+          "start": "00:00:34",
+          "start_seconds": 34,
+          "title": "Host open — Human, Each & Progress"
         },
         {
           "start": "00:03:40",
@@ -10819,11 +10844,6 @@
           "title": "Ethics / values / studying philosophy"
         },
         {
-          "start": "01:29:33",
-          "start_seconds": 5373,
-          "title": "Close — series will continue"
-        },
-        {
           "start": "01:30:39",
           "start_seconds": 5439,
           "title": "Sense-making crisis / personal responsibility"
@@ -10837,11 +10857,6 @@
           "start": "01:32:26",
           "start_seconds": 5546,
           "title": "YouTube as free curiosity school"
-        },
-        {
-          "start": "01:33:18",
-          "start_seconds": 5598,
-          "title": "Outro — stretch / water / peace"
         }
       ],
       "quotes": [
@@ -10901,11 +10916,6 @@
         }
       ],
       "chapters": [
-        {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening bumper — Junkyard Love"
-        },
         {
           "start": "00:01:39",
           "start_seconds": 99,
@@ -11015,11 +11025,6 @@
           "start": "02:04:58",
           "start_seconds": 7498,
           "title": "Fantastic / People's"
-        },
-        {
-          "start": "02:14:18",
-          "start_seconds": 8058,
-          "title": "Outro CTA — water / hit up Conner"
         }
       ],
       "quotes": [
@@ -11077,11 +11082,6 @@
         }
       ],
       "chapters": [
-        {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening bumper — Junkyard Love"
-        },
         {
           "start": "00:02:21",
           "start_seconds": 141,
@@ -11186,11 +11186,6 @@
           "start": "01:57:10",
           "start_seconds": 7030,
           "title": "Learning / Yourself"
-        },
-        {
-          "start": "02:08:19",
-          "start_seconds": 7699,
-          "title": "Outro CTA — water / self-love"
         }
       ],
       "quotes": [
@@ -11254,9 +11249,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening bumper — Junkyard Love"
+          "start": "00:01:26",
+          "start_seconds": 86,
+          "title": "Host open — Year, Money & Water"
         },
         {
           "start": "00:02:12",
@@ -11267,11 +11262,6 @@
           "start": "00:03:18",
           "start_seconds": 198,
           "title": "Into conversation — pandemic / stimulus"
-        },
-        {
-          "start": "00:03:52",
-          "start_seconds": 232,
-          "title": "Conspiracy rabbit holes / Illuminati"
         },
         {
           "start": "00:07:10",
@@ -11309,11 +11299,6 @@
           "title": "Trevir — treatment / fatherhood"
         },
         {
-          "start": "00:27:33",
-          "start_seconds": 1653,
-          "title": "Trevir — Desmond saved me / recovery"
-        },
-        {
           "start": "00:47:56",
           "start_seconds": 2876,
           "title": "Jasmine — photography journey"
@@ -11337,11 +11322,6 @@
           "start": "01:58:36",
           "start_seconds": 7116,
           "title": "Years ago / grocery-store stories"
-        },
-        {
-          "start": "02:07:54",
-          "start_seconds": 7674,
-          "title": "Outro — love yourselves / peace out"
         }
       ],
       "quotes": [
@@ -11403,19 +11383,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening bumper — Junkyard Love"
-        },
-        {
-          "start": "00:01:28",
-          "start_seconds": 88,
-          "title": "Live check / stream delay"
-        },
-        {
           "start": "00:02:36",
           "start_seconds": 156,
-          "title": "Guest intro — Brian / Glow In The Dark"
+          "title": "Live check / stream delay"
         },
         {
           "start": "00:03:48",
@@ -11531,11 +11501,6 @@
           "start": "02:41:02",
           "start_seconds": 9662,
           "title": "Every Song Plays He's"
-        },
-        {
-          "start": "02:46:35",
-          "start_seconds": 9995,
-          "title": "Outro — you're worth it"
         }
       ],
       "quotes": [
@@ -11594,11 +11559,6 @@
         }
       ],
       "chapters": [
-        {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening bumper — Junkyard Love"
-        },
         {
           "start": "00:01:37",
           "start_seconds": 97,
@@ -11673,11 +11633,6 @@
           "start": "00:53:11",
           "start_seconds": 3191,
           "title": "Understanding / Learning"
-        },
-        {
-          "start": "00:58:11",
-          "start_seconds": 3491,
-          "title": "Outro — knowledge is power"
         }
       ],
       "quotes": [
@@ -11722,9 +11677,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening bumper — Junkyard Love"
+          "start": "00:01:29",
+          "start_seconds": 89,
+          "title": "Host open — October, Yourself & Sober"
         },
         {
           "start": "00:03:24",
@@ -11845,11 +11800,6 @@
           "start": "02:34:27",
           "start_seconds": 9267,
           "title": "Turned Music Driving"
-        },
-        {
-          "start": "02:41:30",
-          "start_seconds": 9690,
-          "title": "Outro — peace out"
         }
       ],
       "quotes": [
@@ -11911,9 +11861,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening bumper — Junkyard Love"
+          "start": "00:01:43",
+          "start_seconds": 103,
+          "title": "Host open — Experience, Rikki & Sleep"
         },
         {
           "start": "00:10:51",
@@ -11999,11 +11949,6 @@
           "start": "02:02:36",
           "start_seconds": 7356,
           "title": "Aliens Ufos Alternate Realities"
-        },
-        {
-          "start": "02:04:45",
-          "start_seconds": 7485,
-          "title": "Outro — get outside / stretch"
         }
       ],
       "quotes": [
@@ -12068,9 +12013,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening — Junkyard Love / Barnacle Boy / host poem & lo-fi"
+          "start": "00:01:26",
+          "start_seconds": 86,
+          "title": "Host open — Grow, Towards & Choice"
         },
         {
           "start": "00:04:02",
@@ -12086,11 +12031,6 @@
           "start": "00:07:35",
           "start_seconds": 455,
           "title": "Background — changing attitude / weight"
-        },
-        {
-          "start": "00:15:58",
-          "start_seconds": 958,
-          "title": "Starts Theme"
         },
         {
           "start": "00:19:21",
@@ -12176,11 +12116,6 @@
           "start": "01:50:09",
           "start_seconds": 6609,
           "title": "Balance — girlfriend Rachel / gym life"
-        },
-        {
-          "start": "01:58:22",
-          "start_seconds": 7102,
-          "title": "Outro — get in the gym / drink water"
         }
       ],
       "quotes": [
@@ -12234,24 +12169,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening bumper — Junkyard Love"
-        },
-        {
-          "start": "00:07:41",
-          "start_seconds": 461,
+          "start": "00:13:07",
+          "start_seconds": 787,
           "title": "Experience / Themselves"
-        },
-        {
-          "start": "00:12:07",
-          "start_seconds": 727,
-          "title": "Host close of intro — permission / believe in yourself"
-        },
-        {
-          "start": "00:13:12",
-          "start_seconds": 792,
-          "title": "Post-Reiki — first session experience"
         },
         {
           "start": "00:18:59",
@@ -12337,16 +12257,6 @@
           "start": "02:04:02",
           "start_seconds": 7442,
           "title": "Twin flame / partnerships / frequency"
-        },
-        {
-          "start": "02:09:55",
-          "start_seconds": 7795,
-          "title": "Outro contact — celestial gypsy witch"
-        },
-        {
-          "start": "02:10:59",
-          "start_seconds": 7859,
-          "title": "Outro — drink water / get present"
         }
       ],
       "quotes": [
@@ -12401,19 +12311,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening bumper — Junkyard Love"
-        },
-        {
-          "start": "00:01:42",
-          "start_seconds": 102,
-          "title": "Host close of intro — drink water"
-        },
-        {
           "start": "00:02:50",
           "start_seconds": 170,
-          "title": "Quarantine / work-from-home counselor life"
+          "title": "Home, School & Work"
         },
         {
           "start": "00:06:34",
@@ -12429,11 +12329,6 @@
           "start": "00:17:35",
           "start_seconds": 1055,
           "title": "Chameleon personality / evolving friendships"
-        },
-        {
-          "start": "00:25:29",
-          "start_seconds": 1529,
-          "title": "Older Theme"
         },
         {
           "start": "00:28:36",
@@ -12504,11 +12399,6 @@
           "start": "01:54:40",
           "start_seconds": 6880,
           "title": "Give power to the positive"
-        },
-        {
-          "start": "01:56:06",
-          "start_seconds": 6966,
-          "title": "Outro — share / see you next"
         }
       ],
       "quotes": [
@@ -12563,9 +12453,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening bumper — camping / phone intro"
+          "start": "00:01:37",
+          "start_seconds": 97,
+          "title": "Host open — Contempt, Country & Society"
         },
         {
           "start": "00:06:08",
@@ -12666,11 +12556,6 @@
           "start": "01:49:18",
           "start_seconds": 6558,
           "title": "Feeding / Life"
-        },
-        {
-          "start": "01:57:48",
-          "start_seconds": 7068,
-          "title": "Outro — share / drink water / peace out"
         }
       ],
       "quotes": [
@@ -12746,9 +12631,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:02",
-          "start_seconds": 2,
-          "title": "Opening"
+          "start": "00:00:51",
+          "start_seconds": 51,
+          "title": "Host open — Order, Universal & Entire"
         },
         {
           "start": "00:06:24",
@@ -12859,11 +12744,6 @@
           "start": "02:33:11",
           "start_seconds": 9191,
           "title": "Everyone you meet knows something"
-        },
-        {
-          "start": "02:35:17",
-          "start_seconds": 9317,
-          "title": "Outro — get present / peace out"
         }
       ],
       "quotes": [
@@ -12913,11 +12793,6 @@
         }
       ],
       "chapters": [
-        {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening bumper — better conversations"
-        },
         {
           "start": "00:01:29",
           "start_seconds": 89,
@@ -13017,11 +12892,6 @@
           "start": "02:02:26",
           "start_seconds": 7346,
           "title": "Listening / Better"
-        },
-        {
-          "start": "02:05:37",
-          "start_seconds": 7537,
-          "title": "Outro — Mixcloud / take care / peace out"
         }
       ],
       "quotes": [
@@ -13087,9 +12957,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Open — Junkyard Love bumper / knowledge is power"
+          "start": "00:02:32",
+          "start_seconds": 152,
+          "title": "Host open — Might, Learning & Change"
         },
         {
           "start": "00:04:55",
@@ -13190,11 +13060,6 @@
           "start": "02:04:45",
           "start_seconds": 7485,
           "title": "Boundaries / not staying reactive"
-        },
-        {
-          "start": "02:09:34",
-          "start_seconds": 7774,
-          "title": "Outro — mindfulness / learn on YouTube / take care"
         }
       ],
       "quotes": [
@@ -13256,11 +13121,6 @@
         }
       ],
       "chapters": [
-        {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening bumper — better conversations"
-        },
         {
           "start": "00:01:43",
           "start_seconds": 103,
@@ -13355,11 +13215,6 @@
           "start": "01:27:05",
           "start_seconds": 5225,
           "title": "Faith in humanity / optimistic close"
-        },
-        {
-          "start": "01:28:14",
-          "start_seconds": 5294,
-          "title": "Outro — drink water / stretch / bye"
         }
       ],
       "quotes": [
@@ -13486,7 +13341,7 @@
         {
           "start": "00:57:36",
           "start_seconds": 3456,
-          "title": "Open mics / putting yourself out there"
+          "title": "Comedy, Kinds & Shows"
         },
         {
           "start": "01:01:36",
@@ -13522,11 +13377,6 @@
           "start": "01:36:47",
           "start_seconds": 5807,
           "title": "Skating / Joseph"
-        },
-        {
-          "start": "01:42:36",
-          "start_seconds": 6156,
-          "title": "Outro — crumb_guzzler / Stay In Prison / drink water"
         }
       ],
       "quotes": [
@@ -13594,9 +13444,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening bumper — Junkyard Love"
+          "start": "00:01:49",
+          "start_seconds": 109,
+          "title": "Host open — Listening, Jessica & Mackenzie"
         },
         {
           "start": "00:02:43",
@@ -13702,11 +13552,6 @@
           "start": "02:20:25",
           "start_seconds": 8425,
           "title": "Glass table talks / friendship"
-        },
-        {
-          "start": "02:29:36",
-          "start_seconds": 8976,
-          "title": "Outro — love yourself / wash your hands"
         }
       ],
       "quotes": [
@@ -13759,11 +13604,6 @@
         }
       ],
       "chapters": [
-        {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening — Junkyard Love bumper / Closer to Truth rec"
-        },
         {
           "start": "00:01:53",
           "start_seconds": 113,
@@ -13858,11 +13698,6 @@
           "start": "02:03:26",
           "start_seconds": 7406,
           "title": "Corona Virus Lead"
-        },
-        {
-          "start": "02:11:49",
-          "start_seconds": 7909,
-          "title": "Outro — get present / share / take care"
         }
       ],
       "quotes": [
@@ -13925,11 +13760,6 @@
         }
       ],
       "chapters": [
-        {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening — Junkyard Love bumper / Jordan Greenhall Deep Code rec"
-        },
         {
           "start": "00:01:47",
           "start_seconds": 107,
@@ -14019,11 +13849,6 @@
           "start": "01:27:17",
           "start_seconds": 5237,
           "title": "Identity / attachment to jobs / career change"
-        },
-        {
-          "start": "01:31:47",
-          "start_seconds": 5507,
-          "title": "Outro — thanks / Brandon plugs JYLP"
         }
       ],
       "quotes": [
@@ -14083,9 +13908,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening — Junkyard Love bumper / take-care recommendation"
+          "start": "00:01:53",
+          "start_seconds": 113,
+          "title": "Host open — Yourself, Feeling & Care"
         },
         {
           "start": "00:04:15",
@@ -14171,11 +13996,6 @@
           "start": "01:14:50",
           "start_seconds": 4490,
           "title": "Important / Outside"
-        },
-        {
-          "start": "01:18:02",
-          "start_seconds": 4682,
-          "title": "Outro — thanks / Rosetan plugs / take care"
         }
       ],
       "quotes": [
@@ -14333,11 +14153,6 @@
           "start": "01:09:55",
           "start_seconds": 4195,
           "title": "Fantasy / Witcher / playground for the mind"
-        },
-        {
-          "start": "01:11:57",
-          "start_seconds": 4317,
-          "title": "Outro — posture / listeners close"
         }
       ],
       "quotes": [
@@ -14397,11 +14212,6 @@
         }
       ],
       "chapters": [
-        {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening bumper — Junkyard Love"
-        },
         {
           "start": "00:02:07",
           "start_seconds": 127,
@@ -14526,11 +14336,6 @@
           "start": "02:17:07",
           "start_seconds": 8227,
           "title": "Happiness without money stories"
-        },
-        {
-          "start": "02:20:09",
-          "start_seconds": 8409,
-          "title": "Outro — drink water / get present"
         }
       ],
       "quotes": [
@@ -14583,11 +14388,6 @@
         }
       ],
       "chapters": [
-        {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening bumper — Junkyard Love"
-        },
         {
           "start": "00:03:29",
           "start_seconds": 209,
@@ -14682,11 +14482,6 @@
           "start": "02:23:11",
           "start_seconds": 8591,
           "title": "Enneagram 4"
-        },
-        {
-          "start": "02:29:32",
-          "start_seconds": 8972,
-          "title": "Outro — grit / emotional toolkit / water"
         }
       ],
       "quotes": [
@@ -14745,9 +14540,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening bumper — Junkyard Love"
+          "start": "00:01:53",
+          "start_seconds": 113,
+          "title": "Haflife, Comes & Place"
         },
         {
           "start": "00:05:32",
@@ -14878,11 +14673,6 @@
           "start": "02:36:44",
           "start_seconds": 9404,
           "title": "Where to find Ryan / HAFLife ENT"
-        },
-        {
-          "start": "02:38:07",
-          "start_seconds": 9487,
-          "title": "Outro — drink water"
         }
       ],
       "quotes": [
@@ -14939,11 +14729,6 @@
         }
       ],
       "chapters": [
-        {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening bumper — Junkyard Love"
-        },
         {
           "start": "00:00:59",
           "start_seconds": 59,
@@ -15053,11 +14838,6 @@
           "start": "01:29:16",
           "start_seconds": 5356,
           "title": "New levels / new devils"
-        },
-        {
-          "start": "01:31:46",
-          "start_seconds": 5506,
-          "title": "Outro — subscribe / share"
         }
       ],
       "quotes": [
@@ -15216,11 +14996,6 @@
           "start": "01:26:02",
           "start_seconds": 5162,
           "title": "Vangelis / Blade Runner sound design"
-        },
-        {
-          "start": "01:26:49",
-          "start_seconds": 5209,
-          "title": "Outro — thanks / braved the plague"
         }
       ],
       "quotes": [
@@ -15279,11 +15054,6 @@
         }
       ],
       "chapters": [
-        {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening bumper — Junkyard Love"
-        },
         {
           "start": "00:01:54",
           "start_seconds": 114,
@@ -15363,11 +15133,6 @@
           "start": "01:31:21",
           "start_seconds": 5481,
           "title": "Yourself / World"
-        },
-        {
-          "start": "01:36:08",
-          "start_seconds": 5768,
-          "title": "Outro — struggle builds you / diamonds"
         }
       ],
       "quotes": [
@@ -15426,11 +15191,6 @@
         }
       ],
       "chapters": [
-        {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Open — host bumper / recommendation"
-        },
         {
           "start": "00:01:26",
           "start_seconds": 86,
@@ -15500,16 +15260,6 @@
           "start": "01:29:18",
           "start_seconds": 5358,
           "title": "Don't Medication Wis"
-        },
-        {
-          "start": "01:36:39",
-          "start_seconds": 5799,
-          "title": "Soul Sparkin / closing reflections"
-        },
-        {
-          "start": "01:42:19",
-          "start_seconds": 6139,
-          "title": "Outro — water / fresh air / six feet"
         }
       ],
       "quotes": [
@@ -15569,14 +15319,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Open — host bumper"
-        },
-        {
           "start": "00:01:40",
           "start_seconds": 100,
-          "title": "Welcome Kelly"
+          "title": "Touch, Subjects & Perfect"
         },
         {
           "start": "00:03:29",
@@ -15677,16 +15422,6 @@
           "start": "01:35:47",
           "start_seconds": 5747,
           "title": "Archimedes / Eureka story"
-        },
-        {
-          "start": "01:41:26",
-          "start_seconds": 6086,
-          "title": "Outro — Eureka / debug yourself"
-        },
-        {
-          "start": "01:42:19",
-          "start_seconds": 6139,
-          "title": "Outro — Eureka / debug yourself"
         }
       ],
       "quotes": [
@@ -15746,11 +15481,6 @@
         }
       ],
       "chapters": [
-        {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Intro"
-        },
         {
           "start": "00:01:17",
           "start_seconds": 77,
@@ -15844,7 +15574,7 @@
         {
           "start": "00:42:16",
           "start_seconds": 2536,
-          "title": "Anxiety"
+          "title": "Anxiety, Shows & Control"
         },
         {
           "start": "00:44:45",
@@ -15920,11 +15650,6 @@
           "start": "01:36:14",
           "start_seconds": 5774,
           "title": "Relationships without forcing meaning"
-        },
-        {
-          "start": "01:40:38",
-          "start_seconds": 6038,
-          "title": "Outro — peace out"
         }
       ],
       "quotes": [
@@ -15978,8 +15703,8 @@
       ],
       "chapters": [
         {
-          "start": "00:00:06",
-          "start_seconds": 6,
+          "start": "00:01:30",
+          "start_seconds": 90,
           "title": "Opening — Junkyard Love / Mackenzie"
         },
         {
@@ -16046,16 +15771,6 @@
           "start": "01:29:09",
           "start_seconds": 5349,
           "title": "Bucket lists / Red Rocks dreams"
-        },
-        {
-          "start": "01:38:01",
-          "start_seconds": 5881,
-          "title": "Favorites, friends & closing stories"
-        },
-        {
-          "start": "01:46:41",
-          "start_seconds": 6401,
-          "title": "Outro — drink water"
         }
       ],
       "quotes": [
@@ -16114,11 +15829,6 @@
         }
       ],
       "chapters": [
-        {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Open — host bumper / Tara Brach recommendation"
-        },
         {
           "start": "00:01:31",
           "start_seconds": 91,
@@ -16218,11 +15928,6 @@
           "start": "02:19:13",
           "start_seconds": 8353,
           "title": "Basketball / Coffee"
-        },
-        {
-          "start": "02:26:45",
-          "start_seconds": 8805,
-          "title": "Outro — Roots shout-outs / close"
         }
       ],
       "quotes": [
@@ -16291,9 +15996,9 @@
       ],
       "chapters": [
         {
-          "start": "00:00:00",
-          "start_seconds": 0,
-          "title": "Opening bumper — Junkyard Love"
+          "start": "00:01:45",
+          "start_seconds": 105,
+          "title": "Chakras, Start & Healing"
         },
         {
           "start": "00:03:50",
@@ -16394,11 +16099,6 @@
           "start": "02:13:38",
           "start_seconds": 8018,
           "title": "Conversations / Visualization"
-        },
-        {
-          "start": "02:21:06",
-          "start_seconds": 8466,
-          "title": "Outro — drink water / get present"
         }
       ],
       "quotes": [],
@@ -16439,11 +16139,6 @@
         }
       ],
       "chapters": [
-        {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening bumper — Junkyard Love / War of Art"
-        },
         {
           "start": "00:01:28",
           "start_seconds": 88,
@@ -16523,11 +16218,6 @@
           "start": "01:44:35",
           "start_seconds": 6275,
           "title": "Where to find Maxx / close"
-        },
-        {
-          "start": "01:48:52",
-          "start_seconds": 6532,
-          "title": "Outro — love yourselves"
         }
       ],
       "quotes": [
@@ -16586,11 +16276,6 @@
         }
       ],
       "chapters": [
-        {
-          "start": "00:00:06",
-          "start_seconds": 6,
-          "title": "Opening bumper — Junkyard Love / knowledge is power"
-        },
         {
           "start": "00:02:00",
           "start_seconds": 120,
@@ -16675,11 +16360,6 @@
           "start": "01:17:37",
           "start_seconds": 4657,
           "title": "Sensory deprivation / float tanks"
-        },
-        {
-          "start": "01:18:55",
-          "start_seconds": 4735,
-          "title": "Outro — be kind / take care of yourself"
         }
       ],
       "quotes": [
@@ -16843,11 +16523,6 @@
           "start": "01:30:56",
           "start_seconds": 5456,
           "title": "What's next / store hours / website"
-        },
-        {
-          "start": "01:33:00",
-          "start_seconds": 5580,
-          "title": "Outro — no mom drama / drink water"
         }
       ],
       "quotes": [
@@ -16907,9 +16582,14 @@
       ],
       "chapters": [
         {
-          "start": "00:00:00",
-          "start_seconds": 0,
-          "title": "Opening bumper — song \"ii\" / baseball"
+          "start": "00:01:15",
+          "start_seconds": 75,
+          "title": "Year, Baseball & Rosetan"
+        },
+        {
+          "start": "00:04:58",
+          "start_seconds": 298,
+          "title": "Band, Eric & Rosetan"
         },
         {
           "start": "00:08:50",
@@ -17040,11 +16720,6 @@
           "start": "03:09:47",
           "start_seconds": 11387,
           "title": "Community / Friends"
-        },
-        {
-          "start": "03:13:15",
-          "start_seconds": 11595,
-          "title": "Outro — do good / Junkyard Love out"
         }
       ],
       "quotes": [
@@ -17192,11 +16867,6 @@
           "start": "01:59:22",
           "start_seconds": 7162,
           "title": "Sleep, graveyard shifts & morning momentum"
-        },
-        {
-          "start": "02:03:04",
-          "start_seconds": 7384,
-          "title": "Outro — close with Megan / friendship"
         }
       ],
       "quotes": [],
@@ -17334,16 +17004,6 @@
           "start": "02:02:09",
           "start_seconds": 7329,
           "title": "Boy vs man — right time and place"
-        },
-        {
-          "start": "02:11:13",
-          "start_seconds": 7873,
-          "title": "Jake Hill collab / closing"
-        },
-        {
-          "start": "02:13:15",
-          "start_seconds": 7995,
-          "title": "Outro — stretch"
         }
       ],
       "quotes": [
@@ -17488,11 +17148,6 @@
           "start": "01:03:36",
           "start_seconds": 3816,
           "title": "Important / Life"
-        },
-        {
-          "start": "01:08:36",
-          "start_seconds": 4116,
-          "title": "Outro — Owning it / closing"
         }
       ],
       "quotes": [
@@ -17555,7 +17210,7 @@
         {
           "start": "00:00:00",
           "start_seconds": 0,
-          "title": "Opening"
+          "title": "Spencer, Learn & Touch"
         },
         {
           "start": "00:02:28",
@@ -17641,11 +17296,6 @@
           "start": "01:43:55",
           "start_seconds": 6235,
           "title": "Realizing / Thinking"
-        },
-        {
-          "start": "01:47:42",
-          "start_seconds": 6462,
-          "title": "Outro — stretch / breathe / Junkyard Love out"
         }
       ],
       "quotes": [
@@ -17787,11 +17437,6 @@
           "start": "01:05:10",
           "start_seconds": 3910,
           "title": "Clean, sober, full of life / survivor story"
-        },
-        {
-          "start": "01:11:53",
-          "start_seconds": 4313,
-          "title": "Outro — be brave / Junkyard Love out"
         }
       ],
       "quotes": [
@@ -17953,11 +17598,6 @@
           "start": "01:19:35",
           "start_seconds": 4775,
           "title": "Protecting yourself / new-mom strength"
-        },
-        {
-          "start": "01:23:21",
-          "start_seconds": 5001,
-          "title": "Outro — postpartum, mom-shaming, Junkyard Love out"
         }
       ],
       "quotes": [
@@ -18020,12 +17660,7 @@
         {
           "start": "00:00:00",
           "start_seconds": 0,
-          "title": "Intro"
-        },
-        {
-          "start": "00:00:29",
-          "start_seconds": 29,
-          "title": "Bobs first 3person"
+          "title": "Bob Kendall cold open — third-person marketplace intro"
         },
         {
           "start": "00:01:49",
@@ -18121,11 +17756,6 @@
           "start": "01:01:02",
           "start_seconds": 3662,
           "title": "Being the best version of yourself"
-        },
-        {
-          "start": "01:04:54",
-          "start_seconds": 3894,
-          "title": "Outro — stretch / peace out"
         }
       ],
       "quotes": [
@@ -18278,11 +17908,6 @@
           "start": "01:33:02",
           "start_seconds": 5582,
           "title": "Posture & standing up straight"
-        },
-        {
-          "start": "01:38:28",
-          "start_seconds": 5908,
-          "title": "Outro — love the listener"
         }
       ],
       "quotes": [
@@ -18421,16 +18046,6 @@
           "start": "01:34:56",
           "start_seconds": 5696,
           "title": "Festivals / Kelly"
-        },
-        {
-          "start": "01:40:26",
-          "start_seconds": 6026,
-          "title": "Glow / closing stories"
-        },
-        {
-          "start": "01:46:04",
-          "start_seconds": 6364,
-          "title": "Outro — Glow / closing stories"
         }
       ],
       "quotes": [
@@ -18578,16 +18193,6 @@
           "start": "00:57:02",
           "start_seconds": 3422,
           "title": "Messages for listeners"
-        },
-        {
-          "start": "01:00:20",
-          "start_seconds": 3620,
-          "title": "Dark place / closing"
-        },
-        {
-          "start": "01:03:09",
-          "start_seconds": 3789,
-          "title": "Outro — Dark place / closing"
         }
       ],
       "quotes": [
@@ -18739,11 +18344,6 @@
           "start": "01:24:59",
           "start_seconds": 5099,
           "title": "Survivor mindset"
-        },
-        {
-          "start": "01:29:53",
-          "start_seconds": 5393,
-          "title": "Outro — / hope"
         }
       ],
       "quotes": [
@@ -18913,11 +18513,6 @@
           "start": "02:36:25",
           "start_seconds": 9385,
           "title": "Faul name / German pronunciation"
-        },
-        {
-          "start": "02:39:37",
-          "start_seconds": 9577,
-          "title": "Outro"
         }
       ],
       "quotes": [
@@ -19069,11 +18664,6 @@
           "start": "01:55:01",
           "start_seconds": 6901,
           "title": "One life to live / smiling for joy"
-        },
-        {
-          "start": "02:03:19",
-          "start_seconds": 7399,
-          "title": "Outro — not happy all the time / authenticity"
         }
       ],
       "quotes": [
@@ -19201,11 +18791,6 @@
           "start": "01:04:45",
           "start_seconds": 3885,
           "title": "Allergies / diet / food and cognitive function"
-        },
-        {
-          "start": "01:11:43",
-          "start_seconds": 4303,
-          "title": "Outro — trying / figuring life out / invite back"
         }
       ],
       "quotes": [
@@ -19347,11 +18932,6 @@
           "start": "01:22:02",
           "start_seconds": 4922,
           "title": "Sense / May"
-        },
-        {
-          "start": "01:26:57",
-          "start_seconds": 5217,
-          "title": "Outro — Junkyard Love thank you"
         }
       ],
       "quotes": [
@@ -19413,7 +18993,7 @@
         {
           "start": "00:00:02",
           "start_seconds": 2,
-          "title": "Opening"
+          "title": "Friend, Yourself & Ladies"
         },
         {
           "start": "00:01:06",
@@ -19433,7 +19013,7 @@
         {
           "start": "00:11:44",
           "start_seconds": 704,
-          "title": "Mindfulness"
+          "title": "Mindfulness, Perspective & Third-person"
         },
         {
           "start": "00:13:56",
@@ -19488,12 +19068,12 @@
         {
           "start": "00:48:24",
           "start_seconds": 2904,
-          "title": "Meditation"
+          "title": "Phone, Present & Moment"
         },
         {
           "start": "00:51:50",
           "start_seconds": 3110,
-          "title": "Conversation"
+          "title": "Heartened, Chemical & Dopamine"
         },
         {
           "start": "00:54:13",
@@ -19514,11 +19094,6 @@
           "start": "01:10:14",
           "start_seconds": 4214,
           "title": "Today’s a good day to die — presence"
-        },
-        {
-          "start": "01:17:46",
-          "start_seconds": 4666,
-          "title": "Outro — be conscious / have a good day"
         }
       ],
       "quotes": [
@@ -19581,7 +19156,7 @@
         {
           "start": "00:00:00",
           "start_seconds": 0,
-          "title": "Intro"
+          "title": "EYE Clothing cold open — raves & selling from the trunk"
         },
         {
           "start": "00:01:18",
@@ -19621,7 +19196,7 @@
         {
           "start": "00:24:25",
           "start_seconds": 1465,
-          "title": "Connection"
+          "title": "Shirts, Trunk & Clothing"
         },
         {
           "start": "00:28:35",
@@ -19641,17 +19216,7 @@
         {
           "start": "00:40:31",
           "start_seconds": 2431,
-          "title": "Advice"
-        },
-        {
-          "start": "00:42:25",
-          "start_seconds": 2545,
-          "title": "Outro"
-        },
-        {
-          "start": "00:43:53",
-          "start_seconds": 2633,
-          "title": "Outro — peace out"
+          "title": "Clothing, Permission & Community"
         }
       ],
       "quotes": [
@@ -19807,5 +19372,6 @@
     "social media",
     "get present",
     "better conversations"
-  ]
+  ],
+  "clip_index": "assets/clips_index.json"
 }

@@ -11,7 +11,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Open — host bumper / Tara Brach recommendation
 - [00:01:31](#t-00-01-31) — Scott on mic
 - [00:06:02](#t-00-06-02) — Roots Basketball Academy origin
 - [00:11:31](#t-00-11-31) — High school — R.A. Long / Kelso
@@ -32,7 +31,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [02:03:10](#t-02-03-10) — Conor McGregor influence
 - [02:11:14](#t-02-11-14) — Don't Land Phone
 - [02:19:13](#t-02-19-13) — Basketball / Coffee
-- [02:26:45](#t-02-26-45) — Outro — Roots shout-outs / close
 
 ## Keywords
 

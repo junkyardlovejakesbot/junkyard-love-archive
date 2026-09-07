@@ -1,1 +1,32 @@
-To skip solo intro: @11:03
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:12:05](#t-00-12-05) — Solo intro — Jacob’s at-home ketamine / BetterU framing
+- [00:13:54](#t-00-13-54) — Megan intro — BetterU, telemedicine, brain box, LA HQ
+- [00:15:54](#t-00-15-54) — Ketamine history — Spravato / costly IV clinics vs accessibility
+- [00:18:03](#t-00-18-03) — BetterU goals — affordable, quality care, not one-size-fits-all
+- [00:21:49](#t-00-21-49) — Protocol — 4 vs 8 sessions, maintenance, member portal
+- [00:26:27](#t-00-26-27) — “What we need, not what we want” / little things compound
+- [00:30:41](#t-00-30-41) — Pause before reacting / kinder internal dialogue
+- [00:36:44](#t-00-36-44) — Aftercare — don’t drive / go to work same day; let it settle
+- [00:42:31](#t-00-42-31) — Troche timing — spit vs swallow, session length, dosing ramp
+- [00:48:52](#t-00-48-52) — Meds interactions — stimulants, benzos, SSRIs / clinician dosing
+- [00:53:36](#t-00-53-36) — Food, fasting, liquids before a session
+- [00:57:44](#t-00-57-44) — Peer trip monitor role + post-session reflection
+- [01:03:34](#t-01-03-34) — How set/prep heals — journaling as “clearing the hard drive”
+- [01:07:35](#t-01-07-35) — Breath work, intentions, mantras: breathe / trust / let go / be open
+- [01:09:12](#t-01-09-12) — Music as the driver — passenger analogy
+- [01:17:28](#t-01-17-28) — Control, trust, “why get out and push”
+- [01:20:14](#t-01-20-14) — Fear of bad trips / overwhelm — stay with breath
+- [01:29:20](#t-01-29-20) — Who shouldn’t — screening, contraindications, psych history
+- [01:31:39](#t-01-31-39) — Fear of loss of control / armor & mask / mindset going in
+- [01:37:23](#t-01-37-23) — Megan’s story begins — “hold on to your seats”
+- [01:40:09](#t-01-40-09) — Nightclub shooting at 19 / modeling interrupted
+- [01:46:03](#t-01-46-03) — Rock bottom — careers, COVID, moving home
+- [01:51:54](#t-01-51-54) — Working with patients at rock bottom / shared pain patterns
+- [01:53:23](#t-01-53-23) — Mental health as journey; grace; okay to not be okay
+- [01:58:23](#t-01-58-23) — Self / personality / identity and psychedelic therapy
+- [02:06:34](#t-02-06-34) — Serious Needing
+- [02:15:01](#t-02-15-01) — Software update analogy — clear bugs, keep useful code
+- [02:25:04](#t-02-25-04) — How to get started / next steps after this episode
+- [02:30:08](#t-02-30-08) — Broader psychedelic landscape — legality, telemedicine, workforce
+- [02:41:13](#t-02-41-13) — Where to find BetterU — betterucare.com / @betterucare

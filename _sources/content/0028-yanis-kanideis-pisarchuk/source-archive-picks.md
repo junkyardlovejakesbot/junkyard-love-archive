@@ -10,7 +10,6 @@ Extracted from the YouTube auto-caption transcript, YouTube chapter markers, and
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Intro
 - [00:01:17](#t-00-01-17) — Beautiful Minds
 - [00:02:35](#t-00-02-35) — Being Enlightened
 - [00:03:59](#t-00-03-59) — Who is Yanis
@@ -29,7 +28,7 @@ Extracted from the YouTube auto-caption transcript, YouTube chapter markers, and
 - [00:29:42](#t-00-29-42) — Advice for rappers
 - [00:34:20](#t-00-34-20) — Being an introvert
 - [00:37:08](#t-00-37-08) — Stage fright
-- [00:42:16](#t-00-42-16) — Anxiety
+- [00:42:16](#t-00-42-16) — Anxiety, Shows & Control
 - [00:44:45](#t-00-44-45) — Dance Team
 - [00:47:33](#t-00-47-33) — Acting
 - [00:50:51](#t-00-50-51) — Punching walls
@@ -45,7 +44,6 @@ Extracted from the YouTube auto-caption transcript, YouTube chapter markers, and
 - [01:27:24](#t-01-27-24) — Googly eyes / change-your-mind play
 - [01:31:58](#t-01-31-58) — Darkness retreat story
 - [01:36:14](#t-01-36-14) — Relationships without forcing meaning
-- [01:40:38](#t-01-40-38) — Outro — peace out
 
 ## Keywords
 

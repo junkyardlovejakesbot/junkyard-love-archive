@@ -29,8 +29,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [01:42:43](#t-01-42-43) — Ryan as always-smiling inspiration
 - [01:50:35](#t-01-50-35) — Better / Each
 - [01:55:01](#t-01-55-01) — One life to live / smiling for joy
-- [02:03:19](#t-02-03-19) — Outro — not happy all the time / authenticity
-
 
 ## Keywords
 

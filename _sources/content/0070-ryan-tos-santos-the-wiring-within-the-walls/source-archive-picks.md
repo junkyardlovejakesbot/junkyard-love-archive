@@ -11,7 +11,7 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:00](#t-00-00-00) — Opening — Jacob solo preface
+- [00:01:07](#t-00-01-07) — Host open — Dealing, Beauty & Ryan
 - [00:02:13](#t-00-02-13) — Freedom of speech / platform risk
 - [00:08:56](#t-00-08-56) — Jacob intros Ryan 'Tos' Santos
 - [00:17:36](#t-00-17-36) — YouTube obsessions / anime
@@ -33,8 +33,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [02:10:14](#t-02-10-14) — Saying Each
 - [02:17:28](#t-02-17-28) — Wedding band / marriage
 - [02:25:38](#t-02-25-38) — Life Goes
-- [02:34:10](#t-02-34-10) — Outro — take care / much love
-
 
 ## Keywords
 

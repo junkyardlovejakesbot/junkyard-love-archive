@@ -11,7 +11,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Opening — Junkyard Love bumper / Closer to Truth rec
 - [00:01:53](#t-00-01-53) — Conversation begins
 - [00:04:36](#t-00-04-36) — Pandemic / quarantine / changing tides
 - [00:15:20](#t-00-15-20) — Politics as WWE sideshow / need for leaders
@@ -31,7 +30,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [01:47:19](#t-01-47-19) — Studies Lucid Dreaming
 - [01:55:28](#t-01-55-28) — Brandon / Experience
 - [02:03:26](#t-02-03-26) — Corona Virus Lead
-- [02:11:49](#t-02-11-49) — Outro — get present / share / take care
 
 ## Keywords
 

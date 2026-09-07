@@ -1,1 +1,29 @@
-(none published in episode notes)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:00:23](#t-00-00-23) — Opening — welcome David Crayk / high-school theatre teacher reunion
+- [00:02:58](#t-00-02-58) — Talking people off a ledge / “this is going to pass”
+- [00:06:19](#t-00-06-19) — Safe-place classroom / attracting kids who needed belonging
+- [00:08:14](#t-00-08-14) — Kelso theatre as extension of safe personhood / magical stage
+- [00:10:45](#t-00-10-45) — Rubrics 1–4 → inventing the extraordinary “five”
+- [00:12:45](#t-00-12-45) — Raising the bar / kids chase fives to the stratosphere
+- [00:16:55](#t-00-16-55) — No textbook / inventing drama games & deep-dive scenarios
+- [00:20:48](#t-00-20-48) — Class polices itself / respect for Mr. Crayk
+- [00:24:19](#t-00-24-19) — Inspired teachers vs uninspired / Greg Shook role model
+- [00:26:50](#t-00-26-50) — “Dare to be different” lifetime motto / rebel teacher target
+- [00:28:40](#t-00-28-40) — Words of affirmation / teachers’ hands tied today
+- [00:31:15](#t-00-31-15) — Reaching modern students / make class interesting & fun
+- [00:37:13](#t-00-37-13) — Advice for new teachers / stay true / learn by doing
+- [00:43:51](#t-00-43-51) — Pre-teaching path — college dropout, military, single dad
+- [00:47:03](#t-00-47-03) — Substitute teaching click / “this is what I was meant to be”
+- [00:49:27](#t-00-49-27) — Credentials, master’s degrees, first real teaching job
+- [00:52:32](#t-00-52-32) — Goals on the wall / depression / wife of 38 years
+- [00:55:46](#t-00-55-46) — Action & service as the way out of self-focus
+- [00:58:16](#t-00-58-16) — Addiction-ministry board / spiritual adviser who listens
+- [01:03:34](#t-01-03-34) — Matrix of influence / leave a piece of Dave in the world
+- [01:07:14](#t-01-07-14) — Dare-to-be-different shirts / risk of resisting the box
+- [01:12:28](#t-01-12-28) — Don’t follow the money / follow the muse
+- [01:15:32](#t-01-15-32) — Muse / poetry / co-writing “Jesus Keeps Us Straight”
+- [01:21:32](#t-01-21-32) — Creatives must create or energy turns inward/negative
+- [01:24:02](#t-01-24-02) — 27 Club idolization vs long-haul impact
+- [01:33:11](#t-01-33-11) — Scripture, prayer/meditation, disc golf, gym as practice
+- [01:35:26](#t-01-35-26) — Don’t bargain with the inner voice / listen and act

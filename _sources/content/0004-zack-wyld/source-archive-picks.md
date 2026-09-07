@@ -28,8 +28,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [01:14:19](#t-01-14-19) — Aliases and avatars for creators
 - [01:16:10](#t-01-16-10) — Photography appreciation / craft
 - [01:22:02](#t-01-22-02) — Sense / May
-- [01:26:57](#t-01-26-57) — Outro — Junkyard Love thank you
-
 
 ## Keywords
 

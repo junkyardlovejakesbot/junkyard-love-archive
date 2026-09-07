@@ -33,8 +33,6 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 - [01:09:25](#t-01-09-25) — HeartLight Charlotte / Academy legacy at 80
 - [01:11:27](#t-01-11-27) — From Sin to Zen podcast plan
 - [01:15:45](#t-01-15-45) — Pre-incarnation contracts tease / caterpillar confusion
-- [01:18:14](#t-01-18-14) — Outro — drink water / stretch / love yourselves
-
 
 ## Keywords
 

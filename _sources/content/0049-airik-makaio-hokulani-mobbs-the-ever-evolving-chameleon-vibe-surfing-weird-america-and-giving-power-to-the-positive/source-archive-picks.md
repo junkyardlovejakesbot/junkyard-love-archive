@@ -9,13 +9,10 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Opening bumper — Junkyard Love
-- [00:01:42](#t-00-01-42) — Host close of intro — drink water
-- [00:02:50](#t-00-02-50) — Quarantine / work-from-home counselor life
+- [00:02:50](#t-00-02-50) — Home, School & Work
 - [00:06:34](#t-00-06-34) — Chameleon personalities / vibe surfing
 - [00:12:26](#t-00-12-26) — High school friendships / best friends
 - [00:17:35](#t-00-17-35) — Chameleon personality / evolving friendships
-- [00:25:29](#t-00-25-29) — Older Theme
 - [00:28:36](#t-00-28-36) — Poor-kid stories / upbringing
 - [00:38:19](#t-00-38-19) — Mantra — someone always needs you
 - [00:44:45](#t-00-44-45) — Racism / Black in a white community
@@ -30,7 +27,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [01:39:20](#t-01-39-20) — They'd Bring Mac
 - [01:47:45](#t-01-47-45) — Losing Sleep
 - [01:54:40](#t-01-54-40) — Give power to the positive
-- [01:56:06](#t-01-56-06) — Outro — share / see you next
 
 ## Keywords
 

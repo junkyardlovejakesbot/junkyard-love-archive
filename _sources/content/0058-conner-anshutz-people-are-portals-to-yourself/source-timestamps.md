@@ -1,1 +1,24 @@
-(none published in episode notes)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:01:39](#t-00-01-39) — Host intro / Joe Dispenza recommendation
+- [00:02:35](#t-00-02-35) — Conversation starts — voicemail / tech futures
+- [00:05:25](#t-00-05-25) — Neuralink / consciousness
+- [00:12:40](#t-00-12-40) — AI / Skynet / Terminator
+- [00:14:51](#t-00-14-51) — Echo chambers / opinions vs facts
+- [00:22:26](#t-00-22-26) — Enlightenment Example
+- [00:27:45](#t-00-27-45) — Time relativity / cherishing moments
+- [00:35:24](#t-00-35-24) — Thoughts / Yourself
+- [00:39:19](#t-00-39-19) — Past selves / Spartan races / change
+- [00:45:04](#t-00-45-04) — Rat utopia / animal experiments / society
+- [00:48:44](#t-00-48-44) — Misery loves company / depression
+- [00:53:14](#t-00-53-14) — Cannabis legalization / altered states
+- [00:59:28](#t-00-59-28) — Depression meds / stigma / self
+- [01:06:35](#t-01-06-35) — Internalizing vs expressing / friends
+- [01:11:31](#t-01-11-31) — Friendship without streak pressure
+- [01:19:28](#t-01-19-28) — Conversation / Individual
+- [01:27:48](#t-01-27-48) — Human Death
+- [01:33:44](#t-01-33-44) — Saying yes — mountain biking stories
+- [01:41:23](#t-01-41-23) — Conversation / Perspective
+- [01:49:28](#t-01-49-28) — Conversation / Thinking
+- [01:57:13](#t-01-57-13) — Individual / Yourself
+- [02:04:58](#t-02-04-58) — Fantastic / People's

@@ -11,8 +11,7 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Opening — welcome Julie / “who are you”
-- [00:01:00](#t-00-01-00) — Julie intro — spiritual coach, 1989 awakening, Talking True, intuitive art
+- [00:01:00](#t-00-01-00) — Opening — welcome Julie / “who are you”
 - [00:03:04](#t-00-03-04) — Jacob asks for the 1989 lucid-dream story
 - [00:12:27](#t-00-12-27) — Jacob on grounding mystical talk / levelheaded presence
 - [00:13:13](#t-00-13-13) — Day after / bookstore synchronicity / teaching art / ashram shadow / drop seeking (~2016)
@@ -32,7 +31,6 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [01:12:56](#t-01-12-56) — Advice ask — message for people waking up now
 - [01:14:54](#t-01-14-54) — Horizon — guests, new book, Fine Art America / intuitive art programs
 - [01:18:01](#t-01-18-01) — Informal practice — peeling potatoes / silence in daily life
-- [01:20:31](#t-01-20-31) — Outro — gratitude / links / drink water / love yourselves
 
 ## Keywords
 

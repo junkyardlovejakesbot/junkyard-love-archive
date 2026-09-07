@@ -11,7 +11,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Opening bumper — Junkyard Love
 - [00:03:29](#t-00-03-29) — Journaling and gratitude
 - [00:11:17](#t-00-11-17) — Conversations / Feelings
 - [00:20:46](#t-00-20-46) — Unconditional love vs change
@@ -31,7 +30,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [02:11:52](#t-02-11-52) — Emotional toolkit
 - [02:19:53](#t-02-19-53) — Bring Forward
 - [02:23:11](#t-02-23-11) — Enneagram 4
-- [02:29:32](#t-02-29-32) — Outro — grit / emotional toolkit / water
 
 ## Keywords
 

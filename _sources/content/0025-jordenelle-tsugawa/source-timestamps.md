@@ -1,1 +1,23 @@
-(none published in episode notes — inventory has_timestamps=no; no YouTube chapter markers; Archive picks uses transcript-derived chapter-style timestamps)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:01:45](#t-00-01-45) — Chakras, Start & Healing
+- [00:03:50](#t-00-03-50) — Chakras / energy body
+- [00:08:06](#t-00-08-06) — Whole30 / food energy
+- [00:15:47](#t-00-15-47) — Experiences / Thinking
+- [00:18:59](#t-00-18-59) — Self-love / becoming truest self
+- [00:29:45](#t-00-29-45) — Trauma / generational experiences
+- [00:31:07](#t-00-31-07) — Forest bathing / nature healing
+- [00:34:24](#t-00-34-24) — Soul is love / fear is ego
+- [00:43:20](#t-00-43-20) — Herbalism / natural healing
+- [00:45:25](#t-00-45-25) — Meditation / visualization
+- [00:49:28](#t-00-49-28) — YOU ARE ENOUGH
+- [00:57:38](#t-00-57-38) — Few Seconds There's
+- [01:05:34](#t-01-05-34) — Travis Motocross Guy
+- [01:16:18](#t-01-16-18) — Community / glass table / close
+- [01:25:13](#t-01-25-13) — Happening / Sometimes
+- [01:33:18](#t-01-33-18) — Fired Job Fired
+- [01:41:10](#t-01-41-10) — Together / Healing
+- [01:49:31](#t-01-49-31) — Conversations / Uncomfortable
+- [01:57:41](#t-01-57-41) — Herbalist / Sometimes
+- [02:05:38](#t-02-05-38) — Grounding / Happening
+- [02:13:38](#t-02-13-38) — Conversations / Visualization

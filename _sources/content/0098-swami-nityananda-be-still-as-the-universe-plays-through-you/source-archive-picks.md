@@ -11,8 +11,7 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Chapter-style timestamps
 
-- [00:00:01](#t-00-00-01) — Opening — welcome and bio ask
-- [00:01:18](#t-00-01-18) — Juniper Ellis / Washington / natural oneness / Awake Yoga Meditation (Baltimore)
+- [00:01:18](#t-00-01-18) — Opening — welcome and bio ask
 - [00:02:42](#t-00-02-42) — Explaining non-dualism — entry points, flow, music pouring through
 - [00:07:54](#t-00-07-54) — Swami Shankarananda — being of light / spiritual transmission
 - [00:12:11](#t-00-12-11) — Community meditations (Sun / Tue / Fri) and kriya yoga succession (2014)
@@ -29,8 +28,6 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [00:44:16](#t-00-44-16) — Meeting teacher in 2010 / awakening experiences / community stability
 - [00:47:42](#t-00-47-42) — Future of the community — purifying the heart; join Baltimore or online
 - [00:52:38](#t-00-52-38) — Prison story / companion to yourself / Bhagavad Gita / network of light
-- [00:56:42](#t-00-56-42) — What the world needs — pure love / closing Namaste
-- [00:58:21](#t-00-58-21) — Outro — pure love / closing Namaste
 
 ## Keywords
 

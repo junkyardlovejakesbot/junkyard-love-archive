@@ -1,1 +1,22 @@
-(none published in episode notes)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:00:11](#t-00-00-11) — Open — COVID / Mask Off banter
+- [00:02:02](#t-00-02-02) — At Black Diamond Recording Studio
+- [00:08:40](#t-00-08-40) — Andy intro — engineer / producer / geek
+- [00:09:38](#t-00-09-38) — LimeWire / early downloading era
+- [00:10:33](#t-00-10-33) — What a DJ does
+- [00:15:25](#t-00-15-25) — House-party DJ gigs
+- [00:18:13](#t-00-18-13) — Types of DJs / producers / sound designers
+- [00:19:54](#t-00-19-54) — Moving to Japan
+- [00:20:53](#t-00-20-53) — Foreigner DJ in Japan
+- [00:27:07](#t-00-27-07) — Team Banzai
+- [00:30:17](#t-00-30-17) — Festivals / Burning Man
+- [00:37:29](#t-00-37-29) — Feeling the vibe
+- [00:46:02](#t-00-46-02) — Creative relationship like a tattoo artist
+- [00:51:53](#t-00-51-53) — Modular / ADHD album
+- [00:54:09](#t-00-54-09) — Eurorack modular synthesizer
+- [01:00:11](#t-01-00-11) — Sound design process
+- [01:07:52](#t-01-07-52) — Mentorship
+- [01:15:09](#t-01-15-09) — YouTube tutorial pet peeves
+- [01:21:16](#t-01-21-16) — Producers / Learning
+- [01:26:02](#t-01-26-02) — Vangelis / Blade Runner sound design

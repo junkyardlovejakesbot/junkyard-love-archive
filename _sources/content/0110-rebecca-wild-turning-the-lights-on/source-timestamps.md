@@ -1,1 +1,29 @@
-(none published in episode notes)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:02:03](#t-00-02-03) — Opening — depression tools / welcome newcomers + toe-dippers
+- [00:03:01](#t-00-03-01) — Healing path — you have to do the work (no outsourcing the pain)
+- [00:03:55](#t-00-03-55) — Childhood differentness / past-life dreams / traumatic upbringing
+- [00:04:49](#t-00-04-49) — 2019 cascade / Samaritans / “turn the light on” / Scotland trip
+- [00:06:55](#t-00-06-55) — Killin pub / traveler wizard vibes / Celtic spirituality click
+- [00:08:31](#t-00-08-31) — Rock bottom → getting up off the floor / take action
+- [00:09:24](#t-00-09-24) — Book beat — tiny spark / “one more try” / survival mode
+- [00:12:16](#t-00-12-16) — Not your mental illness / more than fear-thoughts / nervous system
+- [00:13:15](#t-00-13-15) — Instagram accountability / detox & fitness / finding voice
+- [00:21:52](#t-00-21-52) — Meditation, breathwork, yoga, awakening era
+- [00:25:13](#t-00-25-13) — Dating yourself / Getting to Know Yourself list
+- [00:26:09](#t-00-26-09) — Intentionally single to know yourself
+- [00:27:55](#t-00-27-55) — Moon rituals / past-life work / spirituality floods in
+- [00:31:55](#t-00-31-55) — Solo Thailand / phone-free solitude / calm without headphones
+- [00:34:40](#t-00-34-40) — No-phone time for soul / reading / writing / growth
+- [00:39:05](#t-00-39-05) — One present meal a day / phone boundaries around food
+- [00:47:21](#t-00-47-21) — Stimulus–response gap / noticing the victim loop
+- [00:50:29](#t-00-50-29) — Moon journal rituals / okay with being wrong
+- [00:52:50](#t-00-52-50) — Commit to meditation / choose not to suffer
+- [00:56:13](#t-00-56-13) — “How does meditating cure my depression?” / neurodivergent practice
+- [01:00:09](#t-01-00-09) — Beginner meditation — find what works for you
+- [01:01:57](#t-01-01-57) — Meditation from age 12–13 / monastery / many styles
+- [01:04:50](#t-01-04-50) — Insight Timer affirmation meditations she records
+- [01:08:09](#t-01-08-09) — Alternate-nostril breath for anxiety / masculine–feminine energy
+- [01:11:34](#t-01-11-34) — Needle-movers — water fasting, grapefruit fast, biological supports
+- [01:15:13](#t-01-15-13) — Magic mushrooms / intentions, set & setting
+- [01:22:18](#t-01-22-18) — Meditation can reach the same place without psychedelics

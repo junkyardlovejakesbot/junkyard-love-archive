@@ -32,7 +32,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [02:19:30](#t-02-19-30) — Being who you are / mindfulness
 - [02:30:03](#t-02-30-03) — Dogs / coffee / morning practice
 - [02:36:25](#t-02-36-25) — Faul name / German pronunciation
-- [02:39:37](#t-02-39-37) — Outro
 
 ## Keywords
 

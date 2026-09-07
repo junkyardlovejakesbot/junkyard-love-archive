@@ -1,32 +1,31 @@
-00:00:00 – Intro: Setting up, laughter, first exchange, Blake's Bio
-00:02:15 – “I feel most connected when you’re feeling” – therapy and awareness
-00:05:00 – Logic vs emotion: learning how to feel again
-00:07:25 – Emotional intelligence and inner safety
-00:10:45 – Anger as sacred energy (“dharmic anger”)
-00:12:10 – Modern society, Idiocracy, and humor as medicine
-00:15:23 – Aldous Huxley, psychedelics, and self-reflection
-00:16:09 – Paul Stamets, microdosing, and consciousness
-00:20:00 – Mushrooms, meditation, and integration
-00:26:00 – Masculinity and vulnerability
-00:31:00 – Meditation: honesty over peace
-00:36:03 – “Good morning, Blakey Boy” – the inner-child ritual
-00:40:03 – Ego, death, and Ram Dass on becoming somebody
-00:45:00 – Comic relief: fart jokes and humility
-00:50:00 – Math and metaphysics: when numbers become poetry
-00:58:48 – Math as beauty and the language of existence
-01:00:26 – Group theory, triangles, and the philosophy of structure
-01:02:06 – Did humans discover or invent math?
-01:10:00 – Humor, curiosity, and teaching through questions
-01:13:34 – The future of math, AI, and physics (the long view)
-01:14:13 – Ray Kurzweil and his father’s digital journals
-01:15:15 – iPhone, exponential tech, and AI acceleration
-01:16:00 – Touchscreens, prediction, and futurism
-01:20:00 – Consciousness and machine learning
-01:30:00 – Human identity in the age of algorithms
-01:37:01 – AI anxiety, UBI, and the ethics of automation
-01:43:56 – Consciousness itself: What is it, really?
-02:00:00 – Journaling, memory, and the desire to preserve the self
-02:14:00 – Humor as grounding: “Even the enlightened still fart.”
-02:20:00 – Compassion as technology
-02:31:04 – Returning to therapy: “I feel most connected when you’re feeling.”
-02:40:00 – Closing reflections, gratitude, and quiet laughter
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:00:45](#t-00-00-45) — Opening — welcome Blake / Junkyard Love
+- [00:01:40](#t-00-01-40) — Therapy line: “I feel most connected when you’re feeling”
+- [00:04:30](#t-00-04-30) — Emotions as information / become somebody before nobody
+- [00:06:45](#t-00-06-45) — Dharmic anger / Jesus flipped tables
+- [00:09:39](#t-00-09-39) — Anger has something to teach / let it pass through
+- [00:11:31](#t-00-11-31) — Idiocracy / humor as medicine
+- [00:13:49](#t-00-13-49) — Stamets, mushrooms, self-reflection
+- [00:16:18](#t-00-16-18) — Psychedelics / break default-network story grooves
+- [00:17:38](#t-00-17-38) — Masculinity template / single mom / Kelso kid
+- [00:20:45](#t-00-20-45) — Body armor over the heart / revisit masculine & feeling
+- [00:26:52](#t-00-26-52) — Meditation click / space between thoughts / metta
+- [00:33:41](#t-00-33-41) — “Good morning, Blakey Boy” — inner-child ritual
+- [00:35:16](#t-00-35-16) — Anxiety breaking point / what is the self
+- [00:39:25](#t-00-39-25) — Loving myself = paying attention / alive at the same time
+- [00:43:14](#t-00-43-14) — Zoom out / how precious / don’t overlook importance
+- [00:46:15](#t-00-46-15) — Ram Dass / if I were God / traffic anger
+- [00:51:27](#t-00-51-27) — Sharp corners / someone in your corner
+- [00:55:38](#t-00-55-38) — Math as method of beauty / group theory triangles
+- [01:00:40](#t-01-00-40) — Galois / discover and invent math
+- [01:08:27](#t-01-08-27) — Kurzweil / father’s journals / long view
+- [01:12:50](#t-01-12-50) — Future of math, AI, human consciousness
+- [01:21:18](#t-01-21-18) — Information / Meditation
+- [01:33:45](#t-01-33-45) — UBI dream / AI optimism / transformer attention
+- [01:41:03](#t-01-41-03) — What is consciousness, really?
+- [01:59:58](#t-01-59-58) — Journaling, memory, preserving the self
+- [02:04:56](#t-02-04-56) — AI as DJ of human creativity
+- [02:18:30](#t-02-18-30) — Saying / Share
+- [02:28:35](#t-02-28-35) — Returning to “connected when you’re feeling”
+- [02:30:06](#t-02-30-06) — Hope for humanity / ChatGPT as harm reduction

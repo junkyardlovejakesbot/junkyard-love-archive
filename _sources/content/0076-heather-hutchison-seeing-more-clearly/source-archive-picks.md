@@ -8,8 +8,7 @@ Extracted from the YouTube auto-caption transcript and published About/links alr
 
 ## Chapter-style timestamps
 
-- [00:00:00](#t-00-00-00) — Opening clip — preventative mental health
-- [00:00:47](#t-00-00-47) — Knowledge is power bumper
+- [00:01:08](#t-00-01-08) — Opening clip — preventative mental health
 - [00:02:06](#t-00-02-06) — Heather bio — singer/songwriter & memoir
 - [00:05:00](#t-00-05-00) — Anxiety attacks
 - [00:09:36](#t-00-09-36) — Code Blue
@@ -24,7 +23,6 @@ Extracted from the YouTube auto-caption transcript and published About/links alr
 - [00:42:22](#t-00-42-22) — Physical activity
 - [00:47:10](#t-00-47-10) — Psychiatric / Writing
 - [00:51:50](#t-00-51-50) — Beautiful / Heather
-- [00:58:14](#t-00-58-14) — Outro — water / self-love CTA
 
 ## Keywords
 

@@ -13,7 +13,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 - [00:00:00](#t-00-00-00) — Opening clip — uninterrupted listening / mediation
 - [00:00:52](#t-00-00-52) — Jacob welcome & bio ask
-- [00:01:04](#t-00-01-04) — Juli bio — Peer Performance Solutions
 - [00:03:35](#t-00-03-35) — Boots on the ground
 - [00:04:51](#t-00-04-51) — Common difficulties
 - [00:08:25](#t-00-08-25) — Ushering in epiphany
@@ -29,7 +28,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [00:48:01](#t-00-48-01) — Working with orgs, families & communities
 - [00:49:18](#t-00-49-18) — Brains mirroring in a trusting state
 - [00:54:08](#t-00-54-08) — Leader within / speaking as a leader
-- [00:59:35](#t-00-59-35) — Outro — love yourselves
 
 ## Keywords
 

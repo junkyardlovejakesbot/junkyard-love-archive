@@ -32,7 +32,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [01:19:18](#t-01-19-18) — Mom guilt / raising kids
 - [01:26:20](#t-01-26-20) — Experience / Planning
 - [01:30:56](#t-01-30-56) — What's next / store hours / website
-- [01:33:00](#t-01-33-00) — Outro — no mom drama / drink water
 
 ## Keywords
 

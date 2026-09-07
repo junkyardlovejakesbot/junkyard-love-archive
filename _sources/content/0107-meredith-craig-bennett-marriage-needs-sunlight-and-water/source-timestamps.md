@@ -1,1 +1,22 @@
-(none published in episode notes)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:00:04](#t-00-00-04) — Opening — welcome Meredith & Craig
+- [00:03:47](#t-00-03-47) — Family-first / real-estate bomb in six weeks / life-vision pause / personal growth → marri
+- [00:07:58](#t-00-07-58) — Pillars begin — commitment to yourself first
+- [00:08:51](#t-00-08-51) — Pillar 2 — communication, intimacy, trust / Pillar 3 — fun & adventure
+- [00:12:17](#t-00-12-17) — Difficult conversations as the foundation of marriage
+- [00:13:29](#t-00-13-29) — Stronger as a team / teammate & cheerleader / don’t avoid discomfort
+- [00:15:01](#t-00-15-01) — Short-term comfort breeds long-term dysfunction
+- [00:18:47](#t-00-18-47) — Being married vs building the marriage
+- [00:19:40](#t-00-19-40) — North star / dream-life spreadsheet / marriage as cheat code / shared vision
+- [00:24:03](#t-00-24-03) — Inviting your spouse in — right time & container
+- [00:25:25](#t-00-25-25) — Lead with I / specifics not “we never / you always”
+- [00:27:07](#t-00-27-07) — Curiosity as superpower / ask dream-life questions
+- [00:28:43](#t-00-28-43) — ~2.5 years coaching (as of 2024)
+- [00:34:52](#t-00-34-52) — Daily check-ins — “best part of your day” / bedtime vulnerability
+- [00:37:25](#t-00-37-25) — Weekly let-them-in conversation + non-negotiable 20-second hugs
+- [00:39:40](#t-00-39-40) — Dating advice — don’t settle
+- [00:41:52](#t-00-41-52) — Star Wars honesty / don’t people-please / be yourself
+- [00:46:57](#t-00-46-57) — Before the couple talk — clarify your own North Star (pillar 1)
+- [00:48:16](#t-00-48-16) — Walk-and-talk cheat code for deeper conversations
+- [00:50:08](#t-00-50-08) — Road of Life Podcast + Instagram @meredithandcraig

@@ -35,7 +35,6 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 - [00:55:57](#t-00-55-57) — Quantum Solutions Masterclass / ego-structure component
 - [00:57:48](#t-00-57-48) — Pain body (Eckhart Tolle) / notice pain-free anchors
 - [01:01:32](#t-01-01-32) — Website sign-off / cristinehull.com spelling
-- [01:01:51](#t-01-01-51) — Outro — drink water / stretch / love yourselves
 
 ## Keywords
 

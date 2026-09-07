@@ -11,8 +11,7 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Chapter-style timestamps
 
-- [00:00:00](#t-00-00-00) — Opening — welcome and brief bio ask
-- [00:01:02](#t-00-01-02) — Kevin intro — Black Sheep Business Consulting, five and a half years sober
+- [00:01:02](#t-00-01-02) — Opening — welcome and brief bio ask
 - [00:02:31](#t-00-02-31) — Aspiring rugby pro, dad’s property business, work hard play hard
 - [00:07:42](#t-00-07-42) — Travel years, utilities work, life-changing event at 27
 - [00:09:01](#t-00-09-01) — Whitecaps supporters’ section fight — charged with assault
@@ -31,8 +30,6 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [01:04:12](#t-01-04-12) — One step on the staircase / a little bit of faith
 - [01:10:13](#t-01-10-13) — Leadership / Business
 - [01:15:50](#t-01-15-50) — Own truth in Jesus / faith as turning yourself over
-- [01:22:35](#t-01-22-35) — Outro — bsbcon.com / Black Sheep Business Consulting
-
 
 ## Keywords
 

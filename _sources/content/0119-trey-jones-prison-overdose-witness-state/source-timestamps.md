@@ -1,18 +1,27 @@
-00:00:00 – Morning rising ritual, meditation, and gratitude practice
-00:04:00 – Mobility work, cold showers, and light breakfast for energy
-00:07:00 – Why victim mentality is inverted narcissism and manipulation
-00:12:00 – Fasting as a mental game and building willpower like a muscle
-00:18:00 – The witness state in meditation and observing your thoughts
-00:23:00 – Prison life, the fentanyl overdose, and the near-death turning point
-00:28:00 – Instant perspective after dying and working through deep regret
-00:33:00 – Cutting ties with old energies while allowing redemption
-00:38:00 – God as energy, frequency, and universal consciousness
-00:43:00 – The double slit experiment and how belief creates reality
-00:48:00 – Identity shifts from manual labor to purposeful social media work
-00:55:00 – Christ consciousness and the current global awakening
-01:02:00 – Energetic healing, breathwork, and the power of mindset
-01:08:00 – Levels of consciousness, empathy, and reading people
-01:14:00 – Prison lessons on self-care first and real empathy with standards
-01:22:00 – Synchronicities, interconnections, and past-life loops
-01:30:00 – Pre-planned journeys, amnesia, and chasing your higher calling
-01:36:00 – Final reflections and message to listeners
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:01:05](#t-00-01-05) — Opening — welcome Trey / bone broth morning
+- [00:04:56](#t-00-04-56) — Fuel for the engine / victim mentality & confirmation bias
+- [00:11:04](#t-00-11-04) — Willpower as a muscle / fasting progression
+- [00:13:42](#t-00-13-42) — Ken Wilber witness state / true you is the witness
+- [00:14:54](#t-00-14-54) — Inverted narcissism / fentanyl overdose turning point
+- [00:19:05](#t-00-19-05) — Rock bottom case-by-case / near-death ripeness
+- [00:21:04](#t-00-21-04) — Street-pharmacist past / five closest people
+- [00:22:24](#t-00-22-24) — Cutting ties / redeeming old friends when ready
+- [00:27:02](#t-00-27-02) — Prison to Purpose / don’t have to die to find true self
+- [00:28:30](#t-00-28-30) — God as energy & frequency / double-slit awareness
+- [00:30:26](#t-00-30-26) — Thumb injury → social media purpose / healing ≠ being understood
+- [00:38:34](#t-00-38-34) — Healing culture vs becoming / identity as baseline
+- [00:39:26](#t-00-39-26) — Identity = subconscious beliefs / surround yourself
+- [00:46:24](#t-00-46-24) — Max-security prison / change must come from within
+- [00:51:10](#t-00-51-10) — Childhood discernment / Ken Wilber in prison / Talk Like Ted
+- [00:55:43](#t-00-55-43) — Schumann resonance / world waking up
+- [00:58:11](#t-00-58-11) — Second coming = Christ consciousness / software update
+- [01:01:51](#t-01-01-51) — Staying hard / armor persona that never changes
+- [01:04:39](#t-01-04-39) — Energetic healing / Wim Hof / belief creates reality
+- [01:08:20](#t-01-08-20) — Levels of consciousness / elevator / map of the path
+- [01:09:55](#t-01-09-55) — Three prison lessons / empathy with standards / self first
+- [01:13:37](#t-01-13-37) — Fill your cup first / proof is in the pudding
+- [01:20:49](#t-01-20-49) — Synchronicity loops / Timothy Leary niece / Shulgin thread
+- [01:22:53](#t-01-22-53) — Invisible thread / Rupert Sheldrake / plants & knowing
+- [01:29:05](#t-01-29-05) — Predetermined purpose / amnesia / this too shall pass

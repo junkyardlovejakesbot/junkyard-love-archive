@@ -10,7 +10,7 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Opening bumper — Junkyard Love
+- [00:01:53](#t-00-01-53) — Haflife, Comes & Place
 - [00:05:32](#t-00-05-32) — Super mice / big chicken / food systems
 - [00:14:04](#t-00-14-04) — Sugar film / cutting sugar / health
 - [00:18:10](#t-00-18-10) — Health — water / peeing / diabetes context
@@ -37,7 +37,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [02:32:42](#t-02-32-42) — Putting yourself on / inspiring growth
 - [02:34:42](#t-02-34-42) — Haters / focus on the positive 20%
 - [02:36:44](#t-02-36-44) — Where to find Ryan / HAFLife ENT
-- [02:38:07](#t-02-38-07) — Outro — drink water
 
 ## Keywords
 

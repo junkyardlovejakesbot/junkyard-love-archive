@@ -9,7 +9,7 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Opening bumper — Junkyard Love
+- [00:01:49](#t-00-01-49) — Host open — Listening, Jessica & Mackenzie
 - [00:02:43](#t-00-02-43) — Guest intro — Jessica & Mackenzie
 - [00:10:34](#t-00-10-34) — Once Week Ride
 - [00:15:23](#t-00-15-23) — J — mobile bartending / TheSipco origins
@@ -31,7 +31,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [02:07:58](#t-02-07-58) — Listening / Business
 - [02:16:15](#t-02-16-15) — Friendships / Growing
 - [02:20:25](#t-02-20-25) — Glass table talks / friendship
-- [02:29:36](#t-02-29-36) — Outro — love yourself / wash your hands
 
 ## Keywords
 

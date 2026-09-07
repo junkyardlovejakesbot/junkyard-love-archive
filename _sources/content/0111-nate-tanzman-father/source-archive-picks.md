@@ -13,7 +13,7 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Chapter-style timestamps
 
-- [00:00:00](#t-00-00-00) — Opening — kids changed Nate’s relationship with God / births
+- [00:00:20](#t-00-00-20) — Opening — kids changed Nate’s relationship with God / births
 - [00:02:15](#t-00-02-15) — Bike as God-gift that interrupted suicide / no coincidence
 - [00:09:55](#t-00-09-55) — Newcomer welcome / fourth appearance on the show
 - [00:10:59](#t-00-10-59) — Bio reset — 10 years stunt riding → husband/dad / content agency
@@ -41,8 +41,6 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [01:44:26](#t-01-44-26) — Heart on trial / discernment over performative good deeds
 - [01:52:27](#t-01-52-27) — Conversation continues
 - [01:56:25](#t-01-56-25) — Biggest money month → prayed remove it → lost clients
-- [02:03:34](#t-02-03-34) — Outro — men/fathers grab the wet torch / stop the neglect chain
-
 
 ## Keywords
 

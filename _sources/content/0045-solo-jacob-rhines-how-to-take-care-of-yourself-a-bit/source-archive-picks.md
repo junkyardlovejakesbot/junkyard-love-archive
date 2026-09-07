@@ -11,7 +11,7 @@ Extracted from the YouTube auto-caption transcript and published About. Labeled 
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Open — Junkyard Love bumper / knowledge is power
+- [00:02:32](#t-00-02-32) — Host open — Might, Learning & Change
 - [00:04:55](#t-00-04-55) — Why take care of yourself — body & mind
 - [00:08:31](#t-00-08-31) — Habits / values / who you became
 - [00:11:27](#t-00-11-27) — Social media / comparison / Instagram
@@ -32,7 +32,6 @@ Extracted from the YouTube auto-caption transcript and published About. Labeled 
 - [01:46:04](#t-01-46-04) — Alone time / solitude
 - [01:54:29](#t-01-54-29) — Learning philosophy / ideas that change you
 - [02:04:45](#t-02-04-45) — Boundaries / not staying reactive
-- [02:09:34](#t-02-09-34) — Outro — mindfulness / learn on YouTube / take care
 
 ## Keywords
 

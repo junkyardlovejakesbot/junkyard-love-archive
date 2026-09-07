@@ -1,1 +1,22 @@
-(none published in episode notes)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:00:16](#t-00-00-16) — Opening — mustache check / no formal intro
+- [00:01:36](#t-00-01-36) — Cancel culture / parody / satire
+- [00:04:44](#t-00-04-44) — JK / what can we say
+- [00:07:49](#t-00-07-49) — Jesters / funny philosopher role
+- [00:08:46](#t-00-08-46) — New forms of comedy / TikTok memes
+- [00:16:41](#t-00-16-41) — FOMO / pre-internet brain / phone anxiety
+- [00:17:50](#t-00-17-50) — Belief in yourself / internet reassurance
+- [00:23:58](#t-00-23-58) — Substance history / family / eighth grade
+- [00:32:58](#t-00-32-58) — Avatar / Jim Carrey / true self
+- [00:39:12](#t-00-39-12) — Psilocybin / DMT / not who I was going to be
+- [00:46:30](#t-00-46-30) — Makes Seem
+- [00:54:32](#t-00-54-32) — Stay In Prison band / stumbling into music
+- [00:57:36](#t-00-57-36) — Comedy, Kinds & Shows
+- [01:01:36](#t-01-01-36) — What stand-up is / reacting to crowds
+- [01:04:35](#t-01-04-35) — Andrew Schultz / filming sets
+- [01:12:00](#t-01-12-00) — Believing in yourself / comedic genius
+- [01:19:26](#t-01-19-26) — Personality / Constantly
+- [01:27:17](#t-01-27-17) — Quarantine / what is next
+- [01:29:43](#t-01-29-43) — Putting on shows / venues / open mic organizers
+- [01:36:47](#t-01-36-47) — Skating / Joseph

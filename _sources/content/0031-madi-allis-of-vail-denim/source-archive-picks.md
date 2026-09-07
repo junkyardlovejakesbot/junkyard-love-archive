@@ -11,7 +11,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Open — host bumper / recommendation
 - [00:01:26](#t-00-01-26) — Madi arrives — stoked to be here
 - [00:11:22](#t-00-11-22) — College / LCC / psychology sociology
 - [00:20:44](#t-00-20-44) — Car club photography
@@ -26,8 +25,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [01:14:39](#t-01-14-39) — ADHD / OCD / neurological
 - [01:22:10](#t-01-22-10) — Patience / short fuse / growth
 - [01:29:18](#t-01-29-18) — Don't Medication Wis
-- [01:36:39](#t-01-36-39) — Soul Sparkin / closing reflections
-- [01:42:19](#t-01-42-19) — Outro — water / fresh air / six feet
 
 ## Keywords
 

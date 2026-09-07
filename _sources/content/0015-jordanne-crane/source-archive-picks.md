@@ -26,7 +26,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [00:54:53](#t-00-54-53) — Religion / healing / light
 - [00:59:51](#t-00-59-51) — Healing Room California
 - [01:05:10](#t-01-05-10) — Clean, sober, full of life / survivor story
-- [01:11:53](#t-01-11-53) — Outro — be brave / Junkyard Love out
 
 ## Keywords
 

@@ -14,7 +14,7 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 
 ## Chapter-style timestamps
 
-- [00:00:16](#t-00-00-16) — Opening — welcome Sigmar Berg
+- [00:00:22](#t-00-00-22) — Opening — welcome Sigmar Berg
 - [00:01:46](#t-00-01-46) — Aqua Journey guided meditation / head → heart awakening
 - [00:07:39](#t-00-07-39) — Living from head vs living from heart
 - [00:11:41](#t-00-11-41) — Breathwork for beginners / slow exhale / yoga nidra straw analogy
@@ -32,7 +32,6 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 - [00:44:14](#t-00-44-14) — Individual awakening over collective overnight shift
 - [00:45:43](#t-00-45-43) — Keep spiritual practice light
 - [00:47:56](#t-00-47-56) — One Journey the book and where to find Lovetuner
-- [00:49:39](#t-00-49-39) — Outro — subscribe / clips @jacobfromtheinternet
 
 ## Keywords
 

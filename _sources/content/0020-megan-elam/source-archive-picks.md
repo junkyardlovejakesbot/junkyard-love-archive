@@ -26,7 +26,6 @@ _(no stand-alone complete quotes retained for this episode)_
 - [01:49:57](#t-01-49-57) — Diets tried / what actually worked
 - [01:55:43](#t-01-55-43) — Learning to say no after crashing busy seasons
 - [01:59:22](#t-01-59-22) — Sleep, graveyard shifts & morning momentum
-- [02:03:04](#t-02-03-04) — Outro — close with Megan / friendship
 
 ## Keywords
 

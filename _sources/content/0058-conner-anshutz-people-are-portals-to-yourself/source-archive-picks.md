@@ -11,7 +11,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Opening bumper — Junkyard Love
 - [00:01:39](#t-00-01-39) — Host intro / Joe Dispenza recommendation
 - [00:02:35](#t-00-02-35) — Conversation starts — voicemail / tech futures
 - [00:05:25](#t-00-05-25) — Neuralink / consciousness
@@ -34,8 +33,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [01:49:28](#t-01-49-28) — Conversation / Thinking
 - [01:57:13](#t-01-57-13) — Individual / Yourself
 - [02:04:58](#t-02-04-58) — Fantastic / People's
-- [02:14:18](#t-02-14-18) — Outro CTA — water / hit up Conner
-
 
 ## Keywords
 

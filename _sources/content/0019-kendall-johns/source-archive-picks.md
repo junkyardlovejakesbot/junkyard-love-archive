@@ -31,8 +31,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [01:50:49](#t-01-50-49) — Dealing / Learned
 - [01:58:39](#t-01-58-39) — Thinking / Friends
 - [02:02:09](#t-02-02-09) — Boy vs man — right time and place
-- [02:11:13](#t-02-11-13) — Jake Hill collab / closing
-- [02:13:15](#t-02-13-15) — Outro — stretch
 
 ## Keywords
 

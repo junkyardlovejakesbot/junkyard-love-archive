@@ -1,16 +1,27 @@
-00:00:00 Welcome Back & Reconnecting on the Spiritual Path
-00:02:30 What Does “On the Path” Really Mean? Spirituality vs Self-Improvement
-00:06:45 The Pendulum Swing: Discipline, Cravings & Self-Compassion for Men
-00:11:20 Balancing Masculine Drive & Feminine Grace
-00:16:50 Meditation, Yoga, Breathwork & Reconnecting With Your Body
-00:23:40 Prayer Practice, Gratitude & Praying for Your Future Self
-00:29:15 Yoga as Union, The Body Keeps the Score & Releasing Tension
-00:36:10 Astrology, the Bible & Finding Your Own Spiritual Language
-00:44:50 Visiting a Mosque, Religious Similarities & Open-Minded Faith
-00:52:30 Synchronicities, Signs from the Universe & The Celestine Prophecy
-00:57:40 The Porsche Story: Surrender, Divine Timing & Trusting the Redirect
-01:08:20 Ego Death, Nature Loves Courage & New Timelines
-01:15:50 Working on Cruise Ships, Reputation & Man Plans God Laughs
-01:25:30 Mentoring Young Men, Leadership & Being the Example
-01:35:45 How Tim Prays: Knees, Gratitude, Ancestors & Body Prayer
-01:48:00 Closing Wisdom & Final Thoughts
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:00:20](#t-00-00-20) — Perfect, Clears & Throat
+- [00:01:43](#t-00-01-43) — Curating community / spirituality vs self-improvement
+- [00:03:52](#t-00-03-52) — Pendulum: discipline, gentleness, masculine & feminine
+- [00:13:36](#t-00-13-36) — Bracing the storm vs letting the stream carry you
+- [00:17:52](#t-00-17-52) — Beacon / Ram Dass “come up for air” / leadership
+- [00:26:59](#t-00-26-59) — Meditation as stretch + breath / reconnecting with body
+- [00:29:20](#t-00-29-20) — Yoga as union / body keeps the score / don’t judge the day
+- [00:37:59](#t-00-37-59) — Astrology, Sagittarius hips, spiritual language
+- [00:44:42](#t-00-44-42) — Bible, pastors slamming yoga/astrology, open doors
+- [00:47:52](#t-00-47-52) — Visiting a mosque with Zeus / prayer across faiths
+- [00:52:01](#t-00-52-01) — Synchronicities & Cosmic giggle
+- [00:55:48](#t-00-55-48) — The Porsche story chapter beat (published)
+- [01:02:22](#t-01-02-22) — The Celestine Prophecy / signs from the universe
+- [01:04:02](#t-01-04-02) — Porsche Cayenne lost → Mercedes GLA redirect
+- [01:09:21](#t-01-09-21) — “I asked, you provided” / surrender the fight
+- [01:14:50](#t-01-14-50) — Ego death / surrender / be new every day
+- [01:16:23](#t-01-16-23) — Trust fall / new timeline
+- [01:17:28](#t-01-17-28) — Nature loves courage
+- [01:20:43](#t-01-20-43) — Cruise ships, reputation from age 15, man plans God laughs
+- [01:25:45](#t-01-25-45) — Mentoring young men / being the example
+- [01:31:47](#t-01-31-47) — “I’m the example” / adult in the room
+- [01:35:59](#t-01-35-59) — How Tim prays: knees, gratitude, ancestors, body
+- [01:37:09](#t-01-37-09) — Pray for future self / shape me into who I’m here to be
+- [01:44:00](#t-01-44-00) — Ego death / pray for future self / call on support
+- [01:45:59](#t-01-45-59) — Start and end prayer with gratitude

@@ -11,7 +11,7 @@ Extracted from the YouTube auto-caption transcript and published About/quotes/li
 
 ## Chapter-style timestamps
 
-- [00:00:00](#t-00-00-00) — Opening clip — leadership training Jerry wished he'd had
+- [00:01:36](#t-00-01-36) — Opening clip — leadership training Jerry wished he'd had
 - [00:02:55](#t-00-02-55) — Jacob welcome & Jerry bio
 - [00:04:54](#t-00-04-54) — How Jerry got into this work
 - [00:11:12](#t-00-11-12) — Fired / pharmacy path stories
@@ -31,7 +31,6 @@ Extracted from the YouTube auto-caption transcript and published About/quotes/li
 - [01:14:02](#t-01-14-02) — Technology as servant vs master
 - [01:16:52](#t-01-16-52) — Reading the room / body language
 - [01:23:12](#t-01-23-12) — Relationships / Leadership
-- [01:25:16](#t-01-25-16) — Outro
 
 ## Keywords
 

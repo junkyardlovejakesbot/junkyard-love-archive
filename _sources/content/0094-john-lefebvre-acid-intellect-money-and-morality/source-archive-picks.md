@@ -11,9 +11,7 @@ Extracted from the YouTube auto-caption transcript and published links already o
 
 ## Chapter-style timestamps
 
-- [00:00:03](#t-00-00-03) — Jacob intro — delayed episode, Austin check-in
-- [00:02:19](#t-00-02-19) — Bumper — Junkyard Love / knowledge is power
-- [00:04:02](#t-00-04-02) — Hello John — Austin / Salt Spring / Calgary origin
+- [00:04:02](#t-00-04-02) — Jacob intro — delayed episode, Austin check-in
 - [00:07:59](#t-00-07-59) — Be still, yet still be — book line
 - [00:14:29](#t-00-14-29) — Kids, don't drop acid until you're ready to be troubled
 - [00:19:59](#t-00-19-59) — Change / Others
@@ -29,7 +27,6 @@ Extracted from the YouTube auto-caption transcript and published links already o
 - [01:04:51](#t-01-04-51) — Value Human Nature
 - [01:08:09](#t-01-08-09) — Enjoy the planet to save it — play great music
 - [01:13:23](#t-01-13-23) — Thoughtful Species Type Thou
-- [01:14:39](#t-01-14-39) — Outro — stretch / love yourselves / peace out
 
 ## Keywords
 

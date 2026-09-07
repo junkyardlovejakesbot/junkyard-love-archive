@@ -11,8 +11,8 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Chapter-style timestamps
 
-- [00:00:03](#t-00-00-03) — Opening — welcome Meredith & Craig
-- [00:03:47](#t-00-03-47) — Family-first / real-estate bomb in six weeks / life-vision pause / personal growth → marriage coaching
+- [00:00:04](#t-00-00-04) — Opening — welcome Meredith & Craig
+- [00:03:47](#t-00-03-47) — Family-first / real-estate bomb in six weeks / life-vision pause / personal growth → marri
 - [00:07:58](#t-00-07-58) — Pillars begin — commitment to yourself first
 - [00:08:51](#t-00-08-51) — Pillar 2 — communication, intimacy, trust / Pillar 3 — fun & adventure
 - [00:12:17](#t-00-12-17) — Difficult conversations as the foundation of marriage
@@ -30,9 +30,7 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [00:41:52](#t-00-41-52) — Star Wars honesty / don’t people-please / be yourself
 - [00:46:57](#t-00-46-57) — Before the couple talk — clarify your own North Star (pillar 1)
 - [00:48:16](#t-00-48-16) — Walk-and-talk cheat code for deeper conversations
-- [00:49:13](#t-00-49-13) — Phone-free date time / closing gratitude
 - [00:50:08](#t-00-50-08) — Road of Life Podcast + Instagram @meredithandcraig
-- [00:50:55](#t-00-50-55) — Outro — love yourself / drink water / set a date day / go for a walk
 
 ## Keywords
 

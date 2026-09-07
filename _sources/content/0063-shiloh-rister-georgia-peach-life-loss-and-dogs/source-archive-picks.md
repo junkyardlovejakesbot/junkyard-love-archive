@@ -8,7 +8,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Opening bumper — Junkyard Love
 - [00:02:46](#t-00-02-46) — Into the conversation
 - [00:05:58](#t-00-05-58) — COVID caretaker work
 - [00:10:35](#t-00-10-35) — Covid / World
@@ -25,8 +24,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [00:52:15](#t-00-52-15) — MySpace & music discovery
 - [00:54:23](#t-00-54-23) — Warped Tour / belonging with misfits
 - [00:58:45](#t-00-58-45) — Change / World
-- [01:07:52](#t-01-07-52) — Outro — water & get a dog
-
 
 ## Keywords
 

@@ -8,8 +8,7 @@ Extracted from the YouTube auto-caption transcript and published About. Labeled 
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Open — Junkyard Love bumper / better conversations
-- [00:02:30](#t-00-02-30) — What I gave up / daily commitments (water, write, yoga, run)
+- [00:02:30](#t-00-02-30) — Host open — Coffee, Caffeine & Days
 - [00:03:48](#t-00-03-48) — Caffeine quit — anxiety, decaf slips, jaw twitch
 - [00:10:26](#t-00-10-26) — Gallon of water — hydration vs ibuprofen instant fix
 - [00:17:17](#t-00-17-17) — Alcohol break — social lubricant urges & lonely IPA texts
@@ -23,8 +22,6 @@ Extracted from the YouTube auto-caption transcript and published About. Labeled 
 - [01:16:40](#t-01-16-40) — Running five times a week — identity through sticking
 - [01:20:02](#t-01-20-02) — Writing one page — the goal I neglected
 - [01:26:22](#t-01-26-22) — Invite — next Sober October / stick to your guns
-- [01:31:54](#t-01-31-54) — Outro — Instagram @jacobfromtheinternet / self-actualization
-
 
 ## Keywords
 

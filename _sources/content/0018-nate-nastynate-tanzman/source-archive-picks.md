@@ -27,7 +27,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [00:53:34](#t-00-53-34) — Be a scholar / ways to win 2020
 - [00:58:32](#t-00-58-32) — Motivational / Constantly
 - [01:03:36](#t-01-03-36) — Important / Life
-- [01:08:36](#t-01-08-36) — Outro — Owning it / closing
 
 ## Keywords
 

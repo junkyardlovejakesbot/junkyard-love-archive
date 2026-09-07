@@ -9,7 +9,7 @@ Extracted from the YouTube auto-caption transcript and published About. Labeled 
 
 ## Chapter-style timestamps
 
-- [00:00:00](#t-00-00-00) — Intro — friend Keenan “Hurricane” Harvey, episode 0101
+- [00:00:00](#t-00-00-00) — Host open — Friends, Conversations & Keenan
 - [00:05:28](#t-00-05-28) — Stump speech vs conversational politics
 - [00:08:11](#t-00-08-11) — Who Keenan is — Kelso Council, insurance, DOC, Humane Society, Rotary
 - [00:11:16](#t-00-11-16) — Running for Kelso City Council / local vs national politics
@@ -36,7 +36,6 @@ Extracted from the YouTube auto-caption transcript and published About. Labeled 
 - [02:20:30](#t-02-20-30) — Mental Health Led
 - [02:28:42](#t-02-28-42) — Best Ability
 - [02:36:28](#t-02-36-28) — Life Gets Stable
-- [02:38:45](#t-02-38-45) — Outro — love yourselves, Watershed tomorrow
 
 ## Keywords
 

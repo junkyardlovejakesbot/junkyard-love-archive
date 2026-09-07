@@ -11,7 +11,8 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:00](#t-00-00-00) — Opening bumper — song "ii" / baseball
+- [00:01:15](#t-00-01-15) — Year, Baseball & Rosetan
+- [00:04:58](#t-00-04-58) — Band, Eric & Rosetan
 - [00:08:50](#t-00-08-50) — How the band got started — solo to trio
 - [00:10:23](#t-00-10-23) — Meeting Erik & Jake Wilson / playing together
 - [00:14:04](#t-00-14-04) — Show practice / deliberate rehearsals
@@ -38,7 +39,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [02:54:00](#t-02-54-00) — Traverse' Changed Life
 - [03:02:03](#t-03-02-03) — Band All Dif
 - [03:09:47](#t-03-09-47) — Community / Friends
-- [03:13:15](#t-03-13-15) — Outro — do good / Junkyard Love out
 
 ## Keywords
 

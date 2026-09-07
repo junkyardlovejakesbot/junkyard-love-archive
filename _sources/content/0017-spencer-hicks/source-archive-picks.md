@@ -11,7 +11,7 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:00](#t-00-00-00) — Opening
+- [00:00:00](#t-00-00-00) — Spencer, Learn & Touch
 - [00:02:28](#t-00-02-28) — Third Spencer conversation / free talk
 - [00:04:11](#t-00-04-11) — Philosophy / psychology / differing beliefs
 - [00:11:24](#t-00-11-24) — Metaphysical / meta conversation
@@ -29,7 +29,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [01:34:57](#t-01-34-57) — Sisyphus / getting beat down by life
 - [01:35:51](#t-01-35-51) — Victimhood / complaining / healing remedies
 - [01:43:55](#t-01-43-55) — Realizing / Thinking
-- [01:47:42](#t-01-47-42) — Outro — stretch / breathe / Junkyard Love out
 
 ## Keywords
 

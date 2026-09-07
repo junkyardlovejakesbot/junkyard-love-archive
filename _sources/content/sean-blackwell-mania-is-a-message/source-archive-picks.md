@@ -14,7 +14,7 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 
 ## Chapter-style timestamps
 
-- [00:00:18](#t-00-00-18) — Opening — Am I Bipolar or Waking Up? / Bipolar Awakenings
+- [00:00:44](#t-00-00-44) — Opening — Am I Bipolar or Waking Up? / Bipolar Awakenings
 - [00:01:36](#t-00-01-36) — What bipolar is — DSM labels, Bipolar I vs II, psychosis
 - [00:03:50](#t-00-03-50) — Trauma roots vs biology / 13 spiritual delusions
 - [00:07:42](#t-00-07-42) — “Why You Think You’re Jesus” / divine & demonic flips
@@ -45,8 +45,6 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 - [01:22:59](#t-01-22-59) — Distance surrogate breathwork / Monica Kettler
 - [01:26:17](#t-01-26-17) — Others’ energy passes through / no ego in the game
 - [01:29:01](#t-01-29-01) — Untrained supporter does surrogate birth work
-- [01:32:06](#t-01-32-06) — Walking each other home / closing + outro
-- [01:33:19](#t-01-33-19) — Outro — drink water / stretch / love yourselves
 
 ## Keywords
 

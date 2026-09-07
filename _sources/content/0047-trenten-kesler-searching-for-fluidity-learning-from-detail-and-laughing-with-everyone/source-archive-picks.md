@@ -8,7 +8,7 @@ Extracted from the faster-whisper transcript of the published MP3 and Jacob’s 
 
 ## Chapter-style timestamps
 
-- [00:00:02](#t-00-00-02) — Opening
+- [00:00:51](#t-00-00-51) — Host open — Order, Universal & Entire
 - [00:06:24](#t-00-06-24) — Introduce Trenten / cheers
 - [00:10:56](#t-00-10-56) — Clean Machine / COVID businesses
 - [00:19:15](#t-00-19-15) — Detailing / Machine
@@ -31,7 +31,6 @@ Extracted from the faster-whisper transcript of the published MP3 and Jacob’s 
 - [02:20:14](#t-02-20-14) — Comfortable / Bartenders
 - [02:27:55](#t-02-27-55) — Experiences / Personal
 - [02:33:11](#t-02-33-11) — Everyone you meet knows something
-- [02:35:17](#t-02-35-17) — Outro — get present / peace out
 
 ## Keywords
 

@@ -1,1 +1,23 @@
-(none published in episode notes — inventory has_timestamps=no; no YouTube chapter markers; Archive picks uses transcript-derived chapter-style timestamps)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:00:28](#t-00-00-28) — Opening — welcome / Jessica Faul
+- [00:01:29](#t-00-01-29) — Coffee shop mask / retail face
+- [00:05:01](#t-00-05-01) — Not knowing what people are going through
+- [00:10:02](#t-00-10-02) — Normal path / parents / generations
+- [00:19:49](#t-00-19-49) — Because I said so / end goals
+- [00:29:55](#t-00-29-55) — Jake vs Jacob / names
+- [00:39:57](#t-00-39-57) — Adult conversations / being yourself
+- [00:49:49](#t-00-49-49) — Castle Rock / hometown / leaving and returning
+- [00:59:33](#t-00-59-33) — Industrial-era change / new category
+- [01:09:45](#t-01-09-45) — Social media effects
+- [01:20:01](#t-01-20-01) — Group messages / attacking ourselves
+- [01:29:57](#t-01-29-57) — Maslow levels / self identity
+- [01:39:55](#t-01-39-55) — Instant karma / small good acts
+- [01:47:30](#t-01-47-30) — Personality / Bartender
+- [01:55:28](#t-01-55-28) — Mindfulness / Every
+- [01:59:55](#t-01-59-55) — Slogans / Christmas jingle analogy
+- [02:08:06](#t-02-08-06) — Else Certainly Makes
+- [02:15:56](#t-02-15-56) — Meditation Yoga Class
+- [02:19:30](#t-02-19-30) — Being who you are / mindfulness
+- [02:30:03](#t-02-30-03) — Dogs / coffee / morning practice
+- [02:36:25](#t-02-36-25) — Faul name / German pronunciation

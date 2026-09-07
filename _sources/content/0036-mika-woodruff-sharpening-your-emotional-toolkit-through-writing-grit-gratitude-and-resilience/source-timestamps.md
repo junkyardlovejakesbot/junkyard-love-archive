@@ -1,1 +1,21 @@
-(none published in episode notes)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:03:29](#t-00-03-29) — Journaling and gratitude
+- [00:11:17](#t-00-11-17) — Conversations / Feelings
+- [00:20:46](#t-00-20-46) — Unconditional love vs change
+- [00:26:10](#t-00-26-10) — Masculine / feminine energy
+- [00:36:25](#t-00-36-25) — Anxiety / coping
+- [00:44:13](#t-00-44-13) — Conversation / Psychology
+- [00:51:50](#t-00-51-50) — Self-worth
+- [00:57:11](#t-00-57-11) — Plan B / suicide ideation reframed
+- [01:04:03](#t-01-04-03) — Empathy
+- [01:08:52](#t-01-08-52) — Thought Catalog publishing
+- [01:15:35](#t-01-15-35) — 10 Things To Be Grateful For
+- [01:23:39](#t-01-23-39) — Experiences / Experience
+- [01:33:44](#t-01-33-44) — Psychics / gut feelings
+- [01:42:07](#t-01-42-07) — Hypnotherapy
+- [01:49:54](#t-01-49-54) — Experiences / Experience
+- [02:06:26](#t-02-06-26) — Thinking / Thoughts
+- [02:11:52](#t-02-11-52) — Emotional toolkit
+- [02:19:53](#t-02-19-53) — Bring Forward
+- [02:23:11](#t-02-23-11) — Enneagram 4

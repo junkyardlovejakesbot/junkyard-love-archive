@@ -14,7 +14,7 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 
 ## Chapter-style timestamps
 
-- [00:00:09](#t-00-00-09) — Opening — welcome Blake / Junkyard Love
+- [00:00:45](#t-00-00-45) — Opening — welcome Blake / Junkyard Love
 - [00:01:40](#t-00-01-40) — Therapy line: “I feel most connected when you’re feeling”
 - [00:04:30](#t-00-04-30) — Emotions as information / become somebody before nobody
 - [00:06:45](#t-00-06-45) — Dharmic anger / Jesus flipped tables
@@ -43,8 +43,6 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 - [02:18:30](#t-02-18-30) — Saying / Share
 - [02:28:35](#t-02-28-35) — Returning to “connected when you’re feeling”
 - [02:30:06](#t-02-30-06) — Hope for humanity / ChatGPT as harm reduction
-- [02:42:26](#t-02-42-26) — Outro — Best time to meditate was yesterday / start today / outro
-
 
 ## Keywords
 

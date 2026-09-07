@@ -11,8 +11,7 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:00](#t-00-00-00) — Intro
-- [00:00:29](#t-00-00-29) — Bobs first 3person
+- [00:00:00](#t-00-00-00) — Bob Kendall cold open — third-person marketplace intro
 - [00:01:49](#t-00-01-49) — The journey
 - [00:03:52](#t-00-03-52) — Who is Bob Kendall
 - [00:07:39](#t-00-07-39) — First day as buyer — quiet & introverted
@@ -32,7 +31,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [00:50:42](#t-00-50-42) — Advice for younger employees
 - [00:55:44](#t-00-55-44) — How to love your job
 - [01:01:02](#t-01-01-02) — Being the best version of yourself
-- [01:04:54](#t-01-04-54) — Outro — stretch / peace out
 
 ## Keywords
 

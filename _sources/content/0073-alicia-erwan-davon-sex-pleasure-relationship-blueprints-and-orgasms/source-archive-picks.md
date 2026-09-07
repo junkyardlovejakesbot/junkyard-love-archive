@@ -9,7 +9,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Opening bumper — Junkyard Love
 - [00:02:00](#t-00-02-00) — Guests hello
 - [00:04:41](#t-00-04-41) — Alicia origin — LA / psychology / sexuality
 - [00:08:26](#t-00-08-26) — Pandemic pivot — teaching online
@@ -24,8 +23,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [00:42:46](#t-00-42-46) — Meditation / Psychology
 - [00:46:44](#t-00-46-44) — Pleasure / Practice
 - [00:50:54](#t-00-50-54) — Pushing All
-- [00:55:39](#t-00-55-39) — Outro — drink water
-
 
 ## Keywords
 

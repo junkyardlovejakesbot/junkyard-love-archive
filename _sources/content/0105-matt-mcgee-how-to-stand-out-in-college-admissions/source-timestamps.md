@@ -1,1 +1,26 @@
-(none published in episode notes)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:00:13](#t-00-00-13) — Opening — welcome Matt / “who are you”
+- [00:02:51](#t-00-02-51) — Why 2024 is harder — test-optional, application spikes, cost, FAFSA
+- [00:04:39](#t-00-04-39) — Opaque admissions / hyper-qualified kids still rejected
+- [00:05:26](#t-00-05-26) — Social-media doom-scroll loop / mental health + academics
+- [00:07:19](#t-00-07-19) — How decisions work — regional officer → committee advocacy
+- [00:09:28](#t-00-09-28) — Subjective process — 4.0/1600 vs 3.8/1500 stories
+- [00:10:37](#t-00-10-37) — Philosophy — 3D student / apply broadly / right schools find you
+- [00:15:30](#t-00-15-30) — Tutoring + college counseling / charismatic young tutors
+- [00:20:10](#t-00-20-10) — First meetings where people cry / breadth of the job
+- [00:22:52](#t-00-22-52) — Community college as an intelligent choice
+- [00:24:01](#t-00-24-01) — Freedom to fail / mentor→friend across ages 16→23
+- [00:28:51](#t-00-28-51) — Parent foot-in-the-door — interests → APs → summers → concrete wins
+- [00:32:08](#t-00-32-08) — Neurodivergence defined — autism, ADHD, dyslexia
+- [00:33:06](#t-00-33-06) — Early cases — autistic homeschooled kid / severe anxiety mute student
+- [00:35:18](#t-00-35-18) — College is an option for neurodivergent students / disability support
+- [00:37:05](#t-00-37-05) — Celebrate differences as distinguisher / fish-climbing-tree
+- [00:39:08](#t-00-39-08) — Standing out — vital at top / less critical at large state schools
+- [00:41:48](#t-00-41-48) — Scrunchie-business essay — “bankruptcy at 16” / embrace failure
+- [00:43:53](#t-00-43-53) — 20k valedictorians vs <20k Ivy seats
+- [00:50:05](#t-00-50-05) — AI in admissions — humans still read; cheating vs workplace-prep tension
+- [00:54:23](#t-00-54-23) — Hockey background (high-level, not pro) / writing & politics path
+- [00:55:41](#t-00-55-41) — Founding MRM Education — professionalize tutoring / $80/hr tutors
+- [01:02:26](#t-01-02-26) — Business is hard / entrepreneur grind since mid-2020
+- [01:03:11](#t-01-03-11) — Connected to the why / mission-driven

@@ -1,1 +1,23 @@
-(none published in episode notes)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:02:21](#t-00-02-21) — Guest intro — Anna Cantwell
+- [00:03:07](#t-00-03-07) — Conversation starts — sunrise / fires
+- [00:10:14](#t-00-10-14) — Eckhart Tolle — beauty / enlightenment
+- [00:14:08](#t-00-14-08) — Childhood — spirit / nature
+- [00:19:00](#t-00-19-00) — Identity pressure / get it right
+- [00:21:37](#t-00-21-37) — Trauma / healing arc
+- [00:22:48](#t-00-22-48) — Katy Perry Roar / reassociation
+- [00:31:26](#t-00-31-26) — Breath / cannabis / chronic pain
+- [00:41:05](#t-00-41-05) — Willingness to see differently
+- [00:46:45](#t-00-46-45) — Hope — pathways to outcomes
+- [00:47:56](#t-00-47-56) — Comparing / own your journey
+- [00:50:09](#t-00-50-09) — Meditation as showering for the brain
+- [00:58:37](#t-00-58-37) — Plant Medicine
+- [01:07:42](#t-01-07-42) — Psychedelics / neural pathways
+- [01:15:58](#t-01-15-58) — Cannabis Start Yoga Meditation
+- [01:24:04](#t-01-24-04) — Information / Positive
+- [01:28:08](#t-01-28-08) — Home as vision board
+- [01:32:35](#t-01-32-35) — Garden metaphor — not broken to be fixed
+- [01:40:44](#t-01-40-44) — Medicine Cards
+- [01:48:54](#t-01-48-54) — Social Masculine Bring
+- [01:57:10](#t-01-57-10) — Learning / Yourself

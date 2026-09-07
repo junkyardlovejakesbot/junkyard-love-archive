@@ -1,1 +1,28 @@
-(none published in episode notes)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:00:12](#t-00-00-12) — Opening — better conversations / check-in with Anne
+- [00:06:30](#t-00-06-30) — Age-10 Catholic school + evolution — lifelong how-alike/how-different question
+- [00:08:32](#t-00-08-32) — Keynes, Rothschild’s Bionomics, then 2018 congressional campaign click
+- [00:10:07](#t-00-10-07) — Government as coordinating system / competition + collaboration + coordination
+- [00:11:29](#t-00-11-29) — Humans born with no ideas vs animals’ DNA instructions
+- [00:13:06](#t-00-13-06) — Title beat — “always Evolution occurs”
+- [00:14:54](#t-00-14-54) — The ideasphere — new ecosystem based on ideas
+- [00:15:58](#t-00-15-58) — Brain vs mind / physical synapses vs non-physical ideas
+- [00:17:45](#t-00-17-45) — How big brains happened — “I don’t care it happened” / DNA–RNA analogy
+- [00:21:42](#t-00-21-42) — Accessibility — 102-year-old mom read the book
+- [00:24:34](#t-00-24-34) — One-sentence survival rule — do what you want, don’t harm one another
+- [00:28:11](#t-00-28-11) — Constitution as society’s DNA / laws as RNA instructions
+- [00:29:23](#t-00-29-23) — Ideal-sphere government — regulate by harm
+- [00:31:03](#t-00-31-03) — Morality as human construct / nature’s prime directive is survive
+- [00:39:04](#t-00-39-04) — Competing ideas in attention economy (Kim Kardashian vs human existence)
+- [00:42:48](#t-00-42-48) — Create your own goals & values / parents as family coordinators
+- [00:43:59](#t-00-43-59) — “Expert on you” parenting / mixed messages
+- [00:47:48](#t-00-47-48) — Baby as full ecosystem member / potential ideasphere member
+- [00:50:36](#t-00-50-36) — Teaching children the prime directive across ages
+- [00:53:07](#t-00-53-07) — Journalism gates / truth ethic / Fairness Doctrine → social media as “thing”
+- [01:03:01](#t-01-03-01) — Maximize freedom with a no-harm line
+- [01:05:52](#t-01-05-52) — Dangers of profit maximization / earlier dialogue books → The Human Idea
+- [01:14:24](#t-01-14-24) — Five words: identify your values, live them / at home with yourself
+- [01:20:16](#t-01-20-16) — Nature is nothing but change / ideas are free, actions are judicious
+- [01:26:50](#t-01-26-50) — Mystery / participants in a web (not kings of the world)
+- [01:29:32](#t-01-29-32) — Escaping old ideas / Einstein: as simple as possible but never simpler

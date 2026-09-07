@@ -11,7 +11,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Opening bumper — better conversations
 - [00:01:29](#t-00-01-29) — Episode start — we got JACE / podcast voice
 - [00:09:03](#t-00-09-03) — Counselor Struggle
 - [00:14:24](#t-00-14-24) — Don't alienate your human emotions
@@ -32,7 +31,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [01:50:56](#t-01-50-56) — Opportunity / Though
 - [01:54:05](#t-01-54-05) — Possibility of opportunity / take the ride
 - [02:02:26](#t-02-02-26) — Listening / Better
-- [02:05:37](#t-02-05-37) — Outro — Mixcloud / take care / peace out
 
 ## Keywords
 

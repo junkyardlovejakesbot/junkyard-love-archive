@@ -1,1 +1,23 @@
-(none published in episode notes — inventory has_timestamps=no; YouTube chapter markers present — Archive picks uses YT chapters)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:00:02](#t-00-00-02) — Friend, Yourself & Ladies
+- [00:01:06](#t-00-01-06) — Ego, consciousness & mindfulness
+- [00:05:57](#t-00-05-57) — Ego and reality
+- [00:08:03](#t-00-08-03) — Changing your ego
+- [00:11:44](#t-00-11-44) — Mindfulness, Perspective & Third-person
+- [00:13:56](#t-00-13-56) — Third-person perspective
+- [00:17:09](#t-00-17-09) — Following feelings back to the core
+- [00:20:46](#t-00-20-46) — Different generations
+- [00:23:29](#t-00-23-29) — Information overload vs grandparents
+- [00:26:58](#t-00-26-58) — Being skeptical
+- [00:30:17](#t-00-30-17) — Us-versus-them language & race
+- [00:35:16](#t-00-35-16) — Humanizing people
+- [00:38:15](#t-00-38-15) — Determinism
+- [00:40:14](#t-00-40-14) — Words & intent
+- [00:44:10](#t-00-44-10) — Phones as the opposite of presence
+- [00:48:24](#t-00-48-24) — Phone, Present & Moment
+- [00:51:50](#t-00-51-50) — Heartened, Chemical & Dopamine
+- [00:54:13](#t-00-54-13) — ADHD & dopamine
+- [01:05:30](#t-01-05-30) — Floating above ego in conversation
+- [01:08:25](#t-01-08-25) — Journaling, mindfulness apps & practice
+- [01:10:14](#t-01-10-14) — Today’s a good day to die — presence

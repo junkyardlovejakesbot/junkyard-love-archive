@@ -11,7 +11,7 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Opening bumper — Junkyard Love
+- [00:00:34](#t-00-00-34) — Host open — Human, Each & Progress
 - [00:03:40](#t-00-03-40) — Mind virus / Western culture essay
 - [00:08:06](#t-00-08-06) — Sense-making apparatus / love in interaction
 - [00:09:27](#t-00-09-27) — Conversation starts — series framing
@@ -29,11 +29,9 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [01:15:44](#t-01-15-44) — Civilization / Individual
 - [01:22:13](#t-01-22-13) — Individual / Understand
 - [01:26:20](#t-01-26-20) — Ethics / values / studying philosophy
-- [01:29:33](#t-01-29-33) — Close — series will continue
 - [01:30:39](#t-01-30-39) — Sense-making crisis / personal responsibility
 - [01:31:26](#t-01-31-26) — Philosopher recs — Seneca / Arendt / Nietzsche
 - [01:32:26](#t-01-32-26) — YouTube as free curiosity school
-- [01:33:18](#t-01-33-18) — Outro — stretch / water / peace
 
 ## Keywords
 

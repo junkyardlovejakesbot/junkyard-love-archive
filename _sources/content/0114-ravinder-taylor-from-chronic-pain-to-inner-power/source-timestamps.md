@@ -1,1 +1,27 @@
-(none published in episode notes)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:00:55](#t-00-00-55) — Opening — welcome Ravinder / Mind Training intro
+- [00:05:29](#t-00-05-29) — Research solid, mystical explanations aren’t / what really works
+- [00:07:51](#t-00-07-51) — Empower the reader / personalize meditation / dig for truth
+- [00:08:59](#t-00-08-59) — Personal healing journey / rheumatoid arthritis question
+- [00:10:19](#t-00-10-19) — Hospital hypnosis demo / decades of arm pain gone overnight
+- [00:13:38](#t-00-13-38) — Near-drowning trauma unlocked / hypnosis & psychotherapy training
+- [00:16:00](#t-00-16-00) — Placebo / InnerTalk accelerated healing for 15 months
+- [00:17:49](#t-00-17-49) — CMO supplement / tapering meds / 25 years RA-med-free
+- [00:19:06](#t-00-19-06) — Don’t always know which element healed you / tipping point
+- [00:21:54](#t-00-21-54) — Optimism research / nun journals / longevity & Alzheimer’s
+- [00:25:25](#t-00-25-25) — Night routine — diaphragmatic breathing, forgiveness, gratitude
+- [00:28:11](#t-00-28-11) — Paint the best possible outcome instead of ruminating
+- [00:31:32](#t-00-31-32) — Fixed → growth mindset / “I’m just the way I am”
+- [00:33:24](#t-00-33-24) — Free will isn’t free — take it / Libet & System 1–2
+- [00:36:50](#t-00-36-50) — Be the change / your circle sees what’s possible
+- [00:39:26](#t-00-39-26) — Daily habits / wrong side of the bed → choose again
+- [00:41:01](#t-00-41-01) — Smiling, hand-washing mindfulness, morning sunlight
+- [00:46:20](#t-00-46-20) — Actualize the whole you / not a carbon copy
+- [00:47:11](#t-00-47-11) — Media priming / compliance principles / scarcity & social proof
+- [00:52:22](#t-00-52-22) — Manifesting hype vs action / kernels in law of attraction
+- [00:54:07](#t-00-54-07) — Self-empowerment tools / make the process your own
+- [00:55:23](#t-00-55-23) — Modern rites of passage / university as passage
+- [01:00:41](#t-01-00-41) — Next decade — spiritual search / realistic self-help hunger
+- [01:06:36](#t-01-06-36) — Look back at trauma when useful / otherwise forge forward
+- [01:08:38](#t-01-08-38) — One day at a time / happiness now / problems resolve

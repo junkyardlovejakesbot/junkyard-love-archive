@@ -11,7 +11,7 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Opening bumper — camping / phone intro
+- [00:01:37](#t-00-01-37) — Host open — Contempt, Country & Society
 - [00:06:08](#t-00-06-08) — Episode start — cheers / welcome Devon
 - [00:08:02](#t-00-08-02) — Skateboarding / identity / mental health
 - [00:11:22](#t-00-11-22) — Mind grooves / Paul Stamets sledding metaphor
@@ -32,7 +32,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [01:33:14](#t-01-33-14) — Intermittent / Fasting
 - [01:41:18](#t-01-41-18) — Light / Power
 - [01:49:18](#t-01-49-18) — Feeding / Life
-- [01:57:48](#t-01-57-48) — Outro — share / drink water / peace out
 
 ## Keywords
 

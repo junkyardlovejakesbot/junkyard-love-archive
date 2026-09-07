@@ -11,7 +11,6 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Opening bumper — Junkyard Love
 - [00:01:16](#t-00-01-16) — What made you want to start this podcast
 - [00:10:22](#t-00-10-22) — The 10x Rule / breaking point comfort zone
 - [00:12:33](#t-00-12-33) — Getting rid of social media / old accounts
@@ -32,7 +31,6 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 - [01:40:01](#t-01-40-01) — The meaning of life
 - [01:47:41](#t-01-47-41) — That's Worth Checking
 - [01:55:52](#t-01-55-52) — What the world needs — discipline
-- [01:59:36](#t-01-59-36) — Outro — water / self-love / discipline CTA
 
 ## Keywords
 

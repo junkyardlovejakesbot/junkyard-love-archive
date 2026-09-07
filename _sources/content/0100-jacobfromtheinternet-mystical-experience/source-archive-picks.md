@@ -11,7 +11,7 @@ Extracted from the YouTube auto-caption transcript and published About. Labeled 
 
 ## Chapter-style timestamps
 
-- [00:00:00](#t-00-00-00) — Body-scan open / get present
+- [00:00:00](#t-00-00-00) — Host open — Spiritual, Against & Whether
 - [00:01:48](#t-00-01-48) — Episode 100 welcome — solocast intro
 - [00:03:04](#t-00-03-04) — Mystical / Spiritual Awakening framing (kundalini)
 - [00:12:05](#t-00-12-05) — Ram Dass neurosis line / still just a dude
@@ -36,7 +36,6 @@ Extracted from the YouTube auto-caption transcript and published About. Labeled 
 - [01:50:25](#t-01-50-25) — “Bottom dropping out” in spiritual practice
 - [01:52:41](#t-01-52-41) — Personal spiritual path is okay — step where you are
 - [02:00:01](#t-02-00-01) — Where to find Jacob — Instagram @jacobfromtheinternet / Junkyard Love
-- [02:02:56](#t-02-02-56) — Outro — Spiritual Awakening Show interview ahead
 
 ## Keywords
 

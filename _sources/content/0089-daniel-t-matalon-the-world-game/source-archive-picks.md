@@ -8,7 +8,7 @@ Extracted from the YouTube auto-caption transcript and published links already o
 
 ## Chapter-style timestamps
 
-- [00:00:00](#t-00-00-00) — Bumper — knowledge is power
+- [00:01:21](#t-00-01-21) — Conversation, Buckminster & Resources
 - [00:03:31](#t-00-03-31) — Jacob reads published bio — elevator pitch
 - [00:04:48](#t-00-04-48) — World Game — Buckminster Fuller / make the world work
 - [00:08:40](#t-00-08-40) — Most surprising answer — Am I enough?
@@ -22,9 +22,6 @@ Extracted from the YouTube auto-caption transcript and published links already o
 - [00:46:19](#t-00-46-19) — Impact Launchpad — $3.5T / agreement & money
 - [00:50:19](#t-00-50-19) — Learn Research
 - [00:52:32](#t-00-52-32) — World Game not a world order
-- [00:54:49](#t-00-54-49) — Hopefulness — closing reflection
-- [00:59:18](#t-00-59-18) — Outro — isthereenough.org / airport
-
 
 ## Keywords
 

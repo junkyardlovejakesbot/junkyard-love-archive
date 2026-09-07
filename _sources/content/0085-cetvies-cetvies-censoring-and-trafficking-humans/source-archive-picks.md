@@ -11,7 +11,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:00](#t-00-00-00) — Bumper — knowledge is power
 - [00:00:18](#t-00-00-18) — Studying human rights / trafficking sensitivity
 - [00:01:28](#t-00-01-28) — Trafficking as a recent legal concept (UN/US 2000)
 - [00:05:42](#t-00-05-42) — Coercion, job-lure myths & migrant exploitation
@@ -25,7 +24,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [00:45:34](#t-00-45-34) — Role of journalists amid fake news & conflicts
 - [00:52:44](#t-00-52-44) — Censorship mirroring & platform specialization
 - [00:57:25](#t-00-57-25) — Spreading the word / listener responsibility
-- [01:00:03](#t-01-00-03) — Outro — drink water / stretch / love yourselves
 
 ## Keywords
 

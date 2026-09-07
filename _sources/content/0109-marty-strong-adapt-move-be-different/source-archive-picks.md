@@ -11,7 +11,7 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Chapter-style timestamps
 
-- [00:00:00](#t-00-00-00) — Opening — Junkyard Love check-in
+- [00:00:09](#t-00-00-09) — Opening — Junkyard Love check-in
 - [00:03:40](#t-00-03-40) — Jacob on intuition — how a 17–18-year-old said yes
 - [00:15:11](#t-00-15-11) — Continuous self-learning / no arrival point / frictions when people try to change
 - [00:16:47](#t-00-16-47) — Brain science — safety/stability switch vs explore/risk switch
@@ -35,7 +35,6 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [01:09:46](#t-01-09-46) — Be Nimble / Be Visionary / Be Different — who the latest book is for
 - [01:12:21](#t-01-12-21) — Creativity collapse research / paint outside the lines / be different
 - [01:15:01](#t-01-15-01) — Nine novels + three business books / A Time for Glory / Death Before Dawn
-- [01:19:52](#t-01-19-52) — Outro — stretch
 
 ## Keywords
 

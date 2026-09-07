@@ -11,7 +11,7 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Opening bumper — Junkyard Love
+- [00:01:29](#t-00-01-29) — Host open — October, Yourself & Sober
 - [00:03:24](#t-00-03-24) — Note — three-person mix / first 55s
 - [00:04:09](#t-00-04-09) — Guest intro — Nate & Matt
 - [00:05:14](#t-00-05-14) — Matt — Vancouver Elite Outreach origin
@@ -36,8 +36,6 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 - [02:19:07](#t-02-19-07) — Start Learn Yourself
 - [02:26:53](#t-02-26-53) — Can't Tha
 - [02:34:27](#t-02-34-27) — Turned Music Driving
-- [02:41:30](#t-02-41-30) — Outro — peace out
-
 
 ## Keywords
 

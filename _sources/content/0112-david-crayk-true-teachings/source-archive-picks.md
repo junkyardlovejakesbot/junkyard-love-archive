@@ -13,8 +13,7 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Chapter-style timestamps
 
-- [00:00:01](#t-00-00-01) — Opening — welcome David Crayk / high-school theatre teacher reunion
-- [00:01:01](#t-00-01-01) — ~650 former students on Facebook / weddings & lifelong ties
+- [00:00:23](#t-00-00-23) — Opening — welcome David Crayk / high-school theatre teacher reunion
 - [00:02:58](#t-00-02-58) — Talking people off a ledge / “this is going to pass”
 - [00:06:19](#t-00-06-19) — Safe-place classroom / attracting kids who needed belonging
 - [00:08:14](#t-00-08-14) — Kelso theatre as extension of safe personhood / magical stage
@@ -41,7 +40,6 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [01:24:02](#t-01-24-02) — 27 Club idolization vs long-haul impact
 - [01:33:11](#t-01-33-11) — Scripture, prayer/meditation, disc golf, gym as practice
 - [01:35:26](#t-01-35-26) — Don’t bargain with the inner voice / listen and act
-- [01:38:43](#t-01-38-43) — Outro — YouTube Q&A pointer / subscribe outro
 
 ## Keywords
 

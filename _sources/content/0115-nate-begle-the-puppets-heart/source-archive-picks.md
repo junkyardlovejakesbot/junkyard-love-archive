@@ -13,7 +13,7 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Opening — welcome Nate / voice actor & puppeteer intro
+- [00:01:10](#t-00-01-10) — Opening — welcome Nate / voice actor & puppeteer intro
 - [00:02:12](#t-00-02-12) — DJ Bob Show / make a door if there isn’t one
 - [00:07:34](#t-00-07-34) — Formal welcome to Junkyard Love / how they connected
 - [00:10:44](#t-00-10-44) — Kids’ VO character workshop / elevator pitch setup
@@ -41,7 +41,6 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [01:19:24](#t-01-19-24) — Pocket universe / show must go on / one kid’s laugh
 - [01:21:10](#t-01-21-10) — Advice for beginners — pick a focus / free resources & coaches
 - [01:26:50](#t-01-26-50) — Megaphone to humanity — Kermit / do what you love
-- [01:29:14](#t-01-29-14) — Outro — Keep pedaling / part two tease / outro hydrate
 
 ## Keywords
 

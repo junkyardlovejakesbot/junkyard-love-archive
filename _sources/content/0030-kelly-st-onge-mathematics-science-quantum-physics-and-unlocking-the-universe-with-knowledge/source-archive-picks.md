@@ -11,8 +11,7 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Open — host bumper
-- [00:01:40](#t-00-01-40) — Welcome Kelly
+- [00:01:40](#t-00-01-40) — Touch, Subjects & Perfect
 - [00:03:29](#t-00-03-29) — Topics — math / science / quantum
 - [00:05:15](#t-00-05-15) — Layers of abstraction
 - [00:06:43](#t-00-06-43) — Bits / computing scaffold
@@ -33,8 +32,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [01:20:29](#t-01-20-29) — Astronaut dreams
 - [01:27:53](#t-01-27-53) — Differential / Friendship
 - [01:35:47](#t-01-35-47) — Archimedes / Eureka story
-- [01:41:26](#t-01-41-26) — Outro — Eureka / debug yourself
-- [01:42:19](#t-01-42-19) — Outro — Eureka / debug yourself
 
 ## Keywords
 

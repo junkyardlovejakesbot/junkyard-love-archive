@@ -1,15 +1,33 @@
-00:00:00 – Sean Blackwell on Bipolar Disorder & Spiritual Awakening
-00:00:25 – What Bipolar Disorder Really Is (Symptoms vs Reality)
-00:01:30 – Bipolar I, Bipolar II & Psychosis Explained
-00:02:20 – Spiritual Delusions & the Ram Dass Connection
-00:03:38 – Sean’s Landmark Experience: The Turning Point
-00:05:05 – Entering Psychosis: The Dreamlike State & Ego Death
-00:06:32 – Crisis, Hospitalization & Early Integration
-00:08:05 – How Helping Others Became Sean’s Calling
-00:09:16 – Supporting His Niece Through Awakening
-00:10:49 – Why Psychiatry Defaults to Lifelong Medication
-00:11:35 – Kundalini, Trauma Energy & Somatic Roots of Bipolar
-00:14:11 – Which Book to Read First
-00:15:24 – Breathwork, Distance Sessions & Trauma Release
-00:18:53 – Meaning, Intuition & Sean’s Multiverse Theory
-00:21:27 – Closing Reflections on Healing & Awakening
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:00:44](#t-00-00-44) — Opening — Am I Bipolar or Waking Up? / Bipolar Awakenings
+- [00:01:36](#t-00-01-36) — What bipolar is — DSM labels, Bipolar I vs II, psychosis
+- [00:03:50](#t-00-03-50) — Trauma roots vs biology / 13 spiritual delusions
+- [00:07:42](#t-00-07-42) — “Why You Think You’re Jesus” / divine & demonic flips
+- [00:09:46](#t-00-09-46) — Ram Dass brother story / we’re all Jesus
+- [00:12:42](#t-00-12-42) — Landmark Forum origin story begins
+- [00:20:47](#t-00-20-47) — Stan Grof / spiritual emergency vs mental illness
+- [00:22:42](#t-00-22-42) — Felt natural, not normal / post-hospital life
+- [00:25:45](#t-00-25-45) — Niece’s awakening / calling to help others
+- [00:29:18](#t-00-29-18) — Two sisters / Soteria House / recovery without lifelong meds
+- [00:33:13](#t-00-33-13) — Synchronicity edge / falling dream / Skull Island
+- [00:37:06](#t-00-37-06) — Healing as authenticity — natural, not normal
+- [00:39:30](#t-00-39-30) — Trauma as root / funeral that doesn’t cry
+- [00:41:11](#t-00-41-11) — Somatic trauma / Rolfing / Holotropic breathwork
+- [00:43:41](#t-00-43-41) — Bipolar Breathwork — private retreats, custom safety
+- [00:45:36](#t-00-45-36) — First client — coccyx pain, kundalini release, meds-free years
+- [00:48:43](#t-00-48-43) — Teaching via YouTube / meditation as psychosis trigger
+- [00:50:08](#t-00-50-08) — Vipassana stronger than hospital / kriyas
+- [00:52:45](#t-00-52-45) — Don’t force family — find the open door
+- [00:55:51](#t-00-55-51) — Mission complete — teacher more than therapist
+- [00:57:44](#t-00-57-44) — Videos as triggers / university & death as common triggers
+- [00:59:12](#t-00-59-12) — Identity, individuation, divorce, somatic jerks
+- [01:01:30](#t-01-01-30) — Divine intelligence as the healing agent
+- [01:02:58](#t-01-02-58) — Ken Wilber stages / atheism / intuition / parallel Seans
+- [01:08:09](#t-01-08-09) — Small talk, beer, Uber loneliness, connection
+- [01:12:48](#t-01-12-48) — Demystifying Kundalini — Gopi Krishna to global awakening
+- [01:20:48](#t-01-20-48) — Authentic podcast conversation → kundalini symptoms
+- [01:21:52](#t-01-21-52) — Which book first / free PDFs on bipolarawakenings.com
+- [01:22:59](#t-01-22-59) — Distance surrogate breathwork / Monica Kettler
+- [01:26:17](#t-01-26-17) — Others’ energy passes through / no ego in the game
+- [01:29:01](#t-01-29-01) — Untrained supporter does surrogate birth work

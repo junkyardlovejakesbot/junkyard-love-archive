@@ -28,8 +28,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [01:06:35](#t-01-06-35) — Experience / Research
 - [01:12:14](#t-01-12-14) — Social media avatar / bailing on Instagram
 - [01:19:35](#t-01-19-35) — Protecting yourself / new-mom strength
-- [01:23:21](#t-01-23-21) — Outro — postpartum, mom-shaming, Junkyard Love out
-
 
 ## Keywords
 

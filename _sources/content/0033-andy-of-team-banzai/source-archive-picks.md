@@ -31,7 +31,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [01:15:09](#t-01-15-09) — YouTube tutorial pet peeves
 - [01:21:16](#t-01-21-16) — Producers / Learning
 - [01:26:02](#t-01-26-02) — Vangelis / Blade Runner sound design
-- [01:26:49](#t-01-26-49) — Outro — thanks / braved the plague
 
 ## Keywords
 

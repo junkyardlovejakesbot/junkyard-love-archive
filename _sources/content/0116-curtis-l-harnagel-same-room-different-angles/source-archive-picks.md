@@ -14,7 +14,7 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Chapter-style timestamps
 
-- [00:00:09](#t-00-00-09) — Opening — welcome Curtis / Junkyard Love
+- [00:00:31](#t-00-00-31) — Opening — welcome Curtis / Junkyard Love
 - [00:06:44](#t-00-06-44) — RTF degree / favorite professor / mark of a good educator
 - [00:17:18](#t-00-17-18) — Arts defunded because they’re too helpful / music is math
 - [00:21:48](#t-00-21-48) — Sensor vs intuitive / listen to what’s innate
@@ -43,9 +43,6 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [02:20:20](#t-02-20-20) — Analysis paralysis / let the work free
 - [02:24:43](#t-02-24-43) — Polite + stern direction / communication is a constant
 - [02:28:43](#t-02-28-43) — Finish the show / discuss later / move forward
-- [02:32:19](#t-02-32-19) — Closing word: insight
-- [02:43:03](#t-02-43-03) — Treat album suggestions as invitations / outro
-- [02:43:35](#t-02-43-35) — Outro — drink water / stretch / love yourselves
 
 ## Keywords
 
