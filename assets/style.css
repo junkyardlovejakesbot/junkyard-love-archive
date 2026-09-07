@@ -687,3 +687,41 @@ footer.site .footer-links a:hover { color: var(--link); text-decoration: underli
   padding: 0;
 }
 .archive-picks h3:first-child { margin-top: 0.25rem; }
+
+/* —— Listen by mood / Chapter radio —— */
+.mood-doors {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 0.75rem 0 1rem;
+}
+a.mood-chip,
+button.mood-chip {
+  font-family: system-ui, sans-serif;
+  font-size: 0.9rem;
+  padding: 0.45rem 0.9rem;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--card);
+  color: var(--link);
+  cursor: pointer;
+  line-height: 1.3;
+  text-decoration: none;
+  display: inline-block;
+}
+a.mood-chip:hover,
+button.mood-chip:hover,
+button.mood-chip[aria-pressed="true"],
+a.mood-chip[aria-current="true"] {
+  border-color: var(--accent);
+  background: var(--chip-hover-bg);
+}
+.mood-results {
+  margin: 0.5rem 0 1.5rem;
+}
+.radio-playlist {
+  margin: 0.75rem 0 1.5rem;
+}
+.radio-row {
+  margin: 0.65rem 0;
+}

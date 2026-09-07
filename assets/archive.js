@@ -521,6 +521,171 @@
     });
   }
 
+
+  var moodsCache = null;
+  var radioSetsCache = null;
+
+  function loadMoods() {
+    if (moodsCache) return Promise.resolve(moodsCache);
+    return fetch(abs("assets/mood_doors.json"))
+      .then(function (r) {
+        if (!r.ok) throw new Error("moods " + r.status);
+        return r.json();
+      })
+      .then(function (data) {
+        moodsCache = data;
+        return data;
+      });
+  }
+
+  function loadRadioSets() {
+    if (radioSetsCache) return Promise.resolve(radioSetsCache);
+    return fetch(abs("assets/radio_sets.json"))
+      .then(function (r) {
+        if (!r.ok) throw new Error("radio " + r.status);
+        return r.json();
+      })
+      .then(function (data) {
+        radioSetsCache = data;
+        return data;
+      });
+  }
+
+  function findChapter(ep, chapterTime, chapterTitle) {
+    var want = parseTs(chapterTime);
+    var chs = ep.chapters || [];
+    for (var i = 0; i < chs.length; i++) {
+      var ch = chs[i];
+      var start = parseTs(ch.start_seconds != null ? ch.start_seconds : ch.start);
+      if (start === want) return { ch: ch, i: i };
+    }
+    if (chapterTitle) {
+      for (var j = 0; j < chs.length; j++) {
+        if (chs[j].title === chapterTitle) return { ch: chs[j], i: j };
+      }
+    }
+    return null;
+  }
+
+  function resolveRefs(refs, data) {
+    var bySlug = {};
+    published(data.episodes).forEach(function (ep) {
+      bySlug[ep.slug] = ep;
+    });
+    var out = [];
+    (refs || []).forEach(function (ref) {
+      var ep = bySlug[ref.slug];
+      if (!ep) return;
+      var found = findChapter(ep, ref.chapter_time, ref.chapter_title);
+      if (!found) return;
+      var chs = ep.chapters || [];
+      var startSec = parseTs(
+        found.ch.start_seconds != null ? found.ch.start_seconds : found.ch.start
+      );
+      var endSec = chs[found.i + 1]
+        ? parseTs(
+            chs[found.i + 1].start_seconds != null
+              ? chs[found.i + 1].start_seconds
+              : chs[found.i + 1].start
+          )
+        : startSec + 120;
+      out.push({
+        ep: ep,
+        ch: found.ch,
+        quote: nearestQuote(ep, startSec, endSec),
+      });
+    });
+    return out;
+  }
+
+  function showMood(slug, targetEl) {
+    var el =
+      typeof targetEl === "string" ? document.querySelector(targetEl) : targetEl;
+    if (!el) return Promise.resolve();
+    return Promise.all([loadIndex(), loadMoods()]).then(function (pair) {
+      var data = pair[0];
+      var moods = pair[1];
+      var door = (moods.doors || []).filter(function (d) {
+        return d.slug === slug;
+      })[0];
+      if (!door) {
+        el.innerHTML = '<p class="search-empty">Door not found.</p>';
+        return;
+      }
+      var cards = resolveRefs(door.chapters, data);
+      if (!cards.length) {
+        el.innerHTML = '<p class="search-empty">No chapters for this door yet.</p>';
+        return;
+      }
+      el.innerHTML =
+        '<p class="note">' +
+        esc(door.label) +
+        ' · <a href="' +
+        esc(abs("moods/" + door.slug + "/index.html")) +
+        '">Open door page</a></p>' +
+        cards
+          .map(function (m) {
+            return clipCardHtml(m.ep, m.ch, m.quote);
+          })
+          .join("");
+    });
+  }
+
+  function wireMoodDoors() {
+    var cloud = document.querySelector("[data-mood-doors]");
+    if (!cloud) return;
+    // If empty shell from redesign template, populate chips
+    if (!cloud.children.length) {
+      loadMoods().then(function (moods) {
+        cloud.innerHTML = (moods.doors || [])
+          .map(function (d) {
+            return (
+              '<a class="mood-chip" href="' +
+              esc(abs("moods/" + d.slug + "/index.html")) +
+              '" data-mood="' +
+              esc(d.slug) +
+              '">' +
+              esc(d.label) +
+              "</a>"
+            );
+          })
+          .join("");
+      });
+    }
+    cloud.addEventListener("click", function (e) {
+      var chip = e.target.closest("[data-mood]");
+      if (!chip) return;
+      var results = document.querySelector("[data-mood-results], #mood-results");
+      if (!results) return;
+      // Keep navigation for middle-click / modified clicks
+      if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey || e.button === 1) return;
+      e.preventDefault();
+      cloud.querySelectorAll("[data-mood]").forEach(function (c) {
+        c.setAttribute("aria-current", "false");
+      });
+      chip.setAttribute("aria-current", "true");
+      showMood(chip.getAttribute("data-mood"), results);
+    });
+  }
+
+  function wireRadioSets() {
+    var bar = document.querySelector("[data-radio-sets]");
+    if (!bar) return;
+    bar.addEventListener("click", function (e) {
+      var btn = e.target.closest("button[data-radio-set]");
+      if (!btn) return;
+      var id = btn.getAttribute("data-radio-set");
+      bar.querySelectorAll("button[data-radio-set]").forEach(function (b) {
+        b.setAttribute("aria-pressed", b === btn ? "true" : "false");
+      });
+      document.querySelectorAll("[data-radio-playlist]").forEach(function (pl) {
+        var match = pl.getAttribute("data-radio-playlist") === id;
+        if (match) pl.removeAttribute("hidden");
+        else pl.setAttribute("hidden", "");
+      });
+    });
+  }
+
   function wireHome() {
     var randomBtn = document.querySelector("[data-random-episode]");
     if (randomBtn) {
@@ -596,6 +761,8 @@
 
   document.addEventListener("DOMContentLoaded", function () {
     wireHome();
+    wireMoodDoors();
+    wireRadioSets();
     wireSearchPage();
     var clipsCloud = document.querySelector("[data-phrase-cloud][data-clips-page]");
     if (clipsCloud) {
@@ -611,6 +778,7 @@
     randomEpisode: randomEpisode,
     shuffleClip: shuffleClip,
     pickClips: pickClips,
+    showMood: showMood,
     cardHtml: cardHtml,
     abs: abs,
   };

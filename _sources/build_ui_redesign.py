@@ -34,6 +34,7 @@ HEADER_HTML = """<header class="site">
     <a href="episodes/index.html">Episodes</a>
     <a href="guests/index.html">Guests</a>
     <a href="topics/index.html">Topics</a>
+    <a href="radio/index.html">Chapter radio</a>
     <a href="search/index.html">Search</a>
     <a href="listen/index.html">Listen</a>
     <a href="https://www.instagram.com/jacobfromtheinternet/" target="_blank" rel="noopener">Instagram</a>
@@ -755,12 +756,16 @@ def build_homepage(index: dict):
 <div class="action-row">
   <a class="btn" href="#" data-random-episode>Random episode</a>
   <a class="btn secondary" href="#" data-shuffle-clip>Shuffle a clip</a>
-  <a class="btn secondary" href="clips/index.html">Pick a clip</a>
 </div>
 <div id="shuffle-result"></div>
 
+<h2>Listen by mood</h2>
+<p class="note">not a diagnosis. just a door.</p>
+<div id="mood-doors" class="mood-doors" data-mood-doors></div>
+<div id="mood-results" class="mood-results" data-mood-results></div>
+
 <h2>Pick a clip</h2>
-<p class="note">Keyword phrases drawn from chapter titles and topics — click for a few chapter deep-links.</p>
+<p class="note">Keyword phrases drawn from chapter titles and topics — click for a few chapter deep-links. <a href="clips/index.html">Open Pick a clip</a></p>
 <div class="phrase-cloud" data-phrase-cloud></div>
 <div id="clip-results"></div>
 
