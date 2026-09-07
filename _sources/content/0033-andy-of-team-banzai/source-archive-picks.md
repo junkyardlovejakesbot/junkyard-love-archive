@@ -18,7 +18,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [00:00:11](#t-00-00-11) — Open — COVID / Mask Off banter
 - [00:02:02](#t-00-02-02) — At Black Diamond Recording Studio
 - [00:08:40](#t-00-08-40) — Andy intro — engineer / producer / geek
-- [00:09:18](#t-00-09-18) — Reel-to-reel / dad / early gear
 - [00:09:38](#t-00-09-38) — LimeWire / early downloading era
 - [00:10:33](#t-00-10-33) — What a DJ does
 - [00:15:25](#t-00-15-25) — House-party DJ gigs
@@ -34,9 +33,9 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [01:00:11](#t-01-00-11) — Sound design process
 - [01:07:52](#t-01-07-52) — Mentorship
 - [01:15:09](#t-01-15-09) — YouTube tutorial pet peeves
+- [01:21:16](#t-01-21-16) — Producers / Learning
 - [01:26:02](#t-01-26-02) — Vangelis / Blade Runner sound design
-- [01:26:20](#t-01-26-20) — Elton John / Freddie Mercury
-- [01:26:49](#t-01-26-49) — Close — thanks / braved the plague
+- [01:26:49](#t-01-26-49) — Outro — thanks / braved the plague
 
 ## Keywords
 

@@ -34,7 +34,6 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [00:40:56](#t-00-40-56) — “Behaving truthfully under imaginary circumstances”
 - [00:42:14](#t-00-42-14) — Harmonica / spoon emotion exercise — storytelling without words
 - [00:46:53](#t-00-46-53) — Mick Wingert — find your irreducible minimum
-- [00:47:32](#t-00-47-32) — Kernel is storytelling / VO, audio production, immersion
 - [00:52:47](#t-00-52-47) — Ballet vs voiceover — effortless illusion & public discount
 - [00:58:10](#t-00-58-10) — Weird Al bus lip-sync / don’t yuck your yum
 - [01:00:01](#t-01-00-01) — Passion as pusher / gobbling gargoyles tongue twister
@@ -44,7 +43,7 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [01:19:24](#t-01-19-24) — Pocket universe / show must go on / one kid’s laugh
 - [01:21:10](#t-01-21-10) — Advice for beginners — pick a focus / free resources & coaches
 - [01:26:50](#t-01-26-50) — Megaphone to humanity — Kermit / do what you love
-- [01:29:14](#t-01-29-14) — Keep pedaling / part two tease / outro hydrate
+- [01:29:14](#t-01-29-14) — Outro — Keep pedaling / part two tease / outro hydrate
 
 ## Keywords
 

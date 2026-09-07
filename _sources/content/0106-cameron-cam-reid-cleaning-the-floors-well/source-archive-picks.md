@@ -16,7 +16,6 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 ## Chapter-style timestamps
 
 - [00:00:00](#t-00-00-00) — Opening — better conversations / better conversations with ourselves
-- [00:00:09](#t-00-00-09) — Six miles deep inside your own head / reconnecting after isolation
 - [00:02:30](#t-00-02-30) — Cam nervous — first podcast / free-flowing talk vs “statement”
 - [00:06:09](#t-00-06-09) — Basement-of-the-mind work / snake shedding / perform what you’ve learned
 - [00:09:08](#t-00-09-08) — Travis Pastrana backflip / four-minute mile — permission to push edges
@@ -43,7 +42,8 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [01:31:32](#t-01-31-32) — Premise of connection / laughter is for connection
 - [01:33:03](#t-01-33-03) — Holding space / light in me gives permission to light in you
 - [01:34:58](#t-01-34-58) — Floating / traveler community / bridge connections from servitude
-- [01:39:56](#t-01-39-56) — Closing gratitude / first listen to JYLP / connection
+- [01:40:56](#t-01-40-56) — Outro — drink water / stretch / love yourselves
+
 
 ## Keywords
 

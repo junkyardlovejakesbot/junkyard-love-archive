@@ -22,7 +22,9 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [00:12:21](#t-00-12-21) — Habit change
 - [00:15:52](#t-00-15-52) — Music / learning piano & guitar / 10,000 hours
 - [00:17:01](#t-00-17-01) — Musician's kid / dad plays drums
+- [00:24:34](#t-00-24-34) — Yourself / Music
 - [00:34:21](#t-00-34-21) — Flipping perspective / rain & balance
+- [00:42:16](#t-00-42-16) — Yourself / Feeling
 - [00:51:00](#t-00-51-00) — Seven Habits of Highly Effective People
 - [00:53:52](#t-00-53-52) — The Light Shall Set You Free
 - [00:57:01](#t-00-57-01) — Law of attraction / polarity
@@ -31,6 +33,9 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [01:10:42](#t-01-10-42) — PH-balanced Kangen water
 - [01:15:00](#t-01-15-00) — Gallon-a-day water commitment
 - [01:24:57](#t-01-24-57) — Fasting / physical & mental diet
+- [01:33:14](#t-01-33-14) — Intermittent / Fasting
+- [01:41:18](#t-01-41-18) — Light / Power
+- [01:49:18](#t-01-49-18) — Feeding / Life
 - [01:57:48](#t-01-57-48) — Outro — share / drink water / peace out
 
 ## Keywords

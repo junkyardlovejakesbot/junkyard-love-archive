@@ -15,31 +15,25 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 
 ## Chapter-style timestamps
 
-- [00:00:00](#t-00-00-00) — Opening — welcome Sigmar Berg
-- [00:00:42](#t-00-00-42) — Who is Sigmar / Lovetuner as conscious breathing break + 528 Hz
-- [00:01:51](#t-00-01-51) — Aqua Journey guided meditation / head → heart awakening
-- [00:01:57](#t-00-01-57) — Europe → California / fashion & architecture → One Journey love-and-peace mission
-- [00:07:32](#t-00-07-32) — Living from head vs living from heart
-- [00:07:39](#t-00-07-39) — 75k thoughts / spiritual hygiene / shortcut to meditation
-- [00:11:20](#t-00-11-20) — Breathwork for beginners / slow exhale / yoga nidra straw analogy
+- [00:00:16](#t-00-00-16) — Opening — welcome Sigmar Berg
+- [00:01:46](#t-00-01-46) — Aqua Journey guided meditation / head → heart awakening
+- [00:07:39](#t-00-07-39) — Living from head vs living from heart
+- [00:11:41](#t-00-11-41) — Breathwork for beginners / slow exhale / yoga nidra straw analogy
 - [00:12:32](#t-00-12-32) — Audible feedback on exhale / fight-or-flight → parasympathetic / breath as best friend
-- [00:16:57](#t-00-16-57) — Morning practice vs emergency-only tools
+- [00:16:43](#t-00-16-43) — Morning practice vs emergency-only tools
 - [00:17:44](#t-00-17-44) — Setting the tone of the day / six cycles + silence / night cortisol & 2am window
-- [00:22:32](#t-00-22-32) — Choosing what you start the morning on (phone vs own frequency)
-- [00:24:55](#t-00-24-55) — What is 528 Hz? Solfeggio / love frequency demystified
+- [00:22:38](#t-00-22-38) — Choosing what you start the morning on (phone vs own frequency)
+- [00:24:41](#t-00-24-41) — What is 528 Hz? Solfeggio / love frequency demystified
 - [00:25:27](#t-00-25-27) — Bees, chlorophyll, green/heart center / forgotten C note / 440 vs older scales
-- [00:28:55](#t-00-28-55) — Concert pitch 440 Hz and the forgotten note
-- [00:29:01](#t-00-29-01) — Division / frequency healing vs pills / Jung: outside dreamer, inside awaken
-- [00:33:11](#t-00-33-11) — Music, group coherence, dancing, raising frequency together
-- [00:34:41](#t-00-34-41) — Authenticity in spiritual practice
-- [00:34:48](#t-00-34-48) — Authenticity as key to wholeness / DJs & harmonic music
-- [00:40:13](#t-00-40-13) — Schumann resonance and a rising planetary frequency
-- [00:42:30](#t-00-42-30) — Trust your intuition and your own channel
+- [00:29:01](#t-00-29-01) — Concert pitch 440 Hz and the forgotten note
+- [00:32:52](#t-00-32-52) — Music, group coherence, dancing, raising frequency together
+- [00:34:48](#t-00-34-48) — Authenticity in spiritual practice
+- [00:40:20](#t-00-40-20) — Schumann resonance and a rising planetary frequency
+- [00:42:47](#t-00-42-47) — Trust your intuition and your own channel
 - [00:44:14](#t-00-44-14) — Individual awakening over collective overnight shift
-- [00:45:55](#t-00-45-55) — Keep spiritual practice light
-- [00:46:23](#t-00-46-23) — Channeling = intuition / self-empowerment / trust yourself
-- [00:47:20](#t-00-47-20) — One Journey the book and where to find Lovetuner
-- [00:50:28](#t-00-50-28) — Subscribe / clips @jacobfromtheinternet
+- [00:45:43](#t-00-45-43) — Keep spiritual practice light
+- [00:47:56](#t-00-47-56) — One Journey the book and where to find Lovetuner
+- [00:49:39](#t-00-49-39) — Outro — subscribe / clips @jacobfromtheinternet
 
 ## Keywords
 

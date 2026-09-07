@@ -24,14 +24,17 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [00:13:36](#t-00-13-36) — Touring, contracts, music work
 - [00:17:27](#t-00-17-27) — Healing out loud / brand-new setup
 - [00:19:09](#t-00-19-09) — Audio engineering / touring job
-- [00:19:40](#t-00-19-40) — Mindset / the beast
+- [00:24:06](#t-00-24-06) — Unreleased Though
 - [00:28:36](#t-00-28-36) — Aliases & public masks
+- [00:32:56](#t-00-32-56) — World / Supposed
 - [00:38:37](#t-00-38-37) — Hvshi — Native American 'sunshine' meaning
 - [00:41:41](#t-00-41-41) — Fashionable male in a small town
+- [00:46:19](#t-00-46-19) — Rapper / Skater
 - [00:50:49](#t-00-50-49) — Remixes / creative process
 - [00:55:37](#t-00-55-37) — Butterfly stage / upcoming chapter
 - [00:57:02](#t-00-57-02) — Messages for listeners
 - [01:00:20](#t-01-00-20) — Dark place / closing
+- [01:03:09](#t-01-03-09) — Outro — Dark place / closing
 
 ## Keywords
 

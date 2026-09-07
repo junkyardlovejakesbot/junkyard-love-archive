@@ -16,7 +16,6 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 ## Chapter-style timestamps
 
 - [00:00:00](#t-00-00-00) — Opening — kids changed Nate’s relationship with God / births
-- [00:00:20](#t-00-00-20) — Fatherhood as magical / “straight from source”
 - [00:02:15](#t-00-02-15) — Bike as God-gift that interrupted suicide / no coincidence
 - [00:09:55](#t-00-09-55) — Newcomer welcome / fourth appearance on the show
 - [00:10:59](#t-00-10-59) — Bio reset — 10 years stunt riding → husband/dad / content agency
@@ -41,10 +40,10 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [01:29:30](#t-01-29-30) — God qualifies the called / disaster as calling card
 - [01:32:29](#t-01-32-29) — Parenting branch-out / meaning of life via lineage
 - [01:37:46](#t-01-37-46) — Plant fruit you never see / no-credit duty of men
-- [01:38:09](#t-01-38-09) — Raise warriors with discernment or lineage is doomed
 - [01:44:26](#t-01-44-26) — Heart on trial / discernment over performative good deeds
+- [01:52:27](#t-01-52-27) — Conversation continues
 - [01:56:25](#t-01-56-25) — Biggest money month → prayed remove it → lost clients
-- [02:00:57](#t-02-00-57) — Closing — men/fathers grab the wet torch / stop the neglect chain
+- [02:03:34](#t-02-03-34) — Outro — men/fathers grab the wet torch / stop the neglect chain
 
 
 ## Keywords

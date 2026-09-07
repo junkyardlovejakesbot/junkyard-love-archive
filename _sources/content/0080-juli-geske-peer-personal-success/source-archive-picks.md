@@ -27,8 +27,13 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [00:18:31](#t-00-18-31) — Growth mindset
 - [00:19:46](#t-00-19-46) — Juli's story / Five Senses For Success
 - [00:24:04](#t-00-24-04) — Senses — seeing vs observing
+- [00:27:08](#t-00-27-08) — Negative self-talk vs intentional habits
 - [00:30:11](#t-00-30-11) — Mediation
 - [00:35:36](#t-00-35-36) — Common ground
+- [00:48:01](#t-00-48-01) — Working with orgs, families & communities
+- [00:49:18](#t-00-49-18) — Brains mirroring in a trusting state
+- [00:54:08](#t-00-54-08) — Leader within / speaking as a leader
+- [00:59:35](#t-00-59-35) — Outro — love yourselves
 
 ## Keywords
 

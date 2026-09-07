@@ -17,17 +17,25 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 - [00:00:06](#t-00-00-06) — Opening bumper — better conversations
 - [00:01:29](#t-00-01-29) — Episode start — we got JACE / podcast voice
+- [00:09:03](#t-00-09-03) — Counselor Struggle
 - [00:14:24](#t-00-14-24) — Don't alienate your human emotions
 - [00:17:12](#t-00-17-12) — If I got a problem, I'm about a solution
 - [00:22:40](#t-00-22-40) — Perspective / newly hopping into hip hop
 - [00:26:47](#t-00-26-47) — Stick your chest out — hip-hop as sparring
 - [00:33:10](#t-00-33-10) — Fear of failure / denying the call to music
 - [00:41:59](#t-00-41-59) — Ego / purpose / can't fit yourself in one song
+- [00:50:01](#t-00-50-01) — Left Gig
 - [00:58:47](#t-00-58-47) — Masculine pain / crying / vulnerability
 - [01:01:14](#t-01-01-14) — Rehab / addiction stories
 - [01:05:55](#t-01-05-55) — Relapse night / clean and sober again
+- [01:13:48](#t-01-13-48) — Hopefully / Explore
+- [01:21:58](#t-01-21-58) — Emotions / Brings
+- [01:30:08](#t-01-30-08) — Empowering / Listening
 - [01:34:56](#t-01-34-56) — BIG MAD track / real life bars
+- [01:42:54](#t-01-42-54) — Crying / Music
+- [01:50:56](#t-01-50-56) — Opportunity / Though
 - [01:54:05](#t-01-54-05) — Possibility of opportunity / take the ride
+- [02:02:26](#t-02-02-26) — Listening / Better
 - [02:05:37](#t-02-05-37) — Outro — Mixcloud / take care / peace out
 
 ## Keywords

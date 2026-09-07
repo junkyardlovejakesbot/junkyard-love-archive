@@ -30,7 +30,8 @@ Extracted from the YouTube auto-caption transcript and published About. Labeled 
 - [01:16:40](#t-01-16-40) — Running five times a week — identity through sticking
 - [01:20:02](#t-01-20-02) — Writing one page — the goal I neglected
 - [01:26:22](#t-01-26-22) — Invite — next Sober October / stick to your guns
-- [01:30:40](#t-01-30-40) — Close — Instagram @jacobfromtheinternet / self-actualization
+- [01:31:54](#t-01-31-54) — Outro — Instagram @jacobfromtheinternet / self-actualization
+
 
 ## Keywords
 

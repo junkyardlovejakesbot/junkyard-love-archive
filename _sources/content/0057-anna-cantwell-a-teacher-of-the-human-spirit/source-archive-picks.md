@@ -28,10 +28,15 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [00:46:45](#t-00-46-45) — Hope — pathways to outcomes
 - [00:47:56](#t-00-47-56) — Comparing / own your journey
 - [00:50:09](#t-00-50-09) — Meditation as showering for the brain
+- [00:58:37](#t-00-58-37) — Plant Medicine
 - [01:07:42](#t-01-07-42) — Psychedelics / neural pathways
+- [01:15:58](#t-01-15-58) — Cannabis Start Yoga Meditation
+- [01:24:04](#t-01-24-04) — Information / Positive
 - [01:28:08](#t-01-28-08) — Home as vision board
 - [01:32:35](#t-01-32-35) — Garden metaphor — not broken to be fixed
-- [02:06:59](#t-02-06-59) — Close — website / courses
+- [01:40:44](#t-01-40-44) — Medicine Cards
+- [01:48:54](#t-01-48-54) — Social Masculine Bring
+- [01:57:10](#t-01-57-10) — Learning / Yourself
 - [02:08:19](#t-02-08-19) — Outro CTA — water / self-love
 
 

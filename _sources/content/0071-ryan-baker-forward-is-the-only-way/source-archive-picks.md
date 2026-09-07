@@ -25,14 +25,18 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 - [00:26:34](#t-00-26-34) — Climb a mountain / not down for discipline
 - [00:31:19](#t-00-31-19) — When did you get into Beatboxing
 - [00:38:17](#t-00-38-17) — Losing love for the set routine
+- [00:46:00](#t-00-46-00) — Technology Social Media
+- [00:53:25](#t-00-53-25) — Connection / Forward
 - [00:58:47](#t-00-58-47) — Emotional intelligence
 - [01:01:44](#t-01-01-44) — Self-love
+- [01:10:05](#t-01-10-05) — Power Conversation
+- [01:18:04](#t-01-18-04) — Opinions / Positive
 - [01:25:10](#t-01-25-10) — Where do I see myself
 - [01:29:23](#t-01-29-23) — Where do you see yourself in 10 years
 - [01:40:01](#t-01-40-01) — The meaning of life
+- [01:47:41](#t-01-47-41) — That's Worth Checking
 - [01:55:52](#t-01-55-52) — What the world needs — discipline
-
-- [01:59:36](#t-01-59-36) — Close — water / self-love / discipline CTA
+- [01:59:36](#t-01-59-36) — Outro — water / self-love / discipline CTA
 
 ## Keywords
 

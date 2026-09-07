@@ -17,11 +17,25 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 - [00:00:06](#t-00-00-06) — Opening bumper — Junkyard Love
 - [00:02:43](#t-00-02-43) — Guest intro — Jessica & Mackenzie
+- [00:10:34](#t-00-10-34) — Once Week Ride
 - [00:15:23](#t-00-15-23) — J — mobile bartending / TheSipco origins
 - [00:21:13](#t-00-21-13) — Feminine / masculine energy
+- [00:28:59](#t-00-28-59) — Understanding / Touch
 - [00:32:02](#t-00-32-02) — Mack — Kalama bridge story
 - [00:34:22](#t-00-34-22) — Mack — peer pressure / bridge jump
 - [00:39:31](#t-00-39-31) — Growing through trauma
+- [00:47:31](#t-00-47-31) — Day Far Future
+- [00:55:30](#t-00-55-30) — Mom Realized
+- [01:03:34](#t-01-03-34) — Educated Tara West
+- [01:11:43](#t-01-11-43) — Personal / Younger
+- [01:19:43](#t-01-19-43) — Between / Movies
+- [01:27:44](#t-01-27-44) — Idea Background
+- [01:35:48](#t-01-35-48) — Conversations / Conversation
+- [01:43:54](#t-01-43-54) — Generation Kids
+- [01:51:48](#t-01-51-48) — Life Changes
+- [01:59:54](#t-01-59-54) — Words Describe Lacey
+- [02:07:58](#t-02-07-58) — Listening / Business
+- [02:16:15](#t-02-16-15) — Friendships / Growing
 - [02:20:25](#t-02-20-25) — Glass table talks / friendship
 - [02:29:36](#t-02-29-36) — Outro — love yourself / wash your hands
 

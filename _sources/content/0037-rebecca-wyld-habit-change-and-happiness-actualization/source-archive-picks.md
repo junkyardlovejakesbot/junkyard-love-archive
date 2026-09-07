@@ -25,7 +25,7 @@ Extracted from the faster-whisper transcript of the full published MP3 (not trun
 - [00:14:43](#t-00-14-43) — Hiking / AllTrails
 - [00:19:44](#t-00-19-44) — Cougars / bears on hikes
 - [00:20:34](#t-00-20-34) — Coyotes
-- [00:21:32](#t-00-21-32) — Boundaries you didn't know you had
+- [00:21:32](#t-00-21-32) — Boundaries you didn’t know you had
 - [00:25:30](#t-00-25-30) — Flexible vs rigid
 - [00:28:37](#t-00-28-37) — Life coaching — what it is
 - [00:35:04](#t-00-35-04) — Cosmetologist chats in the chair
@@ -36,11 +36,14 @@ Extracted from the faster-whisper transcript of the full published MP3 (not trun
 - [00:55:22](#t-00-55-22) — Holistic wellness
 - [00:57:04](#t-00-57-04) — Habit loops
 - [01:07:27](#t-01-07-27) — Writing is magic
-- [01:14:47](#t-01-14-47) — If it's your truth, own it
+- [01:14:47](#t-01-14-47) — If it’s your truth, own it
 - [01:22:52](#t-01-22-52) — Ritual / spiritual practice
 - [01:26:39](#t-01-26-39) — Breaking family cycles
 - [01:35:49](#t-01-35-49) — Threshold theory
 - [01:54:53](#t-01-54-53) — Social anxiety / depression
+- [02:01:42](#t-02-01-42) — Child mind / curiosity over rigidity
+- [02:10:41](#t-02-10-41) — Choosing to be here / comparison traps
+- [02:17:07](#t-02-17-07) — Happiness without money stories
 - [02:20:09](#t-02-20-09) — Outro — drink water / get present
 
 ## Keywords

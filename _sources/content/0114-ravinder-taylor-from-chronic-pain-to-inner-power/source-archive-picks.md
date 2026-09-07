@@ -17,13 +17,11 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 - [00:00:00](#t-00-00-00) — Opening — welcome Ravinder / Mind Training intro
 - [00:00:55](#t-00-00-55) — Best version of self / remove blockages to authentic self
-- [00:00:56](#t-00-00-56) — Accidental book origin / Eldon Taylor / Sa Ta Na Ma paper
 - [00:05:29](#t-00-05-29) — Research solid, mystical explanations aren’t / what really works
 - [00:07:51](#t-00-07-51) — Empower the reader / personalize meditation / dig for truth
 - [00:08:59](#t-00-08-59) — Personal healing journey / rheumatoid arthritis question
 - [00:10:19](#t-00-10-19) — Hospital hypnosis demo / decades of arm pain gone overnight
 - [00:13:38](#t-00-13-38) — Near-drowning trauma unlocked / hypnosis & psychotherapy training
-- [00:14:21](#t-00-14-21) — RA after second child / full-responsibility experiment
 - [00:16:00](#t-00-16-00) — Placebo / InnerTalk accelerated healing for 15 months
 - [00:17:49](#t-00-17-49) — CMO supplement / tapering meds / 25 years RA-med-free
 - [00:19:06](#t-00-19-06) — Don’t always know which element healed you / tipping point
@@ -43,7 +41,6 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [01:00:41](#t-01-00-41) — Next decade — spiritual search / realistic self-help hunger
 - [01:06:36](#t-01-06-36) — Look back at trauma when useful / otherwise forge forward
 - [01:08:38](#t-01-08-38) — One day at a time / happiness now / problems resolve
-- [01:11:19](#t-01-11-19) — Closing practice — smiling as underrated medicine
 - [01:13:17](#t-01-13-17) — Outro — Knowledge is power / Reality Is Junkyard Love
 
 

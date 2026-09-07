@@ -43,7 +43,7 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [01:24:02](#t-01-24-02) — 27 Club idolization vs long-haul impact
 - [01:33:11](#t-01-33-11) — Scripture, prayer/meditation, disc golf, gym as practice
 - [01:35:26](#t-01-35-26) — Don’t bargain with the inner voice / listen and act
-- [01:38:43](#t-01-38-43) — Closing — YouTube Q&A pointer / subscribe outro
+- [01:38:43](#t-01-38-43) — Outro — YouTube Q&A pointer / subscribe outro
 
 ## Keywords
 

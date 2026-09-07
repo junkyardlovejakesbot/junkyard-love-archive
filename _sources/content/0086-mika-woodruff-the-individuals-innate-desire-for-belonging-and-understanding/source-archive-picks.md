@@ -15,18 +15,26 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:01](#t-00-00-01) — Solo open — auntie America / delayed episodes
-- [00:07:23](#t-00-07-23) — Bumper — knowledge is power / Mika intro
-- [00:08:23](#t-00-08-23) — Conversation start — Zoom glitches & Pod Match
-- [00:10:14](#t-00-10-14) — New school-year job / high school mental health space
-- [00:18:17](#t-00-18-17) — Different personalities & relating
-- [00:24:50](#t-00-24-50) — Spiritual growth / self-development
-- [00:27:18](#t-00-27-18) — Video game of life / essence of ideas
-- [00:29:39](#t-00-29-39) — Jesus story / popularity & aliens
-- [00:37:43](#t-00-37-43) — Christian co-worker / religion & openness
-- [00:48:52](#t-00-48-52) — Church, spiritual journeys & changing faith
-- [01:03:13](#t-01-03-13) — Masculine & feminine expression
+- [00:00:01](#t-00-00-01) — Opening — Mika return / aha moments
+- [00:03:44](#t-00-03-44) — One year in the apartment / adjusting
+- [00:07:23](#t-00-07-23) — Catch-up & life updates
+- [00:10:14](#t-00-10-14) — Home setup / LED vibes
+- [00:14:38](#t-00-14-38) — Vibes, dressing up & language play
+- [00:18:17](#t-00-18-17) — Second episode with Mika
+- [00:22:12](#t-00-22-12) — Judging people on first sight
+- [00:24:50](#t-00-24-50) — Emotional honesty begins
+- [00:29:39](#t-00-29-39) — Fear-mongering vs possible positives
+- [00:33:28](#t-00-33-28) — Conspiracy elegance / incomplete proofs
+- [00:37:43](#t-00-37-43) — Short attachments / changing narratives
+- [00:43:29](#t-00-43-29) — Assumptions about friends’ trauma
+- [00:48:52](#t-00-48-52) — Spiritual talk & listening filters
+- [00:56:36](#t-00-56-36) — Respect for what we don’t understand
+- [01:03:13](#t-01-03-13) — Trauma framing / Jacob agreement
 - [01:06:26](#t-01-06-26) — Crying, suppression & emotional honesty
+- [01:17:56](#t-01-17-56) — Dating apps & energy exchange
+- [01:28:57](#t-01-28-57) — Four significant relationships / attraction
+- [01:40:11](#t-01-40-11) — Conversation chemistry over looks
+- [01:51:20](#t-01-51-20) — Outro — love yourselves / peace out
 
 ## Keywords
 

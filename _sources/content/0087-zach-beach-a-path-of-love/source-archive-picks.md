@@ -15,18 +15,24 @@ Extracted from the YouTube auto-caption transcript and published links already o
 
 ## Chapter-style timestamps
 
-- [00:00:00](#t-00-00-00) — Bumper — knowledge is power / Zach intro
-- [00:01:26](#t-00-01-26) — Body, heart, mind — yoga, poetry, love coaching
-- [00:03:32](#t-00-03-32) — Connection, belonging & health research
-- [00:06:17](#t-00-06-17) — Path of love — from truth to love
-- [00:09:13](#t-00-09-13) — Nirvana and samsara — end and means
-- [00:14:05](#t-00-14-05) — Anxiety, depression & time perception
-- [00:18:37](#t-00-18-37) — Buddha’s arrow — suffering & conceptualization
-- [00:23:34](#t-00-23-34) — Ground of being — hand on the heart
-- [00:30:01](#t-00-30-01) — Teachers everywhere — flower, breath, gurus
-- [00:35:10](#t-00-35-10) — Seven Lessons of Love / Pebbles poetry
-- [00:44:51](#t-00-44-51) — What yoga is — from workout to linking
+- [00:00:00](#t-00-00-00) — Opening — Zach Beach / yoga & poetry
+- [00:06:17](#t-00-06-17) — Path into teaching & writing
+- [00:11:35](#t-00-11-35) — Body, heart & ground of being
+- [00:17:51](#t-00-17-51) — Retreats & meditation practice
+- [00:23:34](#t-00-23-34) — Beingness in the body
+- [00:27:06](#t-00-27-06) — What society teaches vs inner education
+- [00:30:01](#t-00-30-01) — Desire & discontent
+- [00:35:10](#t-00-35-10) — Daily writing rhythm / Pebbles
+- [00:39:53](#t-00-39-53) — Letting inspiration arrive
+- [00:44:51](#t-00-44-51) — Labels of the mind / seeing a tree
+- [00:50:31](#t-00-50-31) — East–west psychology bridges
 - [00:55:09](#t-00-55-09) — Yoga etymology — science & spirituality
+- [01:05:32](#t-01-05-32) — Nervous system health & hard days
+- [01:10:14](#t-01-10-14) — Real suffering — suicide, alcoholism
+- [01:12:17](#t-01-12-17) — Transactional love vs deeper love
+- [01:17:48](#t-01-17-48) — Compassion, intimacy & openness
+- [01:22:07](#t-01-22-07) — Natural world / open heart
+- [01:25:33](#t-01-25-33) — Outro — stretch / love yourselves
 
 ## Keywords
 

@@ -21,6 +21,7 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [00:15:00](#t-00-15-00) — Crowds, excitement & observing humans
 - [00:17:11](#t-00-17-11) — Bare feet / backyard reset
 - [00:20:33](#t-00-20-33) — Gym self-consciousness
+- [00:27:27](#t-00-27-27) — Line Tim
 - [00:32:57](#t-00-32-57) — Instagram talkers & looking good
 - [00:38:30](#t-00-38-30) — Questioning everything
 - [00:44:44](#t-00-44-44) — Vegan athletes / diet talk
@@ -29,6 +30,8 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [01:02:58](#t-01-02-58) — Rounder worldview
 - [01:05:36](#t-01-05-36) — Language barriers inside our own language
 - [01:08:50](#t-01-08-50) — Talking heads & corporate agendas
+- [01:15:50](#t-01-15-50) — Fail Loud I've
+- [01:22:53](#t-01-22-53) — View / Myself
 - [01:26:40](#t-01-26-40) — Saying fewer words / Thanksgiving
 - [01:33:02](#t-01-33-02) — Posture & standing up straight
 - [01:38:28](#t-01-38-28) — Outro — love the listener

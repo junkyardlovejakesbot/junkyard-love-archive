@@ -21,18 +21,21 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [00:06:34](#t-00-06-34) — Coffee / vitamins / body as engine
 - [00:13:07](#t-00-13-07) — Travel / meat / earth impact
 - [00:16:32](#t-00-16-32) — Food systems / technology expansion
+- [00:24:52](#t-00-24-52) — Conversations / Production
 - [00:28:18](#t-00-28-18) — Diverse conversations / connecting people
 - [00:32:46](#t-00-32-46) — Talking across beliefs
 - [00:41:23](#t-00-41-23) — Pittsburgh / community / social network
 - [00:48:26](#t-00-48-26) — Cancel culture / avatar careers
+- [00:56:35](#t-00-56-35) — Guy Least Publicly
 - [01:03:18](#t-01-03-18) — Ellen / public image vs character
 - [01:09:26](#t-01-09-26) — Social media as high-school arguing
 - [01:17:23](#t-01-17-23) — Clubhouse / long-form conversation apps
 - [01:25:01](#t-01-25-01) — TikTok / designated free time
 - [01:32:49](#t-01-32-49) — Kids / screens / future communication
+- [01:41:00](#t-01-41-00) — Vulgar It'll
 - [01:48:34](#t-01-48-34) — Close — what's next for Megan
 - [01:50:29](#t-01-50-29) — Megan — live events / presence / synchronicities
-- [01:54:40](#t-01-54-40) — Close CTA — water / social media / love yourself
+- [01:54:40](#t-01-54-40) — Outro — water / social media / love yourself
 
 ## Keywords
 

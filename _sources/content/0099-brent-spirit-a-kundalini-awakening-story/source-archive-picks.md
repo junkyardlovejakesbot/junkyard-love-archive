@@ -35,10 +35,11 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [01:16:30](#t-01-16-30) — Naming it Kundalini / six weeks purification
 - [01:21:01](#t-01-21-01) — Full-body awakening / heart as center of integration
 - [01:31:18](#t-01-31-18) — Joe Dispenza, shaktipat, discernment / Amma hug
+- [01:39:12](#t-01-39-12) — Whoa Keep Tha
 - [01:42:53](#t-01-42-53) — Why talk about Kundalini openly — breadcrumbs / flags in the forest
 - [01:50:26](#t-01-50-26) — Resources — BATGAP, Adyashanti, Yvonne Kason, Matt Kahn, Ram Dass
-- [01:54:47](#t-01-54-47) — Closing message — one step at a time / no finish line / all welcome
-- [01:57:13](#t-01-57-13) — Where to find Brent — BrentSpirit.com / Spiritual Awakening Show
+- [01:57:13](#t-01-57-13) — Outro — love yourselves / peace out
+
 
 ## Keywords
 

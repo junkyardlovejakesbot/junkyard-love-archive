@@ -27,12 +27,16 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [00:26:14](#t-00-26-14) — Rugby “crash the ball” metaphor for failing and getting up
 - [00:32:23](#t-00-32-23) — First step — admitting powerlessness over addiction
 - [00:34:44](#t-00-34-44) — Taoism, spiritual connection, “God is real and it’s not you”
+- [00:40:20](#t-00-40-20) — Interesting / Experience
 - [00:44:25](#t-00-44-25) — Friends: “we love the sober Kevin” / family acknowledgment
 - [00:46:47](#t-00-46-47) — Anxiety clinic, therapy goal — stand in a circle and just talk
+- [00:53:07](#t-00-53-07) — Therapy / Inside
 - [01:00:24](#t-01-00-24) — Leadership — include everyone, praise breakthroughs, mini-creators
 - [01:04:12](#t-01-04-12) — One step on the staircase / a little bit of faith
+- [01:10:13](#t-01-10-13) — Leadership / Business
 - [01:15:50](#t-01-15-50) — Own truth in Jesus / faith as turning yourself over
-- [01:21:23](#t-01-21-23) — Closing — bsbcon.com / Black Sheep Business Consulting
+- [01:22:35](#t-01-22-35) — Outro — bsbcon.com / Black Sheep Business Consulting
+
 
 ## Keywords
 

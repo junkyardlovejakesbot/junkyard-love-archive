@@ -21,12 +21,24 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [00:17:36](#t-00-17-36) — YouTube obsessions / anime
 - [00:25:05](#t-00-25-05) — Electrician overtime / father & husband
 - [00:29:43](#t-00-29-43) — Ryan's firsthand COVID experience
+- [00:37:57](#t-00-37-57) — Early / Place
+- [00:45:36](#t-00-45-36) — Saying Don't Thi
+- [00:54:06](#t-00-54-06) — Together / Family
 - [00:58:44](#t-00-58-44) — Dork-dad / friendship
+- [01:06:53](#t-01-06-53) — Anymore Everyone's
+- [01:15:18](#t-01-15-18) — There's Cancel Cul
 - [01:19:22](#t-01-19-22) — Coming together amidst a pandemic
+- [01:27:31](#t-01-27-31) — Don't Hurts
+- [01:35:38](#t-01-35-38) — Information / Husband
+- [01:43:24](#t-01-43-24) — Experience / Better
 - [01:46:41](#t-01-46-41) — Beauty of emotions
 - [01:54:03](#t-01-54-03) — ADHD & medication
+- [02:02:24](#t-02-02-24) — Walk Crying Loud What's
+- [02:10:14](#t-02-10-14) — Saying Each
 - [02:17:28](#t-02-17-28) — Wedding band / marriage
-- [02:33:20](#t-02-33-20) — Close — take care / much love
+- [02:25:38](#t-02-25-38) — Life Goes
+- [02:34:10](#t-02-34-10) — Outro — take care / much love
+
 
 ## Keywords
 

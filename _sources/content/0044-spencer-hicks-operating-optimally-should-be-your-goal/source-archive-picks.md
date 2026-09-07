@@ -17,18 +17,22 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 - [00:00:06](#t-00-00-06) — Opening bumper — better conversations
 - [00:01:43](#t-00-01-43) — Drink some water / let's roll
-- [00:02:03](#t-00-02-03) — Episode start — Spencer running / Lake Shasta
 - [00:02:42](#t-00-02-42) — Inflammation / mushrooms / collagen shake
 - [00:07:23](#t-00-07-23) — News as a tool of control
-- [00:07:32](#t-00-07-32) — Meat vehicle / operate optimally
 - [00:10:16](#t-00-10-16) — Money in symptoms, not wellness
 - [00:15:56](#t-00-15-56) — Obesity / lifestyle factors
 - [00:23:16](#t-00-23-16) — Protests / police / rhetoric of the moment
+- [00:29:52](#t-00-29-52) — Better / Police
+- [00:36:14](#t-00-36-14) — Conversation / Government
+- [00:42:30](#t-00-42-30) — News / Suckers
 - [00:45:30](#t-00-45-30) — Building a worldview / shoes that fit
 - [00:51:49](#t-00-51-49) — Not everyone is in good faith
 - [00:54:23](#t-00-54-23) — Deflecting discomfort / rhetoric
 - [00:56:48](#t-00-56-48) — Conspiracy theories / sense-making
 - [00:58:17](#t-00-58-17) — Humanities classes / questioning ideas
+- [01:04:52](#t-01-04-52) — Police Officers Don't Ans
+- [01:11:14](#t-01-11-14) — Government / Machine
+- [01:17:31](#t-01-17-31) — Economy's Example Mis
 - [01:23:05](#t-01-23-05) — Neuralink / wealth gaps / Elon Musk
 - [01:27:05](#t-01-27-05) — Faith in humanity / optimistic close
 - [01:28:14](#t-01-28-14) — Outro — drink water / stretch / bye

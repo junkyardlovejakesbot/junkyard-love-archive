@@ -29,10 +29,12 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [00:28:02](#t-00-28-02) — “Stay here… when the time comes do not fear”
 - [00:29:33](#t-00-29-33) — Beyond heaven / pairs of opposites / reincarnation as all now
 - [00:37:13](#t-00-37-13) — What is yoga — asana prepares for meditation; yoga in daily life
+- [00:40:58](#t-00-40-58) — Yoga Whether Class
 - [00:44:16](#t-00-44-16) — Meeting teacher in 2010 / awakening experiences / community stability
 - [00:47:42](#t-00-47-42) — Future of the community — purifying the heart; join Baltimore or online
 - [00:52:38](#t-00-52-38) — Prison story / companion to yourself / Bhagavad Gita / network of light
 - [00:56:42](#t-00-56-42) — What the world needs — pure love / closing Namaste
+- [00:58:21](#t-00-58-21) — Outro — pure love / closing Namaste
 
 ## Keywords
 

@@ -15,6 +15,7 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
+- [00:00:00](#t-00-00-00) — Opening
 - [00:02:28](#t-00-02-28) — Third Spencer conversation / free talk
 - [00:04:11](#t-00-04-11) — Philosophy / psychology / differing beliefs
 - [00:11:24](#t-00-11-24) — Metaphysical / meta conversation
@@ -25,11 +26,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [00:44:05](#t-00-44-05) — Frankfurt School / Marxism
 - [00:46:16](#t-00-46-16) — Absurdism / Nihilism / Wonder
 - [00:56:41](#t-00-56-41) — Choose your own adventure / pains & un-comforts
+- [01:04:24](#t-01-04-24) — Conversation / Thinking
 - [01:12:38](#t-01-12-38) — Alpha male / unspoken conversations
-- [01:13:00](#t-01-13-00) — Dungeons and Dragons
+- [01:20:46](#t-01-20-46) — Epic Usually Tel
+- [01:28:32](#t-01-28-32) — Crowd Attendee
 - [01:34:57](#t-01-34-57) — Sisyphus / getting beat down by life
 - [01:35:51](#t-01-35-51) — Victimhood / complaining / healing remedies
-- [01:47:42](#t-01-47-42) — Close — stretch / breathe / Junkyard Love out
+- [01:43:55](#t-01-43-55) — Realizing / Thinking
+- [01:47:42](#t-01-47-42) — Outro — stretch / breathe / Junkyard Love out
 
 ## Keywords
 

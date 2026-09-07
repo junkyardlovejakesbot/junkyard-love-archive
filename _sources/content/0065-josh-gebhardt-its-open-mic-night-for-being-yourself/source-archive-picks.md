@@ -25,14 +25,18 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 - [00:15:19](#t-00-15-19) — Pep talk / approaching people at bars
 - [00:21:20](#t-00-21-20) — Social media & authenticity
 - [00:24:47](#t-00-24-47) — The Velvet Rage
+- [00:30:09](#t-00-30-09) — Relationships / Authentic
 - [00:36:43](#t-00-36-43) — Family support / being yourself
 - [00:39:33](#t-00-39-33) — Orion Youth Center / LGBTQ youth
+- [00:44:54](#t-00-44-54) — Friend Tyler
+- [00:50:37](#t-00-50-37) — Trying Work
 - [00:53:56](#t-00-53-56) — Missing dancing / Galentine's
 - [00:55:22](#t-00-55-22) — Open mic night for being yourself
 - [01:02:16](#t-01-02-16) — Festivals — Ultra / Coachella
+- [01:07:38](#t-01-07-38) — Experiences / Hopefully
 - [01:10:42](#t-01-10-42) — What does the world need more of?
-- [01:14:42](#t-01-14-42) — Close — gratitude / authentic selves
-- [01:17:01](#t-01-17-01) — Outro CTA
+- [01:17:01](#t-01-17-01) — Outro — CTA
+
 
 ## Keywords
 

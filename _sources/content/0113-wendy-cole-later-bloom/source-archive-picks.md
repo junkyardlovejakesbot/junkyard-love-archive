@@ -27,6 +27,7 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [00:24:04](#t-00-24-04) — Don’t compromise a life change for someone else’s needs
 - [00:25:13](#t-00-25-13) — Breaking the Habit of Being Yourself ch. 7–8 / June liberation
 - [00:26:42](#t-00-26-42) — HRT announcement / divorce / honor her by letting go
+- [00:33:50](#t-00-33-50) — Authentically / Transitioned
 - [00:42:07](#t-00-42-07) — “We just want to be” / acceptance over explanation
 - [00:46:02](#t-00-46-02) — Diagnostic code changed in 2012 / early-’70s history
 - [00:48:14](#t-00-48-14) — Mission to humanize being born transgender
@@ -44,7 +45,8 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [01:33:30](#t-01-33-30) — 16-week coaching / roadmap / life tests
 - [01:35:25](#t-01-35-25) — Grocery cart & Dunkin’ life tests / cops trigger old fear
 - [01:38:35](#t-01-38-35) — “Yep, you’re ready” / possibilities / resources
-- [01:42:26](#t-01-42-26) — Closing — ally community / informed allies pitch
+- [01:44:08](#t-01-44-08) — Outro — ally community / informed allies pitch
+
 
 ## Keywords
 

@@ -20,6 +20,7 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [00:17:18](#t-00-17-18) — Arts defunded because they’re too helpful / music is math
 - [00:21:48](#t-00-21-48) — Sensor vs intuitive / listen to what’s innate
 - [00:23:12](#t-00-23-12) — Front door vs skylight / take a beat in conflict
+- [00:31:15](#t-00-31-15) — Conversation / Word
 - [00:36:02](#t-00-36-02) — Listening as communication cornerstone / most people hear
 - [00:37:42](#t-00-37-42) — Parents reinforced: learn by listening
 - [00:41:33](#t-00-41-33) — Another way to do things / tool-belt techniques on site
@@ -32,6 +33,8 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [00:59:25](#t-00-59-25) — Hourglass tipped / doors open — short precise live-event talk
 - [01:01:11](#t-01-01-11) — Forklift moment / trust authority now, explain later
 - [01:07:40](#t-01-07-40) — Creative work isn’t personal once it’s out — let it go
+- [01:15:39](#t-01-15-39) — Car Breaks
+- [01:24:43](#t-01-24-43) — Thinking / Instead
 - [01:28:33](#t-01-28-33) — Kindness ≠ niceness / benevolence / your emergency isn’t mine
 - [01:39:06](#t-01-39-06) — Observation as a form of communication
 - [01:54:26](#t-01-54-26) — Tim Hood fight to get into media tech / accelerated block
@@ -41,9 +44,9 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [02:20:20](#t-02-20-20) — Analysis paralysis / let the work free
 - [02:24:43](#t-02-24-43) — Polite + stern direction / communication is a constant
 - [02:28:43](#t-02-28-43) — Finish the show / discuss later / move forward
-- [02:29:11](#t-02-29-11) — Don’t beat yourself up / weak arms / compassion on crew
 - [02:32:19](#t-02-32-19) — Closing word: insight
 - [02:43:03](#t-02-43-03) — Treat album suggestions as invitations / outro
+- [02:43:35](#t-02-43-35) — Outro — drink water / stretch / love yourselves
 
 ## Keywords
 

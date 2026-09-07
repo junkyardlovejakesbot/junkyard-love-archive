@@ -16,22 +16,27 @@ Extracted from the YouTube auto-caption transcript and published About already o
 ## Chapter-style timestamps
 
 - [00:00:00](#t-00-00-00) — Intro
-- [00:00:24](#t-00-00-24) — Bobs first 3person
-- [00:01:48](#t-00-01-48) — The journey
-- [00:04:12](#t-00-04-12) — Who is Bob Kendall
-- [00:10:45](#t-00-10-45) — PacSun
-- [00:17:54](#t-00-17-54) — Social Skills
-- [00:18:56](#t-00-18-56) — Service
-- [00:23:13](#t-00-23-13) — Being competitive
-- [00:24:10](#t-00-24-10) — Being passionate about the product
+- [00:00:29](#t-00-00-29) — Bobs first 3person
+- [00:01:49](#t-00-01-49) — The journey
+- [00:03:52](#t-00-03-52) — Who is Bob Kendall
+- [00:07:39](#t-00-07-39) — First day as buyer — quiet & introverted
+- [00:10:38](#t-00-10-38) — PacSun
+- [00:14:10](#t-00-14-10) — Owning a business — meeting through Munitions
+- [00:18:03](#t-00-18-03) — Social Skills
+- [00:18:55](#t-00-18-55) — Service
+- [00:23:17](#t-00-23-17) — Being competitive
+- [00:24:07](#t-00-24-07) — Being passionate about the product
 - [00:26:38](#t-00-26-38) — What kind of clothing we sold
 - [00:30:18](#t-00-30-18) — First trade show
-- [00:34:03](#t-00-34-03) — Trends
-- [00:35:46](#t-00-35-46) — Influence
-- [00:44:28](#t-00-44-28) — Future of malls
-- [00:48:06](#t-00-48-06) — Future of experiences
-- [00:50:31](#t-00-50-31) — Advice for younger employees
-- [00:55:49](#t-00-55-49) — How to love your job
+- [00:34:02](#t-00-34-02) — Trends
+- [00:36:08](#t-00-36-08) — Influence
+- [00:40:08](#t-00-40-08) — Cruise-ship story / leap of faith
+- [00:44:29](#t-00-44-29) — Future of malls
+- [00:48:03](#t-00-48-03) — Future of experiences
+- [00:50:42](#t-00-50-42) — Advice for younger employees
+- [00:55:44](#t-00-55-44) — How to love your job
+- [01:01:02](#t-01-01-02) — Being the best version of yourself
+- [01:04:54](#t-01-04-54) — Outro — stretch / peace out
 
 ## Keywords
 

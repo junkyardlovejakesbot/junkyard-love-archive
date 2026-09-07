@@ -20,14 +20,21 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [00:04:36](#t-00-04-36) — Pandemic / quarantine / changing tides
 - [00:15:20](#t-00-15-20) — Politics as WWE sideshow / need for leaders
 - [00:20:12](#t-00-20-12) — Press conferences / gotcha journalism
+- [00:28:29](#t-00-28-29) — Reality / History
 - [00:35:21](#t-00-35-21) — Neuralink / microchip / brain interface
 - [00:39:14](#t-00-39-14) — Already a cyborg / Bluetooth implant future
 - [00:42:42](#t-00-42-42) — Stoned Ape Theory / mushrooms / consciousness
-- [00:43:16](#t-00-43-16) — Evolution of consciousness / naming / language
 - [00:46:45](#t-00-46-45) — Neuralink and advancing technology
 - [00:52:42](#t-00-52-42) — Elon Musk / access / cost of the tech
 - [01:02:33](#t-01-02-33) — Psychedelics / DMT / entities / cognition
 - [01:06:58](#t-01-06-58) — Neuralink and day-to-day life
+- [01:15:09](#t-01-15-09) — Beginning Ment
+- [01:22:59](#t-01-22-59) — Inability Uncomfortable
+- [01:30:57](#t-01-30-57) — Consciousness / Humanity
+- [01:38:56](#t-01-38-56) — Hard Understand
+- [01:47:19](#t-01-47-19) — Studies Lucid Dreaming
+- [01:55:28](#t-01-55-28) — Brandon / Experience
+- [02:03:26](#t-02-03-26) — Corona Virus Lead
 - [02:11:49](#t-02-11-49) — Outro — get present / share / take care
 
 ## Keywords

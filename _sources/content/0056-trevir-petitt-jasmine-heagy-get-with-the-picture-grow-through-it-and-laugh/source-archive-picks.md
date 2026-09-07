@@ -29,6 +29,10 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 - [00:27:33](#t-00-27-33) — Trevir — Desmond saved me / recovery
 - [00:47:56](#t-00-47-56) — Jasmine — photography journey
 - [01:29:16](#t-01-29-16) — America / melting pot / racism
+- [01:38:22](#t-01-38-22) — Hip-hop references / Late Registration era
+- [01:48:00](#t-01-48-00) — Photography craft / intelligence talk
+- [01:58:36](#t-01-58-36) — Years ago / grocery-store stories
+- [02:07:54](#t-02-07-54) — Outro — love yourselves / peace out
 
 ## Keywords
 

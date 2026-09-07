@@ -16,10 +16,8 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 ## Chapter-style timestamps
 
 - [00:00:00](#t-00-00-00) — Opening — what is awakening?
-- [00:00:12](#t-00-00-12) — Process vs product / missing 18 years / path to no path / breakthrough
 - [00:04:59](#t-00-04-59) — Active awakening / Ken Wilber maturation
 - [00:07:53](#t-00-07-53) — “I’m not a teacher, I’m a reminder”
-- [00:08:35](#t-00-08-35) — Innate intelligence / I AM code / gnosis intro
 - [00:10:47](#t-00-10-47) — Heretics, Nag Hammadi, Dead Sea Scrolls
 - [00:14:09](#t-00-14-09) — Etheric blueprint / 1980s DNA meditation download
 - [00:16:40](#t-00-16-40) — Solfeggio 528 Hz / tuning forks / epigenetics / SomaEnergetics / babes–adolescents–adults
@@ -35,11 +33,9 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 - [01:07:15](#t-01-07-15) — Keys of David / Solfeggio as keys to the kingdom
 - [01:09:25](#t-01-09-25) — HeartLight Charlotte / Academy legacy at 80
 - [01:11:27](#t-01-11-27) — From Sin to Zen podcast plan
-- [01:12:01](#t-01-12-01) — Academy elevator pitch / pioneer pathways
 - [01:15:45](#t-01-15-45) — Pre-incarnation contracts tease / caterpillar confusion
-- [01:17:28](#t-01-17-28) — Closing gratitude / platform for awakening voices
-- [01:18:14](#t-01-18-14) — Walking each other home / hydrate outro
-- [01:18:45](#t-01-18-45) — “Everything’s going to be all right”
+- [01:18:14](#t-01-18-14) — Outro — drink water / stretch / love yourselves
+
 
 ## Keywords
 

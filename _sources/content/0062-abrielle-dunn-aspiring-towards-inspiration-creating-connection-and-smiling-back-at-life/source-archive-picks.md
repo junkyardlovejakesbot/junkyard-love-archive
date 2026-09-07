@@ -20,20 +20,26 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 - [00:02:09](#t-00-02-09) — Abrielle — name / Abrielle Hayley
 - [00:04:56](#t-00-04-56) — Brand / good vibes energy
 - [00:09:55](#t-00-09-55) — Creative work / design background
+- [00:17:37](#t-00-17-37) — Differently / Inspired
 - [00:21:30](#t-00-21-30) — Believing in people / creatives
 - [00:28:52](#t-00-28-52) — Human connection / technology
+- [00:36:51](#t-00-36-51) — Perspective / Wonderful
 - [00:47:00](#t-00-47-00) — Social media / comparing the self
+- [00:55:14](#t-00-55-14) — Difference / Wonderful
 - [00:59:23](#t-00-59-23) — Quit social media / self-development
 - [01:07:23](#t-01-07-23) — Krav Maga / physical practice
+- [01:15:38](#t-01-15-38) — Less Headaches Less
 - [01:19:48](#t-01-19-48) — Water / fitness / wellness
+- [01:27:37](#t-01-27-37) — Goal Life
 - [01:31:28](#t-01-31-28) — Journaling / gratitude
 - [01:38:45](#t-01-38-45) — Perspective / little blessings
 - [01:41:06](#t-01-41-06) — Functional analysis vs dwelling
 - [01:44:23](#t-01-44-23) — Projection / emotional intelligence
+- [01:52:52](#t-01-52-52) — Understand / Creative
 - [01:59:51](#t-01-59-51) — Legacy question
 - [02:03:48](#t-02-03-48) — Understand yourself / understand others
-- [02:04:52](#t-02-04-52) — Close — find Abrielle / CTA
-- [02:05:08](#t-02-05-08) — Abrielle Instagram / outro
+- [02:06:18](#t-02-06-18) — Outro — drink water / get present
+
 
 ## Keywords
 

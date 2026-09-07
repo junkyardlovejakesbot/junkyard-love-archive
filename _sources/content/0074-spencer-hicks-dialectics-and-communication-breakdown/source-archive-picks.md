@@ -16,20 +16,25 @@ Extracted from the YouTube auto-caption transcript and published About already o
 ## Chapter-style timestamps
 
 - [00:00:06](#t-00-00-06) — Opening bumper — Junkyard Love
-- [00:00:14](#t-00-00-14) — At what age do we learn…
-- [00:00:42](#t-00-00-42) — Knowledge is power bumper
 - [00:01:07](#t-00-01-07) — Into cancel culture — pop vs politics
-- [00:01:50](#t-00-01-50) — Accountability vs canceling
+- [00:10:19](#t-00-10-19) — Epistemology / Perspectives
 - [00:14:48](#t-00-14-48) — Spencer background — metaphysics / epistemology
 - [00:25:14](#t-00-25-14) — Authority outside the law / checks and balances
+- [00:32:52](#t-00-32-52) — Collective / Propaganda
 - [00:39:55](#t-00-39-55) — Collective unconscious / shared reality
 - [00:49:54](#t-00-49-54) — Marx — bourgeoisie / proletariat
 - [00:59:05](#t-00-59-05) — Individualism vs collectivism
+- [01:07:15](#t-01-07-15) — Money Spend
 - [01:09:59](#t-01-09-59) — Propaganda / Koch brothers
+- [01:17:33](#t-01-17-33) — Run Interesting
 - [01:24:58](#t-01-24-58) — Marxism / postmodern meta-narratives
+- [01:32:54](#t-01-32-54) — Meta Loving Kindness Meditation
+- [01:40:44](#t-01-40-44) — Cancel Culture That's Act
+- [01:48:42](#t-01-48-42) — Epistemology / Corporate
+- [01:56:51](#t-01-56-51) — Thinking / Focus
 - [02:04:20](#t-02-04-20) — Alan Watts backwards law / self-help
-- [02:15:02](#t-02-15-02) — Close — put cancel culture to bed
-- [02:17:17](#t-02-17-17) — Close CTA — water / cancel / breathe
+- [02:17:17](#t-02-17-17) — Outro — water / cancel / breathe
+
 
 ## Keywords
 

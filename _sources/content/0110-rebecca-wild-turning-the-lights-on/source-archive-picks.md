@@ -25,7 +25,6 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [00:09:24](#t-00-09-24) — Book beat — tiny spark / “one more try” / survival mode
 - [00:12:16](#t-00-12-16) — Not your mental illness / more than fear-thoughts / nervous system
 - [00:13:15](#t-00-13-15) — Instagram accountability / detox & fitness / finding voice
-- [00:13:59](#t-00-13-59) — Writing as empowering / cathartic / healing
 - [00:21:52](#t-00-21-52) — Meditation, breathwork, yoga, awakening era
 - [00:25:13](#t-00-25-13) — Dating yourself / Getting to Know Yourself list
 - [00:26:09](#t-00-26-09) — Intentionally single to know yourself
@@ -44,7 +43,8 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [01:11:34](#t-01-11-34) — Needle-movers — water fasting, grapefruit fast, biological supports
 - [01:15:13](#t-01-15-13) — Magic mushrooms / intentions, set & setting
 - [01:22:18](#t-01-22-18) — Meditation can reach the same place without psychedelics
-- [01:26:51](#t-01-26-51) — Closing — The Will To Live Project / coaching / Insight Timer / doula training
+- [01:28:04](#t-01-28-04) — Outro — The Will To Live Project / coaching / Insight Timer / doula training
+
 
 ## Keywords
 

@@ -25,13 +25,16 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [00:23:58](#t-00-23-58) — Substance history / family / eighth grade
 - [00:32:58](#t-00-32-58) — Avatar / Jim Carrey / true self
 - [00:39:12](#t-00-39-12) — Psilocybin / DMT / not who I was going to be
+- [00:46:30](#t-00-46-30) — Makes Seem
 - [00:54:32](#t-00-54-32) — Stay In Prison band / stumbling into music
 - [00:57:36](#t-00-57-36) — Open mics / putting yourself out there
 - [01:01:36](#t-01-01-36) — What stand-up is / reacting to crowds
 - [01:04:35](#t-01-04-35) — Andrew Schultz / filming sets
 - [01:12:00](#t-01-12-00) — Believing in yourself / comedic genius
+- [01:19:26](#t-01-19-26) — Personality / Constantly
 - [01:27:17](#t-01-27-17) — Quarantine / what is next
 - [01:29:43](#t-01-29-43) — Putting on shows / venues / open mic organizers
+- [01:36:47](#t-01-36-47) — Skating / Joseph
 - [01:42:36](#t-01-42-36) — Outro — crumb_guzzler / Stay In Prison / drink water
 
 ## Keywords

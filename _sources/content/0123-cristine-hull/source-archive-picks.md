@@ -17,7 +17,6 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 
 - [00:00:00](#t-00-00-00) — Opening — elevator pitch / Junkyard Love framing
 - [00:00:48](#t-00-00-48) — Love as vital-body + quantum-body solution
-- [00:01:18](#t-00-01-18) — Four Bodies, Four Medicines ebook / physical vs other bodies
 - [00:02:32](#t-00-02-32) — Wind analogy — spirit vs physical effects
 - [00:03:57](#t-00-03-57) — Chemical imbalance / depression / anxiety / self-medication
 - [00:07:05](#t-00-07-05) — Serotonin / Potatoes Not Prozac / endorphins = inner orphan
@@ -31,16 +30,13 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 - [00:30:20](#t-00-30-20) — Mental-body chaos / neutrality / “neutral game”
 - [00:35:02](#t-00-35-02) — Yoga entry / Baron Baptiste / stimulus–response gap
 - [00:38:30](#t-00-38-30) — Vipassana / Mahasati / fear that stillness = non-existence
-- [00:41:00](#t-00-41-00) — Zero-point field → unified field / Hagelin / Kinslow
 - [00:46:00](#t-00-46-00) — TM journey / Quantum Wholeness Meditation / group practice
 - [00:48:36](#t-00-48-36) — Meditation research / MBSR / Western mental-health models
 - [00:50:36](#t-00-50-36) — Identity bridge / ego mastery / quantum body
-- [00:51:12](#t-00-51-12) — Personality disorders / victim ego / spiritual solution gap
 - [00:55:57](#t-00-55-57) — Quantum Solutions Masterclass / ego-structure component
 - [00:57:48](#t-00-57-48) — Pain body (Eckhart Tolle) / notice pain-free anchors
-- [00:59:00](#t-00-59-00) — Endorphins at quantum level = capital-L Love
 - [01:01:32](#t-01-01-32) — Website sign-off / cristinehull.com spelling
-- [01:01:51](#t-01-01-51) — Closing gift: love yourself, water, stretch / outro
+- [01:01:51](#t-01-01-51) — Outro — drink water / stretch / love yourselves
 
 ## Keywords
 

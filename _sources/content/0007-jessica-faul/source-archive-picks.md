@@ -28,10 +28,15 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [01:20:01](#t-01-20-01) — Group messages / attacking ourselves
 - [01:29:57](#t-01-29-57) — Maslow levels / self identity
 - [01:39:55](#t-01-39-55) — Instant karma / small good acts
+- [01:47:30](#t-01-47-30) — Personality / Bartender
+- [01:55:28](#t-01-55-28) — Mindfulness / Every
 - [01:59:55](#t-01-59-55) — Slogans / Christmas jingle analogy
+- [02:08:06](#t-02-08-06) — Else Certainly Makes
+- [02:15:56](#t-02-15-56) — Meditation Yoga Class
 - [02:19:30](#t-02-19-30) — Being who you are / mindfulness
 - [02:30:03](#t-02-30-03) — Dogs / coffee / morning practice
 - [02:36:25](#t-02-36-25) — Faul name / German pronunciation
+- [02:39:37](#t-02-39-37) — Outro
 
 ## Keywords
 

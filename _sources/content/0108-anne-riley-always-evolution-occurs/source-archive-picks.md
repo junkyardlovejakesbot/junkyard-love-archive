@@ -16,7 +16,6 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 ## Chapter-style timestamps
 
 - [00:00:00](#t-00-00-00) — Opening — better conversations / check-in with Anne
-- [00:00:12](#t-00-00-12) — Mother’s death at 102 / 11 of 12 siblings / accept and be sad
 - [00:06:30](#t-00-06-30) — Age-10 Catholic school + evolution — lifelong how-alike/how-different question
 - [00:08:32](#t-00-08-32) — Keynes, Rothschild’s Bionomics, then 2018 congressional campaign click
 - [00:10:07](#t-00-10-07) — Government as coordinating system / competition + collaboration + coordination
@@ -42,7 +41,7 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [01:20:16](#t-01-20-16) — Nature is nothing but change / ideas are free, actions are judicious
 - [01:26:50](#t-01-26-50) — Mystery / participants in a web (not kings of the world)
 - [01:29:32](#t-01-29-32) — Escaping old ideas / Einstein: as simple as possible but never simpler
-- [01:31:11](#t-01-31-11) — Closing gratitude / thehumanidea.com + IG + LinkedIn
+- [01:31:11](#t-01-31-11) — Outro — gratitude / thehumanidea.com + IG + LinkedIn
 
 ## Keywords
 

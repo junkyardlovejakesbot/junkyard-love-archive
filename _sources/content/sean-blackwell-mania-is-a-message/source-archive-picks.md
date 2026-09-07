@@ -47,6 +47,7 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 - [01:26:17](#t-01-26-17) — Others’ energy passes through / no ego in the game
 - [01:29:01](#t-01-29-01) — Untrained supporter does surrogate birth work
 - [01:32:06](#t-01-32-06) — Walking each other home / closing + outro
+- [01:33:19](#t-01-33-19) — Outro — drink water / stretch / love yourselves
 
 ## Keywords
 

@@ -16,7 +16,6 @@ Extracted from the YouTube auto-caption transcript and published About already o
 ## Chapter-style timestamps
 
 - [00:00:01](#t-00-00-01) — Opening — virtual/remote Junkyard Love
-- [00:00:33](#t-00-00-33) — Spencer cat disclaimer
 - [00:01:51](#t-00-01-51) — Xbox / irritability / sleep schedule
 - [00:04:07](#t-00-04-07) — Getting back into a routine
 - [00:06:00](#t-00-06-00) — Ask Spencer — at-home wellness recommendations
@@ -26,12 +25,16 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [00:10:16](#t-00-10-16) — At-home workout — bands / water jugs / bodyweight
 - [00:12:20](#t-00-12-20) — Where to start with mindfulness
 - [00:13:13](#t-00-13-13) — Morning practice / less irritable
-- [00:13:57](#t-00-13-57) — Awareness before mindfulness
+- [00:19:21](#t-00-19-21) — Quarantine / Home
 - [00:22:58](#t-00-22-58) — Breath work / meditation / planning
+- [00:28:17](#t-00-28-17) — Awareness / Work
+- [00:33:46](#t-00-33-46) — Walking / Favorite
 - [00:36:13](#t-00-36-13) — Wim Hof breathing
 - [00:43:25](#t-00-43-25) — Breathing and posture
+- [00:48:44](#t-00-48-44) — Stretching / Posture
+- [00:54:04](#t-00-54-04) — Borrowing Happiness
+- [00:59:39](#t-00-59-39) — Next Level Human
 - [01:09:55](#t-01-09-55) — Fantasy / Witcher / playground for the mind
-- [01:11:56](#t-01-11-56) — Wrap-up — thanks Spencer
 - [01:11:57](#t-01-11-57) — Outro — posture / listeners close
 
 ## Keywords

@@ -16,7 +16,6 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 ## Chapter-style timestamps
 
 - [00:00:15](#t-00-00-15) — Opening — unconscious vocal habits / TED spark
-- [00:00:30](#t-00-00-30) — Default voice / duct tape & popsicle sticks / story too small
 - [00:02:00](#t-00-02-00) — Vocal girdle / gut truth stuck in throat / keepers of secrets
 - [00:04:10](#t-00-04-10) — Start with sound / solo-singing fear / Five Elements begin
 - [00:06:12](#t-00-06-12) — Earth Fire Water Metal Air / pretend characters = secret sauce
@@ -29,18 +28,16 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 - [00:25:31](#t-00-25-31) — ~75 trainers / nephew Travis / next-generation teaching
 - [00:26:34](#t-00-26-34) — Broken wrist / let nephew lead / Little Blue
 - [00:30:13](#t-00-30-13) — TEDx: abdicate leadership / thousand people stop together
-- [00:30:43](#t-00-30-43) — Mycelial singing / Twin Cities song-leading seeds
-- [00:34:05](#t-00-34-05) — Jacob’s DJ / mushrooms / collective flow story
+- [00:32:11](#t-00-32-11) — Jacob’s DJ / mushrooms / collective flow story
 - [00:40:07](#t-00-40-07) — Laugh like a hairy oaf / yawn / children’s books
 - [00:46:26](#t-00-46-26) — Code switching / what the voice spills
 - [00:49:15](#t-00-49-15) — Authenticity vs shift / water = heart voice
 - [00:52:49](#t-00-52-49) — Vocal fry / young appetite for oral-tradition singing
-- [00:53:17](#t-00-53-17) — Dancing in the Streets / collective ecstasy need
 - [01:01:40](#t-01-01-40) — Full Voice & Vocal Intelligence / books & music
 - [01:05:27](#t-01-05-27) — Comfort choir / gifts before death / Nature Boy
 - [01:10:05](#t-01-10-05) — Mantra / silence-after-song poem
 - [01:13:04](#t-01-13-04) — Courses, self-directed path, living/dying retreats
-- [01:16:36](#t-01-16-36) — Closing gift: drink water, stretch, sing / outro
+- [01:16:36](#t-01-16-36) — Outro — drink water / stretch / love yourselves
 
 ## Keywords
 

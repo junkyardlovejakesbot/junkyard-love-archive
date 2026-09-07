@@ -21,7 +21,6 @@ Extracted from the YouTube auto-caption transcript and published About. Labeled 
 - [00:12:05](#t-00-12-05) — Ram Dass neurosis line / still just a dude
 - [00:15:46](#t-00-15-46) — Plans — weekly shows, transcripts, ketamine therapy
 - [00:21:55](#t-00-21-55) — Solocast close — Spiritual Awakening Show interview ahead
-- [00:22:38](#t-00-22-38) — Interview open with Brent Spirit — Jacob Rhines / Jacob from the Internet
 - [00:25:52](#t-00-25-52) — Floor to Jacob — tell the spiritual awakening journey
 - [00:30:26](#t-00-30-26) — Backstory — age ~26–27 / life leading into it
 - [00:35:50](#t-00-35-50) — 27 Club / artist identity darkness
@@ -34,10 +33,14 @@ Extracted from the YouTube auto-caption transcript and published About. Labeled 
 - [00:53:56](#t-00-53-56) — Four experiences / energy centers / need for grounding
 - [01:01:39](#t-01-01-39) — Integration — ordinary life, work, not preaching enlightenment
 - [01:11:04](#t-01-11-04) — Artistry / spoken word after kundalini healing
+- [01:19:05](#t-01-19-05) — Journey / Poetry
+- [01:27:19](#t-01-27-19) — Integration / Meditation
 - [01:33:20](#t-01-33-20) — Spirituality & artistry are personal work
+- [01:41:23](#t-01-41-23) — Willing Meet
 - [01:50:25](#t-01-50-25) — “Bottom dropping out” in spiritual practice
 - [01:52:41](#t-01-52-41) — Personal spiritual path is okay — step where you are
 - [02:00:01](#t-02-00-01) — Where to find Jacob — Instagram @jacobfromtheinternet / Junkyard Love
+- [02:02:56](#t-02-02-56) — Outro — Spiritual Awakening Show interview ahead
 
 ## Keywords
 

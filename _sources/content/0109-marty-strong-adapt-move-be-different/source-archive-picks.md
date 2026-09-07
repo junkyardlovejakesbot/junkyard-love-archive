@@ -16,9 +16,7 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 ## Chapter-style timestamps
 
 - [00:00:00](#t-00-00-00) — Opening — Junkyard Love check-in
-- [00:00:09](#t-00-00-09) — Zigzag opportunity / punch-buggy awareness / SEAL→UBS→CT→contractor→books arc
 - [00:03:40](#t-00-03-40) — Jacob on intuition — how a 17–18-year-old said yes
-- [00:04:13](#t-00-04-13) — SEAL recruitment as “football camp” / snowball learning / open mind + humility + risk / Pasteur
 - [00:15:11](#t-00-15-11) — Continuous self-learning / no arrival point / frictions when people try to change
 - [00:16:47](#t-00-16-47) — Brain science — safety/stability switch vs explore/risk switch
 - [00:17:44](#t-00-17-44) — Be Different beat — creativity & awe available at any age
@@ -35,15 +33,13 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [00:47:05](#t-00-47-05) — “Thank you for your service, now what” / put medals on the shelf
 - [00:49:44](#t-00-49-44) — Apprentice mindset — research 6–12 months before the leap
 - [00:55:14](#t-00-55-14) — Atlanta keynote rock-star moment → airport plastic seat
-- [00:55:58](#t-00-55-58) — Name-tag gone / ego shrink / athletes & vets Fall From Grace
 - [00:58:33](#t-00-58-33) — Intellectual humility / school of life / don’t rest on laurels
 - [01:03:03](#t-01-03-03) — Freedom of mind — Hanoi Hilton / Frankl / help others to stay sane
 - [01:04:36](#t-01-04-36) — Imagination & storyboard freedom without leaving the chair
-- [01:05:17](#t-01-05-17) — Adults taught not to dream / conformity & cancel-culture note
 - [01:09:46](#t-01-09-46) — Be Nimble / Be Visionary / Be Different — who the latest book is for
 - [01:12:21](#t-01-12-21) — Creativity collapse research / paint outside the lines / be different
 - [01:15:01](#t-01-15-01) — Nine novels + three business books / A Time for Glory / Death Before Dawn
-- [01:19:52](#t-01-19-52) — Closing gratitude / challenge your thinking / Merry Christmas
+- [01:19:52](#t-01-19-52) — Outro — stretch
 
 ## Keywords
 
