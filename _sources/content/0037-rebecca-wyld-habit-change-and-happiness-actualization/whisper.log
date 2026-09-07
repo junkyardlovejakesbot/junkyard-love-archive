@@ -1,0 +1,46 @@
+loading small/int8… audio=/workspace/junkyard-love-archive/content/0037-rebecca-wyld-habit-change-and-happiness-actualization/source-audio.mp3 size=337927612
+transcribing…
+lang=en prob=1 duration=8445.7535
+… 50 segments @ 261.8s elapsed=184s
+… 100 segments @ 505.7s elapsed=226s
+… 150 segments @ 729.6s elapsed=264s
+… 200 segments @ 951.5s elapsed=302s
+… 250 segments @ 1169.4s elapsed=373s
+… 300 segments @ 1357.4s elapsed=405s
+… 350 segments @ 1554.1s elapsed=434s
+… 400 segments @ 1742.8s elapsed=465s
+… 450 segments @ 1936.8s elapsed=495s
+… 500 segments @ 2120.9s elapsed=522s
+… 550 segments @ 2330.6s elapsed=558s
+… 600 segments @ 2546.2s elapsed=591s
+… 650 segments @ 2738.2s elapsed=622s
+… 700 segments @ 2930.4s elapsed=651s
+… 750 segments @ 3133.0s elapsed=678s
+… 800 segments @ 3313.2s elapsed=704s
+… 850 segments @ 3492.7s elapsed=733s
+… 900 segments @ 3672.5s elapsed=759s
+… 950 segments @ 3850.1s elapsed=790s
+… 1000 segments @ 4038.5s elapsed=820s
+… 1050 segments @ 4259.3s elapsed=855s
+… 1100 segments @ 4432.2s elapsed=884s
+… 1150 segments @ 4615.7s elapsed=914s
+… 1200 segments @ 4802.9s elapsed=940s
+… 1250 segments @ 5008.2s elapsed=973s
+… 1300 segments @ 5212.2s elapsed=1005s
+… 1350 segments @ 5420.9s elapsed=1039s
+… 1400 segments @ 5601.2s elapsed=1068s
+… 1450 segments @ 5797.8s elapsed=1098s
+… 1500 segments @ 5983.8s elapsed=1131s
+… 1550 segments @ 6174.1s elapsed=1163s
+… 1600 segments @ 6360.7s elapsed=1190s
+… 1650 segments @ 6573.7s elapsed=1226s
+… 1700 segments @ 6751.3s elapsed=1252s
+… 1750 segments @ 6927.7s elapsed=1283s
+… 1800 segments @ 7128.2s elapsed=1313s
+… 1850 segments @ 7345.1s elapsed=1350s
+… 1900 segments @ 7518.5s elapsed=1379s
+… 1950 segments @ 7708.2s elapsed=1408s
+… 2000 segments @ 7921.5s elapsed=1440s
+… 2050 segments @ 8100.3s elapsed=1473s
+… 2100 segments @ 8293.4s elapsed=1504s
+DONE model=small/int8 segments=2139 words≈29777 duration=8445.75s elapsed=1525s

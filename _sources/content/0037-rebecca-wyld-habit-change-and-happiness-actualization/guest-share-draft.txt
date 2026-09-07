@@ -3,3 +3,7 @@ Guest: Rebecca Wyld
 Date: 2020-04-23
 YouTube: https://www.youtube.com/watch?v=fIhM0OH2C30
 RSS: https://share.transistor.fm/s/370cd41f
+Title conflict: YT=RSS
+Guest slug: rebecca-wyld (NEW; distinct from rebecca-wild / 0110)
+About: YT~RSS; kept verbatim; published quotes preserved; no guest contact/email invented
+Transcript: faster-whisper small/int8 on full RSS MP3 (≈8446s); YT was truncated at 7005s

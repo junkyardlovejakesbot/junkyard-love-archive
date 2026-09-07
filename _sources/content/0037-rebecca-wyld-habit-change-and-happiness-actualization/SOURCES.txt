@@ -12,5 +12,13 @@ About: Jacob published description verbatim as spaced paras from YouTube
 Guest name spelling: Rebecca Wyld; guest slug rebecca-wyld (NEW — not rebecca-wild)
 Duration: RSS itunes:duration 8445s (2:20:45); YT info.json duration 7005s — using RSS/inventory 8445
 Publish date: RSS/inventory 2020-04-23 (YT upload_date 20200424)
-Archive picks: added (timestamped transcript quotes, chapter-style timestamps, keywords/hashtags, short guest bio) — extracted from YT auto-caption transcript + published About; kept separate from Jacob published About/Chapters/Quotes.
+Archive picks: from full RSS MP3 ASR transcript + published About (timestamped quotes/chapters); Jacob About/Quotes unchanged
+Captions: faster-whisper small/int8 ASR on source-audio.mp3 (full RSS) → captions.en*.vtt/json3 (supersedes truncated YT auto-captions)
+
+Captions: faster-whisper small/int8 ASR on source-audio.mp3 (full RSS) → captions.en*.vtt/json3 (supersedes truncated YT auto-captions)
+
+Captions: faster-whisper small/int8 ASR on source-audio.mp3 (full RSS) → captions.en*.vtt/json3 (supersedes truncated YT auto-captions)
+
+Captions: faster-whisper small/int8 ASR on source-audio.mp3 (full RSS) → captions.en*.vtt/json3 (supersedes truncated YT auto-captions)
+
 Captions: freshly downloaded source-yt.en-orig.* / en.* this run (auto only; en identical to en-orig; no official en track).

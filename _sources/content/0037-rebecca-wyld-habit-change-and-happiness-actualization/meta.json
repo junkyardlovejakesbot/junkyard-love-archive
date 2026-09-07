@@ -15,5 +15,10 @@
   "apple_show": "https://podcasts.apple.com/us/podcast/the-junkyard-love-podcast/id1489118788",
   "slug": "0037-rebecca-wyld-habit-change-and-happiness-actualization",
   "guest_slug": "rebecca-wyld",
-  "title_conflict": ""
+  "title_conflict": "YT=RSS",
+  "youtube_duration_seconds": 7005,
+  "transcript_source": "faster-whisper-small-int8-rss-mp3",
+  "transcript_turns": 316,
+  "transcript_words": 29488,
+  "asr_duration_seconds": 8445.75
 }
