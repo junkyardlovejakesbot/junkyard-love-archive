@@ -4,18 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Memorable quotes
 
-- [00:00:49] Matt: “my essential job is to take families who are very anxious about … a process in an educational system which is very difficult to navigate and I alleviate that anxiety”
-- [00:02:51] Matt: “by the time this conversation finishes AI or chat GPT has released another new version that changes”
-- [00:04:39] Matt: “It's a very opaque process you don't really come across people who work in admissions”
-- [00:05:26] Matt: “it's like a positive feedback loop of anxiety and stress and destruction … let's take a step back let's take some of the stress and the anxiety off this and … address the mental health aspect as well as the academic aspect”
-- [00:10:37] Matt: “be proactive be interesting be a three-dimensional student don't just focus on … academics and test scores”
-- [00:22:52] Matt: “Community College is a totally acceptable if not highly intelligent decision to make if you don't necessarily know where you're going to go”
-- [00:32:08] Matt: “Somebody who is autistic … ADHD … dyslexia counts as a neurod Divergence”
-- [00:37:05] Matt: “if you judge a fish by his ability to climb a tree he will live his entire life thinking that he is stupid”
-- [00:39:08] Matt: “if you're looking at a top university … it is not only important it's completely vital to stand out”
-- [00:41:48] Matt: “she opens up her essay with the first time I declared bankruptcy I was 16 years old … that makes you stand out … embracing of failure”
-- [00:43:53] Matt: “there's 20,000 high schools in the US which means there's 20,000 valedictorians … less than 20,000 spots at all of the Ivy League schools total”
-- [01:03:11] Matt: “if you can be connected to the why it really changes the game … if you're Mission driven if you have a purpose as to why you're doing it all becomes a lot easier”
+- [00:02:51] Matt: “You need yeah because by the time this conversation finishes AI or chat.”
+- [00:05:26] Matt: “I want that job and it just it's like a positive feedback loop of anxiety and stress and destruction and whatnot and so here.”
+- [00:05:26] Matt: “Take some of the stress and the anxiety off this and figure out how we can best.”
+- [00:10:37] Matt: “Know academics and test scores because there's so much to that and then let's not be committed.”
+- [00:10:37] Matt: “What do you love to do and go pursue those things be proactive be interesting.”
+- [00:22:52] Matt: “Community College is a totally acceptable if not highly intelligent decision to make if you don't necessarily know where you're.”
+- [00:37:05] Matt: “They that they love and they have the attention span and the inclination to explore.”
+- [00:39:08] Matt: “I'm going because I want to be part of a big student.”
 
 ## Chapter-style timestamps
 

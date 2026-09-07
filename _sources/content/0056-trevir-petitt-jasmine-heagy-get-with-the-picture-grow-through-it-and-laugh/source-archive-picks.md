@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 
 ## Memorable quotes
 
-- [00:37:24] Jacob: “all the time it's so easy to be a bad person it takes work to be a good person mm-hmm it actually does hate is easy love is”
-- [01:29:16] Jacob: “that we're one big melting pot so you think from the 60s to the 80s”
-- [01:51:08] Jasmine: “like that it's like not your fault like i felt like i was like why would she want to do that to me you know and stuff right”
-- [00:27:33] Trevir: “transition perfect into how Desmond saved me i think”
-- [00:27:49] Trevir: “In like a domestic violence drug house a bunch of different houses growing up and um and then like my mom and dad”
-- [00:22:55] Jasmine: “now yeah i don't know i don't have an addictive personality yeah”
-- [00:13:01] Jasmine: “Gonna do yeah and i have tons of photos unemployment is still nice like i've saved money it's been a blessing honestly i've saved money from the unemployment”
-- [00:00:06] Jacob: “recommendation is the Waking Up app by Sam Harris they have a 28-day meditation course uh to get you into a meditation habit this is i think probably”
-- [00:47:56] Jasmine: “about um your work your photography so you've definitely you've taken pictures for me multiple times i have we've done events together and events yeah and you've been”
-- [00:02:12] Jacob: “get a cup of water drink some water stretch do your thing love yourself let's go everybody's like so jumbled around and there's going to be this like”
+- [00:13:01] Jasmine: “Gonna do yeah and i have tons of photos unemployment is still nice like i've saved money it's been a blessing honestly.”
+- [00:23:20] Trevir: “Really have any addictive personalities when it comes to like drugs or alcohol or anything i don't think yeah and my dad's.”
+- [00:27:00] Trevir: “Why do you love that more than your kids you know.”
+- [00:37:24] Jacob: “It's so easy to be a bad person, it takes work to be a good person.”
+- [00:47:56] Jasmine: “What have you learned and how have you changed your style.”
+- [00:47:56] Jasmine: “I always just love hearing the perspective of the artist of the person.”
+- [01:29:16] Jacob: “That's the cool thing about America, we're one big melting pot.”
+- [01:51:08] Jasmine: “It's not your fault.”
 
 ## Chapter-style timestamps
 

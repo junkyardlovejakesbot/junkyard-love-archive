@@ -4,18 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:00:08] Jacob: “everybody's willing to accept change ain't that right so Nate and I've been talking a lot about change and how important it is for like our lives you”
-- [00:09:39] Nate: “the deepest depths of depression and what it is to”
-- [00:14:41] Nate: “this one thing that silence is a cosign and it blew my mind right and so I'm like if I don't think if I don't say anything I'm”
-- [00:04:22] Nate: “matter I'm patients the ego wants it right my boss”
-- [00:15:42] Nate: “it's done because as Millennials when we're sensitive when we're sensitive and when we take things personal it's done forget about it whatever forget about a whole new”
-- [00:08:44] Nate: “lose friends or lose family or be misunderstood because people are allowing you to change it's just it just seems a world”
-- [00:18:29] Jacob: “about change at like holidays I think that's a good place for listeners to think about so”
-- [00:22:30] Nate: “every day with that training yeah every day I wake up and I'm like I'm positive I read my firm ation I read my word I read my”
-- [00:30:34] Nate: “Our resolution so we're gonna sit down together and kind of ride him out we're actually have a little podcast where we're gonna like me and him we're”
-- [00:39:13] Nate: “but consistency and accountability so”
-- [00:48:08] Nate: “got that yes and then patience being patient with”
-- [00:53:34] Nate: “journey you have to be a scholar like be studying be studying yourself be studying your body be studying what works for you and what doesn't for you”
+- [00:04:22] Nate: “Know matter its matter I'm patients the ego wants it right my boss.”
+- [00:04:22] Nate: “All figured out so I'm still working I would do not would absolutely love to quit my job.”
+- [00:08:44] Nate: “Friends or lose family or be misunderstood because people are allowing you to change it's just it just seems a world.”
+- [00:08:44] Nate: “It's worth every second but feeling that you're going to lose friends or lose family or be misunderstood because people.”
+- [00:15:42] Nate: “Over and that it's done because as Millennials when we're sensitive when we're sensitive and when we take things.”
+- [00:22:30] Nate: “I had to learn how to do that I had to learn how to be disciplined with positive thinking and I had to learn.”
+- [00:22:30] Nate: “I don't have time for it I really don't and it's hard again with the change it's hard to think that some people might.”
+- [00:54:02] Nate: “I know and that's one of the reasons I was afraid to change it because I did not know what is a functional training.”
 
 ## Chapter-style timestamps
 

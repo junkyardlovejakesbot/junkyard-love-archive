@@ -4,18 +4,14 @@ Extracted from the faster-whisper transcript of the full published MP3 (not trun
 
 ## Memorable quotes
 
-- [00:00:01] Jacob: “folks, today we have the Megalodon herself. We've got Megan Elam in the stew today. I haven't been called Megalodon in so long. You used to. I also”
-- [00:02:47] Megan: “Obviously. Let's start with speech pathology”
-- [00:06:00] Megan: “undergad is working at Starbucks”
-- [01:09:36] Megan: “not realize I had a mentor”
-- [00:15:30] Megan: “don't know, I mentioned Family House, I think I mentioned K through 7th grade, it is a non-profit a private school, it hasn't been for me to learn”
-- [00:18:40] Megan: “development was the Spartan Race”
-- [00:46:55] Megan: “sure that we get to Ghana which is kind of extension of Family House I say that's Family House the wonderful Lisa Mesh and led you to Tell”
-- [00:01:01] Jacob: “you recently moved to Portland”
-- [00:04:04] Megan: “a test to get into nursing school. And I remember I could not pass that test”
-- [01:23:39] Megan: “and we're gonna do Whole30 we're gonna do January 6th is before what's your opinion on Whole30 like you've also done a bunch of like um it's a”
-- [01:27:04] Megan: “Change your diet and I was like I don't eat because I don't eat bad I don't go to McDonald's every day fast food every My fast food”
-- [00:08:47] Jacob: “wasn't free, but your drinks were, but you're going to be free. So I felt like it was very, you just learned very good customer service and how”
+- [00:15:30] Megan: “I think I mentioned K through 7th grade, it is a non-profit a private school, it hasn't been for me to learn.”
+- [00:15:30] Megan: “I didn't expect to learn this today, about what I can take.”
+- [00:21:03] Megan: “I was not a runner so the thought of running eight to 12 miles like gave me an anxiety talk.”
+- [00:46:55] Megan: “I do want to make sure that we get to Ghana which is kind of extension of Family House I say that's.”
+- [00:46:55] Megan: “I say that's Family House the wonderful Lisa Mesh and led you to Tell me about Ghana Africa.”
+- [01:09:36] Megan: “I did not realize I had a mentor.”
+- [01:27:04] Megan: “Change your diet and I was like I don't eat because I don't eat bad I don't go to McDonald's every day fast food.”
+- [01:27:04] Megan: “I went there and she's talking about my like what are the long-term effects of parlor set because you have me taking this every.”
 
 ## Chapter-style timestamps
 

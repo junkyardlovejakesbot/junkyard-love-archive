@@ -4,18 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:06:02] Scott: “things with it was roots awesome and so Josh and I got to know each other through this summers basically everyone that played college ball from the area”
-- [00:04:11] Scott: “know something about basketball I don't yeah it's all line it's all lies everybody tell me a little about yourself well first off uh thank you to Shaylee”
-- [00:04:44] Scott: “after R.A. Long went to Lewis and Clark College in Portland to play basketball mm-hmm which is a division 3 college in the North West Conference so that”
-- [00:08:43] Scott: “was on a team that coach but I”
-- [00:57:36] Scott: “DiGiorno's cheese freezer pizza okay with me so far I'm in this on the seventh run time I fall thirty I mean it's gonna okay gaudí elimination dad”
-- [00:48:48] Scott: “like hey there was a zombie apocalypse where would you go just so I have like some red spots on a map so I know Jeff ah yes”
-- [01:00:24] Scott: “first wish there's no genie we just found a lamp we're rubbing it boom genie comes out our first one is already we already got whatever amount of”
-- [01:55:03] Scott: “caught well maybe not Conor McGregor he's a bad example because he gets a bit of rest all the time for a bunch of people but maybe cowboy”
-- [00:44:07] Scott: “very bad separation anxiety were hoping for a dog that we can leave at home for a couple hours a day right but anyway we actually ended up”
-- [01:10:23] Jacob: “through steps of like breathing and like okay now let's draw and you know like okay but long story short it's still a problem it's still a problem”
-- [01:11:06] Scott: “believe it's called agoraphobia maybe where you're in like a public situation”
-- [01:40:19] Scott: “someone's like aw is that CBD gonna make you high I'm like I don't take the whole file let's find out like that's not like the best example”
+- [00:06:02] Scott: “I together could do some things with it was roots awesome and so Josh and I got to know each other through this summers.”
+- [00:44:07] Scott: “Ways but he had very bad separation anxiety were hoping for a dog that we can leave at home.”
+- [00:48:48] Scott: “Wouldn't be bad because there's a lock yeah I'm trying to think of like vantage.”
+- [01:11:06] Scott: “Anxiety is kind of like spiraled now it's I struggle if I'm in a situation that I know.”
+- [01:11:06] Scott: “I know I can't get out of so I believe it's called agoraphobia maybe where you're in like a public.”
+- [01:40:04] Scott: “Depression it could be linked to anxiety it could be linked to cancer kit.”
+- [01:40:19] Scott: “I love to you in the in a second cool yeah well let's just go that way I'm so CBD I don't.”
+- [01:55:03] Scott: “Bar and then caught well maybe not Conor McGregor he's a bad example because he gets a bit of rest.”
 
 ## Chapter-style timestamps
 

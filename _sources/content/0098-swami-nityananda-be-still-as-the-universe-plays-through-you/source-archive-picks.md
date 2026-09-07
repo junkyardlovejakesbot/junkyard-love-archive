@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Memorable quotes
 
-- [00:01:18] Swami: “the name on my driver's license reads Juniper Ellis so Juniper Ellis is the name that my dad and my mom gave me and I was born in Washington state I grew up in Washington state … I always had a sense of peace and joy and freedom and then also like a realization that we're non-separate”
-- [00:08:26] Swami: “yogis say that it's really indispensable to have contact with a being of light like that and that gives you this huge spiritual boost almost like this heart opening or this calming of the mind so that the usual chatter and usual patterns of thinking just sort of melt away”
-- [00:13:16] Swami: “Asked me to teach kriya yoga so that's like a meditation that's taught one-on-one … 20 minutes of meditation in the morning and 20 minutes in the evening … it helps you be more of your own signature energy and your own signature frequency”
-- [00:17:06] Swami: “we become increasingly aware of wherever our pain points are or our reactivity is we become aware of those and able to not react and not enter into the sort of like lower frequency the anger or the fear or the frustration or the doubt or the limitation … that increasingly dissolves and it melts away and we're bringing healing we're bringing compassion we're bringing wisdom we're bringing awareness in”
-- [00:18:22] Swami: “there's a book called awake The Yoga of pure awareness and the fast elevator talk is it's about how to live in joy and freedom right where you are right in the Midst of daily life”
-- [00:23:50] Swami: “don't let the Mind eat away at the heart … if you are a human and you are facing loss there's an adjustment and it's really honest spiritually to say this is a big adjustment that I'm going through and humanly I'm experiencing grief right now”
-- [00:28:02] Swami: “stay here every moment that you have to stay here in the body stay here and be fully here and when the time comes do not fear absolutely do not fear”
-- [00:29:33] Swami: “when I first met my teacher Swami shankarananda one of the things that he said is I want what's beyond heaven”
-- [00:39:32] Swami: “Being more of my true self right in the midst of my daily life”
-- [00:56:42] Swami: “what does the world need more of right now love just that energy of pure love that energy of pure kindness spontaneous and unconditional”
+- [00:13:16] Swami: “Asked me to teach kriya yoga so that's like a meditation that's taught one-on-one and so it's individually taught from the teacher.”
+- [00:13:16] Swami: “Helps you be more of your own signature energy and your own signature frequency so whatever you are here to share.”
+- [00:17:06] Swami: “Melts away and we're bringing healing we're bringing compassion we're bringing wisdom we're bringing awareness in humanly.”
+- [00:18:22] Swami: “Midst of daily life and if you want a slightly longer elevator talking yeah it's it shares yogic teachings so we are a meditation.”
+- [00:23:50] Swami: “Then that becomes the practice because of course like if you are a human and you are facing loss.”
+- [00:28:02] Swami: “Stay here. Every moment that you have to stay here in the body, stay here. Be fully here, and, when the time comes, do not fear. Absolutely do not fear.”
+- [00:28:02] Swami: “Body from the perspective of spirit it's amazing and I also want to really immediately say stay here every.”
+- [00:56:42] Swami: “I always like to ask this one what does the world need more of right now love just that energy of pure.”
 
 ## Chapter-style timestamps
 

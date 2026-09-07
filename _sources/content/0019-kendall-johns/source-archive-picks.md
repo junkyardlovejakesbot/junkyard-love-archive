@@ -4,18 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:01:11] Kendall: “We're like we're metalcore band okay yes like metalcore I guess is like the modern it's modern metal for like I”
-- [00:08:46] Kendall: “order a double tall vodka soda with lime have probably like two or three of those get **** smashed not smash but like”
-- [00:05:55] Kendall: “talk about the lyric writing process because for me like you”
-- [00:11:08] Kendall: “we also like made a meme out of this breakdown and it went viral and I think that helped a lot too but the lyric is and this”
-- [00:21:42] Kendall: “before Dead Crown called We Rise of tides **** terrible scene name but that band got that's kind of well like put me on the map like in”
-- [00:15:46] Kendall: “Touring and stuff too like I remember we broke down one time and we were at a Ford dealership getting it fixed and of course the guys like”
-- [00:22:00] Jacob: “and bought a bunch of merchants like took a picture he's like I'm so sorry about that comet like I just love tides I've been following you ever”
-- [00:30:47] Kendall: “future of things yeah 401k and retirement all that crap oh dude I was just talkin it just gets ya I was just”
-- [00:32:27] Kendall: “house name it's called Crucify Me okay but it did really well and like we're starting to see the most just like general outpour of support that we've”
-- [00:40:48] Kendall: “Carol she's never been to a metal show but our narrow you yeah her nephew or not her nephew her grandson yeah he likes metal he's 16 between”
-- [00:54:40] Kendall: “this I'm gonna be a frontman cuz I was like what was that transition like his you know when I was on guitar I was so **** like”
-- [01:11:17] Kendall: “and I deal with like depression and **** like that already so it was like a big like mind **** yeah it pull of duty if it ****”
+- [00:05:55] Kendall: “I was gonna like bring up some specific lyrics I'm like that's just corny at this point because there was so many.”
+- [00:11:08] Kendall: “Did every date because that we also like made a meme out of this breakdown.”
+- [00:31:20] Kendall: “I like recognize from the Walmarts in our towns and generally make me happy because they're just happy.”
+- [00:32:27] Kendall: “I'm listening to people's lyrics and like oh like you guys can have 15.”
+- [00:40:48] Kendall: “Carol she's never been to a metal show but our narrow you yeah her nephew or not her nephew her grandson yeah he likes.”
+- [00:54:40] Kendall: “I definitely worked really hard it's so like crowd control crowd psychology like I'm really in all that **** I love working a crowd.”
+- [00:54:40] Kendall: “I love working a crowd I love getting a room of **** people and being like in ten.”
+- [01:11:17] Kendall: “I deal with like depression and **** like that already.”
 
 ## Chapter-style timestamps
 

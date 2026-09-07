@@ -4,14 +4,14 @@ Extracted from the YouTube auto-caption transcript. Labeled separately from Jaco
 
 ## Memorable quotes
 
-- [00:06:19] Jacob: “We label ourselves as things so we can we have this part of our mind you know the ego part of our mind really it likes knowing it likes feeling safe where it's at it likes knowing that it knows who itself”
-- [00:16:42] Jacob: “That you need to keep this front keep this armor on keep this it's like we're constantly it's like we're almost taking care of the version of ourselves that other people see and know versus how we truly feel right now and”
-- [00:17:43] Jacob: “When I finally started kind of getting better and started kind of starting going for me it was just this you know I was suicidal there were so many years of just feeling like a complete bag of dicks and just accepting”
-- [00:26:11] Jacob: “Do you want your children to have the same thing do you want them to grow up with that well let me tell you the world might have might have convinced you that these things are like genetic that where I'm just”
-- [00:47:10] Jacob: “Thing Alan Watts calls the backwards law Alan Watts is a philosopher that I really like um he has a thing called backwards law which is basically when you are in a place of lack when you're saying I need to do”
-- [01:09:03] Jacob: “Admit that it's not working out the things you're doing are not working for you so it's time to do something different you listen do you hear that you have to do something different brother you have to learn new information and”
-- [01:32:15] Jacob: “You need to update your firmware our Hardware is malfunctioning if you have depression and anxiety and look at man the numbers like again the numbers are crazy right now it's like half of our half of America is depressed like people”
-- [02:06:00] Jacob: “There's a malfunction brother it's not who you are it's just there's something not working properly it's not you it's not you bud you're fine maybe you haven't been like taking the right actions or maybe you like you know maybe made”
+- [00:06:19] Jacob: “We label ourselves as things so we can we have this part of our mind you know the ego part.”
+- [00:06:19] Jacob: “I've got it you know and there is some senses of thinking about that because I think depression.”
+- [00:26:11] Jacob: “Same thing do you want them to grow up with that well let me tell you the world might have might.”
+- [00:26:11] Jacob: “Anxiety and depression right now do you want your children to have the same thing do you want.”
+- [00:31:50] Jacob: “You're feeling the depression things are slowing down whatever you had to do that day.”
+- [01:09:03] Jacob: “Do something different brother you have to learn new information and you don't have to you know.”
+- [01:31:48] Jacob: “It has a purpose it fills my liquid in like if I had never seen.”
+- [01:32:15] Jacob: “You need to update your firmware our Hardware is malfunctioning if you have depression and anxiety and look at man the numbers like again.”
 
 ## Chapter-style timestamps
 

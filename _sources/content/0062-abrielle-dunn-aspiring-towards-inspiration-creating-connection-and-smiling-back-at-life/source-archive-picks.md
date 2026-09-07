@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 
 ## Memorable quotes
 
-- [02:03:48] Abrielle: “bit easier because When you understand yourself you can understand other people and that's just what we need more it's more understanding Absolutely i'm totally with you on”
-- [01:44:23] Abrielle: “me it's all me being projecting onto them or why don't why”
-- [01:41:06] Abrielle: “difference between you know Functional analysis and dwelling and that was something that i had to figure out because I was talking recently about you know like maybe”
-- [01:38:45] Abrielle: “recognize all those little blessings and i hope to god i never Lose my gratitude and so that's why They're sorry alarm going off that's why there's moments”
-- [00:47:00] Abrielle: “Realize that i was comparing myself Even to things i know i shouldn't”
-- [01:07:23] Abrielle: “I take Krav Maga and the Krav Maga turns Into women's self-defense classes that's mixed martial arts technically it's um it's what they train the israeli Defense forces”
-- [01:31:28] Abrielle: “started doing recently is I started journaling in the morning i just reflect back on what i did Yesterday and how i felt about it and then my”
-- [00:00:06] Jacob: “the one it's called Breathe by James Nestor breathe the new science of a lost art Check out his podcast interviews check him out online if you want”
-- [00:00:06] Jacob: “it is me your host Courage the Cowardly Dog i'm happy You're here today before we get rocking and rolling i've got a recommendation for you in the”
-- [00:01:21] Jacob: “check it out today We've got my friend Abrielle Dunn on the Podcast can't wait for you guys to meet her here we go let's get rocking and”
+- [00:17:37] Abrielle: “You can wake up everyday and do it differently.”
+- [00:48:59] Abrielle: “I should only be comparing myself to myself, who I was yesterday, or who I was when I wasn't doing as well.”
+- [01:31:28] Abrielle: “How do I want people to feel? Inspired.”
+- [01:38:45] Abrielle: “When you have the perspective you're able to recognize all those little blessings.”
+- [01:41:06] Abrielle: “Theres a difference between functional analysis and dwelling.”
+- [01:46:23] Abrielle: “Is this person actually upset with me or am I projecting my feeling onto them?”
+- [02:03:48] Abrielle: “When you understand yourself, you can understand other people.”
+- [02:05:15] Jacob: “I don't wanna work with someone I don't beleive in.”
 
 ## Chapter-style timestamps
 

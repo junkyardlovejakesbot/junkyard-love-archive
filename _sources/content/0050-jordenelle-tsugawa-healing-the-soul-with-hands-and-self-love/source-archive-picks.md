@@ -4,17 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:45:10] Jordenelle: “you're it's all right you are loved you are worthy and in a crazy way it heals the present because you're healing your past because your past is”
-- [01:45:06] Jordenelle: “saying things like i deserve to be here and like listeners you can say these things to yourself you can just listen but so many of us need”
-- [01:47:19] Jordenelle: “did that and to just forgive it don't hold it”
-- [00:13:51] Jordenelle: “is i'm allowing the universal energy to flow through me Onto whatever i'm like Putting my energy into but it's not my energy it's like the universe's so”
-- [00:48:45] Jordenelle: “especially being a starseed i'm not from here so it is uncomfortable”
-- [00:27:25] Jordenelle: “that i grew i drink copper water um i like i try to”
-- [00:28:05] Jordenelle: “me movement is like dancing and like being more like energetically in tune with my body yeah i'm really with you on that i try to um especially”
-- [00:23:58] Jordenelle: “help elevate their frequency we're helping the whole planet it's really so simple it's so simple like we elevate each other like having these conversations having these energy”
-- [02:04:02] Jordenelle: “into like i'm with my twin flame um so basically we're the same person and to realize that your partner doesn't have to agree with you though and”
-- [00:12:07] Jacob: “episodes is really just believe in your damn self and just try it if you have a podcast if you want to start a podcast if you have”
-- [02:10:59] Jacob: “good day listeners drink some water Junkyard Love listeners please just get present wherever you are get present use all five of your senses just take a few”
+- [00:23:58] Jordenelle: “It really is because each person that i can help elevate their frequency we're helping the whole.”
+- [00:45:10] Jordenelle: “Reminding that person (yourself at a younger age) that you are loved, you are worthy.”
+- [00:45:10] Jordenelle: “A crazy way it heals the present because you're healing your past because your past is happening.”
+- [00:45:10] Jordenelle: “It is so if you choose to go in the past usually that causes depression.”
+- [01:45:06] Jordenelle: “I deserve to be here. I want to be here. I love to be grounded. I am an artist. People enjoy my creations. My art matters. I am a good person. I allow my light to shine. I want to be here. I love having a physical vessel.”
+- [01:45:06] Jordenelle: “These things to yourself you can just listen but so many of us need to hear that i want.”
+- [01:47:42] Jordenelle: “Being having no ego which is dangerous don't just go no ego like i did it's scary.”
+- [01:49:08] Jacob: “Do you even want everyone to be sexually attracted to you?”
 
 ## Chapter-style timestamps
 

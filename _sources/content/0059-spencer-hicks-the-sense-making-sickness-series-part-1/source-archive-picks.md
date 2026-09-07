@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:19:18] Spencer: “i've ever heard is uh Bias and dogma turn intelligence to impotence so if you stop seeking out this truth and find facts and just hold on to”
-- [00:14:41] Spencer: “objective well there is an objective reality we just can never arrive at it because our human lens is flawed through”
-- [00:30:45] Spencer: “False dichotomy by the way to boil down all political thought to left right is absurd and no actual political theorist would ever do it do i actually”
-- [00:14:41] Spencer: “things that we just Take for granted as concepts you know as people especially if you haven't uh engaged in like a lot of philosophical um literature or”
-- [01:29:33] Spencer: “stuff you become the Unchangeable old man who has all the Opinions of the past you know you must be fluid just like the times you know there's”
-- [01:30:39] Jacob: “There really is a sense-making crisis there's a sense-making emergency and we all have a personal Responsibility and i don't know i mean i a lot of people”
-- [00:13:22] Jacob: “used earlier um an ushering in of Epiphany so what i want this to do is”
-- [00:10:58] Jacob: “incoherence In our information ecology and in our Conversations and in the things that we put at the forefront of our attention As far as importance we see”
-- [01:32:26] Jacob: “of Places on youtube being curious was free being curious”
-- [01:33:18] Jacob: “follow your bliss and Upgrade your sense-making um Listener take care of yourselves as always love yourself Please stretch please Drink some water um Spencer it's been great”
+- [00:14:41] Spencer: “You were writing is essentially what is truth yes There's a lot of things that we just Take for granted as concepts.”
+- [00:14:41] Spencer: “Actual definition of truth and is it can you even arrive.”
+- [00:19:18] Spencer: “You stop seeking out this truth and find facts and just hold on to them forever You will definitely.”
+- [00:19:18] Spencer: “Must be had and you have to eliminate bias and dogma to actually do that because one of my favorite lines that i've ever.”
+- [00:30:45] Spencer: “Our beliefs so belief systems how are belief systems Installed.”
+- [00:30:45] Spencer: “Human brain you grow up And you know so a good.”
+- [01:29:33] Spencer: “Hammer home education like you just got to continue to learn about stuff because when you stop learning about stuff you become the Unchangeable.”
+- [01:29:33] Spencer: “There's been more change in the last 50 Years or since.”
 
 ## Chapter-style timestamps
 

@@ -4,14 +4,14 @@ Extracted from the YouTube auto-caption transcript and published links already o
 
 ## Memorable quotes
 
-- [02:03:27] Spencer: “Um I fundamentally disagree with myself Last year every year and I don't Discount and even if I objectively hate Everything that I thought five years ago I”
-- [01:25:57] Spencer: “Your eyes refreshed all the time it's Just really on its own Devoid of outside influence something That I just like that's it that's just How I am”
-- [01:55:09] Spencer: “square is to try to break the Hammer try to have somebody take the Glasses off take a step back maybe we Can look at the structures that”
-- [00:25:21] Spencer: “with an idea called hauntology which Is a just a just a devilishly clever Plan words because In French The word for ontology which is the Thought process”
-- [00:41:51] Spencer: “like I'm it's like eating Out of a trash can all of the time and You can't stop and that trash can is Ideology Delicious It reminds me”
-- [00:45:17] Spencer: “That it's self-terminating So So what we need is we need magical Thinking We need A real artist who isn't caught in the um The capitalism version of”
-- [00:18:48] Spencer: “the idea of the of hyperreality And uh he wrote a book that I'm Currently that's what I'm reading is uh Simulacra and simulation it's Actually what”
-- [01:49:21] Spencer: “Have this thing called cognitive Miserliness where you evolve to survive And conserve energy and your brain takes”
+- [00:18:48] Spencer: “Your paper say like what was the yeah I'm struggling to figure out where I Want to start this because this so his Work.”
+- [00:18:48] Spencer: “I Want to start this because this so his Work is complex but it's built on Another person's work that's.”
+- [00:41:51] Spencer: “I love the good Points yeah I think it's great yeah There's a moment that I find myself in Often where I'm.”
+- [00:41:51] Spencer: “It's because it's just like you're just Steeped in it like I'm.”
+- [01:25:57] Spencer: “It’s just like having your eyes refreshed all the time.”
+- [01:49:21] Spencer: “Part of humanity because we just Have this thing called cognitive Miserliness where you evolve to survive.”
+- [01:55:09] Spencer: “Helping in a community is like a really Good thing to do any anything that you Want.”
+- [02:03:27] Spencer: “I fundamentally disagree with myself last year, every year.”
 
 ## Chapter-style timestamps
 

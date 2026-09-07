@@ -4,18 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:07:32] Spencer: “body like you pilot a meat vehicle you do like why you should know how to operate optimally like you know like you know you need to put”
-- [00:07:23] Spencer: “education you know the news is not a tool to make your life better it's a tool of control”
-- [00:10:16] Spencer: “industry there's no money and wellness money and”
-- [00:51:49] Spencer: “to you is gonna be good faith you know sometimes they just want to **** on you and you gotta realize when that's happening but never going to”
-- [01:23:05] Spencer: “let's send it off with Neuralink have”
-- [01:23:29] Spencer: “now you have a bigger wealth gap that's frightening the gap you get somebody that and then they can communicate essentially telepathically so now you've got a race”
-- [00:58:17] Spencer: “Taking humanities classes I've taken every single humanities class at the Community College and it was the most enriching thing that I've ever done for me in academia”
-- [00:54:23] Spencer: “that yeah and we're deflecting discomfort too I would say just get out there and start debating people start argue who don't agree with its debating and I'm”
-- [01:27:05] Jacob: “historically I have a lot of faith in humanity you know things have just always gotten better even though if we're in like a little setback period over”
-- [01:27:35] Spencer: “I think so too I'm optimistic about the future I'm curious it's gonna be”
-- [00:01:43] Jacob: “it come on listener drink some water alright let's roll here's the episode”
-- [00:00:06] Jacob: “description of the Dark Horse podcast real quick it's just desirable I think you guys would enjoy it if you like my podcast you like more intelligent people”
+- [00:07:23] Spencer: “The news is not a tool to make your life better, it's a tool of control.”
+- [00:07:32] Spencer: “Everyone owns a body. You pilot a meat vehicle, you do. You should know how to operate it optimally.”
+- [00:51:49] Spencer: “Not everyone you talk to is going to be in good faith.”
+- [00:51:49] Spencer: “On you and you gotta realize when that's happening but never going to in conversation.”
+- [00:52:19] Spencer: “You're never gonna learn anything you don't listen to people yeah and even if they've.”
+- [00:58:17] Spencer: “Taking humanities classes I've taken every single humanities class at the Community College and it was the most enriching thing that I've ever done.”
+- [00:58:17] Spencer: “I look at the world the way I think about things like it was very awesome and I highly recommend it I would love.”
+- [01:04:13] Spencer: “Unfortunately there's money in symptoms, not health.”
 
 ## Chapter-style timestamps
 

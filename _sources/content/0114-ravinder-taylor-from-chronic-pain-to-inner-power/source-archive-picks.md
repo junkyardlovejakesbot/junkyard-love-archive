@@ -4,26 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Memorable quotes
 
-- [00:00:55] Ravinder: “It’s not about being superwoman or being perfect in any way. It’s about removing the blockages in my life so that I can express my authentic self.”
-- [00:07:51] Ravinder: “I wanted to empower the reader. I wanted to give them the information. … I want you to understand it, personalize it and fly with it.”
-- [00:10:19] Ravinder: “I was fascinated by the idea that the subconscious mind can have such an effect on our present from events that we’ve forgotten about, discarded.”
-- [00:14:21] Ravinder: “if you try just as an experiment to take full responsibility for everything that goes on in your life, it can open up avenues of opportunities.”
-- [00:16:00] Ravinder: “I don’t know about how you turn on the placebo effect, but I do know how to turn off those things that can block us from healing ourselves.”
-- [00:17:49] Ravinder: “I’ve not taken any RA meds for 25 years now. None at all.”
-- [00:18:52] Ravinder: “when it comes to healing ourselves and personal development, sometimes you don’t have to know which element it was that worked.”
-- [00:20:58] Ravinder: “You do all of this work and then suddenly you can have a breakthrough that seems magical, but it’s not. … the accumulated effect.”
-- [00:22:59] Ravinder: “those nuns who in their 20s … expressed themselves more positively when they were older, they would live longer.”
-- [00:28:11] Ravinder: “What would happen if I thought about the best possible outcome? … Why waste my time right now?”
-- [00:33:24] Ravinder: “Free will isn’t free. You have to take … the free will.”
-- [00:36:50] Ravinder: “Be the change that you want to see in the world. … the more you improve yourself, … the happier you will make everyone else.”
-- [00:41:01] Ravinder: “smiling will make you happy. So, if you get out of bed and you’re grumpy, smile at yourself.”
-- [00:46:20] Ravinder: “I want to fully blossom into the … whole me. … I don’t want to be a carbon copy of other people.”
-- [00:47:11] Ravinder: “having an awareness of it gives you the ability to make your own choices. You’re not being driven by fears”
-- [00:53:41] Ravinder: “I wanted to throw away all the fluff … I wanted this to be very much a personal process of self-empowerment.”
-- [00:54:07] Ravinder: “Empower yourself. I want to give you all the tools. Now go away and make it your own.”
-- [01:06:36] Ravinder: “when you bring it out into the light of day, it can often lose its power. … You don’t have to be controlled by your past.”
-- [01:08:38] Ravinder: “what would make me happier today? … You just take it one day at a time. … some of the other problems just fix themselves.”
-- [01:11:19] Ravinder: “Smiling. … When you smile at someone, you make them feel cared for. … smiling for yourself brings on your own happy brain chemicals.”
+- [00:00:55] Ravinder: “Healing isn’t about becoming perfect. It’s about removing what blocks your authentic self from expressing.”
+- [00:07:51] Ravinder: “I wanted to empower the reader. I wanted to give them the information. And so when I take this particular meditation apart.”
+- [00:07:51] Ravinder: “I don't want to create resistance in you to the actual process. I want you to understand it, personalize it and fly.”
+- [00:14:21] Ravinder: “If you try just as an experiment to take full responsibility for everything that goes on in your life, it can open up avenues of opportunities.”
+- [00:16:00] Ravinder: “I do know how to turn off those things that can block us from healing ourselves.”
+- [00:18:45] Jacob: “You don’t always have to know which thing healed you. Sometimes it’s the accumulation, the ripening—your belief meets your action, and something finally shifts.”
+- [00:21:12] Ravinder: “I wanted to give people the why—not just another list of what to do. When you understand why something works, you stop outsourcing your power.”
+- [00:47:11] Ravinder: “Being used on you constantly. And having an awareness of it gives you the ability to make your own choices. You're not being driven.”
 
 ## Chapter-style timestamps
 

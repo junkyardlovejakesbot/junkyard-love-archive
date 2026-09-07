@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 
 ## Memorable quotes
 
-- [00:13:25] Jaycie: “like i've got this The world's happening for me not to me um and”
-- [00:18:13] Jaycie: “past and being like Oh my gosh poor me to like it doesn't **** matter like none of it matters all i have is right here right now”
-- [00:18:13] Jaycie: “here right now and I create that moment so yeah That book was a really monumental one i literally recommend that book to anybody and everybody all the”
-- [00:39:55] Jaycie: “pain Is energy but pain energy forms into Like reality i guess you could say so like um you know stress and um whatever stress comes out and”
-- [00:51:34] Jaycie: “like in reality like who gives a **** we don't have to do anything we don't want to do we you know compare ourselves and we Yeah just”
-- [00:51:46] Jaycie: “hold on to is like uh I know who i am i know what i bring to the table i know like all the change in the growth”
-- [00:52:07] Jaycie: “Showing up for myself like that's enough and that's good we're good to go it doesn't really matter what you know other people think yeah because if you're”
-- [01:00:13] Jaycie: “that moment um is like Rejecting the new identity”
-- [01:26:09] Jaycie: “Have nice clothes have nice hair have nice stuff all in the same swing you know what i mean and as a woman you know living up to”
-- [01:54:00] Jaycie: “Understanding and presence i would say Um yeah just understanding Of other people and um Where the world's at and compassion But those are like i think my”
+- [00:18:13] Jaycie: “That was what kind of shifted my mindset to looking at my past from ‘ Oh my gosh poor me’ to: ‘It doesn’t fucking matter, all I have is right here right now - and I create that moment.”
+- [00:18:13] Jaycie: “I create that moment so yeah That book was a really monumental one i literally recommend that book to anybody and everybody.”
+- [00:28:31] Jaycie: “You’re able to shift. When you’re in victimhood you often don’t realize you’re stuck in the victim mentality until you have someone point out ‘yeah you have this going on but here’s the reality of the situation.”
+- [00:39:55] Jaycie: “Pain is energy but energy forms into your reality.”
+- [00:51:34] Jaycie: “We have huge social media platforms with high expectations, that most of us feel like we have to kind of ‘upkeep’ with - when in reality.. who gives a shit?”
+- [00:51:46] Jaycie: “That’s something I have to always hold onto - I know who I am, I know what I bring to the table, I know all the change and growth that’s really happened. As long as I keep continuously showing up for myself, that’s enough and we’re good to go, it doesn’t really matter what other people think.”
+- [01:00:13] Jaycie: “I think the behind the scenes: your ‘being’ your ‘soul’, your whole identity in that moment, is rejecting the new identity that you’re creating.”
+- [01:25:18] Jaycie: “You can be extremely intuitive, psychically smart, spiritually intelligent, and still be a human being who wants to do nice things for yourself like have nice clothes, have nice hair, nice stuff, all in the same swing.”
 
 ## Chapter-style timestamps
 

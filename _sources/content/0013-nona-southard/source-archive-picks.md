@@ -4,18 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:33:06] Nona: “them and it's like mom shaming is”
-- [00:23:00] Nona: “have them research postpartum depression mmm I mean I am so lucky that I had Brandon who will literally any question that I have like man I don't”
-- [00:06:11] Nona: “listeners uh I was on Adderall okay and I was like”
-- [00:03:23] Nona: “about guns carpentry woodworking you're recently a mom you're with Brandon Bartlett it was just like one most amazing cool awesome people and so I just wanted to”
-- [00:01:48] Jacob: “Wynonna Southard what do you typically like to go by now that you're older I just go by Nona oh is it just me that”
-- [00:01:55] Nona: “I'm named after the Mötley Crüe song Nona there's an actual song named Nona and I'm named after a Mötley Crüe song that's epic is it like a”
-- [00:56:28] Nona: “attack you can check Instagram like 15 times a day but you will never actually like log on to YouTube to actually research how to do the silliest”
-- [00:16:25] Nona: “also my mom owns a juice bar”
-- [00:26:16] Nona: “New mom you're gonna have days where you just sit at home and cry but cuz there are things you just can't control and you don't know how”
-- [00:18:37] Jacob: “people yeah she'll research how do you get bee pollen that's heavy I have zero clue where she gets it from but she'll research all of these crazy”
-- [01:22:26] Jacob: “perspective thank you for being brave and sharing the newness of life that you're”
-- [00:37:02] Jacob: “Okay so just listeners be wary of that's it's okay like known as being she's being honest about it right now I mean it's okay you're gonna have”
+- [00:03:23] Nona: “I would love to dip into guns and carpentry and the things that you are amazing at but let's start with motherhood you recently.”
+- [00:06:11] Nona: “Was definitely during because um like we were talking about earlier I was on medication and I had a quick.”
+- [00:23:00] Nona: “The day and have them research postpartum depression mmm I mean I am so lucky that I had Brandon who will literally any question.”
+- [00:23:00] Nona: “Research like crazy on postpartum depression so when you do you think it helped me with struggling.”
+- [00:32:38] Nona: “I'm also I love woodworking I'm also a carpenter I'm also still a person yeah and you can't like that doesn't mean.”
+- [00:37:25] Nona: “Learn about it learn about postpartum depression learn about like how different.”
+- [00:56:28] Nona: “At your fingertips because you have a phone now I totally never even thought about that I'm.”
+- [00:56:28] Nona: “You can YouTube anything I mean if you want to learn how to handle a weapon.”
 
 ## Chapter-style timestamps
 

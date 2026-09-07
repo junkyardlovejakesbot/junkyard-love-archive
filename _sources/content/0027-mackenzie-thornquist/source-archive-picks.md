@@ -4,18 +4,14 @@ Extracted from the YouTube auto-caption transcript, YouTube chapter markers, and
 
 ## Memorable quotes
 
-- [00:09:13] Mackenzie: “Meaning they had enough flight attendants in those bases for the amount of flights going out each day so my”
-- [00:10:08] Mackenzie: “in New York well for Delta I was never a plan okay it was kind of weird how it happened so a lot of you probably know Keela”
-- [00:48:41] Mackenzie: “Gotta do Myspace yeah we were the first ones like MSN Messenger we like we were we got it experience all these cool things like we're at the”
-- [00:27:16] Mackenzie: “listen to a lot of dubstep and I go yeah I think I've heard of him I think was Glenn I remember”
-- [00:14:00] Mackenzie: “Somewhere was it Iceland Thailand oh it was a place in Thailand it was like you party all night or something oh yeah he's over there breaking is”
-- [00:10:46] Mackenzie: “turbulence going to Hawaii and I was like god I was like praying and I see I'll never get on another plane again like I was so scared”
-- [00:02:32] Mackenzie: “planes I fly out of Seattle out of New York there would be like the MD 97 1:7 those planes don't have the screen so you'd have to”
-- [01:09:15] Mackenzie: “town don't know like Brockhampton for example a lot like I feel like they're becoming more famous but at first feel were like who's Rockhampton like what is”
-- [01:10:05] Mackenzie: “yeah I remember before Odesza was even like a”
-- [00:34:20] Jacob: “just went to derma Dermott kennedy one thing I was going to I was actually almost about to rant on Instagram just because the nature of who I”
-- [00:29:27] Mackenzie: “going to concerts and Festivals I've always just really been into music and one of the first things I said to the doctor when I had to do”
-- [00:21:09] Mackenzie: “different tours you can do scuba diving one of my favorite places that we saw it”
+- [00:09:13] Mackenzie: “Meaning they had enough flight attendants in those bases for the amount of flights going out each day.”
+- [00:10:46] Mackenzie: “I would actually get it because it's so competitive and then yeah I ended up getting it was a really quick process.”
+- [00:20:47] Mackenzie: “Up because it's Iceland you never really know how the weather.”
+- [00:21:09] Mackenzie: “There's glaciers there's a lot of different tours you can do scuba diving one of my favorite places.”
+- [00:27:16] Mackenzie: “You do you listen to a lot of dubstep and I go yeah I think I've heard.”
+- [00:29:27] Mackenzie: “Always do yeah because even in high school as going to concerts and Festivals I've.”
+- [01:10:31] Mackenzie: “I'm never I'm always shocked with Odesza at who people Ickes it like there will be people who like put it on or listen.”
+- [01:10:31] Mackenzie: “People who like put it on or listen to it or I'll say Odesza and they'll say.”
 
 ## Chapter-style timestamps
 

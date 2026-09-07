@@ -1,18 +1,15 @@
 # Archive picks (not from published notes)
 
 ## Memorable quotes
-- [00:00:00] Jacob: “if you didn't know I got into DJing through Kelly he we had met up through a mutual friend and we were just BS in about I mean”
-- [00:01:10] Kelly: “and you then let me borrow you then let me borrow your mixer for a couple months and that was like I mean that's like the rest of”
-- [00:11:38] Brian: “Barracuda which was the largest nightclub in the Pacific Northwest 1,100 person capacity on average DJing between 8 and 15 hundred people sometimes we push capacities so that”
-- [00:50:02] Brian: “came up to me wanted Van Halen's eruption I'm just going through like the normal wedding stuff right interruptions like this like three long guitar solo by Eddie”
-- [01:27:29] Jacob: “difference between a bootleg and a remix and an edit you know a remix is something that's licensed by the artists yeah it's official bootleg is you have”
-- [00:39:47] Kelly: “do I find a unique remix for this”
-- [01:06:13] Kelly: “Can go get a hundred dollar controller you know with a cheap computer that you find off of Craigslist and you know a downloaded library or Spotify or”
-- [01:16:47] Kelly: “Like Ableton or logic he's got confusing”
-- [00:58:52] Kelly: “whether you want to be a producer like knowing what lane you're”
-- [01:24:06] Kelly: “I've learned those on SoundCloud pretty well yeah so so all of the samples and all of the”
-- [01:40:26] Jacob: “be fun that'll be a glow party and but anyway we can include info on that in the comments do you feel like”
-- [00:02:40] Brian: “clubs and bars and weddings and ctsos and corporate events and stuffy stuff have DJed a funeral one so that was strange yeah oh no it's a wake”
+
+- [00:11:38] Brian: “Getting thrown to the wolves because South Pacific was like 200 people max and you have different.”
+- [00:39:13] Kelly: “I got to go do this again because this is who I am so for me getting back into it you know.”
+- [00:39:47] Kelly: “I'm heading over to Bend like in February it'll be a two for you one for me meaning.”
+- [00:50:02] Brian: “I love that song but it's like not wedding appropriate.”
+- [00:59:00] Brian: “I didn't realize was like I started building a mobile DJ business and I didn't want to be a mobile.”
+- [01:06:13] Kelly: “I'm gonna learn how it's DJ hey here's what you do go by this hundred dollar.”
+- [01:24:06] Kelly: “Learn the copyright laws I've learned those on SoundCloud pretty well yeah so so all of the samples and all.”
+- [01:24:32] Brian: “I the more I like to learn about society and like all.”
 
 ## Chapter-style timestamps
 - [00:00:00](#t-00-00-00) — Opening — Junkyard Love / three DJs

@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:02:00] Tyler: “discussing how kind of Social decorum has is questionable as of now and because of You know i'll take this off you know we started we're at home”
-- [00:03:07] Tyler: “still there but the Handshaking's gone you know that don't like The handshaking is gone it's weird it's weird it's really weird It was definitely a signal of”
-- [00:08:36] Tyler: “weird too to see um A Demolition Man right uh was it's a Film i think it's 1993 or something like that it's got Um the main character”
-- [00:48:43] Tyler: “know her name is uh Christy Howard and um she's got a little girl And she educates her little girl On language Essentially but on cuss words and”
-- [01:26:52] Tyler: “psychopath um but i do enjoy Shopping at Aldi where They charge for bags and said bags aren't and they don't even bag your stuff they just you”
-- [01:28:50] Tyler: “First off uh Mr. Milliken is my father um Oh my what can the world use more of um Let's see on thursday january 21st 2021 at 3”
-- [01:30:07] Tyler: “use more of is just Unapologetic patience i'm not Going to tell this individual that i am eight minutes late Now and maybe it'd be another two or”
-- [01:28:50] Tyler: “21st 2021 at 3 36 p. m What the world could use more of is Non-apologetic patience The world needs more responses that say It's cool don't sweat”
-- [01:31:24] Tyler: “patience Like just don't be sorry for things that Shouldn't be sorry for and be willing to Just breathe”
-- [00:35:00] Tyler: “where you can turn on parental controls right like if you turn it on as a parent you're moderating it as a parent you're making that decision but”
+- [00:02:00] Tyler: “Were actually for listeners out there discussing how kind of Social decorum has is questionable as of now and because of You know i'll.”
+- [00:08:36] Tyler: “The low underlying fear that we all kind Of have walking.”
+- [00:12:20] Tyler: “Have this unfortunate Because we've built this on society right like we've created.”
+- [00:35:00] Tyler: “It's very difficult because we do these events where we cater.”
+- [00:48:43] Tyler: “On language Essentially but on cuss words and I think it comes down to the implied Meaning behind.”
+- [00:48:43] Tyler: “If the meaning and understanding is there like it's funny.”
+- [01:28:50] Tyler: “World could use more of is Non-apologetic patience The world needs more responses that say.”
+- [01:30:07] Tyler: “Could use more of is just Unapologetic patience i'm not Going to tell this individual that i am eight minutes late.”
 
 ## Chapter-style timestamps
 

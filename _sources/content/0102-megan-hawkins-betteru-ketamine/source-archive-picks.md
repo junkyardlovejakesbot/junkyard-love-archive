@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Memorable quotes
 
-- [00:26:27] Megan: “psychedelics they tend to give us what we need not necessarily what we want and a lot of the times we Have to go through the things that we need in order to get to the things that we want”
-- [00:30:41] Megan: “When something happens instead … it kind Of will give you that little bit of a beat or a pause to then be able to [respond]”
-- [01:09:12] Megan: “aside from the Medicine itself I would say the music is probably the Most important aspect of the session because essentially that music is going To be the driver of the car”
-- [01:17:31] Jacob: “the world it's got a mind of its own it's gonna keep on spinning so why get out and push”
-- [01:25:29] Megan: “we put on Armor to protect ourselves from them ever happening again but through a lot of this healing real healing not just … putting a muzzle on something … that still has teeth”
-- [01:31:39] Megan: “I've worked so hard to … keep my demons at bay … most of it really is just it's fear … fear of … the loss of Control … you work so hard to have this armor”
-- [01:33:25] Megan: “It's the mindset you're in going into it … expectations or preconceived notions … more likely than not going to be the outcome”
-- [01:46:03] Megan: “I lost my like professional purpose then like the Romantic then my last … sense of Freedom … that's really when I hit my real rock bottom”
-- [01:53:23] Megan: “mental health is a journey not a destination … we're fluid creatures … the Only way out is through … give yourself that Grace … it's okay to not be okay”
-- [02:19:43] Megan: “when you write things down … [journaling] really is the greatest tool that Helped me along my journey”
+- [00:26:27] Megan: “Day and they don't really love it because it was Definitely a hard pill to swallow with that is that psychedelics.”
+- [01:09:12] Megan: “I would say the music is probably the Most important aspect of the session because essentially that music is going To be the driver.”
+- [01:25:29] Megan: “We put on Armor to protect ourselves from them ever happening again but through a lot of this healing real.”
+- [01:32:13] Jacob: “You worked so hard to have this armor, to put on this mask, that protects you from any external threat. Not knowing that sometimes the biggest threat is inside our armor, it's inside our minds.”
+- [01:33:25] Megan: “It's the mindset you're in going into it And if you're going into this feeling closed off and like this isn't going to work.”
+- [01:46:03] Megan: “I lost my professional purpose, then romantic, then my last sense of freedom since when I had initially moved away from home. So at that point, that's where I hit my real rock bottom.”
+- [01:46:03] Megan: “I lost my like professional purpose then like the Romantic then my last quite a sense.”
+- [01:51:54] Megan: “I'm working with patients, I'm talking with them, when they are that rock bottom place in themself when they're first coming to this treatment for whatever the reason is, whatever they've gone through, whatever pain or trauma...”
 
 ## Chapter-style timestamps
 

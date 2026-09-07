@@ -4,21 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 
 ## Memorable quotes
 
-- [00:00:48] Cristine: “love is an answer. It’s a solution for sure.”
+- [00:00:48] Cristine: “Love is an answer. It’s a solution for sure.”
 - [00:02:32] Cristine: “The wind is actually the spirit. The effects are the physical body.”
-- [00:07:05] Cristine: “the endorphins… stands for ‘inner orphan,’ which is like morphine, right? Endorphins. This is your pain receptors and feel-good chemistry, but highly addictive, like narcotics.”
-- [00:09:35] Cristine: “Sugar. Sugar is actually on the continuum of narcotics. It’s a narcotic.”
-- [00:10:44] Cristine: “The trick wasn’t to try to change it and stay up. The trick was to realize when I was down, there was some work to do, some healing to do, and not just try to get back up — but allow myself to find that natural middle path in living.”
-- [00:14:48] Cristine: “really, all that matters is that you are whole and complete through a divine connection, and you bring your whole self to it.”
-- [00:20:20] Cristine: “I believe the person who overdosed came with her and walked through the door. So this entity, this earthbound essence, attached to me.”
-- [00:25:22] Cristine: “In Quantum University they refer to this as perverse energy. You’re working at the spiritual level. Sometimes it’s generational.”
-- [00:27:57] Cristine: “it became Zero Point Meridian — that’s what it’s called now, ZPM. … the research I’ve done shows this ZPM is actually twice as effective … as EMDR.”
-- [00:30:20] Cristine: “if we try to use the mind to correct the mind, we can get just a lot of chaos going on. … The solution I found for that is it goes back to zero. It’s actually neutrality.”
-- [00:35:02] Cristine: “[Baron Baptiste] talked about the gap between stimulus and response. … when you use your body as part of that process, there’s something to it that you can’t just do with your mind.”
-- [00:38:30] Cristine: “I had this fear that if I were completely silent and still, it wasn’t safe. I associated it with non-existence. … Being wasn’t as safe, because … I would fall into the black hole of nothingness.”
-- [00:51:12] Cristine: “There’s not a lot in mental health and psychology to solve personality disorders … the problem is because there’s not really a spiritual solution in the mental health field.”
-- [00:57:48] Cristine: “notice where you’re not in pain. Tune into even if it’s your hair. … What people are looking for in the endorphin experience is love. And it’s a capital L-O-V-E”
-- [01:01:51] Jacob: “love yourself, drink some water, stretch if you haven’t stretched today. … Thanks for tuning in to the Junkyard Love Podcast.”
+- [00:07:05] Cristine: “Endorphins… stands for inner orphan, which like morphine… highly addictive… sugar.”
+- [00:10:44] Cristine: “The trick was not to try to change it and stay up. The trick was to realize when I was down, there was some work to do…”
+- [00:14:48] Cristine: “Really, all that matters is that you are whole and complete through a divine connection. And you bring your whole self to it.”
+- [00:20:20] Cristine: “I believe the person who overdosed came with her and walked through the door… this entity… attached to me.”
+- [00:30:20] Cristine: “If we try to use the mind to correct the mind, we can get just a lot of chaos… the solution… is neutrality.”
+- [00:51:12] Cristine: “There’s not a lot in mental health and psychology to solve personality disorders… the problem is because there’s not really a spiritual solution in the mental health field.”
 
 ## Chapter-style timestamps
 

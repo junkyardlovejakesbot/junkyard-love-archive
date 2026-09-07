@@ -4,26 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Memorable quotes
 
-- [00:00:12] Anne: “you can accept something and be sad about it”
-- [00:06:30] Anne: “what I wanted to know was how we were alike and how we were different and what that meant for us living as humans on this Earth”
-- [00:10:07] Anne: “government is the coordinating mechanism … whoever controls the government controls the rules that people are allowed to live by”
-- [00:11:29] Anne: “humans are born with no ideas but once they get the ideas they can do whatever they want with them and that's the difference”
-- [00:13:06] Anne: “always Evolution occurs so brains and bodies are changing all the time”
-- [00:14:54] Anne: “that's what I call the idea sphere it's a brand new ecosystem based on ideas”
-- [00:15:58] Anne: “if you cut open your head and look for the coffee idea you wouldn't find it doesn't exist”
-- [00:21:42] Anne: “my 102-year-old mother read this book and she had no problem with it so you can do it too”
-- [00:24:34] Anne: “humans should be able to do whatever they want as long as they don't harm one another”
-- [00:24:34] Anne: “love isn't the answer … we are made to be different we are made to choose but what we can't do is harm each other”
-- [00:31:03] Anne: “morality is a human construct nature doesn't have”
-- [00:39:04] Anne: “I'm competing with Kim Kardashian … what's she wearing today versus oh let's talk about the … definition of human … existence”
-- [00:42:48] Anne: “we are … Required to create our own goals if we are going to have a happy life”
-- [00:43:59] Anne: “you get to be the expert on you”
-- [00:47:48] Anne: “I liken a baby to a full member of the ecosystem and a potential member of the ideas sphere”
-- [01:03:01] Anne: “we want to maximize our freedom … but the only line is no harm to others”
-- [01:05:52] Anne: “profit maximization is to me one of the great evils”
-- [01:14:24] Anne: “identify your values live them that's it”
-- [01:14:47] Anne: “when you become at home with yourself you can figure out how to become at home with the world”
-- [01:29:32] Anne: “make things as simple as possible but never simpler … that was the what I used to write this book”
+- [00:13:06] Anne: “We don't just have worms because Evolution changes all the everything all the time and even today even though.”
+- [00:13:06] Anne: “Though we can't see it because changes work slowly but things are changing all the time here.”
+- [00:24:34] Anne: “Different we are made to choose but what we can't do is harm each other and the coordinating system.”
+- [00:31:03] Anne: “Point in my book that morality is a human construct nature doesn't.”
+- [00:42:48] Anne: “Required to create our own goals if we are going to have a happy.”
+- [00:47:48] Anne: “I liken a baby to a full member of the ecosystem and a potential member of the ideas sphere oh I love.”
+- [01:03:01] Anne: “Again what you're saying is exactly the nature of humans is we want to maximize our freedom and I'm like all for maximizing Freedom.”
+- [01:29:32] Anne: “I love that one too and that was the what I used to write this book it was this is as simple.”
 
 ## Chapter-style timestamps
 

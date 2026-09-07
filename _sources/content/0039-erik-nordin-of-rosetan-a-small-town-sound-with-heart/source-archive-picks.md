@@ -4,18 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:00:06] Jacob: “this coronavirus to take care of yourself if you haven't inserted new ways of taking care of your mental health if you haven't added a little bit of”
-- [00:09:18] Erik: “Rosetan I think it's close the closest thing we can describe it as is like folky because it's definitely acoustic led it used to have more like electric”
-- [00:36:41] Erik: “Friday show at a local brewery yeah I think there will be a time that you realize that you look back and like oh yeah those are the”
-- [00:18:56] Erik: “just want people to be safe want people to be well”
-- [00:19:20] Erik: “four B's are be safe be caring be responsible and be productive”
-- [00:23:01] Jacob: “little bit of money from Spotify like under $100 typed money you know you mean and I gave like $40 of that to - tell us a-- who”
-- [00:29:42] Erik: “out May 10th called Warm Eyes, Soft Skin I like it a lot I hope you do too it's a fun one”
-- [01:09:17] Erik: “cuz most the stuff on Bandcamp is already niche that's very like obscure genre stuff so it's like let's say you listening to like a post rock band”
-- [00:35:59] Jacob: “this you know being quarantine is a”
-- [00:52:16] Erik: “that I that I am okay alone Wow like it what do you mean so with like with friendships and relationships I like I will fight tooth and”
-- [00:33:46] Erik: “it doesn't help the integrity of the other two bandmates that you're with you know what I mean and so it's it so you I don't”
-- [00:47:48] Erik: “it so yeah I've done LSD and that's exactly what he feels like I feel like there's a hose connected to the back of my head mmm and”
+- [00:09:18] Erik: “I think it's close the closest thing we can describe it as is like folky because it's definitely acoustic led it used.”
+- [00:09:18] Erik: “Is like folky because it's definitely acoustic led it used to have more like electric guitar elements.”
+- [00:18:56] Erik: “Frustrated by it because like I'm not I don't have any politically charged argument about the situation I just want people to be safe.”
+- [00:33:46] Erik: “Band it doesn't help the integrity of the other two bandmates that you're.”
+- [00:36:41] Erik: “I think there will be a time that you realize that you look back and like oh yeah those are the good.”
+- [00:52:16] Erik: “Quarantine has taught me, that I am O.K. alone.”
+- [01:09:17] Erik: “I understand there's not much of an algorithm like if you're listening to like cuz most the stuff on Bandcamp is already niche that's.”
+- [01:09:17] Erik: “Let's say you listening to like a post rock band like an ambient.”
 
 ## Chapter-style timestamps
 

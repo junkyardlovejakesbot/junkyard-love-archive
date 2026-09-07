@@ -4,18 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:15:32] Maxx: “Uncle Sugar thought I was a I thought I was a pimp how old were you at Uncle Sugar four 15 clearly okay 15 and that's actually funny”
-- [00:41:52] Maxx: “small portion of people 20% of them uh that like love What you're doing and that they're into it you know and basically like if I'm remember corre”
-- [00:49:45] Maxx: “called no explanation by Coil and Payne uh it's on Spotify it's everywhere uh it's an incredible song uh it's for”
-- [01:29:09] Maxx: “did a cipher a whole HAFLife Ent Cipher where it”
-- [01:23:54] Maxx: “we've just been taking Half-Life entertainment a lot seriously we changed it from half Clan to halflife you know for obvious reasons when you start talking about him”
-- [00:01:52] Maxx: “this name uh that's Alias that's just the uh the Alias that I decided to go with um I don't know let's say when did I change it”
-- [00:02:43] Maxx: “uh I fancy myself a comedian sometimes so I think I could be pretty funny uh I've done some standup comedy in my time uh and so I”
-- [00:07:31] Maxx: “when I used to go to church you know there's c i remember there's like certain songs”
-- [00:32:27] Maxx: “that was the first benefit concert that we ever put on war oh well if we take it back to”
-- [00:06:07] Maxx: “friends and friends and Facebook of regular life names but we've also worked together multiple times um I've djed for just you”
-- [00:03:15] Maxx: “stuff you're funny on social media all that yeah I try to be uh it works out sometimes um but I guess at some point uh a year”
-- [00:00:06] Jacob: “to be the book The War of Art by Steven pressfield The War of Art by Steven Pressfield uh it's absolutely fantastic I suggest it for really anybody”
+- [00:01:52] Maxx: “I don't know let's say when did I change it a year.”
+- [00:01:52] Maxx: “I change it a year ago two years ago year.”
+- [00:15:32] Maxx: “I was a pimp how old were you at Uncle Sugar four 15 clearly okay 15 and that's actually funny because at 17 years.”
+- [00:15:32] Maxx: “That's actually funny because at 17 years old is when I changed it to dopamine and people.”
+- [00:15:32] Maxx: “That's so stupid I'm like because who the **** is listening to a white kid named Uncle.”
+- [00:30:00] Maxx: “I love that dude I love that I think that more people.”
+- [01:23:44] Maxx: “This kind of relationship on like oh we're homies we both.”
+- [01:29:22] Maxx: “Cipher real quick you know because we had chosen them for this show.”
 
 ## Chapter-style timestamps
 

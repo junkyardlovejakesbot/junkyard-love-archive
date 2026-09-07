@@ -4,26 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Memorable quotes
 
-- [00:00:09] Marty: “my life is more of a zigzag of jumping through Windows of opportunity”
-- [00:00:09] Marty: “it's kind of like punch buggy … suddenly see … beetles everywhere … up until that point you didn't see any because you weren't thinking about it … that's the same thing with opportunity”
-- [00:04:13] Marty: “Chance favors the prepared mind”
-- [00:04:13] Marty: “you're kind of like this snowball that's rolling down the hill picking up everything that's on the ground”
-- [00:04:13] Marty: “if you're open-minded if you're intellectually humble it's amazing how much stuff you see”
-- [00:04:13] Marty: “if you're so risk adverse that you've mitigated all opportunity away you're just a stick stuck in the ground”
-- [00:17:44] Marty: “that allows you at any age … to be creative to take chances to think big to have a sense of awe and wonder we just been taught not to do that as adults”
-- [00:18:50] Marty: “the universe abhor stasis … everything she was looking at was in a constant state of turmoil and change and adaptation”
-- [00:19:45] Marty: “what's the first thing everybody's going to flash in their mind … what's going to happen to me … frontload what's going to happen to you”
-- [00:27:27] Marty: “scenario Based training … we just lost our number one supplier … biggest client … gaming this out”
-- [00:29:04] Marty: “we train much harder … for combat than combat tends to be”
-- [00:32:25] Marty: “200 to 300 words at a time per day … doing whatever it is has to be done over and over and over and over again to get the result that you're aiming for … that is the definition of discipline”
-- [00:34:28] Marty: “Baby Steps little tiny baby steps to achieve each element or increment of growth”
-- [00:38:25] Marty: “pull versus push Motivation … you're being pulled towards that light and that light is your objective”
-- [00:47:05] Marty: “thank you for your service now what”
-- [00:49:44] Marty: “I'm an apprentice in this new thing I'm not the master”
-- [00:55:58] Marty: “that's just the Universe telling your ego to just … shrink back down”
-- [01:00:27] Marty: “don't rest on your laurels you can appreciate them but don't ride them into the future”
-- [01:04:07] Marty: “if your brain's not defeated if your mind is not defeated then you're not defeated”
-- [01:12:21] Marty: “it's okay to paint outside the lines it's okay to think differently but to think differently you have to basically convert yourself and be different”
+- [00:04:13] Marty: “Taking a risk because if you're so risk adverse that you've mitigated all.”
+- [00:19:26] Marty: “I've been a CEO for now 15 years everybody's about to communicate change I said but what's the first thing everybody's going to flash.”
+- [00:19:26] Marty: “Talk or and you send out of communication what's going to happen to me so the best.”
+- [00:29:04] Marty: “It's anticlimactic yeah because you train to a much worse set.”
+- [00:32:25] Marty: “In time the discipline of doing it over and over and over again repeated Behavior to achieve.”
+- [00:34:28] Marty: “Each element or increment of growth whether it's knowledge growth or whether was skill attainment.”
+- [01:12:21] Marty: “Convert yourself and be different because you're going to have to change your whole mindset.”
+- [01:12:21] Marty: “Have to change your whole mindset about life and work and yeah there's going to be it's a little.”
 
 ## Chapter-style timestamps
 

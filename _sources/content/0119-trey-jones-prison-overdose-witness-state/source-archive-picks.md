@@ -4,28 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 
 ## Memorable quotes
 
-- [00:01:05] Trey: “My rising ritual … I jump immediately into meditation. … I just picture all the good things that I have going on in my life and I hold the energy of gratitude.”
-- [00:04:56] Trey: “if your body is an engine, what kind of fuel are you giving it? … you are literally putting garbage into your body and you’re expecting a high output human being to be the product of that.”
-- [00:11:04] Trey: “your willpower is a muscle essentially. And the more that you exercise it, the stronger it is.”
+- [00:11:04] Trey: “Your willpower is a muscle. The more you exercise it, the stronger it is.”
 - [00:13:42] Trey: “The true you is the witness behind it all.”
-- [00:14:54] Trey: “victim mentality is just inverted narcissism … instead of demanding admiration, you demand sympathy”
-- [00:14:54] Trey: “everything in my life needs to change because everything in my life up to this point led me to this moment.”
-- [00:22:24] Trey: “You’re not alienating any one person. You’re just alienating an energetic frequency that God gave you for perspective.”
-- [00:27:02] Trey: “I don’t believe that everyone has to die to find their true self.”
-- [00:27:02] Trey: “if we are all God, we’re all just trying to pick different versions of ourselves up because we’re all a little piece of the puzzle”
-- [00:28:30] Trey: “I see God as like an energy, a frequency, an awareness, a consciousness. Like God is everything and all that is”
-- [00:30:26] Trey: “Prison isn’t just like a physical place. It’s a mindset. And if you have a mindset of a prisoner, you’re gonna always be a prisoner”
-- [00:30:26] Trey: “Healing isn’t being like understood. Healing is becoming someone that your past can no longer control.”
-- [00:38:34] Trey: “healing culture taught people how to feel … it didn’t teach them how to be better. … feeling better is just a feeling … That comes from consistent action that comes from an identity.”
-- [00:39:26] Trey: “identity is … your subconscious beliefs on who you are … you got to surround yourself with people that believe in the identity that you believe in”
-- [00:46:24] Trey: “you can never convince somebody to change their life. … It has to come from within. You have to reach your own level of rock bottom before you want to change.”
-- [00:58:11] Trey: “I believe the second coming of Christ is Christ consciousness. … the whole world is getting a software update right now”
-- [01:01:51] Trey: “staying hard is the quickest way to never change.”
-- [01:07:05] Trey: “It says ye are gods because we’re all a fractal of the one true God.”
-- [01:09:55] Trey: “empathy without standards creates weak adults … you can’t help someone who’s drowning if you’re drowning yourself.”
-- [01:13:37] Jacob: “you can’t pour from an empty cup … Be the person that you want other people to be so that when you reach down and you pull people up, they see like, ‘Oh, it is nicer up here.’”
-- [01:29:05] Trey: “we come down here and everyone gets amnesia … the beauty of life is discovering life itself.”
-- [01:30:55] Trey: “if you have a dream, if you have a vision, if you have a higher calling, then just fucking chase it. … Nobody’s going to pursue your passions like you are.”
+- [00:14:54] Trey: “Victim mentality is just inverted narcissism.”
+- [00:27:02] Trey: “I don’t believe everyone has to die to find their true self.”
+- [00:27:02] Trey: “We’re all just trying to pick different versions of ourselves up because we’re all a little piece of the puzzle.”
+- [00:30:26] Trey: “Healing isn’t being understood. Healing is becoming someone that your past can no longer control.”
+- [01:01:51] Trey: “Staying hard is the quickest way to never change.”
+- [01:09:55] Trey: “Empathy without standards creates weak adults.”
 
 ## Chapter-style timestamps
 

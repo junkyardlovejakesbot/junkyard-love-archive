@@ -4,20 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 
 ## Memorable quotes
 
-- [00:00:48] Sigmar: “you take a conscious breathing break, you arrive in the here and now, and on the spiritual level, you invite the frequency of love … into your life.”
 - [00:01:57] Sigmar: “This frequency triggers something in you that takes it out of your head, into your heart.”
-- [00:01:57] Sigmar: “Hearts are always curious. … What literally separates us is our intellect.”
+- [00:01:57] Sigmar: “Hearts are always curious. What literally separates us is our intellect.”
 - [00:07:39] Sigmar: “It's kind of cheating because it's a shortcut to meditation.”
 - [00:12:32] Sigmar: “The most important thing is to slow down the exhale.”
 - [00:12:32] Sigmar: “Breath is basically your best friend.”
-- [00:12:32] Sigmar: “when you do a conscious breathing break … you escape this fight and flight mode.”
 - [00:17:44] Sigmar: “You're setting the tone of the day.”
 - [00:29:01] Sigmar: “If you look on the outside, you become a dreamer. If you go inside, you awaken.”
-- [00:29:01] Sigmar: “We as a human, we run around like crazy. … we're totally out of tune and we take no time to retune.”
 - [00:34:48] Sigmar: “Authenticity is actually the key to wholeness.”
-- [00:40:20] Sigmar: “the planet actually is raising its own frequency. … Planet is telling us basically guys, get up and raise your frequency.”
-- [00:46:23] Sigmar: “Trust in yourself. … This is your channel to the divine.”
-- [00:48:17] Sigmar: “Keep it light. Don't take it too serious.”
 
 ## Chapter-style timestamps
 

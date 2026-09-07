@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:02:36] Trevor: “My big purchase um After i got to the major leagues it was I always told myself i'd get like One big thing is get called up it's”
-- [00:03:22] Trevor: “stuff and it turns out Twitch is now dmca music so hard that we can't play music at all yeah i heard about that i got the email”
-- [00:43:54] Trevor: “have to learn it uh Meditation helps all kinds of stuff uh to actively be Engaged in what you're doing um you know it's like the opposite of”
-- [00:53:41] Trevor: “like i think you had a panic attack an anxiety attack and you have generally really bad anxiety i'm like it's never been this bad um but i've”
-- [00:54:25] Trevor: “was diagnosed With adult ADD or ADHD and it got like some super like light um non-stimulant medication so like i real once i started taking i was”
-- [00:51:25] Trevor: “They talk about a state change where it's like tony robbins is where Right before he walks on stage he has like this mini trampoline and then he”
-- [01:57:15] Trevor: “anybody with that is Find that purpose man and then and use the steps and it Might be worded differently in your head But the gist is there”
-- [00:32:34] Trevor: “gonna get there never you're never arriving exactly uh always a work in progress that's uh the ceo of Spanx says that all the time i've always worked”
-- [01:28:30] Trevor: “am what I am and I'm free agent right now like with really good prospects of getting a nice a nice contract that i've never even had before”
-- [01:20:25] Trevor: “you seem to be very growth mindset You know versus growth versus fixed mindset um just Kind of always improving and leaning towards um towards your purpose uh”
+- [00:03:22] Trevor: “Playing all my favorite music because i have like a spotify playlist a bunch of people follow so basically.”
+- [00:32:34] Trevor: “I just have that mindset and it's kind of a blessing and a curse that like you never know you're.”
+- [00:43:54] Trevor: “Meditation helps all kinds of stuff uh to actively be Engaged in what you're.”
+- [00:51:25] Trevor: “They talk about a state change where it's like tony robbins is where Right before he walks on stage.”
+- [00:53:41] Trevor: “Think you had a panic attack an anxiety attack and you have generally really bad anxiety i'm.”
+- [00:53:41] Trevor: “You have generally really bad anxiety i'm like it's never been this bad.”
+- [01:20:25] Trevor: “Know versus growth versus fixed mindset um just Kind of always improving and leaning towards.”
+- [01:20:25] Trevor: “You seem to be very growth mindset You know versus growth versus fixed.”
 
 ## Chapter-style timestamps
 

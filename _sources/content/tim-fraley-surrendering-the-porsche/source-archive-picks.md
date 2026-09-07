@@ -4,26 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 
 ## Memorable quotes
 
-- [00:03:52] Tim: “to really be a whole, you need you need the feminine. You need a man needs the feminine. … there’s the action, the masculine, and then there’s … the giving, and then there’s the receiving, the feminine”
-- [00:13:36] Tim: “the masculine is kind of like bracing against the storm and then there’s also this feminine nature that knows like sometimes it’s like … let that storm just lift you. You got to like … lift your legs and let the stream flow you down”
-- [00:17:52] Jacob: “I work on myself so that when others need to come up for air, there I am.” (Ram Dass)
-- [00:26:59] Tim: “for me meditation um really started as um like moving my body and like stretching. Like the intention of like connecting back to self. … reconnecting with my body.”
-- [00:29:20] Jacob: “without judging ourselves for being where we’re at cuz you know we can’t we can’t move from where we are not”
-- [01:04:02] Tim: “it’s literally everything I wanted just packaged differently. … It doesn’t always show up as like it has to be these this God has to be this … and it has to look like this”
-- [01:09:00] Jacob: “finding that that God’s like, no, dude, I got you. You want something and I’m going to provide for you and this is this is what you’re going”
-- [01:09:21] Tim: “I asked, you provided, this is it, we’re good.”
-- [01:09:48] Tim: “that old saying, man plans,”
-- [01:09:53] Jacob: “God laughs.”
-- [01:14:50] Jacob: “how can you surrender to your ego and be new every day”
-- [01:16:23] Tim: “the ego death and but rebirth and then there’s the trust … you’re creating just a whole new ripple when you land. And it’s like a whole new version of yourself, and it’s just a whole new timeline.”
-- [01:17:08] Jacob: “you know what? I got to just surrender.”
-- [01:17:28] Jacob: “Nature loves courage. Uh you jump off of the cliff it into the abyss and you realize it’s a feathery bed.”
-- [01:31:47] Jacob: “at some point you got to look around and go like oh, I’m the oh, I’m the example.”
-- [01:35:59] Tim: “courage is the courage to be willing to trip over your words, to be willing to even though this little is 19 and he thinks he knows everything … I’m going to have the courage to still trust the intuition”
-- [01:37:09] Tim: “I pray for my future self. Pray for future self. … God to … shape you into the person that … you’re you’re down here to be.”
-- [01:44:00] Tim: “So yeah, pray for your future self.”
-- [01:45:59] Tim: “gratitude and thankfulness is how I start and my prayers.”
-- [01:53:56] Jacob: “Drink some water. If you haven’t stretched today, what are you doing, dog? Get on your knees and stretch. And try out some prayer. … love yourselves, dammit.”
+- [00:03:52] Tim: “To really be whole, you need the feminine. A man needs the feminine… the action, the masculine, and then there’s the giving and the receiving, the feminine.”
+- [00:26:59] Tim: “For me, meditation really started as moving my body and stretching… reconnecting with self.”
+- [00:26:59] Tim: “I would just stretch, just like work on my breath.”
+- [01:16:23] Tim: “You know, the ego death and but rebirth and then there's the trust.”
+- [01:35:59] Tim: “Courage, but also courage is the courage to be willing to trip over your words.”
+- [01:35:59] Tim: “I'm giving him right now, etc. etc. I'm going to have the courage to still trust the intuition that I should go.”
+- [01:37:09] Jacob: “Pray for your future self… God, shape me into the person I’m down here to be.”
+- [01:45:59] Tim: “Gratitude I guess it's gratitude and thankfulness is how I start and my prayers.”
 
 ## Chapter-style timestamps
 

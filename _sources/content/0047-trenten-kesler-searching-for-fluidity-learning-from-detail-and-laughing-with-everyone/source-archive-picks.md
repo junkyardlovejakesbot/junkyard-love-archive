@@ -4,18 +4,14 @@ Extracted from the faster-whisper transcript of the published MP3 and Jacob’s 
 
 ## Memorable quotes
 
-- [00:10:56] Trenten: “open back up at the Clean Machine”
-- [00:11:09] Trenten: “ordering. Ordering bartending stuff, ordered like four new sets of just stuff to replace some of the older stuff we've had for eight or nine years. But now”
-- [00:12:00] Trenten: “Clean Machine. I mean, fluid and the DJ stuff and events like I've always loved that”
-- [02:09:38] Trenten: “good stories about Thailand Let's see what here. Okay. All right. Okay, so give me a background of why you went to Thailand And I think in my”
-- [00:29:51] Trenten: “licenses in Oregon and Idaho working on Washington. Got to own that bar to get the Washington liquor license”
-- [00:54:15] Trenten: “God, I'm going to church and everyone has, you know, you're more on the spiritual level these days than you used to be”
-- [02:33:11] Jacob: “fucking love it. Just don't be an asshole. Dude, put your right hand out and just meet people. That's my one biggest advice. If I could give anybody”
-- [01:50:06] Jacob: “know, if you look at Facebook in a small town right now, it's a cesspool of bullshit and these people are arguing over each other's heads”
-- [02:35:17] Jacob: “before you do that. Get present. Take one minute. Just get here. Be here. Get some fresh air if you need to. Just kind of reset. And before”
-- [00:00:02] Jacob: “and welcome to the Junkyard Love Podcast. Oh, what is Gucci, my dude skis? This is the Junkyard Love Podcast. Today I'm going to start this off with”
-- [00:06:24] Jacob: “Kesler, give me air. Cheers. Good to see you buddy. You brother, did you know that you probably knew this 100 percent? Did you know that when you”
-- [02:11:56] Jacob: “I was known as the puker because I spent 13 of those 15 hours in the airplane bathroom Just roughing nothing up. There's my guts and everything on”
+- [00:10:56] Trenten: “I think it was about three weeks, maybe two weeks before they finally let us open back up at the Clean Machine.”
+- [00:11:09] Trenten: “Open back up, I've just hit this because I was keep telling my dad and like my office manager.”
+- [00:29:51] Trenten: “We have liquor licenses in Oregon and Idaho working on Washington. Got to own that bar to get the Washington liquor license.”
+- [00:53:46] Trenten: “In the world that's going to change that. Although I did try.”
+- [01:50:37] Trenten: “They're yelling at each But they're arguing someone else's fight, and it's because the news media.”
+- [01:50:37] Trenten: “Fight, and it's because the news media, I'm really just want.”
+- [02:09:38] Trenten: “All right. Okay, so give me a background of why you went to Thailand And I think in my head.”
+- [02:34:11] Jacob: “People will forget what you've said, people will forget what you've done, but they will never forget how you made them feel.”
 
 ## Chapter-style timestamps
 

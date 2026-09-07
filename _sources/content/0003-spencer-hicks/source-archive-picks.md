@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:01:06] Spencer: “would like to define ego consciousness and mindfulness and were people to do all those three things so I would love it if you want to start off”
-- [00:03:21] Spencer: “know this analogy and Sam Harris used it and I think waking up or one of”
-- [00:26:58] Spencer: “statement yeah being skeptical is a it's a skill you gotta work up you don't just like all of a sudden don't believe anything right and these people”
-- [00:38:18] Spencer: “Called determinism and it's basically”
-- [01:04:36] Spencer: “this is actually unintentionally been an”
-- [00:04:47] Spencer: “Are you talking like meditation this helps you even get going check even just driving with no music just if you're in a headspace to take inventory I”
-- [00:54:13] Spencer: “lot of people have ADHD as well from the phone I really believe because that dopamine so all adderall does increase your dopamine levels which inherently allows you”
-- [00:35:16] Spencer: “really comes down to humanizing people true it's so easy to dehumanize somebody that doesn't believe what you believe to like a very extreme degree mm-hmm it's like”
-- [00:44:34] Spencer: “never enough so so the present moment certainly pulls us away or the phone pulls us away from the present moment what you wanted to find the present”
-- [00:09:56] Jacob: “know if you gain if listeners if you gain in”
+- [00:04:47] Spencer: “Are you talking like meditation this helps you even get going check even just driving with no music just if you're in a headspace.”
+- [00:09:33] Spencer: “Culture of today your ego is something that you have to have like it's you have to have it in check to be successful.”
+- [00:10:04] Spencer: “Some sort of insightfulness from just listening to us talk about a you go.”
+- [00:44:10] Spencer: “Touch on with meditation is it just cause you to be present and the phone is the opposite.”
+- [00:54:13] Spencer: “The phone I really believe because that dopamine so all adderall does increase your dopamine levels which inherently allows.”
+- [00:54:13] Spencer: “Levels which inherently allows you to focus because the lack of dopamine people or the brain is set up to seek.”
+- [01:04:36] Spencer: “Ego you know that's what your ego is you just mean you don't have to bow to it this is actually unintentionally.”
+- [01:04:47] Spencer: “I feel like the essence of ego it's actually confusing concept I told you I've been like I've.”
 
 ## Chapter-style timestamps
 

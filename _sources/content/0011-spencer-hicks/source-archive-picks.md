@@ -4,18 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:00:00] Jacob: “because we just live in echo chambers on the internet how did the greatest tool Fred they're like communicating devolve communication so much I've been thinking about this”
-- [00:06:08] Spencer: “all these things on social media it's cool they have a cool car they like this cool music but if there was a zombie apocalypse would they be”
-- [00:23:14] Spencer: “thing not Facebook not Instagram here but the comments are like hey man thanks for trying to explain that it seems like you got a little confused with”
-- [01:18:03] Spencer: “Just need to have good intentions like if you obviously have really good intentions with things and then you do fail or you do mess up and you”
-- [00:25:31] Spencer: “That's why a mindfulness practice is great right because it's the perfect temper to this we our bodies are not evolved to live the way we do live”
-- [00:27:50] Spencer: “that when it comes to fitness so I think that even going to the gym when you're just like at this high anxiety level this parasympathetic level or”
-- [00:04:47] Spencer: “you if there was a zombie apocalypse at this moment while we're filming this we get a little we get a little notification an Amber Alert on her”
-- [00:39:17] Spencer: “More concurrent worldview and then approach health with like a like a stronger sense of who you are and what you want you could probably navigate a lot”
-- [01:06:29] Spencer: “I'm not prepared to posture against it and then again posturing even just getting put to where you have to posture to defend yourself against an idea that”
-- [00:50:24] Spencer: “need to overeat 3,500 calories that's over three large Big Mac meals with a large soda that needs to be more than you're burning anyways so that would”
-- [00:49:38] Spencer: “with yeah but I see clients”
-- [00:05:32] Spencer: “going right back to the tribalism thing yes just gotta find a group of people that you trust a stabs and hee-ho hey in”
+- [00:04:47] Spencer: “Alert on her phone and it says listen they're zombies everywhere that shit's real is happening it's probably.”
+- [00:06:08] Spencer: “Life if there's one thing you learn from this podcast it's just find a good friend.”
+- [00:25:31] Spencer: “That's why a mindfulness practice is great right because it's the perfect temper to this we our bodies.”
+- [00:27:50] Spencer: “I think that even going to the gym when you're just like at this high anxiety level this parasympathetic level.”
+- [00:39:17] Spencer: “You could probably navigate a lot better because you have more of a baseline but you must.”
+- [00:39:17] Spencer: “Important and even bad ideas you must learn from them of course.”
+- [01:18:32] Spencer: “You just need to trust yourself and grow from all these things and just not be scared.”
+- [01:18:32] Spencer: “I'm gonna just keep doing what I'm doing and I'm not gonna change who I am because you pointed out that I was wrong.”
 
 ## Chapter-style timestamps
 

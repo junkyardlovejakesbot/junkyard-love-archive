@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:20:22] Lynn: “Kind of by the zilker park area if you're familiar with that and uh i had to to go around some people playing pickleball”
-- [00:22:06] Lynn: “And in terms of paddles The thing i would not recommend is to Buy a wooden paddle For maybe ten dollars more you can”
-- [00:26:49] Lynn: “You know i started it in october 2020 You know kind of moving into the cold months in Connecticut and you know we're Not”
-- [00:39:12] Lynn: “You know have that become a part of the physical education curriculum and it really does make sense because It's easy to play so”
-- [00:00:00] Lynn: “It's cool to have you know a different amount of diversity and not really have It's not just this you've got to be really”
-- [00:03:57] Lynn: “I just looked to see what was going on at the local recreation center and there was something called pickleball which i Like many”
-- [00:24:03] Lynn: “They get you know they spend their hundred bucks and their family gets their uh their paddles and their balls And their net and”
-- [00:25:41] Lynn: “Itself they're the wiffle ball rather Would you call it the pickleball is that would that be proper yeah people don't call it a”
-- [00:27:58] Lynn: “An ambassador in the sport before and i've played just about every sport imaginable But there are actually people who are Associated with the”
-- [00:40:45] Lynn: “It's uh you know it's gonna happen There was um racquetball's a sport that i played you know when i was young and it”
+- [00:02:23] Lynn: “You can play singles but most people play doubles i think a lot of it is just Because it's such a social.”
+- [00:03:57] Lynn: “I just looked to see what was going on at the local recreation center and there was something called pickleball which i Like many.”
+- [00:20:22] Lynn: “Cool To see because i knew that we had this podcast coming and i recognized.”
+- [00:22:06] Lynn: “Is you're good to go okay yeah because i would have honestly thought would i thought i figured they were probably.”
+- [00:25:41] Lynn: “The for the sport in the community around you for the people you're interacting.”
+- [00:25:41] Lynn: “Is is there a Specific you know because a golf ball for example would have a specific.”
+- [00:39:12] Lynn: “Curriculum and it really does make sense because It's easy to play so even if you've got The kids.”
+- [00:40:45] Lynn: “Really male dominated Because it's you've got this This it's a rubber ball.”
 
 ## Chapter-style timestamps
 

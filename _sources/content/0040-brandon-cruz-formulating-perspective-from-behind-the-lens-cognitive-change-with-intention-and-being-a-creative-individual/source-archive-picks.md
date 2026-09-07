@@ -4,18 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:00:37] Jacob: “something else to watch is Jordan Greenhall Deep Code”
-- [00:01:47] Jacob: “what are you doing man drink some water enjoy hit record I am recording oh hey okay the bong lip town will be the intro it should be”
-- [00:21:19] Jacob: “you're treating me as a jukebox I'm forgetting that I'm a human you know what would some people take different things to learn those sort of things sometimes”
-- [00:25:14] Brandon: “they're lost in the maze they're lost in their manes man they're like I said sometimes you could say something sometimes it could be dramatic sometimes it could”
-- [00:15:03] Jacob: “way up here like a flow state yeah so but it's hard because you know there's different parties and different vibes and sometimes you got to show up”
-- [00:12:09] Jacob: “I'm controlling the vibe like I'm not at the party I'm not a”
-- [00:17:26] Brandon: “you're just a dumb photographer yeah when you're too caught up in your”
-- [00:31:15] Jacob: “Saying that weed stores are open it's kind of like I know it we still have this like silly demeanor that's kind of hanging on weed I can't”
-- [00:38:39] Brandon: “making like maybe a third person that's in the video game or a third version of themselves or something that's not in the third versions of themselves are”
-- [00:44:15] Jacob: “you kind of have an observer of your thoughts like there's like so what I had done at first is try to create like I am the depressed”
-- [00:43:01] Jacob: “was I was incredibly depressed for a lot of years and I was starting to get better and I was starting to like fight back sort of like”
-- [00:55:02] Brandon: “Dopamine from just sitting there on your”
+- [00:12:21] Brandon: “I'm kind of sitting above all the vials I'm not just looking out for what songs I want to play personally like my ego.”
+- [00:17:26] Brandon: “My **** so you should listen to me because you're just a dumb photographer yeah when you're too caught.”
+- [00:25:14] Brandon: “I said sometimes you could say something sometimes it could be dramatic sometimes it could just be like hey listen.”
+- [00:25:14] Brandon: “Sometimes it could just be like hey listen it seems as if you're having a problem being told no right now.”
+- [00:31:15] Jacob: “A being with no circumstance does not exist.”
+- [00:42:49] Brandon: “Idea because I've heard you say it a bunch of times and every time it resonates is like as the situation comes.”
+- [00:45:58] Jacob: “I'm neither the depressed person nor the person that is saying "no don't be depressed", but rather the observer of those two thoughts.”
+- [00:54:31] Brandon: “Change because change is you know you're safe in your cave exactly.”
 
 ## Chapter-style timestamps
 

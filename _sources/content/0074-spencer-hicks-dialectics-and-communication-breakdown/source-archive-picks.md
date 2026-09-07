@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:01:50] Spencer: “think is most the time eighty percent of the time when somebody gets canceled it's just they're being held accountable for something that they did that's not good”
-- [00:01:50] Spencer: “canceled it's just they're being held accountable for something that they did that's not good and they don't really like it and now there's a word to deflect”
-- [00:14:48] Spencer: “college where we live and I've taken a few at university but most of my study have has Come outside of that and most of it has been”
-- [00:49:54] Spencer: “Bourgeoisie and the proletariat that is like Marx's terms and before Uh industrialization happened if you Were a cobbler if you made shoes you made the whole shoe”
-- [02:16:52] Spencer: “stuff anyways yeah There is no capital t in truth but we're going to look for it anyway All right all right jake welcome yeah um”
-- [02:15:58] Spencer: “it's just uh this is a complete red herring and non-issue and for people personally Don't worry about it don't worry about it just work on being a”
-- [02:04:20] Spencer: “problem of i think Alan Watts calls it the backwards law basically by being someone that needs to Improve by being someone who needs to do these things”
-- [02:13:10] Spencer: “with the conclusion don't let other people think for you like you'll see it and just like a lot of uh really just new sites in general You'll”
-- [02:15:02] Jacob: “between entertainment and This wasn't so bad spencer no i think we”
-- [02:16:18] Jacob: “just i like saying the Ushers of epiphany so i like to uh our”
+- [00:14:48] Spencer: “At uh the community college where we live and I've taken a few at university.”
+- [00:14:48] Spencer: “Struggle to find meaning and something that doesn't have meaning inherently.”
+- [00:17:46] Spencer: “The capability to change it and a few of the ideas.”
+- [00:18:12] Spencer: “It's important to talk about because there is a lot of fear mongering.”
+- [00:35:57] Spencer: “Benign by nature they're tools of thought and what you do with them obviously.”
+- [00:49:54] Spencer: “Way that society instructors have exploited it because it separates the worker from the means.”
+- [02:04:20] Spencer: “Detract from self-actualization because you're spending too much time just generating gold and that is like Fundamentally.”
+- [02:13:10] Spencer: “You're listening to as a definitive source because a lot of times like i said before.”
 
 ## Chapter-style timestamps
 

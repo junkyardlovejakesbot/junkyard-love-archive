@@ -4,18 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:03:21] Nate: “exactly it would feed my ego”
-- [00:04:15] Nate: “to me the ego was a beast like you can feed it good things you can feed it bad things and I was feeding my ego so many”
-- [00:38:27] Nate: “that I love most about stunt riding and I think the thing that has drawn me so much to it is the culture like there don't get me”
-- [00:32:43] Nate: “like why I was like bikes are cool but I'm not like it was never jumped into it was but it was kind of me veering away”
-- [00:19:52] Nate: “every single day is make my bed right away love it yeah the first accomplishment of the day right there the first W of the day yeah I”
-- [00:17:50] Nate: “I ride I go to the gym last year I was working two jobs I was working 60 hours a week I was three days a week I”
-- [00:23:47] Nate: “creates more sadness depression all that kind of stuff and it creates happiness and money and jobs if you have a cell phone right now in 2019 you”
-- [00:24:39] Nate: “motivational he's my Michael Jordan oh no I dude I searched for my Michael Jordan my whole life I'm like who's my Michael Jordan I don't know I”
-- [00:56:46] Nate: “shape I was needing to workout I was needing a little weight I was needing to be huge and in doing that I caused myself a lot of”
-- [00:56:01] Nate: “obviously like a pretty in shape do bar you are you a coach - are you training no I seem like it I originally got into”
-- [01:20:24] Nate: “gym when I like speak out loud and people are like whoa what's this guy doing I'll run and I'll run at night and I run up this”
-- [01:09:20] Jacob: “single thing that I value was gone now Who am I so happy where is yeah so yeah so it's like I was”
+- [00:04:15] Nate: “I was feeding my ego so many bad things I was constantly in challenge I wanted to challenge.”
+- [00:04:15] Nate: “I thought it was always a challenge the ego was if I have this many women.”
+- [00:17:50] Nate: “I wake up because I was so exhausted for so long I physically pushed myself I ride I go to the gym last year.”
+- [00:19:52] Nate: “I do every single day is make my bed right away love it yeah the first accomplishment of the day.”
+- [00:23:47] Nate: “Creates more sadness depression all that kind of stuff and it creates happiness and money and jobs.”
+- [00:24:39] Nate: “I find it's not why you're posting that thing's not wastefully you listen I Eric Thomas he's a motivational speaker.”
+- [00:38:27] Nate: “I love most about stunt riding and I think the thing that has drawn me so much to it is the culture.”
+- [00:38:27] Nate: “I imagine on like Wilson sir band par so the thing that I love most about stunt riding.”
 
 ## Chapter-style timestamps
 

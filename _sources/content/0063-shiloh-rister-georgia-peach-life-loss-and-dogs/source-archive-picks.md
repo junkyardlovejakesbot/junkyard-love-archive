@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:03:13] Shiloh: “I got my puppy georgia right”
-- [00:03:29] Shiloh: “She thinks She thinks she's a lap dog Even though she's clearly what But yeah i have um”
-- [00:35:23] Jacob: “pandemic started Um well In april i lost Two really good friends of mine”
-- [00:36:40] Shiloh: “probably know one of them One second clayton That was really tough because it was Like You know i Had lost touch you know with him like Yeah”
-- [00:49:04] Shiloh: “I've been listening to Marilyn Manson So um But like new music i've been listening To the new joyner uh lucas album Evolution i think i think that's”
-- [00:54:23] Shiloh: “and then saw him at Warped Tour and That's another thing you know go on a Warp tour i discovered a lot of like New bands and stuff”
-- [00:53:14] Shiloh: “And everything i miss MySpace me too I miss being able to when you go to someone's profile you immediately have a song playing that was the coolest”
-- [01:05:20] Shiloh: “you're When you're potty training a dog you know i'd be like i'll just get ticked off all the time or i'd get annoyed because he would just”
-- [01:07:52] Jacob: “care of the guy but We all need more dogs Have a good rest of your day Knowledge is power”
-- [00:00:06] Jacob: “beauty about it because Shiloh's dog has actually since passed away she texted me a couple days after the episode and told me the news and i asked”
+- [00:03:49] Shiloh: “Cough breaking out in the house because my roommates they have two.”
+- [00:36:40] Shiloh: “Know that was really hard Because i had just talked to this person like two.”
+- [00:36:40] Shiloh: “Depressed About it because um Yeah it was just really hard.”
+- [00:49:04] Shiloh: “Music i've been listening To the new joyner uh lucas album Evolution i think i think that's.”
+- [00:49:04] Shiloh: “Have you been listening to A ton of christmas music i bet you've.”
+- [00:53:14] Shiloh: “You gotta create you got to be a creator of like Your profile in everything and yeah putting music on There having a playlist.”
+- [00:54:23] Shiloh: “I feel Like we would choose the bands based off of their merch.”
+- [01:05:20] Shiloh: “All the time or i'd get annoyed because he would just walk us around for 15 minutes outside without going potty.”
 
 ## Chapter-style timestamps
 

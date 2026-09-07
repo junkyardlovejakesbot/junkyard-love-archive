@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:01:13] John: “Software product manager i work now at a fintech company um just started a contract two weeks ago so that's my day job i like i work with”
-- [00:03:21] John: “ties into i think the free will thing”
-- [00:14:25] John: “think um Uh there are More dimensions than we are capable of perceiving uh i think that's just a fact right like we can't hear above or beyond”
-- [00:24:54] John: “a language so like I'm a christian so when i think about like the bible and god being described as In the beginning was the word i was”
-- [00:24:54] John: “being described as In the beginning was the word i was like whoa that's interesting in the beginning was language and he's described as like our father Wow”
-- [00:33:23] John: “No one can live without a purpose without a sense of purpose you will die you will kill yourself if you don't have a sense of purpose people”
-- [00:52:28] John: “morbid to realize that Life is really short and there just isn't enough time to be worrying about living up to other people's expectations you want to find”
-- [00:42:40] John: “never gonna break the law of gravity right if you try to you're gonna It's gonna break you so there's no um breaking the laws of nature And”
-- [00:00:18] Jacob: “started as basically a mental health podcast and by that i mean just kind of listening to people tell their story listening to people kind of give their”
-- [00:21:03] Jacob: “The uh stoned ape theory”
+- [00:03:21] John: “Everything and they're unexamined so that was like the peak into it maybe 10 years ago now like i said um but i love.”
+- [00:14:25] John: “Know forward in consciousness or evolution or some sort of jump.”
+- [00:24:54] John: “The enormous amount of investment and time and love it takes to teach language.”
+- [00:33:23] John: “No one can live without a purpose without a sense of purpose you will die you will kill yourself if you don't.”
+- [00:33:23] John: “If you don't have a sense of purpose people don't think about it very much.”
+- [00:42:40] John: “It's gonna break you so there's no um breaking the laws of nature And in the middle it's funny like we live.”
+- [00:42:40] John: “Was thinking about like the laws of nature and i don't like the word law.”
+- [00:52:28] John: “It's kind of morbid to realize that Life is really short and there just isn't enough time.”
 
 ## Chapter-style timestamps
 

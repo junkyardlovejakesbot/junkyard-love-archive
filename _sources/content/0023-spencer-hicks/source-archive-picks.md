@@ -4,18 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:02:00] Spencer: “compassionate empathy and cognitive empathy is how I feel is when you view you can feel other people and see their perspective but you don't actually feel anything”
-- [00:16:33] Spencer: “flipping the words parasympathetic state but when a weight's person thetic fight-or-flight person that ik is eating sleeping meditating okay deep breath sympathetic is a fight-or-flight nerves”
-- [00:49:36] Spencer: “combat this meditation breathwork eating”
-- [00:47:12] Spencer: “when they do a lot of breath work and learn how to breathe correctly the diaphragm they stop having knots like all the regions in their back they”
-- [00:59:19] Spencer: “Cold shower for two minutes and then do breath work because those two things they stimulate adrenaline and norepinephrine Act that's the same thing they wake you up”
-- [00:56:05] Spencer: “sleep a lot mm-hmm no caffeine past noon or at least eight hours before you go to bed this is something I always take a pin in because”
-- [01:17:37] Spencer: “that I did I did the sensory deprivation tank will end here because we got to get going here but when it comes to neck I actually had”
-- [00:46:56] Spencer: “part of it when your cortisol is high you have a higher insulin Center”
-- [00:27:31] Jacob: “world to be kind of awkward for a second and then just like maybe you're gonna stumble over like hey Cynthia that's your name right like what and”
-- [00:00:06] Jacob: “gonna recommend is Breathe to Heal by Max Strom it's 18 minutes and 33 seconds it's on YouTube and it's fantastic enjoy the episode wieners does this sound”
-- [01:03:16] Jacob: “breathe for a while like drink some water enjoy yourself just enjoy doing nothing maybe reflect a little you're gonna sleep a lot better yeah I mean it”
-- [00:08:15] Jacob: “Spencer welcome to the Junkyard Love Podcast that's the cool thing when I lose a train of thought when is your podcast you can make well when you're”
+- [00:02:00] Spencer: “Cognitive emotional and compassionate empathy and cognitive empathy is how I feel is when you view you can feel other people.”
+- [00:16:33] Spencer: “Ik is eating sleeping meditating okay deep breath sympathetic is a fight-or-flight nerves.”
+- [00:47:12] Spencer: “I've actually seen people when they do a lot of breath work and learn how to breathe correctly the diaphragm they stop having knots.”
+- [00:49:36] Spencer: “Chemical so how do we combat this meditation breathwork eating.”
+- [00:56:05] Spencer: “I always take a pin in because there was another thing that I was I wasn't honest with myself about is the caffeine thing.”
+- [00:59:19] Spencer: “Cold shower for two minutes and then do breath work because those two things they stimulate adrenaline and norepinephrine Act that's the same thing.”
+- [01:17:37] Spencer: “I did the sensory deprivation tank will end here because we got to get going here but when it comes to neck I actually.”
+- [01:17:37] Spencer: “Do want to end on because I did I tell you that I did the deprivation tank.”
 
 ## Chapter-style timestamps
 

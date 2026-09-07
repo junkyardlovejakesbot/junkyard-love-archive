@@ -4,14 +4,14 @@ Extracted from the YouTube auto-caption transcript and published links already o
 
 ## Memorable quotes
 
-- [00:02:39] Jordenelle: “I feel like for us we are those dandelions that you see in between those”
-- [00:05:02] Jordenelle: “my job how I get paid is to be of service but I also choose to be of service with every interaction I have”
-- [00:11:12] Jordenelle: “being of service like to sum it up is really serving the Consciousness to elevate the vibrational frequency of every single thing I come in contact with”
-- [00:23:52] Jordenelle: “Ayahuasca I saw all my DNA like a freaking movie and she's like cut cut this out cut that out cut this out”
-- [00:33:56] Jordenelle: “I'm here to speak to people to awaken DNA and to bring awareness of who you really are at the core”
-- [00:40:27] Jordenelle: “I said remember when I was in your belly and she's like no you're in your mom's belly and I'm like yeah before that”
-- [00:46:45] Jordenelle: “Ayahuasca is considered to be grandma of the planet Grandma Spirit”
-- [01:04:28] Jordenelle: “I just felt free I felt like okay to just be a soul without all attachments of the matrixly world”
+- [00:05:02] Jordenelle: “I get paid is to be of service but I also choose to be of service with every interaction I have like I literally.”
+- [00:05:02] Jordenelle: “Consciousness of Oneness which I am I realize everyone I'm seeing is myself so what does myself have to teach myself.”
+- [00:11:12] Jordenelle: “Sum it up is really serving the Consciousness to elevate the vibrational frequency of every single thing I come in contact.”
+- [00:11:12] Jordenelle: “I come in contact with if that's planting a seed in the garden it's not always with physical people that I'm being of service.”
+- [00:33:56] Jordenelle: “I'm here to speak to people to awaken DNA and to bring awareness of who you really are at the core everyone.”
+- [00:33:56] Jordenelle: “Dream like it just started to happen so after the DNA thing and all that sort of stuff happening I started to remember past.”
+- [01:04:28] Jordenelle: “I just felt free I felt like okay to just be a soul without all attachments of the matrixly world.”
+- [01:04:28] Jordenelle: “I don't know why so Anaconda is the spirit of Ayahuasca so you guys.”
 
 ## Chapter-style timestamps
 

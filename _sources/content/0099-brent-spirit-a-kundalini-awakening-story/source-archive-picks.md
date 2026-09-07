@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Memorable quotes
 
-- [00:02:48] Brent: “I go by Brent spirits of course that's uh an alias my first name is Brent uh Spirit came about uh just with the it was just a branding issue … I like to say that I'm a spiritual teacher over the past uh 15 years or so I've undergone a pretty intense Spiritual Awakening Journey … suddenly I found myself playing the role of spiritual teacher”
-- [00:09:45] Brent: “I found that instead of being able to now dissociate that was like stuck in my body like suffocating in this body in the mind I couldn't find any reprieve … that meditative State I had as a child even the ability to kind of dissociate was completely unavailable to me”
-- [00:12:12] Brent: “I sat down in meditation and suddenly like it instantly my neck began to Arch and my chin became to my chest and then it started to go backwards … this is really strange it's happening spontaneously I can't stop it”
-- [00:22:58] Brent: “part of my work here is to dispel the notion that Kundalini Awakening must require a huge energetic rising of the spine for many it happens in more subtle gradual ways … many people are going through Kundalini Awakening they don't even know it”
-- [00:25:46] Brent: “a thought would arise and that thought would pass away back into the void … there's no Center there that I could say okay yeah this is me this is I this is Brent this is the ego”
-- [00:28:53] Brent: “I did eventually come across a a text that describe depersonalization uh also called DPDR depersonalization derealization and Zen sickness or emptiness sickness … I thought oh this is actually what I'm experiencing Zen sickness something is not complete here”
-- [00:51:01] Brent: “I considered this to be the practice of self-love unconditional self-love so it was like I was loving myself as if I was my own child coming to me and crying”
-- [01:06:49] Brent: “suddenly I feel my spine Arch and it was like this explosion of energy from the base of my spine up my spinal column in two huge jolts … I can only describe it as a freight train moving at light speed squeezing itself through the shaft in my spinal column all the way up to the top of my head exploding out of my head”
-- [01:42:53] Brent: “if somebody approaches you and says hey in that meditation I had a huge explosion of energy from my spine … somebody can say like how my friend said to me that sounds like Kundalini just hearing the word then they can go off and Google and they'll be okay”
-- [01:54:47] Brent: “one step at a time … nothing lasts good or bad one step at a time be fully present with whatever's whatever's there … no Finish Line not in my view we keep going … the real deal spiritual path with an open heart Does not push anything away nothing at all it's all welcome here”
+- [00:09:45] Brent: “I have to just continue this practice of being a witness of observing and taking space and so I began to find.”
+- [00:12:12] Brent: “I sat down in meditation and suddenly like it instantly my neck began to Arch and my chin became to my chest.”
+- [00:25:46] Brent: “I could say okay yeah this is me this is I this is Brent this is the ego.”
+- [00:28:53] Brent: “Has become a dream and I thought oh this is actually what I'm experiencing Zen.”
+- [00:51:01] Brent: “This to be the practice of self-love unconditional self-love so it was like I was loving myself.”
+- [00:51:01] Brent: “I gave myself permission to feel more and more and I considered this to be the practice.”
+- [01:42:53] Brent: “Approaches you and says hey in that meditation I had a huge explosion of energy from my spine in my head.”
+- [01:42:53] Brent: “I can't stop vibrating after that meditation what's going on and somebody can say like how my friend.”
 
 ## Chapter-style timestamps
 

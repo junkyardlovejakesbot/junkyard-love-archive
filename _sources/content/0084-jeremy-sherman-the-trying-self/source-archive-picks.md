@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:01:24] Jeremy: “strange you could say Hairpin curves in life that are interesting to me um because we don't normally think of lives as doing that there's even the extreme”
-- [00:01:24] Jeremy: “Alternating between midlife crises and second childhoods It's not exactly true but it but there's something to it anyway i like that kind of self-effacing i like that”
-- [00:07:19] Jeremy: “Struggle for existence is something that darwin assumed he declared that he had no explanation for it he assumed the Struggle for existence And then explained how that”
-- [00:05:39] Jeremy: “mirrors just how did What is trying and how did it start and actually that's the reverse of the question how it started will give you a better”
-- [00:27:26] Jeremy: “of aristotle or The pet rock um people of the 1960s jeffrey hear about the Pet rock fad yeah There's a while when you go out it was”
-- [00:31:26] Jeremy: “thoughts So that's confirmation bias is basically what it is that is we're especially anxious and we have good ways”
-- [00:38:31] Jeremy: “know do you have an authentic self and my answer is no i don't um that is I'm more molten than that uh um and i can actually”
-- [00:51:13] Jeremy: “describe this way is Virtual virtue a virtue or a vice It's virtual virtue so me posing as though i'm virtuous or a stud in bed or i”
-- [01:18:05] Jeremy: “it's the oxymoron not serious play there's a play within constraints yeah um uh because a whole lot i mean i'll talk to philosophers who will tell me”
-- [00:00:27] Jacob: “Uh well so i'm uh I've been a dj an Audio engineer for the last ten years and the lockdowns in the pandemic situation kind of took away”
+- [00:01:24] Jeremy: “The hairpin ones are really interesting to me yeah how that happens yeah and then because at the moment it seems catastrophic.”
+- [00:07:19] Jeremy: “We have to struggle for our existence because um things fall apart it's the second.”
+- [00:27:26] Jeremy: “Did it start because it wasn't there before the before now.”
+- [00:27:26] Jeremy: “Want um uh So i love that stuff but as escapism I don't.”
+- [00:31:26] Jeremy: “We are also an extremely evasive organism because language also gives us a way to rationalize dismissing anxious thoughts So that's.”
+- [00:51:13] Jeremy: “It's virtual virtue so me posing as though i'm virtuous or a stud in bed or i think.”
+- [01:17:30] Jeremy: “The only things that can because we have language we can really take notes on the whole.”
+- [01:18:05] Jeremy: “It's all i love poetry i write dog earl every day.”
 
 ## Chapter-style timestamps
 

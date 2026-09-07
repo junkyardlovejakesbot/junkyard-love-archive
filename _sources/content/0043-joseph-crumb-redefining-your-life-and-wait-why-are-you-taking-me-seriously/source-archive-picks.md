@@ -4,18 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:00:16] Joseph: “I start how does my moustache look It's pretty good it's solid really it's like you're not trying like it's just a natural I'm trying really hard but”
-- [00:01:36] Joseph: “This cancel culture oh all right so my god give them some **** to cancel um Joe”
-- [00:04:44] Jacob: “speech that we have is JK and if you take JK away what can you say there's”
-- [00:07:49] Joseph: “head I'm like okay jesters like that's what that's what they were before right like okay you but it seems like in movies and I don't know a”
-- [00:16:41] Joseph: “pre-internet brain this whole FOMO this anxiety that I have this where's my phone when I leave a place when I go a place when I go to”
-- [00:32:58] Joseph: “Carrey quote it's your avatar telling you that you're not in the correct spot you just landed here you're not guy who works at the mill that's not”
-- [00:54:32] Joseph: “our band is called Stay In Prison our first project is gonna be called is called four loko green-apple strong cider honey is it four loko **** it's”
-- [00:57:36] Joseph: “get out there and do open mics dude right open mics are a super super important thing we're talking about that we'll just flip the script on that”
-- [00:39:12] Joseph: “hallucinogens without psilocybin and without dimethyltryptamine I would not be me you need can you tell me why when I was about 15 just to give you”
-- [00:38:17] Joseph: “for me I got offered DMT last night but I was in the world I was scared I was scared I was in the woods you would have”
-- [01:12:00] Joseph: “a certain level of comedic genius I know that sounds crazy guys but that's what we're talking about is people are scared to say these things about themselves”
-- [01:42:36] Jacob: “all right listen here drink some **** water man love you”
+- [00:04:44] Jacob: “If we take away 'jk', what can we say?”
+- [00:15:44] Joseph: “It takes a lot to take a step back and look at it through a lens of - what the fuck?”
+- [00:16:41] Joseph: “I miss my pre-internet brain this whole FOMO this anxiety that I have this where's my phone when I leave a place.”
+- [00:16:41] Joseph: “This artist that I really love this tattoo artist did this on somebody I miss my pre-internet brain this whole.”
+- [00:32:58] Joseph: “Your life you're just scared because people landed you in a place or you landed.”
+- [00:38:17] Joseph: “I had done three triple stacks of ecstasy we're at a rave in Seattle I was **** up beyond belief.”
+- [00:57:36] Joseph: “Out there in the scene because if I didn't do that I wouldn't be in a band right now.”
+- [00:57:36] Joseph: “I'd love to talk about the ridiculousness of Henry I don't think people realize they have a job and they often time.”
 
 ## Chapter-style timestamps
 

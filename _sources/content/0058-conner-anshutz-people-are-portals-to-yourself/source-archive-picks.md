@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:39:19] Conner: “you know yeah You should always challenge yourself in any aspect of life uh you should never settle you should always like pursue the Next thing uh never stop learning”
-- [01:19:28] Conner: “energy 100% I hate people who are dream Breakers and stuff like they're just trash to me like if somebody has a dream No matter how ridiculous it is pursue”
-- [01:29:16] Conner: “That sense that I want to share your happiness I want I want to do something with you that makes you happy as an individual whether it's a guy or”
-- [00:48:44] Conner: “That misery loves company is a really Popular saying and it's true it's completely 100% true misery does love company when you're when you're miserable you like to be around”
-- [00:05:25] Jacob: “to like what if you have the Neuralink um chip you're going to be able to like rewire neural connections and like so if you have like injuries like you”
-- [00:12:40] Jacob: “The next conscious then it's Skynet time Baby all right wait what's Skynet I'm I'm spacing on Skynet Terminator oh yeah okay right I Just actually so I hadn't ever”
-- [01:21:31] Conner: “the hardest lines I've read was people change Conner you need to you need to accept that fact and I'm like oh **** this camer just laid it on thick”
-- [01:22:29] Jacob: “yeah you can like I said you can cherish the small moments and like it's you don't have to have Like a full like 3-day hang out to”
-- [01:57:50] Jacob: “Yeah stepping stone for what you can do And so there's always that little uh little evil in the back of the head like oh what's up with”
-- [02:13:17] Jacob: “Yeah thank you bro All right Listeners take care of yourself hit up Conner if you need a friend and drink some **** water”
+- [00:39:19] Conner: “You should always challenge yourself in any aspect of life. You should never settle. You should always pursue the next thing. Never stop learning never stop growing.”
+- [01:19:28] Conner: “I love seeing that energy, 100%. I hate dream breakers. They're just trash to me. If someone has a dream, no matter how ridiculous it is, pursue it. I'm all for it. No matter how ridiculous it is. Don't let anybody stop you from doing something you love or that you want to pursue as an individual.”
+- [01:21:31] Conner: “I've read was people change Conner you need to you need to accept that fact and I'm like oh **** this camer just laid.”
+- [01:22:29] Jacob: “Time can be relative. You can cherish the small moments. You don't have to have a full 3-day hangout just to connect with someone.”
+- [01:27:06] Conner: “I'm always stoked to hear about anyone I ever met to be doing good in their life.”
+- [01:27:48] Jacob: “Don't brag about putting other people down, brag about building yourself up.”
+- [01:46:34] Conner: “We're all just people tryin to get by.”
+- [01:57:50] Jacob: “Any river can be rebridged. The bridge can be rebuilt. Things happen, we're human.”
 
 ## Chapter-style timestamps
 

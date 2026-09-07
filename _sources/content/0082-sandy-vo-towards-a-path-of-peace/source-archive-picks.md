@@ -2,16 +2,15 @@
 Extracted from the YouTube auto-caption transcript and published About/quotes/links already on this episode. Labeled separately from Jacob’s published About / Chapters / Quotes / Hashtags.
 
 ## Memorable quotes
-- [00:12:32] Sandy: “Statement and then you maybe explain how yours was yeah A spiritual awakening is waking up To your spiritual nature uh we are Humans we're having a human”
-- [00:23:45] Sandy: “To a new extreme so i competed in bodybuilding i started an online wellness business at That time um i also was struggling three different jobs at that”
-- [00:24:52] Sandy: “We i think sometimes in the mainstream self-help culture we talk about um the Ego as if it's a really bad thing but the truth is we actually”
-- [00:35:00] Sandy: “The interactions that and i'm not trying that's the thing is when you're just present and you're yourself you Don't have to try you don't have to try”
-- [00:35:58] Sandy: “Absorbing from the media right so whether it's politics like if you're a republican or i'm democratic or vice Versa or if you got vaccinated or i didn't”
-- [00:56:57] Sandy: “Or even just being honest with people i think that when we set boundaries we're giving ourselves and that person an opportunity to be honest to say hey”
-- [00:59:18] Sandy: “Order for us to be instruments of love we have to be able to view the world through that perspective no matter how much we disagree with the”
-- [00:50:36] Sandy: “Yeah i think it's about learning how do you navigate because whether we like it Or not these technologies are going To be here and they're going to”
-- [00:04:57] Jacob: “Living from that like center being within ourselves so you can spark something within other people it ushers that epiphany in within other people and then they're given”
-- [00:45:39] Sandy: “The asana practices and things like that you learn in a regular yoga class I like qigong and i do I do movements where it's I'm twisting the”
+
+- [00:12:32] Sandy: “We are spirits having a human experience.”
+- [00:12:32] Sandy: “A Spiritual Awakening is waking up to your spiritual nature.”
+- [00:13:27] Sandy: “You are here to learn and practice how to be human.”
+- [00:23:45] Sandy: “Pressure might work to create diamonds, but constant applied pressure on a human being is going to completely burn that human out.”
+- [00:24:52] Sandy: “When you don't know how to befriend the ego, or you don't know how to offer it the types of internal technologies that it needs in order to thrive, that's when the ego starts believing more information from the unconscious part of the mind, versus the conscious or superconscious part of the mind.”
+- [00:35:00] Sandy: “Don't judge yourself for judging, because that's what the mind does. Just be aware of it.”
+- [00:50:36] Sandy: “It's about learning how do you navigate because whether we like it Or not these technologies are going To be here.”
+- [00:56:57] Sandy: “Most people that cross your boundaries don't know that they're actually crossing them.”
 
 ## Chapter-style timestamps
 - [00:00:00](#t-00-00-00) — Bumper — knowledge is power

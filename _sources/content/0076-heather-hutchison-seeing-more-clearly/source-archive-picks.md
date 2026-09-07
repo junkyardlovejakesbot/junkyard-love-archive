@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About/links alr
 
 ## Memorable quotes
 
-- [00:00:00] Heather: “I think we need to work more preventatively because i think we're so i mean in health care in general but i think especially in mental health care”
-- [00:02:06] Heather: “background Yeah so I'm a singer-songwriter originally i have three albums out And my memoir as you were saying just came out in june and it basically chronicles”
-- [00:20:40] Heather: “going through yeah Meditation is a big one i think the Biggest thing that helps me personally Is to everyday remind myself What my purpose is because i”
-- [00:20:40] Heather: “personally Is to everyday remind myself What my purpose is because i think when we don't have purpose is really when we get lost so if i can”
-- [00:38:38] Heather: “I think all you can do is the best that you can”
-- [00:31:05] Heather: “some people have that once the pandemic's over you know people who started struggling during the pandemic or people who got much sicker as i did we'll just”
-- [00:05:00] Heather: “and Having you know anxiety attacks and uh”
-- [00:01:08] Jacob: “Ladies and gentlemen Welcome to the Junkyard Love Podcast I'm here with Heather Hutchison um heather i have spent last night and This morning uh reading your book”
-- [00:38:31] Jacob: “have any um How do you How do you hold on through the dark moments that's that's my question how do you how do you kind of like”
-- [00:42:22] Jacob: “whatever so for me um physical activity Definitely helps me if i notice that i'm kind of caught in some loops if i'm kind of being you know”
+- [00:02:06] Heather: “I'm a singer-songwriter originally i have three albums out And my memoir as you were saying just came out in june and it basically.”
+- [00:20:40] Heather: “Everyday remind myself What my purpose is because i think when we don't have purpose is really when we get lost.”
+- [00:20:40] Heather: “Meditation is a big one i think the Biggest thing that helps me personally Is to everyday remind.”
+- [00:20:40] Heather: “Can do one thing every day that makes me feel like i have purpose.”
+- [00:20:40] Heather: “I have purpose that i'm doing some good in the world that i need.”
+- [00:31:05] Heather: “Good that you were hospitalized because now you will be shortlisted you'll like you'll be if you need psych.”
+- [00:31:05] Heather: “I think we need to work more preventatively because i think we're.”
+- [00:42:05] Heather: “A good example because the spiraling is certainly something that happens.”
 
 ## Chapter-style timestamps
 

@@ -4,18 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:25:01] Ricky: “Yeah so i went from a 600 pound squat to 705 in the past three years um competing because i've been competing”
-- [00:25:01] Ricky: “600 pound squat to 705 in the past three years um competing because i've been competing”
-- [00:22:21] Ricky: “more like started my powerlifting yeah but you kept lifting through that because i know that we worked out a few times together i mean quite a few”
-- [00:04:02] Ricky: “like i have days of notes that whole over there that corner is just like stacks and stacks of paper i just because i do a lot of”
-- [00:36:34] Ricky: “take caffeine we take ammonia we hit they've got these moaning capsules you know ones for um to wake you up from like a first aid you can”
-- [00:36:34] Ricky: “of them don't take caffeine we take ammonia we hit they've got these moaning capsules you know ones for um to wake you up from like a first”
-- [01:19:52] Ricky: “foursquare box and it's a junction box and you're working on wires and whatnot you actually hit the hot wire against the four square i've done it a”
-- [00:25:49] Ricky: “then we went on to Oregon State championships washington state championships and that's all uh USPA in uh”
-- [00:19:21] Jacob: “Somebody to help mentor and trying to get into place but there's a lot of like fake people out there like with their fake like their fat diets”
-- [01:33:12] Jacob: “microwaves i mean food cold i mean rice and barbecue sauce and hamburger and vegetables cold like it's just there's no microwave i haven't had a microwave in”
-- [01:57:30] Jacob: “yeah and uh yeah just don't stay staggered guys yeah don't stay sad um Ricky it's been a pleasure my man i really appreciate you coming on the”
-- [01:34:49] Ricky: “pump like i'd take pre-workout i'd go in and like i want to just i want to look big and i want to look tough out when i”
+- [00:04:02] Ricky: “Write that down and so because it actually interested me and it'll help me have one like almost anchor.”
+- [00:04:02] Ricky: “I take notes because it's not so much that i'm gonna look at it later.”
+- [00:22:21] Ricky: “You kept lifting through that because i know that we worked out a few times.”
+- [00:22:21] Ricky: “Definitely like i was always because when i was in high school so in 10th.”
+- [00:25:01] Ricky: “In the past three years um competing because i've been competing.”
+- [00:25:15] Ricky: “Through the process because there isn't it's not just about the training it's about the nutrition definitely.”
+- [00:32:31] Ricky: “Usually the bars are all the way down yeah they just forget because like everyone's in the moment.”
+- [00:38:55] Ricky: “I was you're because you were oh electrician's stuff too yeah that was the second.”
 
 ## Chapter-style timestamps
 

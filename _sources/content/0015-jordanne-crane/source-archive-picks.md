@@ -4,18 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:17:25] Jordanne: “This around like a rock bottom for you would think it would be right so okay I am I'm going to the hospital at this point like once”
-- [00:00:56] Jordanne: “mentioned the word C-Diff and it's funny because I was like oh yeah it's just a little joke between shading knife because she's a nurse and so I”
-- [00:27:32] Jordanne: “straight to a motel Motel 6 is kind of where I go and you can always find easy people out of Motel 6 and I don't go there”
-- [00:05:08] Jordanne: “me antibiotics with Penicillin in them and I said I'm allergic to Penicillin they're like it only affects one in like a hundred people I'm like I'm always”
-- [00:08:09] Jordanne: “point and I went into rehab so yeah okay and”
-- [00:04:14] Jordanne: “so people go to the hospital and”
-- [00:13:43] Jordanne: “they didn't need to be sober to live there so when I got there I knew she had smoked a bit but when I got to the apartment”
-- [00:31:03] Jordanne: “Homeless man's tent and I think you can”
-- [00:54:53] Jordanne: “of the situation so religion when it comes to like spirituality religion everyone's so uncomfortable about it like I have a friend who he's like a wonderful human”
-- [00:56:22] Jordanne: “right and just about healing and things like that and so she comes and she prays for me a week later she texts me and says I've been”
-- [00:14:52] Jordanne: “Any sexual form was rape and I was 15 and so it was just nuts like I got through it and then I was raped again in college”
-- [00:16:14] Jacob: “Suggested this sex-trafficking form of work and I was like I don't know but coming from my standpoint not feeling like a human sex is something to be”
+- [00:08:09] Jordanne: “Happy and so I just kind of kept drinking I tried a relationship for a minute.”
+- [00:08:09] Jordanne: “I had my parents that actually sat me down and said listen this is not okay right about the drinking.”
+- [00:15:49] Jordanne: “Huge vulnerability yes right and at this point I was only working I wasn't really seeing my family.”
+- [00:17:25] Jordanne: “I do because you can't just disappear so and even if you're in the hospital it's not safe right so and I my parents.”
+- [00:27:32] Jordanne: “I went straight to a motel Motel 6 is kind of where I go and you can always find easy people out of Motel.”
+- [00:31:10] Jordanne: “I had nowhere else to go I literally stayed with him until the morning because what if I left and something else.”
+- [00:54:53] Jordanne: “I have a friend who he's like a wonderful human being like I love.”
+- [00:56:22] Jordanne: “Stuff right and just about healing and things like that and so she comes and she prays.”
 
 ## Chapter-style timestamps
 

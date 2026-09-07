@@ -4,17 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:10:58] Bob: “2010 and I worked at PacSun was my first job when it was the day I turn 16 and then I'd worked there for tax on first well”
-- [00:30:39] Bob: “went to Vegas to the trade shows it was like game over the first trade show I ever went to was in Hood River and I remember they”
-- [00:56:07] Bob: “you're working in the customer service a lot of times we get caught up in these like hello how are you today have a good day and that”
-- [00:03:19] Bob: “a nice thing of a smaller business yeah I was able to wear many hats learn many things how many stores did it was fuel munition they changed”
-- [00:36:08] Bob: “pitch this brand to Amazon and Jimmy's tomorrow”
-- [00:10:20] Bob: “and then I hit the sales floor cuz I knew that was where I could where I could actually continue to grow and I became the top selling”
-- [00:23:20] Bob: “saying that I'm not competitive because I never played organized sports I wasn't ever like sports like it was skateboarding like I don't care what you're doing I”
-- [00:03:52] Jacob: “that was always my passion and”
-- [00:34:56] Jacob: “sure and Instagram influencer could come on tomorrow and set a trend I mean it's so much different than like them looking out for so long and I”
-- [00:18:16] Bob: “pull out of it working retail was”
-- [00:56:34] Jacob: “like where can we as listeners and individuals on both sides of this cash register often do this where can we insert these hey man I know that”
+- [00:03:19] Bob: “I it was like a nice thing of a smaller business yeah I was able to wear many hats learn many things how many.”
+- [00:10:20] Bob: “I hit the sales floor cuz I knew that was where I could where I could actually continue to grow.”
+- [00:10:20] Bob: “I could where I could actually continue to grow and I became the top selling salesperson.”
+- [00:23:20] Bob: “I was catching myself saying that I'm not competitive because I never played organized sports I wasn't ever like sports like it was skateboarding.”
+- [00:23:20] Bob: “I don't care what you're doing I just want to do the nicest kickflip everyone listen.”
+- [00:30:39] Bob: “I was gonna talk you smoothies in front of them yeah like and because I knew.”
+- [00:35:18] Bob: “I don't think it's that way anymore because now someone can mass be like hey check out these kicks on Instagram and it gets.”
+- [00:36:08] Bob: “I need you to go pitch this brand to Amazon and Jimmy's.”
 
 ## Chapter-style timestamps
 

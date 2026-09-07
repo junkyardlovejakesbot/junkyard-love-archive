@@ -4,18 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:01:02] Jacob: “recommendation which is Closer to Truth on YouTube it's just a YouTube channel Closer to Truth Lawrence Krauss is a guy's name he just kind of so he”
-- [00:04:36] Jacob: “well obviously while quarantine is going on and I could imagine like some”
-- [00:16:09] Brandon: “Somebody who's a leader we need people”
-- [00:15:20] Jacob: “Have a WWE **** sideshow going on for our political **** no I'm not trying to dive in a political stuff it's just like I don't know I”
-- [00:35:21] Brandon: “essentially he announced Neuralink which is a microchip in your brain and well not exactly a microchip in your brain but essentially this it's within the next year”
-- [00:42:42] Brandon: “our consciousness is Stoned Ape Theory yeah yeah I love it I think that's kind of where I'm at right now but um so anyway so at one”
-- [00:43:16] Brandon: “community like advance the evolution of consciousness really so you started naming things you picked up a banana Oh banana and that noise you make with your mouth”
-- [00:39:14] Brandon: “Become a superhuman cyborg decide early”
-- [01:02:33] Jacob: “has taken mushrooms DMT or”
-- [00:01:12] Brandon: “attend like all these consciousness conferences and super fascinating great”
-- [02:11:49] Jacob: “second just after you get present of course like share subscribe send to a friend if you did like it send a clip”
-- [01:59:01] Jacob: “Christians listeners is I'm just using as a super broad example I'm nothing like just trying to describe people I'm generalizing and I'm so aware of that be”
+- [00:04:22] Brandon: “I had the funniest breath I had the funniest idea.”
+- [00:15:51] Brandon: “A podium not to lie to them because nowadays we're **** smart you can't just be like everything's gonna be fine.”
+- [00:23:14] Brandon: “Really reality is like being ignored and we're just listening to the words so like what needs to happen in those situations.”
+- [00:24:27] Brandon: “The presidency is not now something that one person should be tasked with responsibility.”
+- [00:42:42] Brandon: “I think we started technically eating mushrooms and it changed our consciousness is Stoned Ape Theory yeah yeah I love it I think that's.”
+- [00:42:42] Brandon: “I love it I think that's kind of where I'm at right now but um so anyway so at one point when we start.”
+- [00:43:16] Brandon: “Make a community like advance the evolution of consciousness really so you started naming.”
+- [01:02:54] Brandon: “Playlist it's which you should because you would just be like whoa I mean I'm.”
 
 ## Chapter-style timestamps
 

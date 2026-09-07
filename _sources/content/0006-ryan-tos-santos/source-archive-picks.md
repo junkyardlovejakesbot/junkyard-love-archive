@@ -4,17 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [01:42:43] Ryan: “like positive happy always smiling people like at your wedding I've never seen so many teeth in my life like you and your wife are just in your”
-- [00:01:32] Jacob: “worked together at a tuxedo rental place back when I was in high school he's a few years ahead of me but I was in high school work”
-- [00:18:21] Ryan: “the Mount bring named graveyard up there yeah top yeah I go there probably once a week like the meditate up top there mmm but it's cool going”
-- [00:48:17] Ryan: “Had SSRIs inhibitors mm-hmm which what I mean you could look it up but it's it's depression medication essentially it's so hard to describe how”
-- [00:49:28] Jacob: “like so they say like suicidal thoughts get very prevalent like that's how I was like okay this is this is where that sparks want it's like not”
-- [00:36:33] Jacob: “and DMA Mali ecstasy MDMA Mali next see those are all when I say those three things let's say they're interchangeable they're the same thing so a lot”
-- [00:36:30] Ryan: “Like PTSD depression like with like”
-- [00:10:38] Jacob: “When I smoked weed in the bathroom we did that no I did that too we would but that was after hours I did during the day during”
-- [01:55:01] Ryan: “me I only get this one life to live why do I don't want to be or why do I want to be an **** well I don't”
-- [00:45:23] Jacob: “would like if your sister was depressed you'd be like hey like you try it so how do we correlate Ryan I guess I'm asking you like how”
-- [00:00:04] Jacob: “right Junkyard Love Podcast my brother yeah the Junkyard Love Podcast that's crazy I thought that I was gonna have some crazy cool like just artistic name like”
+- [00:10:07] Ryan: “Is if you're listening right now that's you can quote me on that it says.”
+- [00:18:21] Ryan: “I go there probably once a week like the meditate up top there mmm but it's cool going there like because sometimes.”
+- [00:18:21] Ryan: “Mmm but it's cool going there like because sometimes I'll remember that random memory of that night.”
+- [00:18:21] Ryan: “I go this is Mike one of my favorite meditation city lookout spots I go here like once a week.”
+- [00:36:48] Ryan: “PTSD people with depression people who are lonely if you're listening to this and you've.”
+- [00:36:48] Ryan: “Lonely if you're listening to this and you've never tried any sort of like we're.”
+- [00:48:17] Ryan: “Could look it up but it's it's depression medication essentially it's so hard to describe.”
+- [00:48:17] Ryan: “Had SSRIs inhibitors mm-hmm which what I mean you could look it up but it's it's depression medication.”
 
 ## Chapter-style timestamps
 

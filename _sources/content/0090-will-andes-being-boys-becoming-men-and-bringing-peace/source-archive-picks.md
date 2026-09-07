@@ -4,14 +4,14 @@ Extracted from the YouTube auto-caption transcript and published notes already o
 
 ## Memorable quotes
 
-- [00:11:05] Will: “live more in the moment on a daily basis which I think has been huge for my Evolution and growth you know over the last few years”
-- [00:32:57] Will: “my life's no longer mine like I live my life I still have me and I still want to do things but like There's a greater good that like Crystal and I”
-- [01:12:21] Will: “she doesn't sugarcoat **** like she gives it to me um but actually my boss at work right now is like one of those people where like I am in awe of”
-- [01:43:53] Will: “I'm a Salesman you know like a killer yeah but”
-- [02:48:19] Will: “Bennett Renee Andes so her initials are bra which like is nothing but like naming a human is so like oh you probably think about that right yes but”
-- [00:13:15] Will: “east coast of like you know it's never good enough more and more and more whereas the West goes by you know spending time in California whether it's”
-- [00:54:06] Will: “divine feminine came out and I fell in love with that album and I had always been a fan of Mac a little bit but it was like me being an idiot from”
-- [01:56:59] Will: “Allotment in Las Vegas right so what we're gonna so what we're gonna do is like we're gonna fly out on like a Wednesday Thursday um we're gonna do”
+- [00:11:05] Will: “I think has been huge for my Evolution and growth you know over the last few years could you expand.”
+- [00:11:05] Will: “More East Coast mindset and then kind of the different things that you have used.”
+- [00:54:06] Will: “I fell in love with that album and I had always been a fan of Mac a little.”
+- [00:54:06] Will: “I didn't even remember this my brother reminded me of it but anyway so I fell in love with the Divine Feminine.”
+- [00:54:06] Will: “I fell in love with the Divine Feminine and then it was like dude Massachusetts.”
+- [01:12:21] Will: “We fell in love and we get along so I was like she doesn't she doesn't sugarcoat.”
+- [01:12:21] Will: “I think those are those are important people to identify and then and bucket them and then like hold them close because they'll make.”
+- [01:43:53] Will: “A nerve-wracking experience because I'm pretty good on my feet I'm pretty I'm a Salesman.”
 
 ## Chapter-style timestamps
 

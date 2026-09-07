@@ -4,18 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:37:53] Madi: “also have a wonderful Vail Denim coat is it Vail Denim Co company do we say yeah it's junk it's just Vail Denim Vail Denim no you know”
-- [00:38:36] Madi: “ripped jeans I love jump distressed no you know loved distressed jeans I probably wore him everyday you know and I wanted her never bear cuz who doesn't”
-- [00:48:27] Madi: “Upcycled know oh like oh that's super cool denim bastard just whatever like you can express yourself through what you're wearing and it's just a super cool message”
-- [01:12:14] Madi: “to talk to you about Tourette I don't think that I know anybody else with threats but I think that as far”
-- [01:13:36] Madi: “what's called don't like transient tics so no they come and go they know”
-- [01:14:39] Madi: “more than this like ADHD threat”
-- [01:14:53] Madi: “specialized in Tourette OCD ADHD all these like neurological things so she diagnosed me know and then you”
-- [00:20:44] Madi: “just for that not that car club but like local car clubs in general from Portland to Seattle so I did a lot of pictures for like car”
-- [00:34:12] Madi: “on my Facebook know Instagram is just for scrolling no but Facebook like friends yeah”
-- [00:12:08] Jacob: “a lot of like this psychology sociology that kind of stuff like hey yeah I don't after you”
-- [01:22:10] Madi: “angry and really short patience is that a word patience no well I”
-- [00:56:04] Madi: “he has the power to influence many lives and I”
+- [00:20:44] Madi: “I did not like photography for a year just for that not that car club but like local car clubs in general from Portland.”
+- [00:37:53] Madi: “Love Instagram for inspiration so you also have a wonderful.”
+- [00:38:36] Madi: “I had cool ripped jeans I love jump distressed no you know loved distressed jeans I probably wore him everyday.”
+- [00:38:36] Madi: “Until she was almost too but um she don't she I had cool ripped jeans I love jump.”
+- [00:56:04] Madi: “Mean outside of ego like he literally does have like one of the biggest followings.”
+- [01:12:14] Madi: “I would like to talk to you about Tourette I don't think that I know anybody else with threats but I think.”
+- [01:13:36] Madi: “I have what's called don't like transient tics so no they come and go they know.”
+- [01:22:10] Madi: “Angry and really short patience is that a word patience no well.”
 
 ## Chapter-style timestamps
 

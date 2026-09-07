@@ -4,14 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:13:36] Mika: “like this is not a Therapeutic space like brights are the opposite of Therapeutic every Therapeutic space i've ever been to is like it's natural light or it's”
-- [01:03:13] Mika: “fact that you know Masculine is supposed to include Patient supportive uh compassionate like Masculine traits are not always strong Brave sturdy stern Um they are meant to”
-- [00:27:18] Mika: “Life is a video game right it's just the easiest explanation i mean As soon as we had all these crazy off-the-wall events happen in the last two”
-- [00:18:17] Mika: “Personality types within us that we want to interact with we want others to interact with just depending on the setting i think we're kind of sometimes we're”
-- [00:15:31] Mika: “I've definitely been missing walks with you it's not easy to find a walking partner i guess i think what people underestimated is like you really are alone”
-- [00:10:14] Mika: “to decide what like Mental health material is going to be”
-- [01:06:26] Mika: “person who doesn't Feel comfortable crying in therapy which is totally okay like i advocate for people to do that when they're in therapy with me so it”
-- [01:27:58] Mika: “common it wasn't a romantic attraction i at least gave a chance on meeting a new friend um and she said there's a tv show i Leo also”
+- [00:13:36] Mika: “It's a space to come in relax breathe kind of feel like you're in a movie theater when you take that breath.”
+- [00:13:36] Mika: “You take that breath before the movie starts and you're like oh yes i'm about to dive.”
+- [00:13:36] Mika: “More control over because i'm like this will not do like my eyes.”
+- [00:15:31] Mika: “I'm happy to be here it was episode 36 I remember because i have a memory.”
+- [00:15:31] Mika: “I remember because i have a memory for numbers also it was super fun for me so It's one of the things.”
+- [01:03:13] Mika: “I'm open to it now you know because a few years ago i would have i would have read.”
+- [01:27:58] Mika: “Intimately i've already learned that we don't really vibe on a conversational level.”
+- [01:27:58] Mika: “Need to watch it because she's like this already exists but yes i do think people.”
 
 ## Chapter-style timestamps
 

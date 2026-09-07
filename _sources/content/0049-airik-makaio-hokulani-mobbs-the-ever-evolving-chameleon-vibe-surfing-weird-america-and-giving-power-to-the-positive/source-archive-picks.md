@@ -4,17 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:47:38] Makaio: “straight up i said do you feel better now do you feel better and they never have anything to say dude that probably frustrates people yeah choking over”
-- [01:22:49] Makaio: “just chilling like sincerely chilling yeah i'm 100 percent”
-- [00:46:45] Makaio: “giving things power yeah you give things power yeah and so”
-- [00:38:19] Makaio: “Being a counselor yeah someone always needs you oh there you go”
-- [01:54:40] Makaio: “right won't bug you give power to the positive mm-hmm and they're so much more positive especially like when you're like this like the support that i get”
-- [00:06:34] Makaio: “in our brain and we we're chameleons we mold to some no matter we mold to”
-- [00:02:50] Makaio: “know i'm a school high school counselor so um we haven't been allowed in school and um so everything we do is from home in my apartment and”
-- [00:44:45] Makaio: “i mean i dealt with racism Growing up but after a while because back then there was really like four or five of us like that the african-american”
-- [00:24:10] Jacob: “can get rid of the facades and just like talk to your homies something super valuable i think i think the whole grammar thing like interacting like being”
-- [00:01:42] Jacob: “dat water let's go knowledge is power first things first my man cheers i'm running across the table cheers it's good to see you buddy good to see”
-- [01:56:06] Jacob: “appreciate it we'll see you next episode”
+- [00:07:06] Makaio: “Narcissistic person like you're gonna you're gonna mold to whatever environment you're around because you want to blend in that's.”
+- [00:07:06] Makaio: “In that's this is human nature yeah you want to belong yeah you're.”
+- [00:18:23] Makaio: “There's thinking about just the sides of ourselves because there's.”
+- [00:38:19] Makaio: “Being a counselor yeah someone always needs you oh there you go.”
+- [00:38:34] Makaio: “That's you that's pretty real because i feel like i 100 wouldn't have i don't.”
+- [00:44:45] Makaio: “Racism Growing up but after a while because back then there was really like four or five.”
+- [00:44:45] Makaio: “Five of us like that the african-american community has grown a lot now but when i was in elementary.”
+- [00:47:38] Makaio: “Do you feel better? yeah? ok. C'mon.”
 
 ## Chapter-style timestamps
 

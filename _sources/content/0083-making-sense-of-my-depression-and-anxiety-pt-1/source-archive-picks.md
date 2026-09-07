@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About. Labeled 
 
 ## Memorable quotes
 
-- [00:01:42] Jacob: “That depression is not sadness Depression is not really even extreme sadness is like a symptom it's like one of the things that comes with depression But i think um”
-- [00:05:19] Jacob: “walking each other home you know uh life is kind of this uh It's kind of uh this sounds more but it's not supposed to be uh it's kind of”
-- [00:12:42] Jacob: “customer service mask our coffee shop face uh and it's part of being a human it's part of having an ego it's part of uh you know experiencing life and”
-- [00:13:33] Jacob: “what does a relaxed person look like you know maybe you know their face isn't all tensed up their shoulders are down your shoulders are back they're comfortable imagine how”
-- [00:17:45] Jacob: “attach these things to our identity all the time maybe to open up conversations and understand ourselves but i think that you know as we discovered these you know our”
-- [00:16:52] Jacob: “intrusive thoughts i've had i've dealt with a ton of intrusive thoughts and i thought i was the worst person ever and it got i would there was this reaction”
-- [00:38:28] Jacob: “major depressive disorder when i had first gone in i mean it really you fill out you fill out a questionnaire you check some boxes uh you kind of a”
-- [00:48:34] Jacob: “cold turkey quitting my antidepressants this is years and years ago”
-- [00:47:06] Jacob: “Damn You're going to have to help yourself i mean that's like that's what i'm getting at is you have to understand what's going i mean it's kind of like”
-- [01:00:34] Jacob: “let it pass by you know in the meditation we talk about a lot of we talk a lot about um observing and noting okay that's a thought that's a”
+- [00:05:19] Jacob: “Here we just kind of like you grow up and then you start to become.”
+- [00:12:42] Jacob: “A lot of what our ego is and a lot of what our internal dialogue.”
+- [00:13:33] Jacob: “Back up let's not talk anxiety attacks yet i will get to those but let's.”
+- [00:17:45] Jacob: “Attach these things to our identity all the time maybe to open up conversations and understand ourselves.”
+- [00:48:34] Jacob: “Become obsessed with depression and anxiety and talking about it and like that's.”
+- [00:48:34] Jacob: “All this stuff because this one i needed at the beginning.”
+- [01:00:34] Jacob: “Know in the meditation we talk about a lot of we talk a lot about um observing.”
+- [01:00:34] Jacob: “My life to listen to the worst case scenario view of what may happen in the future.”
 
 ## Chapter-style timestamps
 

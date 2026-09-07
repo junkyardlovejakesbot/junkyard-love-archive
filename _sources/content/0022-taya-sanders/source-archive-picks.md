@@ -4,18 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:00:03] Taya: “s of Clover+Tribe”
-- [00:01:53] Taya: “my associates well cheering I cheered in Albany and Tigard”
-- [00:03:00] Taya: “when I was 17 I had a herniated day or two herniated discs and I had one rupture and so I then is where kind of I”
-- [00:07:16] Taya: “actually nine months pregnant and I was walking with my mom”
-- [00:08:28] Taya: “did not know how to sew at all I mean it was like oh yeah I could probably figure it out what experience did you have in like”
-- [00:11:22] Taya: “you just pulled up YouTube or what you start doing YouTube all YouTube mm-hmm what's your sewing machine is it like it's a some crazy fancy one in”
-- [00:06:51] Taya: “years and I worked with at-risk youths in the community all schools in calots County so that was an amazing experience and it kind of it did gear”
-- [00:34:56] Taya: “students that were at risk for”
-- [00:23:28] Taya: “been able to like set boundaries since starting this business it's like once I've never taken a break or anything I've had another baby since then I was”
-- [00:45:36] Taya: “Smarter not harder that's like my thing okay and you know if I have to so one thing I'm like”
-- [01:19:18] Taya: “Mom guilt those crazy like I feel like we're getting better about it like it's getting more like sell for like awareness about like you know”
-- [01:00:01] Jacob: “Inspirational it's not Mike Wazowski yes”
+- [00:06:51] Taya: “I worked for the last four years and I worked with at-risk youths in the community.”
+- [00:06:51] Taya: “I worked with at-risk youths in the community all schools in calots County so that was an amazing.”
+- [00:12:15] Taya: “I don't really know like obviously I'm totally YouTube learned that's right you to YouTube taught so I don't know.”
+- [00:23:28] Taya: “I've never been able to like set boundaries since starting this business it's like once I've never taken a break.”
+- [00:23:28] Taya: “I was sewing well actually I was sewing for him the night before I had him because he didn't have anything we're.”
+- [00:34:56] Taya: “I would work with at-risk youth so students that were at risk.”
+- [00:59:43] Taya: “I'll listen to something because it's like my break away from the kids I get like same thing.”
+- [01:00:05] Taya: “In my we upgraded to monsters University oh that's a great choice too.”
 
 ## Chapter-style timestamps
 

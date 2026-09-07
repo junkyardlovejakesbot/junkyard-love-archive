@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:06:34] Megan: “I'm kind of addicted to coffee but like you know i know that if i wake up i'm used to having a cup of coffee so like you”
-- [00:41:23] Megan: “Growing up in Pittsburgh up in Pennsylvania like that's how our town was it was very like very small everybody knew everybody like everybody sat the same pew”
-- [00:03:31] Megan: “I think i've lost like 40 pounds off of doing that”
-- [00:48:26] Megan: “like right into like cancel culture too because like you know some people's whole entire world is like just uploading content on the internet and then if as”
-- [01:51:18] Megan: “like dare i say it open To synchronicities open to listening to my intuition you know i'm really i really have this like strong um inner in inner”
-- [01:50:29] Megan: “Um i As far as live events i don't Really have much of anything um i've done like a couple of virtual things like for forest ibis and”
-- [00:31:48] Megan: “the dude that's the power Of conversation it's i mean it's literally What we are as humanity like if we didn't have language if we didn't talk through”
-- [01:54:40] Jacob: “media are you using Is social media using you are you arguing with other people are you identifying with things that aren't really you are you really getting”
-- [01:54:40] Jacob: “you are you really getting the most out of your human experience right here because you're love and that's what you should focus on Love yourself peace out”
-- [00:32:46] Megan: “you're a person who has different beliefs in me but i know that but because i know you i know that doesn't mean that you know hate these”
+- [00:05:03] Megan: “Psychological title for it but because i know of people that have had it worse.”
+- [00:06:34] Megan: “Kind of poopy and just because my engine is expecting like okay you're going to give me a burst.”
+- [00:31:48] Megan: “Respect you but i would love to have this conversation and then him to also reciprocate that's.”
+- [00:32:46] Megan: “In me but i know that but because i know you i know that doesn't.”
+- [00:48:26] Megan: “Cancel culture too because like you know some people's whole entire.”
+- [00:48:59] Megan: “One with you because i also think it's kind of crap.”
+- [01:50:29] Megan: “What my career choice is fully going to be right now.”
+- [01:51:18] Megan: “Say it open To synchronicities open to listening to my intuition you know i'm really i really have this like strong.”
 
 ## Chapter-style timestamps
 

@@ -4,18 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:15:23] J: “business we'll like mobile bartending gloves yeah it's pretty cool because it's something like and this is something like Lacey and I want to do together we want”
-- [00:34:22] Mack: “oh yeah we went to Kalama River we jumped off the bridge maybe that was just my friend all right it's interesting to think like if there's people”
-- [00:32:02] Mack: “back around of that bridge story I did okay let's get there it is okay wait this was an actual injury like this was the things I do”
-- [00:35:25] Mack: “off and I was in a pencil dive because everyone's making sure that your feet are crossed so I was like okay and then I jumped off and”
-- [00:21:13] Jacob: “talking about like the feminine energy the feminine energy in the world it seems weird right but uh I feel like the more stuff that I hear and”
-- [00:22:46] J: “always been pretty like strong female yeah I've”
-- [00:35:25] Mack: “do it this is where peer pressure comes in I would never do it now if I didn't want to but I felt absolutely oh yeah that was”
-- [00:45:08] Jacob: “because like yes we're a small town likes like Kelso Longview like cats rocks definitely a small town I'd say but like Kelso in Longview is like a”
-- [02:28:42] Jacob: “listeners a message love yourself love yourself don't drink and drive”
-- [00:00:06] Jacob: “nature that is on the Rupert Sheldrake YouTube channel that came out a week ago I listened to it on my way up to a hike yesterday fricken”
-- [02:20:25] Mack: “Value of like the glass tabletop outside there was like a little bit of green algae on the sides and it's a glass table we've all been on”
-- [02:29:11] Jacob: “message talk to yourself wash your hands love yourself and use hand sanitizer and white give you our teas and what but in sod I know the toilet”
+- [00:14:59] Mack: “My office yeah because it's a business now that's where our is yeah let's talk.”
+- [00:15:23] J: “It's pretty cool because it's something like and this is something like Lacey.”
+- [00:20:41] Mack: “I wouldn't want to learn something new so I think I'm like telling myself do that rather than like straying.”
+- [00:35:25] Mack: “I was in a pencil dive because everyone's making sure that your feet are crossed so I was like okay and then I jumped.”
+- [00:39:31] Mack: “Up my spine and of course they don't know the bridge story and they came in they're like you have had trauma.”
+- [00:40:35] Mack: “I came back to school I was really pissed off because it was my senior year.”
+- [02:20:25] Mack: “Conversations built your relationship right those times that we've had a lot of drunk conversation.”
+- [02:20:49] Mack: “You want to be a growth mindset person yeah the cool part is like all.”
 
 ## Chapter-style timestamps
 

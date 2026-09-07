@@ -4,14 +4,14 @@ Extracted from the YouTube auto-caption transcript and published links already o
 
 ## Memorable quotes
 
-- [00:02:48] Daniel: “the way people converse is Very warlike And if you as a generality it's you know There's exceptions of course right but As a”
-- [00:08:40] Daniel: “Am i enough Followed closely by Are we enough Very big surprise to me in fact you know I have a book coming out”
-- [00:13:21] Daniel: “agreement Is power But can a five-year-old make an agreement with another five-year-old Yeah they just created some power they'd have To take it”
-- [00:15:36] Daniel: “Make power not take power you can use Fire to burn down your house or heat your House you can use a knife to”
-- [00:04:48] Daniel: “make the world work for 100 Of humanity And he chose language really carefully So he added some other words to it like With”
-- [00:52:32] Daniel: “world Game not a world order That we're engaging people to Participate in the only real purpose of”
-- [00:06:16] Daniel: “scarcity is something i Would propose that we Manufacture that's my point of view on The question of is there enough But the deliberation”
-- [00:04:48] Daniel: “is there Enough just three little words And when we throw that stone in the Water into conversation and has other Sort of applications”
+- [00:06:16] Daniel: “This question is there Enough because it's not just 100 of Humanity but sometimes a hundred percent.”
+- [00:06:16] Daniel: “There enough Has generated a responsibility in people That the answer to that question.”
+- [00:08:40] Daniel: “An it's an it's a surprising thing So i have sort of more fun with that Part about it because i know.”
+- [00:13:21] Daniel: “I would love to dive into that yeah what Do you mean what What i actually have i have not done a Lot publicly.”
+- [00:15:54] Daniel: “The pot for people to begin to recognize That they have more power than they Realize.”
+- [00:15:54] Daniel: “Power than they Realize they do they have more ability To get things.”
+- [00:24:46] Daniel: “Even if by the way your story I would call false Based on some other facts like i learned This from jonathan.”
+- [00:53:04] Daniel: “I'd love talking about Marcia in this Conversation but so much uh that I'll emphasize her history a Little further.”
 
 ## Chapter-style timestamps
 

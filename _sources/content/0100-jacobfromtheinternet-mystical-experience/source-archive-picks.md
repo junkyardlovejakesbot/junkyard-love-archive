@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About. Labeled 
 
 ## Memorable quotes
 
-- [00:03:04] Jacob: “Less pushed a bit too hard and had what's called A Spiritual Awakening I will explain I will break all that down in the coming episode but I had these um you know kind of transcendent experiences these mystical spiritual experiences that I didn't really know what I was doing didn't know what I was getting into um and um you know it's massively dest”
-- [00:08:51] Jacob: “Continue my life I think I will see these as definitive moments in my life like these mystical experiences these things that I went through these discoveries that I kind of got a glimpse into about um like I said my reality and who I am”
-- [00:31:31] Jacob: “Um and so the structures that I had created to kind of like you know let's say spiritually bypass from learning from my trauma you know um they did work for me and you know I was successful in certain areas of my life but as I got older you know these things like this pain of this little kid who's still hurting inside me starts beating on the walls”
-- [00:41:40] Jacob: “Inevitably we stumble into meditation right you know like if you're trying to heal if you have anxiety depression like well have you tried meditation and there's these meditation apps and there's all this all this stuff this whole world of self-help”
-- [00:47:14] Jacob: “Mind connected to my heart and I don't know how to explain it like I visualized like this thing this something like dropping down into my heart and then they were suddenly connected and then I felt just like a crazy surge of energy”
-- [00:48:33] Jacob: “Stuck in my body for whatever that means and it was funny because I uh I didn't know what I had done I was like oh I messed up I did something very uh very strange here um I was Googling how to shut my third eye”
-- [00:50:58] Jacob: “Smoke in the color purple and it was like this crazy blissed out State and um I think it in like after that I think I had a few weeks of being just light-footed as heck like I was just blissed out for a while after that”
-- [00:52:10] Jacob: “Said you did great man I got it from here and it was like this you know another explosion of just healing”
-- [01:52:41] Jacob: “collective unconscious but um there's a very personal spiritual path for each of us and it's like it's okay is the thing your personal spiritual path is okay you know maybe suddenly you get this moment like me where you realize that you've kind of been a shitty person and you're not living to your truth”
-- [01:53:27] Jacob: “Drinking 17 beers a night like I'm gonna only drink 16 tomorrow you know that's an extreme example but it really is like you gotta step on the path where you're at”
+- [00:06:27] Jacob: “There is no path. There’s no path till you walk it, and you have to be willing to play the fool.”
+- [00:25:11] Brent: “I'd love to hear about your relationship with that type.”
+- [00:26:58] Brent: “Amongst my healing I started reading all these things and listening to podcasts and watching YouTube.”
+- [00:41:32] Brent: “I would just I would listen to Listen to lectures.”
+- [00:43:45] Brent: “I kept pushing I was like I gotta heal I gotta get.”
+- [00:56:11] Brent: “Consciousness or same aspect of your Consciousness that you had accessed which could look.”
+- [01:44:18] Jacob: “And that’s when art’s not a luxury, it’s actually sustenance. We need it.”
+- [01:58:21] Brent: “Whenever you talk about creativity, it can have this kind of feel that it’s just nice, or it’s warm or it’s something pleasant. It’s not. It’s vital. It’s the way we heal each other.”
 
 ## Chapter-style timestamps
 

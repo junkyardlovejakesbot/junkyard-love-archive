@@ -4,14 +4,14 @@ Extracted from the YouTube auto-caption transcript and published links already o
 
 ## Memorable quotes
 
-- [00:02:07] Bobby: “consistency is everything bro”
-- [00:02:50] Bobby: “I'm CEO and creator of Big Bet Studios uh my dog is a logo he'd be singing on the mic you know uh Ace Boogie”
-- [00:05:17] Bobby: “I started rapping when I was 29 G oh yeah what 32 now um but I've been rapping my whole life”
-- [00:08:39] Bobby: “My first EP was called They Ain't Ready and I had like a song for all them like I had a cookout song a dance song”
-- [00:13:40] Bobby: “I'm still like in my head watching game film you know watching game film on like all right well if I didn't do it right that time let's make sure”
-- [00:53:27] Bobby: “I make music for myself therapy and because I like how it sounds and because I feel like I do got a vision for it”
-- [00:58:12] Bobby: “Set yourself up to answer the call you know because sometimes we're like man what's my problem”
-- [01:34:53] Bobby: “ain't nobody better at doing me than me you know I try to do nothing like nobody else”
+- [00:02:07] Bobby: “I would say man the podcast realm is crazy but you know what consistency is everything bro and you've been doing this media ****.”
+- [00:02:50] Bobby: “I'm CEO and creator of Big Bet Studios uh my dog is a logo he'd be singing on the mic.”
+- [00:13:40] Bobby: “I didn't do it right that time let's make sure I do it right the next time because any time.”
+- [00:13:40] Bobby: “The next time because any time that you spent that you didn't learn something is a bad.”
+- [00:53:27] Bobby: “I like how it sounds and because I feel like I do got a vision for it in the ear.”
+- [00:53:27] Bobby: “I do got a vision for it in the ear for it but it's more than just Music Man it's about ownership.”
+- [00:58:12] Bobby: “Up to answer the call you know because sometimes we're like man what's my problem.”
+- [00:58:12] Bobby: “I love that like put yourself in the position and then also yeah just be easy on yourself if you are doing it bro.”
 
 ## Chapter-style timestamps
 

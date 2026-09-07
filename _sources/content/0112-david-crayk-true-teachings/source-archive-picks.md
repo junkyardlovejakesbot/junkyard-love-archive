@@ -4,27 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Memorable quotes
 
-- [00:02:58] David: “hey, this is going to pass. I … have what it takes to get over this. And I’ve talked some people off a ledge, frankly.”
-- [00:06:19] David: “I made … my learning environment a safe place for people to be … I attracted kids that needed a place to be, a safe place, and I provided that safe place.”
-- [00:11:10] David: “When you get a five, that means you did something extraordinarily amazing.”
-- [00:16:55] David: “there was no textbook. So everything that you got, Jacob, I created pretty much.”
-- [00:20:48] David: “I never really had to control my class. I’d just have to say something like that and they would just police themselves.”
-- [00:26:50] David: “when you dare to be different, which is my lifetime motto”
-- [00:28:40] David: “if you’re a teacher and you want to be in that little box that they put you in, it’s going to be a hard day for you.”
-- [00:37:13] David: “if you want to be a teacher, you really obviously can’t be in it for the money. And you have to really give something of yourself. Use your own style. Stay true to yourself.”
-- [00:47:03] David: “almost immediately I knew I was in my place. I knew this is what I was meant to be.”
-- [00:52:32] David: “that guy telling me to sit down and write down my goals and make it visual … truly made all the difference”
-- [00:53:47] David: “I’d say it’s been maybe in the last 10 years that I don’t really … I’m not depressed anymore.”
-- [00:55:46] Jacob: “all spiritual teachers tell us like serve others. That’s the way out.”
-- [00:58:45] David: “If you step outside yourself and you do things for others, you don’t got time to think about your own problems, man.”
-- [01:03:34] David: “I wanted them to take that little piece of me out into the world … matrix of influence”
-- [01:07:14] David: “if you dare to be different, there’s some risk to that because people want to put you in a box all the time.”
-- [01:12:28] David: “don’t follow the money. The money comes … have the faith to go forward and do what your muse tells you to do”
-- [01:18:16] David: “I can’t resist it. I have to create. It’s just who I am.”
-- [01:21:32] David: “I’m bombarded constantly with creativity. So, I either have to put it down to pen or I have to create something or negative things happen.”
-- [01:30:54] Jacob: “what about long term? Just doing what you can day in and day out”
-- [01:35:26] David: “I’m listening to them and I’m taking action. I’m listening and doing what this little voice is telling me.”
-- [01:35:59] David: “as soon as you don’t listen to it and you start bargaining with it, chances are you’re going to make a bad decision.”
+- [00:26:50] David: “Over very well because when you dare to be different, which is my lifetime motto.”
+- [00:47:03] David: “I did it as a as a substitute, but they never knew I was the substitute because the I was I took the classes.”
+- [00:52:32] David: “I was looking for. And that truly made all the difference in the world because right away she took on me and my three.”
+- [00:52:32] David: “I fell in love with. That ticked off all the boxes for a woman that I was looking for. And that truly made all.”
+- [01:03:34] David: “Some kind of, you know, connection with me in some way, I wanted them to take that little piece.”
+- [01:07:14] David: “I told everybody, if you dare to be different, there's some risk to that because people want to put you in a box all.”
+- [01:18:16] David: “I can't resist it. I have to create. It's just who I am. So, I've been open to that pretty.”
+- [01:21:32] David: “I'm bombarded constantly with creativity. So, I either have to put it down to pen or I have to create something or negative things.”
 
 ## Chapter-style timestamps
 

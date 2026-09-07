@@ -4,18 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About. Labeled 
 
 ## Memorable quotes
 
-- [00:04:55] Jacob: “things into how to take care of yourself physically and mentally there was texting my friend Spencer and we were we were discussing the importance of mentioning our”
-- [00:18:34] Jacob: “do you wake up in a reactive state and what I mean by that is do you wake up and check your cell phone think about it you're”
-- [00:19:13] Jacob: “body you're moving in stretch and give them that morning yawn and you lean over and you're checking the time the first thing of course that's why you”
-- [00:21:06] Jacob: “thoughts as soon as your feet touch the ground are you internally complaining about um you know oh I didn't sleep very good or oh my neck hurts”
-- [00:28:19] Jacob: “breath there's a lot of breath work online you could look up wim HOF breathing you can do all these anxiety breaths there's a there's a lot of”
-- [00:33:07] Jacob: “this goes back with screen time you want to make sure that you know even before bed you want to make sure that you're not having a ton”
-- [00:40:56] Jacob: “the best things it's great for inflammation I have redness and like eczema and dry skin and weird skin infections on my nose and it really sub-sub dudes”
-- [00:52:42] Jacob: “To go with caffeine so I mentioned coffee don't have too much of it though that's something that I would drink a couple monsters I used to work”
-- [01:11:14] Jacob: “so let's keep going pornography let's talk about pornography”
-- [01:16:06] Jacob: “catapult in grab your monkey mind your reptilian brain your lower conscious self and Inlet and let him have the driver's seat you know let him make the”
-- [01:46:04] Jacob: “cover everything um alone time do you designate a long time do you have a long time real alone time whether you're an introvert and extrovert you need”
-- [02:04:45] Jacob: “they're okay with you setting boundaries and saying hey I don't want to do that anymore hey I want to I want to work out hey I want”
+- [00:28:19] Jacob: “Breath there's a lot of breath work online you could look up wim HOF breathing you can do all.”
+- [00:28:19] Jacob: “You can do all these anxiety breaths there's a there's a lot of when it comes to yoga there's.”
+- [00:40:56] Jacob: “I **** love it cognitively it's one of the best things it's great for inflammation I have redness and like eczema and dry skin.”
+- [00:40:56] Jacob: “Choosing mouth pleasure over something that can benefit you greatly fasting I **** love it cognitively it's one of the best things it's great.”
+- [01:11:14] Jacob: “Your homeostasis to have a breath in a different area of your body so breath.”
+- [01:11:14] Jacob: “Your body so breath work just you can feel where is where it is physically.”
+- [01:46:04] Jacob: “Alone time and the reason why is because we're always doing something because somebody else.”
+- [02:04:45] Jacob: “They're okay with you setting boundaries and saying hey I don't want to do that anymore hey.”
 
 ## Chapter-style timestamps
 

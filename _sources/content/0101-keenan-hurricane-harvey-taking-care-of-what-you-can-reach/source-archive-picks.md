@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About. Labeled 
 
 ## Memorable quotes
 
-- [00:15:27] Keenan: “what I was elected to do is be transparent be open be honest speak to as many people as possible and engage my policy based off of that”
-- [00:32:14] Keenan: “municipalities the they move at like half the speed of smell man you can't get anything done quickly”
-- [00:33:00] Keenan: “I happen to like the nickname so I'm going to run with it I'm gonna put it on all my campaign signs and everything”
-- [00:44:34] Keenan: “cleaning our critical infrastructure beautifying our infrastructure and then doing the shiny new things when we have the resources”
-- [01:04:53] Keenan: “you're continuously like jumping in to save them right here because you can reach them but at some point you got to go all right what's going on why are these kids falling in the river”
-- [01:09:56] Keenan: “I think years ago when I first kind of started having intrusive thoughts I was like afraid of myself I'm like oh my God am I evil”
-- [01:12:10] Keenan: “impulsivity is having no distance between you and your thoughts there is no Observer of what's going on”
-- [01:23:44] Keenan: “their solution to graffiti in the park was to graffitiate themselves with art and that gave the skateboarders … that sense of Pride … now um they self-police it”
-- [02:04:10] Keenan: “hey I'm just a dude I'm a 33 year old dude that likes cars I like to go play in the mud”
-- [02:09:00] Keenan: “I have the ability to actually affect change in this small town uh that is what keeps me doing what I do”
+- [00:15:27] Keenan: “I think also awareness is such a superpower you know being aware that hey this is an echo chamber there's a lot of potentiality.”
+- [00:33:00] Keenan: “I happen to like the nickname so I'm going to run with it I'm gonna put it on all my campaign signs.”
+- [01:04:53] Keenan: “Jumping in to save them right here because you can reach them but at some point you got to go all.”
+- [01:04:53] Keenan: “I think that's really important the a lot of the cost of that build is actually because it's going to be above.”
+- [01:09:56] Keenan: “Some mindfulness for me like meditation and stuff really helped for me but you start learning like oh I'm.”
+- [01:23:44] Keenan: “I really like that I think that is a cool way of a cool example of community is local skate park people.”
+- [01:23:44] Keenan: “Say the quiet part out loud people love spray painting dips on everything yeah dude actually it's super bad.”
+- [02:09:00] Keenan: “I have the ability to actually affect change in this small town.”
 
 ## Chapter-style timestamps
 

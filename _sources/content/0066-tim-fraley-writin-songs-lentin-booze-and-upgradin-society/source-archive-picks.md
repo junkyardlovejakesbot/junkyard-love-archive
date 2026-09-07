@@ -4,15 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About/chapters 
 
 ## Memorable quotes
 
-- [01:00:55] Tim: “First sip of alcohol is probably some Uh it's probably a Bridgeport or a henry Weinhardt's are those wealth beers yeah oh yeah okay yeah my uncle um”
-- [01:26:06] Tim: “sure uh but i'll Work I work for Mercedes-Benz so they're definitely at the close to the To the top if not you know the top for a”
-- [01:29:17] Tim: “They've had autonomous capabilities for Probably Eight years wow but it's just not turned On oh okay yeah so like i mean And it's hard to say what”
-- [01:29:17] Tim: “they started out with it's Called Distronic it's like a uh Um like a hybrid cruise control like Like lane correction yeah with lane correction that kind of”
-- [01:53:41] Jacob: “should do stuff yeah just **** do it just stumble through it you know just like with music just sit down and write something and try not to”
-- [01:54:42] Tim: “Um the two else light and love”
-- [01:54:10] Tim: “That's the goal this year is to get a few of them up there yeah see what we can do”
-- [01:54:10] Jacob: “you're in charge of this What does the world need more of right now”
-- [01:55:01] Jacob: “Listeners take care of yourself drink some water do some stretches um hug your friends next time you see them how about that peace out At what age”
+- [00:05:09] Tim: “Gypsy soul no Fools cowboy wants you'll never fool him.”
+- [00:05:09] Tim: “I'm still king girl Ain't nothing out there to see now what's up you couldn't see with me Gypsy soul.”
+- [00:17:01] Tim: “Now an occasional bark that's just kind of what you get like i feel like cove had opened the door for that because everybody.”
+- [00:17:01] Tim: “Door for that because everybody had to go it's not everything so professional.”
+- [00:29:31] Tim: “Mean i've i love music festivals blue paws off The counter.”
+- [00:30:19] Tim: “It was weird because like he's so unknown in general like out here.”
+- [01:00:55] Tim: “Smell of their breath and stuff and you're like whoa what are you drinking yeah god gave.”
+- [01:00:55] Tim: “I feel like when you're because you know your first type of alcohol you're.”
 
 ## Chapter-style timestamps
 

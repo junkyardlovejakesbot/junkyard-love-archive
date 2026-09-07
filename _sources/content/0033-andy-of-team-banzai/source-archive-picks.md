@@ -4,18 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:02:02] Andy: “Studio we are we're at Black Diamond recording studios in Portland Oregon yes”
-- [00:09:38] Andy: “only green logo was LimeWire was LimeWire”
-- [00:27:07] Andy: “Team Banzai and we were doing like our”
-- [00:19:54] Andy: “life lead you did - Japan moved to Japan helped a lot because you know they don't card so I was like 18 years”
-- [00:20:53] Andy: “was like one of the foreigner DJ's I was playing the music that you know wasn't the most like popular yet I should say”
-- [00:37:29] Andy: “definitely a different vibe like I like it like you've had a homey in here when I'm we've been in here and it's just like alright I'm ready”
-- [00:46:02] Andy: “thing almost like a tattoo artist not like a doctor but almost like a tattoo artist type of relationship yeah it's a bit more intimate than just like”
-- [01:15:09] Andy: “Peeve I hate YouTube tutorials that”
-- [00:51:53] Andy: “been doing like more modular stuff too and yet really stuff one turn off all the nights step to get more stoned I was listened to ADHD on”
-- [00:54:09] Andy: “Eurorack modular synthesizer system the kind you see like deadmau5 and those guys like actual nubs the actual knobs and Kate real what cables that I have to”
-- [00:35:53] Andy: “ideas and concepts sound design and that kind of stuff but when you hear their mix it's like this sounds like **** yeah like whoa like okay cool”
-- [01:25:50] Andy: “probably have to say Vangelis okay I'm drawing a blank they compose her for”
+- [00:02:10] Andy: “Podcast experience yes because it's more fun to be doing this in person than over shitty webcam and when you're in recording.”
+- [00:09:38] Andy: “The 90s the early 90s yeah the only green logo was LimeWire.”
+- [00:19:54] Andy: “Japan moved to Japan helped a lot because you know they don't card so I was like 18 years.”
+- [00:20:53] Andy: “Active thing and because I was like one of the foreigner DJ's I was playing the music.”
+- [00:35:53] Andy: “People kind of need to realize with when you do do a big.”
+- [00:35:53] Andy: “Listen what to listen for and but they know how to like create.”
+- [00:46:02] Andy: “A tattoo artist type of relationship yeah it's a bit more intimate than just like going somewhere.”
+- [00:46:02] Andy: “This type of person and because it's a much more intimate one-on-one type of thing almost like a tattoo.”
 
 ## Chapter-style timestamps
 

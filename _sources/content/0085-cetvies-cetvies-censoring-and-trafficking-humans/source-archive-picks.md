@@ -4,14 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:28:04] Cetvies: “Yeah Censorship is everywhere yeah Censorship is everywhere it's in every country when you study the capitalist Way of producing censorship and fight is Done for self-censorship there”
-- [00:24:13] Cetvies: “law the law is the spirit of the law you follow the letter of the law but you spread over spirit of the law and means that if”
-- [00:05:42] Cetvies: “instead of a job they are made slaves yeah and there's no there's no way for them to react in case of migrants it's um It's uh i”
-- [00:01:28] Cetvies: “trafficking is that Trafficking is a new world It has been officialized only into the Year 2000 by the u. n and by the u. s this before”
-- [00:55:22] Cetvies: “Advertisement is king that is to say anything you want to do whatever it is for your business or what you or it is for your organization or”
-- [00:59:07] Cetvies: “it's very important to Spread the word on veganism and also I would like to spread the word about Lgbt people are put into prison for their sexual”
-- [00:00:18] Cetvies: “and that as it has I read and i studied at university about human rights”
-- [00:10:14] Cetvies: “department yeah there Is a three hundred thousand uh child um at risk of sexual uh um entry at risk of Sexual exploitation a year three hundred thousand”
+- [00:05:42] Cetvies: “Think it's possible because these people if they are forced and they are in prison.”
+- [00:10:14] Cetvies: “Lessened but explained because the volume is so incredible yeah but You might.”
+- [00:10:14] Cetvies: “Maybe this figure might be explained because um Kind of not lessened.”
+- [00:24:13] Cetvies: “Law but you spread over spirit of the law and means that if you sign.”
+- [00:24:13] Cetvies: “There's the law the law is the spirit of the law you follow the letter of the law but you spread.”
+- [00:24:13] Cetvies: “Evil if the spirit of the law say no you protect child what is certainly.”
+- [00:55:22] Cetvies: “A menace to be honest Because the amount of problem we're gonna have with nature for example.”
+- [00:55:22] Cetvies: “The plants will stop to grow away and there's diseases.”
 
 ## Chapter-style timestamps
 

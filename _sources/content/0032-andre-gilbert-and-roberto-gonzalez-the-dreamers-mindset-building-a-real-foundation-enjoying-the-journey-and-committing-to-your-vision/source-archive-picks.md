@@ -4,18 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:00:06] Jacob: “freedom after escaping North Korea it's crazy you should totally check it out what's a perspective on the life for show today we've got Andre and Beto Andre”
-- [00:01:54] Andre: “it's a front for our space company space company yes you don't know anything about aliens not yet what do you know about aliens you sure you lyin”
-- [00:01:54] Andre: “know anything about aliens not yet what do you know about aliens you sure you lyin I don't think I know if you gotta tell me you know”
-- [00:09:15] Andre: “one night I was out walking my dogs up the road at my house where it kind of overlooks the whole town and stuff and I was looking”
-- [00:29:56] Jacob: “Steve Jobs even said the people who changed the world or often the ones who are crazy enough to believe that they can write so you are kind”
-- [00:29:56] Jacob: “often the ones who are crazy enough to believe that they can write so you are kind of a strange person or weird I guess if that's what”
-- [00:38:45] Roberto: “Did the Clark County Fair and that was our first time doing that event yeah and then we met a lot of people that went to that event”
-- [00:43:05] Roberto: “Third eye here that's what it's all about that should open I love it bro”
-- [00:01:54] Jacob: “were telling me that EYE Clothing is actually like some sort of front for some sort of alien work”
-- [01:34:39] Andre: “Would be appreciate your struggle because struggle is what builds you how do you think diamonds are formed they're built through pressure you know and eat to become”
-- [01:34:39] Andre: “you how do you think diamonds are formed they're built through pressure you know and eat to become the diamond and not only that takes a lot of”
-- [01:33:45] Roberto: “that the world knows don't quit don't quit whatever it is that you want to do in your life you can do it just don't quit you know”
+- [00:09:15] Andre: “I guess but it did some weird turning and stuff where it like shot in one direction and then change.”
+- [00:09:15] Andre: “In one direction and then change direction super fast and when another plane.”
+- [00:12:52] Andre: “Oh yeah just because how big it was all like holy.”
+- [00:12:52] Andre: “Go that far because they say that there's a few moons.”
+- [00:25:48] Andre: “Fours in that rocket will get the rocket going like it says it takes six days for the countdown because it's such a process.”
+- [00:39:11] Roberto: “We need more stuff on the shelves because you're coming in you and you can't.”
+- [00:43:05] Roberto: “It's all about that should open I love it bro.”
+- [01:33:45] Roberto: “You want keep going you've gone yeah because there's always so many things that'll come up that will you'll.”
 
 ## Chapter-style timestamps
 

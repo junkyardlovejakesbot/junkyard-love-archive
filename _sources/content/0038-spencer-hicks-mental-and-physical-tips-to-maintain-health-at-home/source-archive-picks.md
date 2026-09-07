@@ -4,18 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:07:59] Spencer: “it we're all doing bodyweight squats right well let's so let's talk about those people who will start at the ground level where people who like really don't”
-- [00:07:05] Spencer: “Like an internal clock that really depends on you going to sleep on waking up at a pretty consistent time I against what I've done I mean I”
-- [00:06:15] Spencer: “needs to use to be stretching they need to get some form of working out they need to get some fresh air they need to be mindful like”
-- [00:36:13] Spencer: “do you perhaps I do Wim Hof breathing primarily I do a lot of breath work in general just because yoga introduces just and just Prom pranayama kind”
-- [00:10:16] Spencer: “be like we lift up water jugs like what like where you at oh for sure buy some bands with different strength intentions like so on Amazon there's”
-- [00:13:57] Spencer: “mindful and that is awareness I think how do people become aware that like instead of saying that's just me anybody who would be mad in the situation”
-- [00:01:51] Spencer: “irritable like I flipped my sleep schedule back around I feel a lot better but dude why'd you”
-- [00:43:25] Spencer: “breathing and your posture is probably better than it usually is because you're running which posture is actually a really big part of doing something I wanted to”
-- [01:09:55] Spencer: “when you were I love fantasy I love fantasy like me personally but as an adult I read pretty much like mindfulness books and”
-- [01:11:57] Jacob: “of your day please focus on your posture and all these other things that we mentioned and Spencer and I will be back probably soon Sometime”
-- [00:00:01] Jacob: “Man hello Spencer welcome to the virtual remote version of the Junkyard Love bot yes I think is the first time we have video you know yeah we”
-- [00:08:50] Spencer: “like to definitely remember to breathe as well but yeah I would say for fitness stuffs”
+- [00:07:05] Spencer: “I mean because it's like if you're gonna be up for 16 hours no matter what you might.”
+- [00:07:59] Spencer: “Time to start because no one's gonna judge you in your house go.”
+- [00:11:04] Spencer: “The whole like marriage to heavy weight is I even when I'm at the gym.”
+- [00:13:57] Spencer: “Being mindful and that is awareness I think how do people become aware that like instead of saying that's.”
+- [00:36:13] Spencer: “I do Wim Hof breathing primarily I do a lot of breath work in general just because yoga introduces just and just Prom pranayama.”
+- [00:43:25] Spencer: “Is probably better than it usually is because you're running which posture is actually a really big.”
+- [01:09:55] Spencer: “I love fantasy I love fantasy like me personally but as an adult I read pretty much like mindfulness books.”
+- [01:09:55] Spencer: “Was your like when you were I love fantasy I love fantasy like me personally.”
 
 ## Chapter-style timestamps
 

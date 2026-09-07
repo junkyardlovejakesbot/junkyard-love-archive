@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Memorable quotes
 
-- [00:01:02] Kevin: “So currently I am a small business owner so I operate this company called Black Sheep Business Consulting uh I'm five and a half years sober”
-- [00:14:28] Kevin: “I literally felt saved because I had to stop drinking”
-- [00:15:31] Kevin: “I realized I had a huge anxiety issue like huge and that's really what was driving me to drink”
-- [00:19:06] Kevin: “to go to a meeting where everyone's sober in a room and just like laughing and enjoying themselves is very strange it's like you're on another planet really”
-- [00:23:32] Kevin: “one great thing about going all out in life is that you're gonna fail and you're gonna fail real big sometimes”
-- [00:32:23] Kevin: “the first step in AAA which again I think is translatable is admitting that it's an issue boom”
-- [00:36:11] Kevin: “all you need to know is that God is real and it's not you”
-- [00:44:25] Kevin: “they said something that really inspired me they're just like hey we uh something along the lines of like we love the sober Kevin”
-- [01:04:12] Kevin: “the answer is take one step what can you do today”
-- [01:15:50] Kevin: “I've found my I own truth in Jesus I Think Jesus was the son of God it sounds crazy doesn't it”
+- [00:14:28] Kevin: “I was like holy geez I literally felt saved because I had to stop drinking there's.”
+- [00:14:28] Kevin: “I had to stop drinking there's probably a little bit of fear.”
+- [00:15:31] Kevin: “I realized I had a huge anxiety issue like huge and that's really what was driving me to drink was the fact.”
+- [00:23:32] Kevin: “I could share one thing with anyone who's kind of in the middle on stuff it's like go all out just because the failure.”
+- [00:44:25] Kevin: “Accept and we love and we're like huge fans of the sober Kevin.”
+- [00:44:25] Kevin: “Hearing that really did something to me because a huge part of all this a huge part.”
+- [01:15:50] Kevin: “I've found my I own truth in Jesus I Think Jesus was the son.”
+- [01:15:50] Kevin: “I and that's just my own belief right because when I turn myself over to that I'm LED it's like the conduit to God.”
 
 ## Chapter-style timestamps
 

@@ -4,30 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Memorable quotes
 
-- [00:12:08] Nate: “Oh, he’s behind the mic or below the frame. That’s where I like to live.”
-- [00:15:51] Nate: “watching Fraggle Rock, I had the light switch moment. I was 7 years old and I went from knowing these characters, loving these characters to going, ‘How do they do that?’”
-- [00:18:03] Nate: “the magic exploded even more. I needed to know what was going on below that frame.”
-- [00:18:41] Nate: “for Jim it was like no the magic is what’s happening down here and bringing this to life — this is where the magic is”
-- [00:20:44] Nate: “the camera pans out slowly and you see … all the puppeteers holding the characters … And I was just — that I need to do that.”
-- [00:23:39] Nate: “I have two goals for myself. I want to work on Sesame Street and I want to … work with the Jim Henson company … And I’ve since gotten to do both of those things multiple times.”
-- [00:30:32] Nate: “Regardless of how silly it is, regardless of how little it was, I was putting the same concerted effort into all of my characters.”
-- [00:34:41] Nate: “we inherently discount ourselves. We’re always talking ourselves out of things”
-- [00:40:00] Nate: “voice acting is not about your voice. It’s about your acting. … capital A lowercase V”
-- [00:40:56] Nate: “acting is behaving truthfully under imaginary circumstances.”
-- [00:44:58] Nate: “Everyone just thinks it’s just talking. You just get behind a microphone, just start talking.”
-- [00:46:53] Nate: “Find your irreducible minimum.”
-- [00:47:32] Nate: “for me, it’s storytelling. … It’s telling stories. It’s bringing stories to life.”
-- [00:50:25] Nate: “if your irreducible minimum is this — like I can’t do anything else — then you’re where you need to be”
-- [00:54:19] Nate: “when somebody sees a voice actor … Making it look effortless … Everybody’s talking into a mic. I can do that.”
-- [00:58:10] Nate: “Don’t let anybody yuck your yum”
-- [01:13:45] Nate: “Every single one of them gets equal juice. … They’re equally celebrated regardless of … fifth place versus … first place”
-- [01:18:00] Nate: “you can always find … something we can change up a little bit … to give it new life”
-- [01:19:24] Nate: “finding in that little pocket of time … we can let that real world go away for a minute and find new fun energies”
-- [01:23:43] Nate: “It’s really important to pick a primary focus first and start to learn how to navigate that path.”
-- [01:24:40] Nate: “Find the people that do what you want to do and ask questions. That’s literally the best thing you can do.”
-- [01:26:50] Nate (as Kermit): “I want you all to do what you love. No matter what it is or what it takes, just do what you love.”
-- [01:28:11] Nate: “Don’t be afraid to fail. Guess what? Failure is a great teacher.”
-- [01:29:14] Nate: “When you feel like you’re going to fall, just keep pedaling.”
+- [00:03:38] Nate: “It’s like, if you see something that’s not available where you’re at - then make it.”
+- [00:40:00] Nate: “It's about your acting. It's capital A lowercase V because you are in fact acting with your voice.”
+- [00:40:56] Nate: “There's truth like these characters all these characters are acting and thinking and behaving truthfully in a way.”
+- [00:44:58] Nate: “There’s a moment where you stop trying to get it perfect and start asking if it feels true. That’s when you know you’re doing the work.”
+- [00:50:25] Nate: “Go do that right because but if your irreducible minimum is this like I can't do anything else then you're.”
+- [01:18:00] Nate: “A thousand times, there was always finding once you lock into it, then you can always find there's something we can change up a little.”
+- [01:18:00] Nate: “There's always a moment that you can change to give it new life, give it a slightly different energy, fun little reactions.”
+- [01:21:10] Nate: “A lot of people think voiceover is just ‘talking,’ but it’s not. It’s acting. It’s truth-telling. It’s intention.”
 
 ## Chapter-style timestamps
 

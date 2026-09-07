@@ -4,27 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 
 ## Memorable quotes
 
-- [00:01:36] Sean: “bipolar disorder is like all mental disorders in the … DSM … It’s a label given to a set of symptoms. … There’s no actual disease there that they can find biologically.”
-- [00:03:50] Sean: “when you go into these non ordinary state experiences there’s only about 13 very spiritual delusions that pop up and that’s it.”
-- [00:07:42] Sean: “People go into bipolar disorder and they think that they are in psychosis. They think they are either the reincarnation of Jesus … They’re Buddha. There’s some sort of figure here to save the world.”
-- [00:11:11] Sean: “it’s a good indicator … of how severe the disorder is by how attached and how concrete the interpretation is of what the person is going through.”
-- [00:20:47] Sean: “if you’re able to internalize what you’re going through, it can be a breakthrough. But if you externalize it, it’s a breakdown”
-- [00:22:42] Sean: “I didn’t feel normal, I felt natural, I felt a lot more natural.”
-- [00:33:13] Sean: “is this real or am I dreaming? And they said, when did you figure it out? And I said, I never did. I just got used to it.”
-- [00:37:06] Sean: “it’s not about being normal. It’s being natural … when people are healing … it’s about becoming more open, spontaneous, and peaceful”
-- [00:39:30] Sean: “the root of the disorder is trauma … trauma in itself is kind of a lie because it’s taking a part of an experience that was so painful that we deny the emotion itself”
-- [00:41:11] Sean: “the key to healing is to, work on that. The therapy should be somatic, it should be working with the body.”
-- [00:45:36] Sean: “hot energy came shooting out of her coccyx, up the spine, into the shoulder blades, down through the hands and the pain … was gone”
-- [00:50:08] Sean: “energetically it felt stronger than what put me in the psychiatric hospital … But I by that point, I knew what I was doing.”
-- [00:52:45] Sean: “look for someone who’s open … Sure. Talk about it. But if not, just keep it to yourself because people get threatened by this kind of thing.”
-- [00:57:44] Sean: “My videos have caused psychosis for people. Just watching my videos … I kind of put in that the paradox that this thing can cut both ways”
-- [01:01:30] Sean: “the healing agent is actually a divine intelligence. It’s a higher power. … But it’s definitely a higher intelligence.”
-- [01:02:58] Sean: “what’s your intuition telling you? … Once we tap into the intuition, then we’re starting to follow like the inner voice of God”
-- [01:13:54] Sean: “These experiences are very common now for completely untrained people … Regular teenagers having Kundalini experiences”
-- [01:21:52] Sean: “If you don’t know me, then, the first one, it’s an easy read. … The second book, after every chapter, you need to sit down.”
-- [01:22:59] Sean: “I have a thing called distance surrogate breathwork that I can do on people’s behalf.”
-- [01:26:17] Sean: “when it’s somebody else’s material, it just passes through. You like energy … you don’t have any ego in the game.”
-- [01:32:06] Jacob: “we’re all just walking each other home.”
+- [00:07:42] Sean: “People think delusions are random. But around the world, the same 13 spiritual delusions show up.”
+- [00:07:42] Sean: “The psyche speaks in myth and metaphor. Mania is often that language becoming audible.”
+- [00:12:54] Jacob: “Breakdowns often happen because something in us finally refuses to stay buried.”
+- [00:12:54] Sean: “The body whispers for years, and when we don’t listen, it eventually sends a storm.”
+- [00:39:30] Sean: “In itself is kind of a lie because it's taking a part of an experience that was so painful.”
+- [00:52:45] Sean: “If not, just keep it to yourself because people get threatened by this kind of thing.”
+- [01:01:30] Sean: “See it in the breathwork is the healing agent is actually a divine intelligence. It's a higher power. You can call.”
+- [01:12:48] Jacob: “When those energetic blockages release, the result can look like mania, visions, or symbolic delusions.”
 
 ## Chapter-style timestamps
 

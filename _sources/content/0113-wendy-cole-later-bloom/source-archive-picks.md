@@ -4,27 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Memorable quotes
 
-- [00:06:36] Wendy: “Gender’s between the ears, not the legs.”
-- [00:12:05] Wendy: “If you’ve never looked in the mirror and questioned your actual gender identity, ‘I should have been a boy,’ or ‘I should have been a girl,’ if you’ve never done that, I don’t expect you to fully understand … the depth of … the distress”
-- [00:13:43] Wendy: “my therapist challenged every one of my thoughts, every one of my beliefs in myself.”
-- [00:13:43] Wendy: “What do you attribute this to?” … “I’m happy.” … “Living in truth. For the first time.”
-- [00:16:44] Wendy: “We’re the best drug dealers going. … we can get totally addicted to depression, anxiety.”
-- [00:18:42] Wendy: “within three months I went from full repression to, ‘Wow, I can’t believe I can do this.’”
-- [00:22:59] Wendy: “She was the first person in my entire life to hear me and really accept me without any conditions as to who I believe I am.”
-- [00:24:04] Wendy: “I advise people not to compromise their transitions or any major life change to satisfy somebody else’s needs.”
-- [00:25:13] Wendy: “By the time I got to June, there was no longer any repression. I was so done with my male facsimile and that life”
-- [00:26:42] Wendy: “respect her wishes, honor her, and show her that you love her by letting her go.”
-- [00:42:07] Wendy: “We just want to be. Just being, just living, and have people accept you for who you are and what you are. That’s it.”
-- [00:53:50] Wendy: “being open to a new perspective means that you have to start questioning what you yourself believe in order to even hear this person who’s saying, ‘I just want to be me.’”
-- [00:55:06] Wendy: “I’ve come to also believe that life is about possibility.”
-- [01:05:49] Wendy: “I wasn’t hiding, I wasn’t making excuses, I wasn’t pretending, and I was just me.”
-- [01:17:51] Wendy: “If that’s what you believe, that’s exactly how it will be. It will be difficult and it will take a long time. It doesn’t have to.”
-- [01:19:33] Wendy: “when you’re on the other side of this, there’s nothing but joy for you. … you’re finally free”
-- [01:24:07] Wendy: “lose the word trans. You’re not being disloyal to the community. You’re being loyal to yourself.”
-- [01:26:53] Wendy: “your gender identity is formed instinctively within five seconds of someone seeing you or less. From that point forward, it’s up to you not to confuse them”
-- [01:29:11] Wendy: “self-awareness … Self-acceptance … you might actually start to discover you have self-love. I can honestly say until 10 years ago, I had none.”
-- [01:32:03] Wendy: “Is it worth it? Compared to a lifetime? Forget it. It’s nothing.”
-- [01:38:35] Wendy: “What’s useful for people? I would have to say it’s all about possibilities. … learn to embrace that.”
+- [00:12:05] Wendy: “If you've never looked in the mirror and questioned your actual gender identity, 'I should have been a boy,' or 'I should have been a girl,' if you've never done that, I don't expect you to fully understand the depth of the distress.”
+- [00:13:43] Wendy: “My therapist challenged every one of my thoughts, every one of my beliefs in myself.”
+- [00:16:44] Wendy: “We're the best drug dealers going. Oh, yeah. They're highly addictive. We're all Holden. All Holden. And we can get totally addicted to depression.”
+- [00:26:42] Wendy: “Honor her, and show her that you love her by letting her go." That way.”
+- [00:59:59] Wendy: “Every limiting belief I confronted was like shedding a layer; underneath, I found who I truly was.”
+- [01:24:07] Wendy: “Oh, lose the word trans. You're not being dis- disloyal to the community. You're being loyal to yourself.”
+- [01:27:42] Jacob: “When you're able to finally align your outside with your inside, the sense of peace and joy is indescribable.”
+- [01:29:11] Wendy: “Start to discover you have self-love. I can honestly say until 10 years ago, I had none. Wow.”
 
 ## Chapter-style timestamps
 

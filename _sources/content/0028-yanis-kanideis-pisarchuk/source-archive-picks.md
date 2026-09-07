@@ -4,18 +4,14 @@ Extracted from the YouTube auto-caption transcript, YouTube chapter markers, and
 
 ## Memorable quotes
 
-- [00:01:17] Jacob: “bought me this other the Beautiful Minds inspire others I really like the phrase Beautiful Minds it's like floats around a lot and Jon Bellion and obviously Beautiful”
-- [00:10:44] Yanis: “Your storytelling and I think that storytelling is important I think storytelling is a form of leadership that is or it really is in with”
-- [00:13:00] Yanis: “million because of the lottery you're probably gonna blow it on a bunch of dumb **** right that's the point it's like if you get it too easily”
-- [00:20:11] Jacob: “like it shows is the authenticity like the crowd can sense when the people who are on stage are really into like what they're talking about like it's”
-- [00:37:53] Yanis: “know so you have no stage fright like did you ever at all man I'm telling you really at all it's so because of all those times that”
-- [00:31:27] Yanis: “you get any sort of anxiety or like how is that you've probably spent a lot more time on state well tech maybe yeah I mean I have”
-- [00:33:27] Yanis: “content being **** a real introvert now I've always I feel like I've always been like an introvert that's like stuck trying to be an extrovert so I”
-- [00:50:46] Yanis: “who maybe still are punching walls what do”
-- [00:57:45] Yanis: “Absolutely and yeah it's communicate with yourself man tell yourself man I am okay I'm”
-- [00:24:28] Yanis: “the main judgment you cocooned out of this thing man it seems like it's something that's giving you a little more confidence like something that's like you've discovered”
-- [01:29:25] Yanis: “way like I changed open relationships now I'm a serial monogamist it's not something that I'll ever like I don't think I'll ever want to get into an”
-- [01:38:14] Yanis: “let's start with if aliens came right now you're in the backyard you're smoking today my backyard I'm down here I'm taking a piss you're just like waiting”
+- [00:13:00] Yanis: “If you come up on a million because of the lottery you're probably gonna blow it on a bunch of dumb.”
+- [00:24:28] Yanis: “I was like such a hopeless romantic it's crazy like that's why I started talking about bog because we both.”
+- [00:31:27] Yanis: “You get any sort of anxiety or like how is that you've probably.”
+- [00:33:27] Yanis: “I've gone I go through many different layers of anxiety and where I'm at now I do a lot of like my alone time.”
+- [00:37:53] Yanis: “I'm telling you really at all it's so because of all those times that I was supposed to do that is funny.”
+- [00:37:53] Yanis: “I was supposed to do that is funny because I remember the first time I ever performed I'm.”
+- [01:29:25] Yanis: “I don't think I'll ever want to get into an open relationship.”
+- [01:29:25] Yanis: “I think this way like I changed open relationships now I'm a serial monogamist it's not something that I'll ever like I don't think.”
 
 ## Chapter-style timestamps
 

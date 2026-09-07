@@ -4,18 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:17:12] JACE: “have a problem i'm about a solution that's how i am”
-- [00:26:47] JACE: “love that i love that stick your chest out type of **** you know and i feel like that not only in music has made me what you”
-- [01:54:05] JACE: “Possibility of opportunity right you”
-- [01:53:33] JACE: “person working goes i'm already going that way you want to ride and like i don't want the ride though but i was like i would try to”
-- [00:02:06] JACE: “know you have like a podcast voice i have a podcast voice i think you do oh **** yeah i think you kind of have that”
-- [00:33:10] JACE: “so long because of fear of failure so it caused me to cover up those bad emotions because i knew what i was supposed to be”
-- [00:58:47] JACE: “to like i'm such an emotional guy bro such an emotional guy would you hide crying though like i would in public you know what i'd even do”
-- [01:05:55] JACE: “because now i've been clean and sober again completely with no alcohol no weed for like two months but where i'm going with this is after i smoked”
-- [01:34:56] JACE: “after i showed you the BIG MAD because the BIG MAD it's like we out”
-- [00:43:23] JACE: “instrumental and let me just freestyle over for fun that's learning that's great you don't have to walk out and be like i represented myself 100 it's like”
-- [01:33:33] JACE: “you know ma why is stepfather acting violent like these are all real parts of my life but guess what i put it on the what's poppin beat”
-- [00:41:59] Jacob: “making music and it's ego for two minutes and 40 seconds on a track right and then there's other times where it's vulnerability and me talking about what”
+- [00:17:12] JACE: “If I got a problem, I'm about a solution.”
+- [00:17:12] JACE: “I always have to remember with myself because i'm such like an advice giver.”
+- [00:26:47] JACE: “I love that stick your chest out typea shit.”
+- [00:58:47] JACE: “I can relate because like the crying thing i used to like i'm such an emotional guy.”
+- [01:05:55] JACE: “Going with this is for because now i've been clean and sober again completely with no alcohol no weed.”
+- [01:05:55] JACE: “Start having like a **** panic attack because i haven't smoked in so long but where i'm.”
+- [01:53:33] JACE: “I'm already goin that way, wanna ride?”
+- [01:53:48] Jacob: “I'm so obsessed now with the possibility of opportunity.”
 
 ## Chapter-style timestamps
 

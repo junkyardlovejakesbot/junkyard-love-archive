@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:03:48] Brian: “doing it doing this for 25 plus years um they start they start throwing their own night they start putting their own party together they start building um”
-- [01:22:27] Brian: “figure out myself but Money is not the only currency not you Know in i think as an individual it's up to You to choose what are currency”
-- [01:16:08] Brian: “things as well um but I was just a dj that liked to party and if i could have removed that which i ended up doing um then”
-- [01:30:51] Brian: “back and say you know I don't ever want to be that person again that's i mean besides The different skills and experiences That you get from different”
-- [01:30:51] Brian: “in my life you know As an artist as a dj as a human Um i'm very much a different person In each one each one of those”
-- [01:24:06] Brian: “would be like that hangover the next day would turn into depression that i didn't know was depression i was like i thought that i was my thoughts”
-- [02:46:35] Jacob: “listener Listen man you're worth it whatever You're going through it's all right whatever your friends are going through you just let them know it's all right in”
-- [02:08:37] Jacob: “are loved and that you matter um and that everyone wants to feel special whether or not we're DJing and we're special right whether or not um I”
-- [02:46:35] Brian: “well um it's just it Breathes life into things that you're trying to create and do and you know all the different perspectives and experiences and it just”
-- [00:18:11] Brian: “Um there's a whole Save Our Stages. com Movement going on where the federal Government hasn't provided a lot of financial support for many industries but including the”
+- [00:03:48] Brian: “Music that they love and start sharing it and if it's if it's huge that's.”
+- [00:18:11] Brian: “Know there's no money uh because all the money's wrapped up in production.”
+- [00:22:10] Brian: “You're going to listen to it you're like oh they missed.”
+- [00:29:19] Brian: “Sounds garbagey right so you learn yes and no and in the end.”
+- [01:16:08] Brian: “It was tough because There are so many things that came out of that time.”
+- [01:22:27] Brian: “An individual it's up to You to choose what are currency what's a currency to you what are you spending what's.”
+- [01:24:06] Brian: “Hangover the next day would turn into depression that i didn't know was depression i was like i thought.”
+- [01:30:51] Brian: “I at the time realized that you know All i am as a dj.”
 
 ## Chapter-style timestamps
 

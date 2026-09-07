@@ -4,15 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About/quotes/li
 
 ## Memorable quotes
 
-- [00:33:12] Jerry: “deliberate in that You will never be free of conflict And you may never be free um you know from that fear but you can still deal with”
-- [00:34:47] Jerry: “hey you know what um Passive aggressive comments are funny in movies but they're terrible in real life relationships so yeah you know we that's why we have”
-- [01:24:08] Jerry: “to good leadership How do i make the people around me great”
-- [00:03:35] Jerry: “Pre-interview podcast was um i help Asian-American leaders handle conflict Resolution better uh through coaching That works yeah that works why the emphasis on Asian-American leadership yeah so”
-- [00:00:00] Jerry: “I know what kind of leadership training i wish i'd had uh in my early 20s Uh late 20s even early 30s and so to Kind of go”
-- [01:24:08] Jerry: “like no I think the world needs more humility you can say empathy but of all the good answers i Think the best one is humility because Humility”
-- [00:06:42] Jerry: “some bad habits like people pleasing like just trying not to upset anybody or when someone's upset with you know you placate them as best you can even”
-- [00:04:54] Jacob: “would my what Would my 16 year old self need to hear And so i'm always kind of trying to remember that and the way i'm wording things”
-- [00:02:55] Jacob: “Audio excellent so ladies and Gentlemen Welcome to the Junkyard Love Podcast i'm happy you're here today i'm Here with jerry hello jerry i'm Happy that you're here”
+- [00:06:42] Jerry: “I got to college i learned quickly just how Uh little i actually.”
+- [00:09:09] Jerry: “Never be interested in taking on a leadership position in a chain pharmacy just because there's.”
+- [00:33:12] Jerry: “You will never be free of conflict. You may never be free from that fear, but you can still deal with it. You don’t have to be afraid of it anymore.”
+- [00:34:47] Jerry: “Passive-aggressive comments are funny in movies but they’re terrible in real-life relationships.”
+- [00:34:47] Jerry: “Know what i'd love to say that it's like try that let me know how that goes.”
+- [00:34:47] Jerry: “Now That the truth is all out now we can actually.”
+- [01:24:08] Jerry: “How do I make the people around me great?”
+- [01:24:08] Jerry: “I think the world needs more humility you can say empathy but of all the good answers i Think the best one is humility.”
 
 ## Chapter-style timestamps
 

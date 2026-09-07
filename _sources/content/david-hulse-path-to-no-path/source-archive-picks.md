@@ -4,28 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 
 ## Memorable quotes
 
-- [00:00:12] David: “the path that they really are on should be the path to no path. In other words, I don’t think we’re in lack trying to get something we don’t have. I think we need to realize what we have forgotten”
-- [00:00:12] David: “do I want to try to fix what’s breaking down or I want to work with what’s breaking through?”
-- [00:07:53] David: “I’m really not a teacher. I’m a reminder.”
-- [00:08:35] David: “don’t believe everything I say just because I say it. … take … what … resonates with your own innate intelligence … that carries your own I am code”
-- [00:11:02] David: “what they were all seeking was nosis in the Greek, which is direct knowledge. Not knowledge through a preacher, a priest or a rabbi … but direct knowledge.”
-- [00:14:09] David: “whatever you qualify into your belief system is the blueprint that cells read as they replicate themselves.”
-- [00:16:40] David: “I’m telling you, it changed my life when I got those forks.”
-- [00:27:45] David: “transformation begins with chaos. … That old caterpillar doesn’t go through what it went through to be an enlightened caterpillar.”
-- [00:27:45] David: “What blesses you in the beginning can betray you in the end.”
-- [00:35:16] David: “what we’re going through is not to remain an enlightened homo sapien, which is an adolescent human, but we are to become the next level of our evolution.”
-- [00:43:21] David: “All we have to do is just remember who we are and reach that critical mass.”
-- [00:45:51] David: “Maybe we’re not the sinners they said we are. Maybe we learn to be the sinners that they are.”
-- [00:45:51] David: “it’s living me. I’m not living it.”
-- [00:50:53] David: “It’s living through me.”
-- [00:52:15] David: “Who shall stand in the gap and make up the hedge? … we’re living between two worlds.”
-- [00:52:15] David: “my intent is to be able to use the language of 3D with a 5D vibration or frequency to it.”
-- [01:03:03] David: “I’m teaching a class right now called energy is currency.”
-- [01:07:15] David: “I see them as keys to the kingdom. … I believe the Solfeggio were the keys”
-- [01:12:01] David: “thank God for those who went before us and made a way so we can do things easier. And that’s my desire of the academy”
-- [01:15:45] David: “I’m sure that old caterpillar goes, what in the world is going on here? … I’ve eaten all my resources. I have nowhere to go. But what’s happening inside of me? I don’t know what’s happening.”
-- [01:18:14] Jacob: “as Ram Dass says, we’re all just walking each other home.”
-- [01:18:45] David: “Hey, everything’s going to be all right.”
+- [00:00:12] David: “The path you’re really on should be the path to no path. We don’t need to get something we don’t have. We need to remember what we’ve forgotten.”
+- [00:00:12] David: “He said, I'm the way. And I think they cut out the way. You know, there's at 18 years missing in the Bible that nobody wants to talk about in Christian. Them. Like, okay, that wasn't important. He didn't say anything for 18 years that maybe you need to know.”
+- [00:00:12] David: “I want to work with what’s breaking through, not try to fix what’s breaking down.”
+- [00:08:35] David: “Don’t believe everything I say just because I say it. Take what resonates with your own innate intelligence. That’s where your own ‘I AM’ code comes in.”
+- [00:27:45] David: “Transformation begins with chaos and disorder. The caterpillar doesn’t go through all that to become an enlightened caterpillar -it becomes a butterfly.”
+- [00:45:51] David: “I'm going around, "Who is he talking to?" And I realized it was me. And I said, "Well.”
+- [01:03:03] David: “It was like taking their because I teach I'm teaching a class right now called energy is currency.”
+- [01:15:45] David: “I'm sure that old caterpillar goes, what in the world is going on here? You know, I've been nibbling on this leaf, and now there's I've eaten all my resources. I have nowhere to go but what's happening inside of me? I don't know what's happening.”
 
 ## Chapter-style timestamps
 

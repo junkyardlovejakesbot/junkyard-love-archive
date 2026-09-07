@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:14:08] Anna: “Just feeling In the wind i feel spirit when i'm Swinging on the swing set at recess i'm Matching my breath and i'm constructing Universes in the clouds”
-- [00:19:00] Anna: “however i just That insatiable curiosity Was really hindered by this Gripping of identity trying to get it”
-- [00:41:05] Anna: “meditators is am i willing To see this differently am i willing to See this scenario in another way am i willing to see meditation in another way”
-- [00:46:45] Anna: “The base definition of hope is Seeing a more positive outcome and Multiple pathways to that positive outcome right so it's just acknowledging this could be better something”
-- [00:50:09] Anna: “kinds of things and Meditation is like Doing any of those things it's like showering for your brain it's just that daily Process that we require to keep”
-- [01:32:35] Jacob: “be fixed You are a garden to be tended to i really like that stood out and you mentioned ego with that as well um i had heard”
-- [01:34:35] Anna: “know there were some seeds planted in all of our gardens that we never we never chose and If that's grown and we've watered that thought or idea”
-- [02:04:58] Anna: “that i can say is it Can and will get better choose to look for the good”
-- [00:22:48] Anna: “synchronicity I would listen to roar by Katy Perry On repeat i wouldn't dislike That was my anthem it was to me it was So much about having”
-- [01:41:46] Anna: “People are so uncomfortable in their own skin you know they feel like something's always wrong or if they have pain it's pain is very root chakra Right”
+- [00:14:08] Anna: “In the wind I feel Spirit, when I'm swinging on the swingset at recess I am matching my breath and constructing universes in the clouds, that was me as a child.”
+- [00:19:00] Anna: “That insatiable curiosity was really hindered by this gripping of identity, trying to 'get it right', needing to always be 'the best', not 'my' best.”
+- [00:26:37] Anna: “I have to leave this battle here.”
+- [00:41:05] Anna: “Am I willing to see this, differently?”
+- [00:46:45] Anna: “The base definition of hope is seeing a more positive outcome, and multiple pathways to that outcome.”
+- [00:49:10] Anna: “Comparing is one of the silliest things we do. Why would I ever compare myself to someone who hasn't had the lived experience, or the DNA, or the childhood, to get you to where you are on your journey right now? OWN where your journey begins.”
+- [00:50:09] Anna: “Meditation is like showering for your brain.”
+- [01:28:08] Anna: “Your home is your vision board, surround yourself with the symbols that mean something to you.”
 
 ## Chapter-style timestamps
 

@@ -4,18 +4,14 @@ Extracted from the faster-whisper ASR transcript (small/int8; prior tiny/int8) a
 
 ## Memorable quotes
 
-- [00:01:56] Jordenelle: “Start with chakras. You want to just let's say that I'm a total dummy and I don't know anything about chakras. I know a little bit, but I”
-- [00:31:07] Jordenelle: “well for this reason. Forest Bathing is real. Yeah. It's a force bathing. Yeah, I want to become like a Forest Bathing practitioner. That's like an epic term.”
-- [00:49:28] Jordenelle: “my partner every day you are enough I love you for you and we don't I just got chills saying that to myself like we don't tell ourselves”
-- [00:44:00] Jordenelle: “and pick with their intuition and you could help them with that. Like that sounds like a great goal. Yeah. And I mean I do want like a”
-- [00:07:52] Jordenelle: “Food is such like a trigger for so many people. Like there's a bull M&M's like, who isn't going to try to eat one or who has that”
-- [00:37:11] Jordenelle: “vision of me owning an herbal shop. Now what that's what I want to do and what can I do to get there. So when you see these”
-- [02:12:30] Jordenelle: “have good, I'm big on grounding for me. It's like, so when I get off a plane, I get home and I'm like, I go in the back.”
-- [00:04:30] Jordenelle: “you treat this as a meditation or do you just like, so you set aside a couple of minutes and you just get your thoughts”
-- [02:14:27] Jordenelle: “think, I think a lot of visualization tunes us into, you know, almost like a tricking of your brain, like a lot, for me, a lot of feeling”
-- [01:17:00] Jordenelle: “I'm hosting my first Full Moon Circle you are what tell me tell me about this so Holly my friend Holly she's like a astrologer she's amazing we've”
-- [01:22:01] Jordenelle: “control me because alcohol does like when I once I start I want more and I want it the next day and the next even if I'm hungover”
-- [01:26:40] Jacob: “weekend this year I drink sometimes it's like what am I borrowing happiness from am I borrowing happiness like weekend by weekend from next year in my life”
+- [00:04:30] Jordenelle: “You treat this as a meditation or do you just like, so you set aside a couple of minutes.”
+- [00:31:07] Jordenelle: “You talk about nature. I'm huge into nature as well for this reason. Forest Bathing is real. Yeah. It's a force bathing.”
+- [00:31:07] Jordenelle: “The forest. Fantastic. So the reason we love and that's a big part of my Instagram too is like get outside.”
+- [00:37:11] Jordenelle: “I do to get there. So when you see these memories or visions of your future go for it because it's showing.”
+- [00:49:28] Jordenelle: “I love you for you and we don't I just got chills saying that to myself like we don't tell ourselves like our part.”
+- [01:17:00] Jordenelle: “It's funny to say like because I'm hosting my first Full Moon Circle you are what tell me tell.”
+- [01:22:01] Jordenelle: “I'm breaking the trauma like my mom has nine years clean next month and it's like I want.”
+- [02:12:30] Jordenelle: “It's like, so when I get off a plane, I get home and I'm like, I go in the back. Of course I love.”
 
 ## Chapter-style timestamps
 

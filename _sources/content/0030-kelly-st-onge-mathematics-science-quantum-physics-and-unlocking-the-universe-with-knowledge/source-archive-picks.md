@@ -4,18 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:05:15] Kelly: “Layers of abstraction so on the very”
-- [00:03:29] Kelly: “Quantum physics and in all these things which I know that sounds intense so if you if those things are hurdles to you”
-- [00:31:54] Kelly: “that has to do with superposition and entanglement wait hold on how did Schroder how does this what was his exact experiment let's see I can let's pull”
-- [00:30:17] Kelly: “bunch of cats and it's Schrödinger cat mmm”
-- [00:18:30] Kelly: “breaks it down into that machine code for such that the computer can understand it right so”
-- [00:15:13] Kelly: “Is actually called assembly so you're”
-- [00:41:24] Kelly: “segue and I'll go into prime numbers so what so”
-- [00:55:35] Kelly: “what is called the singularity in our lifetime Jake it's gonna I think so - actually it's I mean and it's not a matter of if it's a”
-- [01:04:02] Kelly: “It's malicious compliance is what it's called complain and malicious compliance it's like it's kind of like your mom telling you to clean your room and then moving”
-- [00:57:45] Kelly: “lists or watch the Mandalorian and if you haven't I'll try and not ruin it but you know what actually let's just so you have an open platform”
-- [00:49:12] Kelly: “model maybe there is Kung Fu Panda boom you”
-- [01:35:47] Kelly: “Archimedes he's a pull up pull up it wasn't philosopher he was a mathematician kind of guy and he lived”
+- [00:04:04] Kelly: “I kind of wanted a I really wanted to create a podcast with you that I've.”
+- [00:18:30] Kelly: “I just wrote into assembly and then from assembly it breaks it down into that machine code for such that the computer can understand.”
+- [00:31:54] Kelly: “I can let's pull up his exact experiment is that because that does round.”
+- [00:31:54] Kelly: “Experiment is that because that does round it out that's a it's essentially.”
+- [00:41:24] Kelly: “Really fast right so that's why I wanted to get into so I'll make that segue and I'll go into prime numbers.”
+- [00:55:16] Kelly: “What our brains could actually do so our brains are still really **** powerful yeah like but it's just weird because you were now.”
+- [00:55:16] Kelly: “It's just weird because you were now starting to really get into the threshold of holy ****.”
+- [01:04:02] Kelly: “I heard one thing but it's not malicious it's just them making the connection.”
 
 ## Chapter-style timestamps
 

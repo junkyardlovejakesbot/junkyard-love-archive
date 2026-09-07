@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 
 ## Memorable quotes
 
-- [00:38:05] Josh: “Always laughing and I was always able to be 100 myself And we like my like my family my sisters my Mom my dad they always made me”
-- [00:15:19] Josh: “Give myself a pep talk on the way like in the car and i'd be like okay you're gonna go to the bar you're going by yourself you”
-- [00:10:24] Josh: “create like a really strong brotherhood where we stay in touch after we work together for a long time so um it's a i don't know it's just”
-- [00:24:47] Josh: “this book um Called The Velvet Rage which i really recommend um it's about growing up gay basically in like you know like a hetero world um and”
-- [00:14:22] Josh: “Really being open with my sexuality for the first time but it was the first time that i felt comfortable doing so because i wasn't home right like”
-- [00:55:22] Jacob: “it's not always like When you go out to an open mic night or a karaoke bar it's not always like i'm gonna go hear someone who's better”
-- [01:10:53] Josh: “matter i think you know I think the world needs More like openness to Understanding like i think that what you know i think right now everyone is”
-- [01:14:42] Josh: “um kind of but um No I am humbled to be part of this i think you know you are a really special person and i know you're”
-- [01:15:29] Josh: “feel like it gives me permission to be my authentic self too and that's why i've always been drawn to you guys since we all first met um”
-- [01:17:01] Jacob: “you soon bye right Hey guys i hope you enjoyed the episode If you could hit like subscribe follow share leave a comment send to one of your”
+- [00:10:24] Josh: “Have worked for me and we typically create like a really strong brotherhood where we stay in touch after we work.”
+- [00:14:22] Josh: “Time that i felt comfortable doing so because i wasn't home right like i wasn't.”
+- [00:14:48] Josh: “I had the chance to be myself without any baggage of who you think you are, or the way you grow up, or who you're around, or pressures of hurting the people around you by being your authentic self.”
+- [00:38:05] Josh: “I was always able to be 100% myself, My family always made me feel like I could do anything I wanted to do.”
+- [00:38:05] Josh: “Sisters and my dad and my mom because they i always felt so like Inside my home and in my family.”
+- [00:54:52] Josh: “Shows where my mindset i'm looking i'm looking into disco right now no that's super.”
+- [01:10:53] Josh: “I think the world needs More like openness to Understanding.”
+- [01:14:42] Josh: “I love to see you wanting to grow that network and grow the positivity and you know.”
 
 ## Chapter-style timestamps
 

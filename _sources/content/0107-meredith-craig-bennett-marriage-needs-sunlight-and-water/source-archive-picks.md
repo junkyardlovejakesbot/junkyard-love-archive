@@ -4,23 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Memorable quotes
 
-- [00:00:08] Meredith: “we jumped out of the plane and started trying to figure out how to build a parachute on the way down”
-- [00:03:47] Craig: “we had started a business but hadn't yet done the work to decide what we actually wanted our life to look and feel like”
-- [00:07:58] Craig: “the one relationship you have from start to finish is the one you have with yourself”
-- [00:09:29] Craig: “Marriage isn't 50/50 like it's a myth … 50-50 leaves room for gaps … when you get into that you get into scorekeeping and that fractures the relationship”
-- [00:12:17] Craig: “those difficult conversations are what is the foundation Of your marriage”
-- [00:15:01] Meredith/Craig: “we seek The short-term Comfort but that oftentimes breathes long-term dysfunction in your relationship if you keep avoiding the difficult conversation”
-- [00:15:19] Meredith/Craig: “you're putting a brick in the wall between you … Disconnected distance walking on eggshell”
-- [00:15:39] Craig: “vulnerability is actually a superpower in your relationship”
-- [00:18:47] Craig: “being married versus building the Marriage are two very different things … you can be married but never ever build the marriage”
-- [00:19:40] Craig: “We think it's a cheat code to life … build your dream and do it with Your best friend”
-- [00:28:01] Craig: “curiosity is another superpower in your relationship … will Completely transform most conversations”
-- [00:28:47] Jacob: “so it sounds like marriages like plants need sunlight and water”
-- [00:34:52] Craig: “what was the best part of your day … just a nice way to maintain Connection”
-- [00:37:25] Meredith/Craig: “non-negotiable hugs … do it for 20 seconds that's when the oxytocin the happy hormones start to release”
-- [00:39:40] Meredith: “don't settle don't settle”
-- [00:41:52] Meredith: “maybe I Will just actually be me and see if we Fit together … if we don't then he's Obviously not the right person for me”
-- [00:48:16] Craig: “do it While you're walking … sometimes not looking like eyeball to eyeball … is less intimidating”
+- [00:07:58] Craig: “Yourself and so the one relationship you have from start to finish is the one you have with yourself.”
+- [00:12:17] Craig: “Conversations are what is the foundation Of your marriage a lot of times I think we're.”
+- [00:18:47] Craig: “Being married versus building the Marriage are two very different things cuz you can be married but never ever.”
+- [00:18:47] Craig: “A like it's the very teeny tiniest step That is required to build the marriage Like being married versus building the Marriage are two.”
+- [00:19:40] Craig: “We think it's a cheat code to life like it really is a cheat code when you can have build your dream.”
+- [00:19:40] Craig: “Code when you can have build your dream and do it with Your best friend.”
+- [00:34:52] Craig: “Nice way to maintain Connection in a relationship is like just a really specific check-in question What's the best.”
+- [00:34:52] Craig: “Know what was your favorite lesson you learned today like something just specific that prompts a thoughtful.”
 
 ## Chapter-style timestamps
 

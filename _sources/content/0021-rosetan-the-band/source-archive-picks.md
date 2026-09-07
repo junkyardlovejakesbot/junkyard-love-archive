@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:00:00] Jacob: “known as baseball from Rosetan you can find them at Rosetan and Bandcamp whatever you're doing right now I hope that you're thinking about yourself in a positive”
-- [00:07:20] Rosetan: “Eric Nordine he's like guitar player or Eric 13 he's that and stuff it's like you give something in name it now a new creative something over here”
-- [00:14:04] Rosetan: “like I even just in practice like when I'm over here working on stuff and you guys are behind me on chimed in once in a while I”
-- [00:24:15] Rosetan: “necessary things how a mentor or a teacher teach you some things learn about things that like learn from someone who is better than you consistently surround yourself”
-- [00:26:39] Jacob: “going to Mount Hood community you know I go see him and I would get in the car and call my dad like still in the in the”
-- [00:12:54] Rosetan: “changes from playing in a brewery for like an hour to that we have a scheduled our thoughtful set you know”
-- [02:21:43] Rosetan: “something so they'll be insecure about playing guitar all of a sudden right did you feel did”
-- [00:05:57] Rosetan: “roast and we also go by Jake Eric”
-- [01:25:26] Rosetan: “you know the Kelso Longview”
-- [03:13:15] Jacob: “do good and be good Junkyard Love podcasts out”
+- [00:14:04] Rosetan: “I even just in practice like when I'm over here working on stuff and you guys are behind.”
+- [00:14:04] Rosetan: “I get see that really good to like I even just in practice like when I'm.”
+- [00:24:15] Rosetan: “Necessary things how a mentor or a teacher teach you some things learn about things that like learn from someone who is better.”
+- [00:27:03] Rosetan: “I would ignore my guitar for a few hours and bike okay I got to practice.”
+- [00:48:27] Rosetan: “Trying to think like in retrospect if I was gonna learn guitar.”
+- [00:48:27] Rosetan: “I was gonna learn guitar differently what would I do the same.”
+- [02:21:19] Rosetan: “A theme that makes you realize like this is a song he made Crocodile Rock.”
+- [02:21:43] Rosetan: “I'm a piano player it would be his responsibility in a music community to be encouraging towards you no matter.”
 
 ## Chapter-style timestamps
 

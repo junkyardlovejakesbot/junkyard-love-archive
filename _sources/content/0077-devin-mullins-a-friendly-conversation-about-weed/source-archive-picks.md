@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [01:06:56] Devin: “world needs more love Just more love man More love for everybody uh in and out This or that uh you or you or him or her Or”
-- [00:23:58] Devin: “system everybody has it Everybody has these cannabinoid receptors um you just if your listener Look it up if you don't know it's awesome it'll spark the light”
-- [00:21:48] Devin: “human being has an endocannabinoid system it's a system in your body that is meant to recep these cannabinoids so every person”
-- [00:45:16] Devin: “love to carry on um Terpenes are awesome actually i'm gonna grab something while we're here um Terpenes are awesome they're a compound found in almost Everything that's”
-- [00:38:21] Devin: “Anxiety paranoia um uh you know overthinking that it can create That anxiety that you're trying to get away from um so would you would you suggest like”
-- [00:23:58] Devin: “they turned it into a Schedule One drug and made it impossible for people to really benefit from it up until recently which is great Um so back”
-- [00:01:50] Devin: “in reality is Well I work with it all day man uh we get a lot of these uh patient caregivers that don't smoke but they know everything”
-- [00:26:24] Jacob: “while we're right here What's the difference between CBD and THC like obviously THC is psychoactive it gets you high CBD if you just take CBD alone it”
-- [00:00:00] Jacob: “podcast it's me Your host Helga Pataki i'm glad You're here this week we've got Devin Mullins on the podcast he is a cannabis Industry consultant he spent”
-- [01:06:43] Jacob: “last question would be What does the world need more of right now”
+- [00:01:50] Devin: “I mean anxiety depression it's in an Endless list of things that it benefits people in reality.”
+- [00:23:58] Devin: “The psychoactive cannabis Compound or cannabinoid CBD is the non-psychoactive cannabinoid Cannabidiol and then THC.”
+- [00:23:58] Devin: “One drug and made it impossible for people to really benefit from it up until recently.”
+- [00:38:21] Devin: “Know overthinking that it can create That anxiety that you're trying to get.”
+- [00:45:16] Devin: “A little i'd love to carry on um Terpenes are awesome actually i'm gonna grab.”
+- [00:45:16] Devin: “It's a therapeutic Compound can you still hear me well i can okay Terpenes are just they're.”
+- [01:06:30] Devin: “As you can because we're ourselves we just want to help.”
+- [01:06:56] Devin: “Everybody just needs love more love in this world man if we had more love.”
 
 ## Chapter-style timestamps
 

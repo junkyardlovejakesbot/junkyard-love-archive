@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About/chapters 
 
 ## Memorable quotes
 
-- [00:07:24] Abrielle: “Experience is Relaying and relating to people and i Don't feel like we're doing that um and that just comes from I was thinking about conversations with you”
-- [00:14:24] Abrielle: “response was nah i'm gonna take the Knee on that one I've been boycotting that thing for years and he kind of goes off on a little a”
-- [00:42:06] Abrielle: “There's only this way no one can be any different and i was like When you say that are you sure like what If someone else you know”
-- [00:52:06] Abrielle: “fast and all these My dad always tells me to slow down and”
-- [00:47:49] Abrielle: “like that but okay I've been pretty sober Yeah that's that's pretty similar i mean because i've gotten to different you know levels of mind where My i'll”
-- [03:26:11] Abrielle: “is i'll go with the horse-sized duck Feathers all right respect if i ever if i ever encounter a horse-sized duck i'm calling you up let me ask”
-- [03:24:49] Jacob: “you rather fight A horse sized duck or A hundred duck-sized horses Um I'll go with a horse-sized duck Because a hundred duck-sized horses All have hooves i”
-- [00:03:30] Jacob: “k-fabe um amp guard LARPing version of Working a community And a governmental system where we're Kind of doing the illusioned version of how to operate these”
-- [02:49:36] Jacob: “basically he talks about kayfabe and kayfabe if you don't know you probably know uh oh uh it's the thing in In wrestling like WWE wwf The like”
-- [00:06:58] Jacob: “really going on here so Without further ado this is the Sense Making Sickness series Part two with Abrielle Dunn Um my note is a majority of the”
+- [00:14:24] Abrielle: “Taking the knee or whatever because it's like within what he said was this whole.”
+- [00:14:24] Abrielle: “It's interesting because i instantly saw Oh for me to have like if i want to have An actual conversation.”
+- [00:42:06] Abrielle: “Reject To me to me that's a truth like what you point out like ah.”
+- [00:47:49] Abrielle: “I've been pretty sober Yeah that's that's pretty similar i mean because i've gotten to different.”
+- [00:52:06] Abrielle: “A lot and But you learn from that and so instead of just being like all in your face.”
+- [00:52:38] Abrielle: “Base and i've realized my base is this Calm light happy.”
+- [01:22:28] Abrielle: “You bring Bringing compassion and understanding in Their lived experience.”
+- [01:22:28] Abrielle: “Their lived experience because exactly How we are like i get you i get.”
 
 ## Chapter-style timestamps
 

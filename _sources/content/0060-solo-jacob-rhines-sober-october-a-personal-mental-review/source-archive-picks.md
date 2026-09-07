@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About. Labeled 
 
 ## Memorable quotes
 
-- [00:02:30] Jacob: “Life um things that i enjoy and then things that i just do just out of habit um i think a lot of you can relate with waking”
-- [00:03:48] Jacob: “Quit caffeine i had lowered my caffeine intakes severely which helps greatly with anxiety that's something that a lot of us overlook i think when it comes to”
-- [00:11:47] Jacob: “Slight headaches don't just jump to ibuprofen like how much water have you drank you'll notice a lot of times when someone tells you to drink water or”
-- [00:19:01] Jacob: “Neurotic thoughts and helps me that social lubricant right i'm sure we all know how it is where you just kind of feel awkward almost or you feel”
-- [00:25:32] Jacob: “Ownership of what we're dealing with because like who **** cares if someone else thinks you're an alcoholic you're the one who's dealing with it like if you're”
-- [00:30:58] Jacob: “There's real power in that you know really sticking to your guns and if you have trouble with that if you have trouble saying no if you have”
-- [00:38:45] Jacob: “I woke up to some wet drawers i had a wet dream situation and it was interesting because i don't even remember some sort of fantasy i don't”
-- [00:53:21] Jacob: “Far from corny you know it's uh abnormal but it's something that we need to really strive for and really find ways to get um to get nowadays”
-- [01:03:14] Jacob: “To terms with a couple years back i was like holy **** i am obsessed with other people's approval i love other people's approval i really want people”
-- [01:24:16] Jacob: “Into it like this is just something that i do and our personality is our personal reality right you know we habitually do all these things and that's”
+- [00:03:48] Jacob: “Quit caffeine i had lowered my caffeine intakes severely which helps greatly with anxiety that's something that a lot of us overlook i think.”
+- [00:03:48] Jacob: “Overlook i think when it comes to anxiety and lack of sleep and sleeping thoroughly.”
+- [00:12:21] Jacob: “Helps a lot with that because when you're not drinking enough water you have all.”
+- [00:25:32] Jacob: “Ownership of what we're dealing with because like who **** cares if someone else thinks you're an alcoholic you're the one who's.”
+- [00:38:45] Jacob: “I woke up to some wet drawers i had a wet dream situation and it was interesting because i don't even remember.”
+- [00:53:11] Jacob: “By yourself and dance around but there's some healing in that so if you can get yourself to that stage.”
+- [01:03:14] Jacob: “Am obsessed with other people's approval i love other people's approval i really want people to tell.”
+- [01:23:48] Jacob: “Something that i got to rebuild because i'm in a new environment right i'm.”
 
 ## Chapter-style timestamps
 

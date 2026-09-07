@@ -4,21 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Memorable quotes
 
-- [00:00:09] Cam: “you meet up with someone you realize you're living about six miles deep inside your own ass basically … completely just disappeared into yourself”
-- [00:06:09] Cam: “it's a constant shedding like a snake shed skin and then you go out in front of a microphone … here's what I've learned about being a human”
-- [00:09:08] Cam: “when Travis pada did a backflip on a motorcycle … suddenly bro everyone's doing back flips … he just ripped it open so he gave permission … Same with the four-minute mile”
-- [00:10:38] Cam: “let me show you what I've learned that humans can do … not like a new bit of knowledge but more of like a remembering … oh yeah that's what we're supposed to be doing”
-- [00:21:11] Cam: “become like a master of your craft even if it's serving … tables or even if it's sweeping a floor … probably the first time I ever meditated was I was a janitor at a machine shop”
-- [00:23:33] Cam: “I would scrub those little lolium one by one tiles … basically like a wax on wax off … focusing on my breathing … that's probably like the very first time I started getting in touch with like my ego”
-- [00:32:43] Cam: “if I only play the hand I was dealt I'm probably going to end up in these positions I am instead going to actively notice that bring awareness to that and choose to learn something new or do different things and try to route my own path”
-- [00:44:28] Cam: “my dad was born in 35 and my mom was born in 55 … I didn't realize it was weird until I did … all my buddies parents are like not that old”
-- [00:48:01] Cam: “in a lot of ways I was raised as a millennial but then in a lot of other ways I was raised with values and traditions and morals … of a generation that would Place me more in like … the 60s to 7s”
-- [00:58:47] Cam: “we're all sitting in the living room watching The Simpsons … but I also had an awareness of I'm watching the family watch the TV”
-- [01:05:51] Cam: “I don't know how people raise a kid or have a marriage without God … things like faith and … trust and like knowing that everything's going to be okay”
-- [01:15:13] Cam: “you've now been invited on a self-exploration journey … maybe the answer is this is a door that opens from the inside … we all have a spiritual journey and nobody tells us what that looks like”
-- [01:18:58] Cam: “I love being a Texan … but I take even more pride in being from Austin … I don't say Texas I say Austin specifically”
-- [01:31:32] Cam: “laughter is not for yourself like laughter is for connection”
-- [01:33:03] Cam: “the Light in Me loves and and gives permission to light in you … just by showing up and living authentically … it opens the space for … the other people around you”
+- [00:32:43] Cam: “I am instead going to actively notice that bring awareness to that and choose to learn something new or do different things and try.”
+- [00:32:43] Cam: “I was dealt I'm probably going to end up in these positions I am instead going to actively notice that bring awareness.”
+- [00:58:47] Cam: “The Simpsons we're watching TV but I also had an awareness of I'm watching the family.”
+- [01:05:51] Cam: “I man I don't know how I don't know how people raise a kid or have a marriage without God.”
+- [01:18:58] Cam: “I love having pride in being a Texan but I take even more pride in being from Austin yeah seriously I don't say Texas.”
+- [01:18:58] Cam: “I'm from Austin when I go places I love being a Texan I love having pride.”
+- [01:31:32] Cam: “Not for yourself like laughter is for connection right and love it makes you feel.”
+- [01:33:03] Cam: “I think the Light in Me loves and and gives permission to light in you whatever it is yeah just by showing.”
 
 ## Chapter-style timestamps
 

@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:00:00] Juli: “One will be the one to tell their story Using their own words however they want to tell and the other is invited to listen carefully and really”
-- [00:01:04] Juli: “my business which is Peer Performance Solutions and we help organizations and individuals to lift performance and so um through that i use Consulting coaching training and even”
-- [00:01:04] Juli: “and individuals to lift performance and so um through that i use Consulting coaching training and even at Times mediating skills that i've amassed Through various mechanisms i've”
-- [00:19:46] Jacob: “Five Senses For Success um So tell me a little bit about your growth and then how it led to your book and then tell us about your”
-- [00:30:11] Juli: “about what happens in a mediation because it's really powerful in my mind and i hear other mediators say the same thing so when a mediator is called”
-- [00:12:08] Juli: “for a long time can lack confidence i think we as individuals as humans can often lack confidence right it's a it's a human trait that can rear”
-- [00:51:20] Juli: “Wow i have learned so much about myself um so i can say that the practices i put into the book were learned the hard way yeah learned”
-- [00:35:36] Juli: “like the finding the common ground that commonality because it shifts from um sometimes we're unconsciously kind of trying to win you know or our ego is really”
-- [00:18:31] Jacob: “leadership i think of a growth mindset do you think um all leaders have a growth mindset of some sort so i think often if you're put into”
-- [00:08:25] Jacob: “like to use the term Ushering of epiphany i feel like so sometimes do you probably present them with um like So if you get them to say”
+- [00:01:04] Juli: “A ba in communication and then ma in organizational leadership but i also am a certified coach.”
+- [00:12:08] Juli: “Hard to To um tackle because it requires some Internal work and it requires a supportive environment as well.”
+- [00:19:46] Juli: “Your book a little bit of your bio it sounds like you've had your own growth.”
+- [00:19:46] Juli: “Profit and only on how much money we make for whatever the stakeholders are that realize.”
+- [00:30:11] Juli: “Bit about what happens in a mediation because it's really powerful in my mind and i hear other mediators.”
+- [00:35:36] Juli: “Anything that you can i like the finding the common ground that commonality because it shifts.”
+- [00:51:20] Juli: “Practices i put into the book were learned the hard way yeah learned by me making a lot of failures along.”
+- [00:51:20] Juli: “Wow i have learned so much about myself um so i can say that the practices.”
 
 ## Chapter-style timestamps
 

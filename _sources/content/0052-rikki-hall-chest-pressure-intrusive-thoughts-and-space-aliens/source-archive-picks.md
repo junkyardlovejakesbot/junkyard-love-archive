@@ -4,18 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 
 ## Memorable quotes
 
-- [00:47:31] Rikki: “and i **** you not as soon as i woke up from my surgery i like could breathe i'm like holy **** **** i felt like so i”
-- [00:57:20] Rikki: “way and i was never satisfied like i just come to realize that like am i ever going to be satisfied like no just like love your body”
-- [00:57:40] Jacob: “Like that healthy relationship with how you look and what you eat and how you want to treat yourself and your body and your mind and everything it's”
-- [01:03:52] Rikki: “like no we're just too aware of being alive and it's like we the good thoughts we don't even realize when we're having the good thoughts of bad”
-- [01:06:02] Rikki: “gonna make those things because you're aware of it you're”
-- [01:02:18] Rikki: “thoughts like just intrusive thoughts coming up sad thoughts would it like oh my god intrusive thoughts I google this all the time they're real oh they're very”
-- [00:39:26] Rikki: “implant it's called the gummy bear implant it's textured on the outside so it's like fits to your skin so it looks more natural i was like wow”
-- [01:11:17] Rikki: “like because i have panic disorder and i'm like okay like if i start to have the physical symptoms to where i'm gonna like hyperventilate and have a”
-- [01:06:40] Rikki: “watch like so much True Crime **** i think i'm afraid of like the consequences of like doing something horrible and like i can't even fathom how people”
-- [01:37:59] Rikki: “i just had i had a reiki session with her two weeks ago no way so did i it was an office two weeks ago but it was”
-- [01:22:01] Rikki: “the marble and the aliens are **** playing with the marbles like the marvel game dude i'm like that's us like that was”
-- [01:34:04] Jacob: “the hell happened to dinosaurs like what really happened to dynamite like did a meteor really come down and kill them all no like i don't know it's”
+- [00:47:31] Rikki: “As soon as I woke up from my surgery, I could breathe.”
+- [00:57:20] Rikki: “Never satisfied like i just come to realize that like am i ever going to be satisfied.”
+- [00:57:40] Jacob: “You really have to find that healthy relationship with how you look and what you eat and how you wanna treat yourself and your body and your mind.”
+- [01:02:18] Rikki: “When bad thoughts come in, we over-analyze it, but when good thoughts come in, we don’t even think about it.”
+- [01:03:52] Rikki: “We’re just too aware of being alive.”
+- [01:03:52] Rikki: “We don't even realize when we're having the good thoughts of bad thoughts.”
+- [01:06:02] Rikki: “Not gonna make those things because you're aware of it you're.”
+- [01:12:10] Rikki: “It’s so hard when someone doesn’t understand your anxiety. If you wanna talk about intrusive thoughts, and they call you crazy, say you’re wild.. but when somebody does (want to talk about it), it makes you feel so much better.”
 
 ## Chapter-style timestamps
 

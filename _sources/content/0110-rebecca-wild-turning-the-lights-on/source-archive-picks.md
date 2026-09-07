@@ -4,26 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Memorable quotes
 
-- [00:02:57] Rebecca: “will you do the healing for me no”
-- [00:03:55] Rebecca: “I'm not normal I'm not I'm very different to everyone else here I don't fit in it doesn't feel right”
-- [00:04:49] Rebecca: “will you turn the light on and I did and I stayed”
-- [00:04:49] Rebecca: “I'm just I'm on the floor in the dark”
-- [00:09:24] Rebecca: “when You are at Rock Bottom there's nothing there's nowhere else to go”
-- [00:09:24] Rebecca: “there's this tiny little spark within that's like one more … try … just one more just one more”
-- [00:12:16] Rebecca: “you are not your mental illness it's just something that's happening to you right now”
-- [00:12:16] Rebecca: “you are so much more than how you think about yourself when you're afraid”
-- [00:13:59] Rebecca: “writing for me has been so empowering and … cathartic and so healing”
-- [00:14:10] Rebecca: “my little social media friendships almost are really what made me see that I was valuable and I was worthy”
-- [00:25:13] Rebecca: “I talk about dating yourself and I have this list that's called the Getting to Know Yourself list”
-- [00:26:09] Rebecca: “everybody needs to be intentionally single for at least some part of their life to know themselves”
-- [00:39:05] Rebecca: “I have to Have one present meal a day which is where I sit with nothing with no one with just my food no phone”
-- [00:52:50] Rebecca: “I can choose not to Suffer about this”
-- [00:56:29] Rebecca: “my meditation does not look anything like how I thought it was supposed to and yet”
-- [00:58:00] Rebecca: “I'm spending time with myself that is a really loving thing for me to do”
-- [00:59:08] Rebecca: “it doesn't have to be the way that I think people think it has to be”
-- [01:05:00] Rebecca: “I am so much more Than my trauma what happened to me does not define me”
-- [01:22:18] Rebecca: “If you're like well I'm never going to be fixed because I'm not ever going to do psychedelics do meditation”
-- [01:22:32] Rebecca: “you can absolutely get to the same place with it”
+- [00:04:49] Rebecca: “I was in an abusive relationship at the time I had early.”
+- [00:04:49] Rebecca: “I was my name friends Anything crazy and then my dog who was like the my soul dog.”
+- [00:25:56] Rebecca: “I never done that for me so for example a couple of things on my list is like I love to watch.”
+- [00:25:56] Rebecca: “I love to watch the end credits of films I don't know.”
+- [00:52:50] Rebecca: “I'm then doing 45 minutes twice a day and I come out of this thinking I can choose.”
+- [00:56:29] Rebecca: “I talk and my meditation does not look anything like how I thought it was supposed.”
+- [00:59:08] Rebecca: “Usually the morning after a really long meditation or whenever I really do it to be honest.”
+- [01:22:18] Rebecca: “If you're like well I'm never going to be fixed because I'm not ever going to do psychedelics do meditation.”
 
 ## Chapter-style timestamps
 

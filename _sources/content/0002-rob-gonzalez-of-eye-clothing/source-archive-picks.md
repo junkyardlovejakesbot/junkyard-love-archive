@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:00:00] Jacob: “names man the owner of EYE Clothing I'm finally I'm pumped to finally be in the podcast brother me too I'm glad to be here I love sharing”
-- [00:01:26] Rob: “help people mm-hmm growing up I always was trying to help my mom in any way I could she'd be washing the dishes and I'd be like can”
-- [00:00:38] Rob: “Company out of your trunk of your outie so when I had like four designs - yeah right well did everybody was happy to rep you because everybody”
-- [00:22:07] Rob: “no we opened up our Vancouver location first oh he did we're on your number two for Vancouver and you just upgraded your Vancouver store - yeah that's”
-- [00:14:40] Rob: “book talks about the compound effect okay and you know earning your excellence is the compound effect okay so the compound effect is all about”
-- [00:36:38] Rob: “designs as meaning is the diamond so the reason I chose to go with and it's one of it's part of our banner logo which is like the”
-- [00:02:02] Jacob: “know but I did have a vision of wanting to be my own boss and not having to work for the man but not only”
-- [00:37:23] Rob: “like it takes a lot of hard work to get to a diamond it takes a lot of hard work to get to your goals and dreams and”
-- [00:07:13] Jacob: “out we have tons of friends who do that and they do well and they have wonderful lives but they just as much as we no nothing”
-- [00:43:53] Jacob: “of that be healthy peace out we'll see you next podcast”
+- [00:01:26] Rob: “Planting the seed into our mind letting us know like hey whatever you put into your mind you can create.”
+- [00:02:18] Rob: “I wanted to be able to do something so that I can help humanity and that vision grew.”
+- [00:14:40] Rob: “This book talks about the compound effect okay and you know earning your excellence is the compound.”
+- [00:14:40] Rob: “I haven't actually heard of that one and this book talks about the compound.”
+- [00:17:20] Rob: “I started to realize like I want my designs to have meaning.”
+- [00:23:25] Rob: “Our store and they're like because first thing we ask.”
+- [00:36:38] Rob: “Meaning is the diamond so the reason I chose to go.”
+- [00:36:38] Rob: “The thing another one of our designs as meaning is the diamond.”
 
 ## Chapter-style timestamps
 

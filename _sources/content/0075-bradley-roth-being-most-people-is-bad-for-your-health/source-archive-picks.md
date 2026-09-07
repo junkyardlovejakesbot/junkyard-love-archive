@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About/quotes/li
 
 ## Memorable quotes
 
-- [00:01:29] Bradley: “Yeah i'll try and keep it short but my I got here is pretty indirect I started out in the fitness industry growing up That's who i was”
-- [00:01:29] Bradley: “is pretty indirect I started out in the fitness industry growing up That's who i was i was sports working Out that's kind of all i knew how”
-- [00:53:07] Bradley: “this someday that and Someday typically means never Unless you have a direct plan and so”
-- [00:53:07] Bradley: “typically means never Unless you have a direct plan and so”
-- [00:21:14] Bradley: “one-size-fits-all for it um I struggle with meditation for sure i I go through bouts where i'm real consistent and then i'll go through you know a phase”
-- [00:21:14] Bradley: “silent meditation like My internal dialogue is like a thousand miles an hour at all times so uh whereas like you know some people Like at this at”
-- [01:29:43] Bradley: “Yeah It's funny because i have a question that i ask everyone too on my podcast And now i know what it feels like to be stumped but”
-- [01:29:43] Bradley: “said if we could start teaching people Like those soft skills those that understanding of basic psychology and stuff like that at a younger age and understanding behavior”
-- [00:01:10] Jacob: “Cool all right ladies and gentlemen I'm here with Bradley Roth uh of the Not Most People Podcast uh i think you guys are really gonna like this”
-- [01:29:11] Jacob: “If you had to answer What does the world need more of right Now what would you say that's a good one um”
+- [00:04:36] Bradley: “I've kind of decided to specialize or niche down into relationship coaching.”
+- [00:04:36] Bradley: “Niche down into relationship coaching so for people who are in long-term relationships.”
+- [00:21:14] Bradley: “A silent meditation like My internal dialogue is like a thousand miles an hour at all.”
+- [00:21:14] Bradley: “I could tell the difference um i find for me i can't just do like a silent meditation like My internal dialogue.”
+- [00:53:46] Bradley: “My highest value in life is freedom - time freedom, thought freedom, location freedom, financial freedom, etc.”
+- [01:07:19] Bradley: “Most people are not very happy, healthy, or wealthy – so why would you want to live, think, and be like most people?”
+- [01:29:43] Bradley: “It's funny because i have a question that i ask everyone too on my podcast And now i know what it feels.”
+- [01:29:43] Bradley: “A lot of problems um because Otherwise we're driven by like we don't.”
 
 ## Chapter-style timestamps
 

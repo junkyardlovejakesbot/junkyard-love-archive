@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 
 ## Memorable quotes
 
-- [00:10:22] Ryan: “everything it's like find Your breaking point and make that your comfort zone and so i found like Accelerating my life to be my new uh Comfort zone”
-- [00:10:22] Ryan: “and so i found like Accelerating my life to be my new uh Comfort zone if that makes sense and a lot of and to reach that level”
-- [00:16:22] Ryan: “this is starting to weigh me down emotionally and stress me out i just gone”
-- [00:21:03] Ryan: “what do you there's no past man just like what can i what can i do about it i can't do literally anything what can i do the”
-- [00:26:34] Ryan: “When you After you climb a mountain all Of your other problems are small in comparison so that's why Every time you see every time someone sees me”
-- [00:26:34] Ryan: “catchphrase you're not down for discipline not down for discipline yeah i like that well all right so convince these people that maybe they need a little cardio”
-- [00:31:19] Ryan: “out and let go like every time i Beatbox it takes up all of my mental power to be Able to do that i can't even control my”
-- [00:38:17] Ryan: “like i'm doing this set routine over and over Again and i was starting to like lose love for it you know what i mean i don't know”
-- [01:01:44] Ryan: “you now You can't you can't love anyone else Until you truly love yourself you just Can't you can't give that same energy you know it's like Carrying”
-- [01:55:52] Jacob: “What would you say the world could use a little more of right now And by the world i mean discipline”
+- [00:10:22] Ryan: “Find your breaking point and make that your comfort zone. I found accelerating my life to be my comfort zone and to reach that level, I had to let go.”
+- [00:16:22] Ryan: “This is starting to weigh me down emotionally and stress me out, so it's gone.”
+- [00:26:34] Ryan: “After you climb a mountain, all of your other problems are small in comparison.”
+- [00:38:17] Ryan: “I was doing this set routine, over and over again, and I started to lose love for it.”
+- [00:38:17] Ryan: “Lose creativity and you lose love for what you're doing it's like that's.”
+- [00:38:17] Ryan: “You're trying to be what everyone else wants that's stressful and you lose creativity and you lose love.”
+- [01:01:44] Ryan: “You can't you can't love anyone else Until you truly love yourself you just Can't you can't give that same.”
+- [01:14:35] Jacob: “They're not down for discipline.”
 
 ## Chapter-style timestamps
 

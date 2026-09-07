@@ -4,14 +4,14 @@ Extracted from the YouTube auto-caption transcript and published links already o
 
 ## Memorable quotes
 
-- [00:14:29] John: “don't drop acid until you're Ready to be troubled But know that you know when we realize The fundamental things about ourselves We realize”
-- [00:28:23] John: “Hoarding Is the wanking of wealth right but it's That it lasts about that long you know Then you have to work some more”
-- [00:29:21] John: “making love of wealth is the sharing Of it and you know the mysterious Astonishing thing about that is that When we do that”
-- [00:31:36] John: “Generous with people they don't bust our Balls You know and it can't cost more than the Military costs right no not much right”
-- [00:31:36] John: “We have to use Force We have to use Force sometimes when it happens inside Our borders and the police use it to Stop”
-- [00:59:23] John: “conscious Being in the universe we are the Universe's vessels of consciousness and That is like Immeasurably astonishing That this came to us and”
-- [00:56:45] John: “be still yet still Be and I think it means you know to like Wake up but pay attention you know wake Up wake”
-- [01:08:09] John: “play some great music and show People how to dance and then come back To work”
+- [00:07:01] Jacob: “Be still, yet still be.”
+- [00:14:29] John: “Kids, don't drop acid until you're ready to be troubled.”
+- [00:28:23] John: “Hoarding is the wanking of wealth.”
+- [00:29:21] John: “The making love of wealth is the sharing Of it and you know the mysterious Astonishing.”
+- [00:31:36] John: “When we’re generous with people they don’t bust our balls.”
+- [00:31:36] John: “Here’s the difficult part of my theory Jacob: we have to use force.”
+- [00:59:23] John: “The thing that is the most precious to me in my whole life has fallen into my lap, no more than it has into everybody’s, and that thing is: being a conscious being in the universe.”
+- [01:08:09] John: “Get out there and show some people some great music and then get back to work.”
 
 ## Chapter-style timestamps
 

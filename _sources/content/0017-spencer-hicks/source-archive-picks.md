@@ -4,18 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:02:41] Spencer: “Conversations always seem to peer into something that we're both very interested in a lot of our subject matter seems to be like we're both on the same”
-- [00:04:11] Jacob: “because there's different beliefs that you both have you hope we accidentally hold on to these things and then we don't let ourselves progress forward even have a”
-- [00:24:18] Spencer: “like okay I want to vote and who do I vote for like what does it mean like how do I learn to vote I'm sure there's like”
-- [00:44:05] Spencer: “Politically I really like the Frankfurt School thought which is basically just all the communist guys I really like all of them as philosophers they're great if you”
-- [00:46:16] Spencer: “Camus okay he does Absurdism which is basically like a world like there's just nothing like this is just complete chaos and you must be you must be”
-- [00:06:18] Spencer: “view on life is very wonderful I just find myself wanting I just don't want to talk and you want to listen to what they have to say”
-- [00:34:42] Spencer: “technology the internet social media texting like our shortening”
-- [01:12:38] Spencer: “okay here's another alpha male and my alpha is bumping up against his like it was never any sort of I don't know we're so wrapped up in”
-- [01:13:27] Spencer: “like oh if you play Dungeons and Dragons you're nerdy or oh if you play video games like oh you're a grown man like whatever I my opinions”
-- [01:35:51] Jacob: “yeah being a being a victim only hurts you to some degree yeah like people are rightfully I mean if you are literally a victim of something you're”
-- [00:56:41] Jacob: “and just choose what adventure you're gonna go down like what character you're gonna be in and if you just stuck on one character the whole time you”
-- [01:34:57] Spencer: “the story so believed Sisyphus is one of the Greek gods or”
+- [00:06:18] Spencer: “I just find myself wanting I just don't want to talk and you want to listen to what they have to say.”
+- [00:06:18] Spencer: “I've reinforced it for so long that I just don't get to do that anymore oh yeah because yeah if you decide.”
+- [00:24:18] Spencer: “I want to vote and who do I vote for like what does it mean like how do I learn to vote I'm sure.”
+- [00:24:18] Spencer: “How do I learn to vote I'm sure there's like plenty of simple.”
+- [00:24:18] Spencer: “I'm saying it out loud I think I would love to like learn exactly.”
+- [00:44:05] Spencer: “The Frankfurt School of thought and just listen to their ideas okay can you explain.”
+- [01:13:27] Spencer: “Every Friday like whatever you love to do especially if it's by yourself.”
+- [01:36:24] Spencer: “Is never gonna grow like if you never break the chains of that you're never.”
 
 ## Chapter-style timestamps
 

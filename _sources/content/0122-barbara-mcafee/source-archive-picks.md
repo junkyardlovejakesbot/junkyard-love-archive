@@ -4,26 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 
 ## Memorable quotes
 
-- [00:00:30] Barbara: “most of us are using our kind of unconscious default voice that we think is us, but it’s not. It’s cobbled together with duct tape and popsicle sticks and trauma and habit … And … the story is always too small.”
-- [00:02:00] Barbara: “we’re all kind of wearing a vocal girdle”
-- [00:04:10] Barbara: “we start beyond speaking and singing in sound … You just take it off the leash and swat it on the butt and send it off to play.”
-- [00:06:12] Barbara: “pretending to be somebody else is kind of secret sauce … because the ego means well … but it’s way too small.”
-- [00:10:03] Barbara: “there is this feeling … where you feel something rising up in you that is more than you.”
-- [00:13:38] Barbara: “the parts of my voice I hate the most or I feel most uncomfortable with have the greatest gifts for me because it represents a part of us that’s in exile somehow.”
-- [00:17:48] Barbara: “I think of [the ego] as like a pet like a dog who doesn’t know the difference between the postal carrier and an intruder. … like a dog, it can be trained.”
-- [00:19:59] Barbara: “you can’t change your voice without having your life come along for the ride.”
-- [00:30:43] Barbara: “singing is … like the mycelial connections between trees.”
-- [00:32:11] Barbara: “that kind of singing lights up … the mycelial connections between us.”
-- [00:40:07] Barbara: “you can laugh like a big hairy oaf … Laughing is a great way to just open up the different sounds.”
-- [00:46:26] Barbara: “we’re all code switching. We’re all shifting depending on who we’re talking to. … there’s also a lot of unconscious things we’re doing with our voices that are spilling all kinds of information about us.”
-- [00:49:15] Barbara: “the water is the voice of the heart. … if you … get a big enough sense of who you are … you can come from all these different places and still feel like yourself”
-- [00:52:49] Barbara: “vocal fry … is basically anorexic. It’s an anorexic tone. It’s like you’re starving your vocal cords for the air they need”
-- [00:53:17] Barbara: “we’re not supposed to be alone in here. … for most of human history we had regular opportunities to lose ourselves usually through … dance, music, trance.”
-- [00:56:46] Barbara: “You cannot mind your way out of that.”
-- [01:05:27] Barbara: “voice is just a huge part of how we get our gifts in this world before we die. … the greatest thing you’ll ever learn is just to love and be loved in return.”
-- [01:10:05] Barbara: “We make the song for the silence that comes after … And my longing and this silence calls the song.”
-- [01:11:54] Barbara: “when we use our voices in some way, we plug into the resonant hum of life that is happening all the time.”
-- [01:16:36] Jacob: “how about you do a little singing as well? Test out your five elements … Listeners, love yourself”
+- [00:00:30] Barbara: “Most of us are using our kind of unconscious default voice that we think is us, but it’s not. It’s cobbled together with duct tape and popsicle sticks and trauma…”
+- [00:02:00] Barbara: “We’re all kind of wearing a vocal girdle.”
+- [00:06:12] Barbara: “Pretending to be somebody else is kind of the secret sauce.”
+- [00:13:38] Barbara: “The parts of my voice I hate the most have the greatest gifts for me.”
+- [00:13:38] Barbara: “I feel most uncomfortable with have the greatest gifts for me because it represents a part of us that's in exile somehow.”
+- [00:30:43] Barbara: “Singing is like the mycelial connections between trees.”
+- [00:40:46] Barbara: “Laughing is a great way to just open up the different sounds.”
+- [00:42:21] Barbara: “Our voice is the primary way we shape our world.”
 
 ## Chapter-style timestamps
 

@@ -4,18 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:00:23] Jessica: “We have to put our coffee shop mask on Oh what is that we're just talking about coffee shop maths”
-- [00:01:29] Jessica: “speak on like I was in social work and then I was also a bartender and so I have met various types of the community I've also worked”
-- [00:19:49] Jessica: “instincts right not and Because I said so yeah so that's something that uh but my sister says out says a lot because I said so and so”
-- [00:48:33] Jacob: “where we're at now is Castle Rock and that's where I live now so Jessica and I met after high”
-- [00:05:01] Jessica: “leave this one into social media yeah wait pause right there because I didn't hit record on either of the videos I want challenges asked an audio engineer”
-- [01:02:42] Jessica: “now sucks did this anxiety these all these things that you're feeling because these things that you they're real they're real and I felt them because I try”
-- [00:17:47] Jessica: “lot of monks and like meditation guy doesn't stuff and there's times where old me would have been so impatient but now I'm able to sit through and”
-- [00:08:35] Jessica: “It trauma but I wouldn't I wouldn't identify with my childhood as a traumatic but there were events that caused me to have to learn differently or quicker”
-- [01:28:49] Jessica: “doing any of this your Maslow's”
-- [01:29:57] Jacob: “the very top is like self identity so you're”
-- [01:38:05] Jacob: “Definitely am karma kicks in sorry what what is karma to you I feel like the Instagram Roffe on sale for $7.99”
-- [01:58:09] Jessica: “with him and it was a mindfulness video but it was literally like eating a Hershey's kiss and you know honestly those aren't my favorite candies but it's”
+- [00:08:35] Jessica: “I wouldn't I wouldn't identify with my childhood as a traumatic but there were events that caused me to have to learn.”
+- [00:17:47] Jessica: “I've been watching a lot of monks and like meditation guy doesn't stuff and there's times where old me would have been so impatient.”
+- [00:19:49] Jessica: “I said so yeah so that's something that uh but my sister says out says a lot because I said so and so I've.”
+- [00:48:51] Jessica: “I like I have a yard here I wave at people like I am a part of the community not outside of the community.”
+- [01:02:42] Jessica: “Through now sucks did this anxiety these all these things that you're feeling because these things that you they're.”
+- [01:02:42] Jessica: “These things that you're feeling because these things that you they're real they're real and I felt.”
+- [01:30:15] Jessica: “I always remember the baton the most basic one because I think social services I've been in it yes so is it like hierarchy.”
+- [01:38:14] Jessica: “I'm just saying because I have plenty of those karma yeah like what is karma.”
 
 ## Chapter-style timestamps
 

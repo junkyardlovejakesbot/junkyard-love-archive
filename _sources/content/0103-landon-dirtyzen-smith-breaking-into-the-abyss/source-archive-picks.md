@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Memorable quotes
 
-- [00:00:56] Landon: “I started making chillstep mixes … chillstep were kind of an outlet for those problems … the more I listen to certain lectures like Ram Dass specifically is one of my favorite teachers … it was like almost therapeutic … finding my own purpose finding my own Dharma”
-- [00:38:10] Landon: “I use tarot for myself mostly … to have a better connection to what I would call God or source and to myself really and so the tarot kind of just helps me see where I'm at in the present moment”
-- [00:38:10] Landon: “it's really important for people to have discernment when a reading comes across because a lot of people are doing it for their own egoic reasons … Tarot is I think such a sacred practice”
-- [00:49:20] Landon: “that psychedelic experience I had really helped Propel me forward into my spiritual journey more deeply because I recognize the potential possibilities of the path”
-- [00:57:42] Landon: “That trip was really interesting because like I said it showed me like the two sides of the coin and how you know this other side of it can really affect you on your Journey”
-- [01:03:02] Landon: “the purpose of the spiritual path is to kind of understand that answer … your storyline of who you think you are … doesn't actually exist in the sense of like it's not the absolute truth it's relatively real”
-- [01:17:00] Landon: “noticing how often I have different versions of spiritual bypassing come up … it's not something like okay I conquered spiritual bypassing … i've recognized that the spiritual bypassing is a part of the path”
-- [01:19:36] Landon: “what how it showed up for me a lot at the beginning was like this overwhelming level of toxic positivity I was like if it's not good vibes get it away from me”
-- [01:26:23] Landon: “the emotions and stuff that's not any less spiritual it's all part of the dance it's all it's all spiritual and it's when you begin to separate it … you begin to kind of push it away … when you see it as spiritual you embrace the emotions and pull them in closer”
-- [01:34:27] Landon: “Self and the true self and it really just opened me up in a new Way because I stopped um identifying with my smallness and recognized um the vast expansiveness of who I really am”
+- [00:38:10] Landon: “Have discernment when a reading comes across because a lot of people are doing it for their own egoic.”
+- [00:38:10] Landon: “I find on the internet but it's really important for people to have discernment when a reading comes across because a lot of people.”
+- [00:49:20] Landon: “I would say that psychedelic experience I had really helped Propel me forward into my spiritual journey more deeply because I recognize the potential.”
+- [00:49:20] Landon: “Forward into my spiritual journey more deeply because I recognize the potential possibilities of the path yeah nice that's.”
+- [01:03:02] Landon: “I think the purpose of the spiritual path is to kind of understand that answer and you can kind of explain it and I'm.”
+- [01:03:02] Landon: “Sense of like it's not the absolute truth it's relatively real but it's not it's not what you would call reality.”
+- [01:17:00] Landon: “What spiritual bypassing is tough because it's like a continuous kind of thing that we always almost.”
+- [01:26:23] Landon: “Discovering our spiritual nature and those sorts of things but it's also all the icky.”
 
 ## Chapter-style timestamps
 

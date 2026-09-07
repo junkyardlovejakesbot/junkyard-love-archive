@@ -4,18 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:57:11] Mika: “thinking it as like a plan B or a plan Z”
-- [00:20:46] Mika: “it'syou can either choose unconditional love and acceptance or change at any time in your”
-- [00:52:22] Mika: “shitty day like no just decide to laugh decide to make it easier”
-- [00:51:18] Mika: “quote like when the bad things happen it draws your attention to the good things you weren't paying attention to so like when I get defensive about something”
-- [02:11:52] Mika: “tools you need your emotional toolkit I tell this with like little kids it's just how we describe it but adults need that emotional toolkit to survive adulthood”
-- [01:15:35] Mika: “writing I started doing 10 things I'm grateful for before bed because I have I have nightmares and extremely lazy person in the morning I don't like being”
-- [01:08:52] Mika: “been submitted to a Thought Catalog and I saw that and I literally like started like screaming and like oh yeah like I have I haven't been that”
-- [00:00:06] Mika: “I'm kind of having a depression day and”
-- [01:33:44] Mika: “intuition or a really weird gut feeling or something we call it so many different things but what it boils down to I think is why do we”
-- [01:42:07] Mika: “woman I've been to a Hypnotherapist like I've really tried to dive into the parts of myself that I don't understand in other realms that I'm I don't”
-- [02:23:11] Mika: “other day I like the Enneagram which opted to go into that but Enneagram says”
-- [00:51:50] Mika: “Positive feelings of self-worth and your”
+- [00:20:46] Mika: “You can choose unconditional love and acceptance, or you can choose change.”
+- [00:20:46] Mika: “Whether or not you actually want to change them like I have it on my water bottle and I don't remember.”
+- [00:52:22] Mika: “Decide to laugh, decide to make it easier on yourself, because we don't get to move time, we still have to experience what we are going through.”
+- [00:52:22] Mika: “I think that's my self-care is so important because like if it is like sand and it is false or your fingers.”
+- [00:57:11] Mika: “Going from thinking that suicide or total decline as a plan B, to deciding that it's not an option.”
+- [01:14:35] Jacob: “You don't know what the fuck you think until you think it.”
+- [01:15:35] Mika: “I started doing 10 things I'm grateful for before bed because I have I have nightmares and extremely lazy person.”
+- [01:15:35] Mika: “Have a daily writing practice now do try to insert a daily writing practice at all or no I don't.”
 
 ## Chapter-style timestamps
 

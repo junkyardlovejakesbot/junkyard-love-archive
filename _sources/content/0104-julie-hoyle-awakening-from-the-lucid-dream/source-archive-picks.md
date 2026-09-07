@@ -4,18 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Memorable quotes
 
-- [00:01:00] Julie: “when you have a shift of consciousness … you wake up to the recognition that you're not your story and you begin to see your life … from the more Expansive perspective … the I am or the Supreme self or Source itself”
-- [00:03:29] Julie: “I was always looking for someone … who I knew could speak to the truth of who I was beyond the story”
-- [00:03:29] Julie: “I recognized him immediately as being the one I had been searching for my entire life and in that moment of recognition … everything fell away … I just felt this profound feeling of coming home”
-- [00:03:29] Julie: “I don't know but my life will never be the same again”
-- [00:13:13] Julie: “I had this clear moment where I saw that seeking itself was the obstacle and that seeking have to go … the only thing that had any kind of resonance … was to just go as deeply into the silence as I could possibly go”
-- [00:30:41] Julie: “there's a space always between one thought … rising and then subsiding … and that space is silence itself because the place from which thoughts arise … is the self is Source itself is silence”
-- [00:33:15] Julie: “there's absolutely no way I'm going to write a book if it comes from ego … has to flow it has to be given otherwise it's not happening”
-- [00:44:39] Julie: “there can be a tendency to like try and meditate everything away and that works for a while but it doesn't work long term”
-- [00:53:21] Julie: “Spiritual Awakening … is about the recognition that really you don't know anything and it Source itself that informs … whatever you need to know in any given moment … lean into the not knowing”
-- [01:09:20] Julie: “the main message is to trust yourself trust your inner knowing trust your inner guidance … lean into that lean into the not knowing”
-- [01:13:19] Julie: “I would write at the title … where am I in my life right now at the top of the journal page and then the first image that comes to mind I draw it and then I do stream of Consciousness writing”
-- [01:18:01] Julie: “when you're peeling potatoes or cleaning the kitchen … you can say your prayers repeat your Mantra or go into the silence within your being that is a spiritual practice it doesn't have to be formal”
+- [00:03:29] Julie: “I was always looking for someone who I knew could speak to the truth of who I was beyond the story.”
+- [00:03:29] Julie: “Life really was never the same again because even though I'd always been a lucid.”
+- [00:03:29] Julie: “I recognized him and from that touch then from that point on uh my life really was never the same again because even though.”
+- [00:13:13] Julie: “I dropped doing the all the practices all the meditation everything the chanting everything and the only thing that had any kind of resonance.”
+- [00:33:15] Julie: “I said there's absolutely no way I'm going to write a book if it comes from ego I don't want.”
+- [00:33:15] Julie: “Book if it comes from ego I don't want anything to do with it has to flow.”
+- [01:13:19] Julie: “I draw it and then I do stream of Consciousness writing around what I was being shown and it was always so incredibly profound.”
+- [01:13:19] Julie: “My journal and then do stream of Consciousness writing around that and another little kind of thing.”
 
 ## Chapter-style timestamps
 

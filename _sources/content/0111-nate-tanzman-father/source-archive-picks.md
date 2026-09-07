@@ -4,30 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 
 ## Memorable quotes
 
-- [00:00:20] Nate: “I just don’t see how you can receive again a child and just not believe that this … is magical and this comes straight from source”
-- [00:02:15] Nate: “I even believed that the bike was from God … at that moment … I was gonna commit suicide … I just don’t believe in coincidence”
-- [00:13:06] Nate: “will you find something in this life that you’re willing to die for?”
-- [00:13:52] Nate: “the thought of death and being okay with death is true faith”
-- [00:17:01] Nate: “Would I want my son to be proud, to model me as a man? … And would I want my daughter to marry a man like me?”
-- [00:21:33] Nate: “I’m absolutely not happy. But then when I watch my son operate in a public setting … I sure am like, wow, this is worth it”
-- [00:23:15] Jacob: “If you want what you say you want, expect it to be difficult”
-- [00:29:12] Nate: “I tell my wife it’s either Ferrari or food stamps. I’m going to own the island or I’m going to sleep on it”
-- [00:33:04] Nate: “the weight that you feel that makes you want to end the game is purpose and responsibility”
-- [00:37:15] Nate: “I would rather die than not feel like I gave my son enough”
-- [00:42:19] Nate: “I feel like everything is trying to tell us in some way”
-- [00:42:29] Jacob: “Stop thinking about yourself and serve other people”
-- [00:48:18] Nate: “I believe so much more because I met God in the trenches”
-- [00:53:24] Nate: “if you put one foot in, you never really get in … get in the damn thing”
-- [01:03:26] Nate: “the highest form of energy is gratitude. There is nothing in this moment that gets better than this”
-- [01:16:10] Nate: “I’m buying the ability to be able to feel how wide my son’s rib cage is today”
-- [01:21:15] Nate: “Basically, you become afraid of your own mind”
-- [01:37:05] Nate: “Most of the stuff that we’re supposed to do, we will never receive credit for”
-- [01:37:46] Nate: “Being a father and raising children is to bury and plant fruit that you never ever see”
-- [01:38:09] Nate: “If you are not raising warriors in your homes, sons and daughters that have discernment … your lineage is doomed”
-- [01:44:26] Nate: “No, your heart is on trial”
-- [01:54:08] Jacob: “Serving the image of you is not the same thing as serving you”
-- [01:54:08] Jacob: “Every action you take is a vote for the person you want to be”
-- [01:56:25] Nate: “I sat down and I asked God, if this is not the motion that you intend for me to have, please remove it from my life. And that next month, I lost both of my biggest clients”
+- [00:23:15] Jacob: “If you want what you say you want, expect it to be difficult.”
+- [00:33:04] Nate: “The weight that you feel that makes you want to end the game is purpose and responsibility.”
+- [00:42:19] Nate: “I feel like everything is trying to tell us in some way. Stop thinking about yourself and serve other people.”
+- [00:48:18] Nate: “Is so much sweeter because I believe so much more because I met God in the trenches.”
+- [01:37:05] Nate: “Most of the stuff that we're supposed to do, we will never receive credit for. But that's what you're supposed to do.”
+- [01:38:09] Nate: “If you are not raising warriors in your homes, sons and daughters that have discernment, your lineage is doomed.”
+- [01:54:08] Jacob: “Serving the image of you is not the same thing as serving you.”
+- [01:54:08] Jacob: “Every action you take is a vote for the person you want to be.”
 
 ## Chapter-style timestamps
 

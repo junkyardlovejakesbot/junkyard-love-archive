@@ -4,18 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [00:31:17] Ryan: “Motions I am NOT a creature of circumstance but rather a creator of circumstance and I you know I've worked really hard to take my own mentality into”
-- [00:39:58] Ryan: “going to I need to grow up and be a **** man and so because I feel like I went through that darkness by myself and transitioned out”
-- [00:48:57] Ryan: “you can you can use hope ambition fortitude to like propel yourself into something greater a greater version of you right that's what I'm out here doing and”
-- [02:26:55] Ryan: “Probably stop trying so hard to be”
-- [00:30:36] Ryan: “My work ethic has increased once again and I always tried to pride myself on having a consistent strong work ethic so to see that like on it's”
-- [00:38:15] Ryan: “The perseverance and the fact that I'm not gonna take no for an answer right now they're like all right”
-- [00:33:47] Ryan: “Like I had a leadership attitude and”
-- [02:36:44] Ryan: “exhausted but you if You chase greatness long enough you will wrassle that **** in and it'll all be worth it yes I believe it so much Ryan”
-- [02:36:22] Ryan: “know just work on that undefeated mindset like work on the fact that like the only **** that's gonna bring you down is the **** that you let”
-- [01:17:35] Ryan: “hospital he went into Guitar Center and bought a mini MIDI keyboard brought that and headphones to the hospital and was like”
-- [00:19:53] Ryan: “on purpose and for wrestling in high school and that's what it felt like yeah that's small right like it felt”
-- [00:05:32] Ryan: “superhuman sort of mice or a super mice that don't live because we only test products on mice that are under eight months old or something okay and”
+- [00:05:32] Ryan: “Super mice that don't live because we only test products on mice that are under eight months.”
+- [00:19:53] Ryan: “I was cutting weight on purpose and for wrestling in high school and that's what it felt like yeah that's.”
+- [00:19:53] Ryan: “Wrong I haven't been this light since I was cutting weight on purpose and for wrestling.”
+- [00:31:17] Ryan: “I am not a creature of circumstance, rather a creator of circumstance.”
+- [00:39:58] Ryan: “I'm going to I need to grow up and be a **** man and so because I feel like I went through that darkness.”
+- [00:48:57] Ryan: “An undefeatable mindset yeah like I've just you just have to start but that's.”
+- [01:17:35] Ryan: “The only people that I told that I was in the hospital because it was creeping up on studio day and I'm like hey.”
+- [01:17:35] Ryan: “I was in the hospital he went into Guitar Center and bought a mini MIDI keyboard brought that and headphones.”
 
 ## Chapter-style timestamps
 

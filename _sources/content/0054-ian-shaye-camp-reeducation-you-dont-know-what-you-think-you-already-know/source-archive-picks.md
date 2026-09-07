@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 
 ## Memorable quotes
 
-- [00:23:06] Ian: “the extent that like nothing is for everyone anymore um so it's like in that sense like everything is art for someone in some capacity so i mean”
-- [00:27:48] Ian: “me approach my like cognitive dissonance abstractly like to be able to kind of see it as something that i'm trying to dissect for an audience as opposed”
-- [00:07:46] Shaye: “music the band's called RetroLux and um it's me and a singer uh a really good friend of mine she lives in Toronto now so we're split apart”
-- [00:02:06] Shaye: “Ian had suggested it months and months ago and it took us forever to finally get the ball rolling but and i think the reason for that was”
-- [00:02:52] Shaye: “together we met in existentialism class and uh like within two we even have to explain that at some point i always make the joke we met in”
-- [00:02:06] Shaye: “concept is uh we do two-week immersions into various topics and we try and dive as deep as humanly possible while still currently having jobs um”
-- [00:00:06] Jacob: “and it's called The Social Dilemma you absolutely have to watch the staying documentary you have to change your life accordingly if you haven't drank any water today”
-- [00:41:08] Ian: “here like Shaye is Shaye's a brilliant uh linguist i mean he really i love the way he thinks about language so like i you know i warn”
-- [00:30:30] Ian: “feel like it's like a beginner's mind right it's like you're not it's like the student's mind like trying to continually continuously just remain open to experience and”
-- [00:25:20] Shaye: “reality tv reflect the Zeitgeist that was the that was the podcast one podcast one was what uh like how did yeah what are p how do podcasts”
+- [00:02:52] Shaye: “You YouTube meet because as soon as that comes up you're like ah.”
+- [00:23:06] Ian: “Nothing is for everyone, anymore.”
+- [00:23:06] Ian: “Also just shocking because we didn't see that coming we thought like the premise of the show.”
+- [00:26:33] Ian: “I think I feel more confident from this experience to try and believe something for a little while, with the understanding that I can be wrong with that belief and re-visit it later.”
+- [00:30:30] Ian: “A lot more with that mindset i imagine you have to yeah can we can we take.”
+- [00:30:30] Ian: “Too it's uh i don't know i love it's such a i feel like it's like a beginner's mind.”
+- [00:41:08] Ian: “He really i love the way he thinks about language so like i you know i warn.”
+- [00:41:08] Ian: “Debate with him about it because he thinks about it a lot and Shaye i know you speak spanish.”
 
 ## Chapter-style timestamps
 

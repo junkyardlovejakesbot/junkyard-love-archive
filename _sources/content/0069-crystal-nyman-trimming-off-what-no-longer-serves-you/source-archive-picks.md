@@ -4,16 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 
 ## Memorable quotes
 
-- [01:46:05] Crystal: “No one's going to do anything for you like if you want something if you want to get it no one's going to do it for you so”
-- [01:46:05] Crystal: “whatever it is like You have everything within you to get what you want so don't limit yourself because of what you think that you aren't capable of”
-- [01:46:05] Crystal: “to like i said like If you want something go get it And i'm currently in that phase of realizing like okay don't think that you're not able”
-- [01:46:05] Crystal: “seemed feasible before You're the only one standing in your way”
-- [00:47:57] Crystal: “asks themself that How do i honor myself like how like and how much better is your day if you wake up and you put both feet on”
-- [01:20:40] Crystal: “to get out of their Comfort zone and take that risk of you know seeing what they're capable of and so i think it's important to keep people”
-- [01:05:26] Crystal: “being there for them Holding that space it is really nice um and it is like it's”
-- [01:40:49] Crystal: “realize it before but I have ADHD or whoa i didn't realize it but i'm ocd or whatever and there's There's some extent which is very good because”
-- [00:59:50] Jacob: “going through it and When they sit in your chair like you might be one of the first people that like has really listened to them in a”
-- [01:46:47] Jacob: “crystal thank you so much Listeners take care of yourselves um Check out crystal's instagram if you Want to see her hair and remember that when you're looking”
+- [00:05:02] Crystal: “I'm like the puff bars are terrible because that's like it's in a plastic.”
+- [00:05:02] Crystal: “You're wasting so much just plastic because you use it once and then you throw it out but the jewels.”
+- [00:47:57] Crystal: “Change and like how those moments can be truly powerful.”
+- [01:05:26] Crystal: “Time and without thinking about it just because i was like in there in their home she just does piano lessons.”
+- [01:05:26] Crystal: “Crap like i feel bad because i hope i wasn't just too intense for him.”
+- [01:20:40] Crystal: “You push a boundaries and allow yourself to be able to you know.”
+- [01:40:49] Crystal: “I have ADHD or whoa i didn't realize it but i'm ocd or whatever and there's There's some extent.”
+- [01:40:49] Crystal: “There's some extent which is very good because people are like oh wow jesus that now i can find ways.”
 
 ## Chapter-style timestamps
 

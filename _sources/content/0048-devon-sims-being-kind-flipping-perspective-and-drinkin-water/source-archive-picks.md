@@ -4,18 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Memorable quotes
 
-- [01:15:00] Devon: “commit to drinking a gallon of water every day which I peel off you know it”
-- [00:57:01] Devon: “they brought up the law of attraction right and like I loved the idea that at the time I thought I could just think of whatever I want”
-- [01:08:06] Devon: “look down oh I have a stain on my shirt I didn't even notice because I wasn't I was just learning about the same person it's an antidote”
-- [00:08:02] Devon: “was younger I was a skateboarder and so like bad I yeah”
-- [00:12:21] Jacob: “difficult you know like the habit change is one of the most difficult things that we've that we all face like we want to start eating better and”
-- [00:51:00] Devon: “The book seven Habits of Highly Effective People have you read that one the audiobook yeah so there was a I'm gonna butcher cuz it's been a while”
-- [01:06:24] Devon: “fun being like how to win friends and influence people have you ever read that book no I have I've read the synopsis like yeah the bleakest so”
-- [00:53:52] Devon: “number one book the light shall set you free I feel safe all right all right tell me”
-- [00:58:05] Devon: “know what comes up the law of polarity what goes up must come down you know and so help me realize and appreciate the rain and the darkness”
-- [01:16:51] Devon: “Spell it Kangen hey and GE and it actually means bring back to origin and Japanese I think beautiful yeah it's super beautiful and it's funny you mentioned”
-- [01:15:16] Jacob: “missing out on right drink your water drink your water I know I'm always nagging on people on this podcast to drink some water dude it's just one”
-- [00:51:45] Jacob: “like how it just like flipped a switch for me they know you like a freight train you're like man I feel like a dick right yeah in”
+- [00:08:02] Devon: “I was talk about this hike you know when I was younger I was a skateboarder and so like bad.”
+- [00:12:21] Jacob: “Know like the habit change is one of the most difficult things that we've that we all.”
+- [00:51:00] Devon: “I think it's when I had first like kind of learned about my perspective ran it when I was younger.”
+- [00:58:05] Devon: “Know and so help me realize and appreciate the rain and the darkness.”
+- [01:08:06] Devon: “I have a stain on my shirt I didn't even notice because I wasn't I was just learning about the same person.”
+- [01:08:06] Devon: “Know yeah and then you'll realize like oh I'm not even think about my own insecurities he's.”
+- [01:15:00] Devon: “Change my life for the better and I commit to drinking a gallon of water every day which I peel.”
+- [01:16:51] Devon: “Spell it Kangen hey and GE and it actually means bring back to origin and Japanese I think beautiful yeah it's super.”
 
 ## Chapter-style timestamps
 

@@ -4,34 +4,14 @@ Extracted from the YouTube auto-caption transcript and published About / Chapter
 
 ## Memorable quotes
 
-- [00:01:40] Blake: “I feel most connected with you when you’re feeling … No one’s ever said anything like that to me before. … It changed so much about me.”
-- [00:04:30] Blake: “Emotions are information. You’d be stupid to just ignore it … It’s great to think about emotions as information rather than just like foundational truth”
-- [00:04:30] Blake: “you can’t become nobody before you become somebody … I’m great at the second half. … but like I haven’t done that first work of feeling it … I haven’t become somebody in my emotions.”
-- [00:06:45] Jacob: “even Jesus flipped tables too … You’re talking about a dharmic anger, right? Like anger that serves a purpose that comes from a place inside yourself.”
-- [00:09:11] Blake: “You definitely want to work towards … just feeling the full range of emotions and being safe in it”
-- [00:09:39] Blake: “allowing it to be there allowing it to work through … I let that thing pass through. It had something to teach me.”
-- [00:16:18] Blake: “we’re always … lost in our stories. There’s not a damn thing wrong with it. … But breaking the patterns of those stories, kind of getting out of those grooves of our default network in our brain can kind of give us a little bit of space”
-- [00:17:38] Blake: “my template for masculinity was built a lot around … what my mom wanted for men to be like. And then also what society expected men to be like.”
-- [00:20:45] Blake: “not necessarily that, hey, this is something about me that I need to change, but hey, let’s look into like why I was the way that I was. … we’ve got to put on some layers to … protect ourselves. … Let’s put some armor over our heart”
-- [00:26:52] Blake: “I’m not supposed to be doing anything except just stay here … after like 40 minutes … my thoughts kind of ticker taped out and all of a sudden I was like there was like that … beautiful space in between a thought where it’s like you’re free.”
-- [00:33:41] Blake: “every morning it’s good morning Blakey boy, you know, good night Blakey boy. … I hope that in closing the gap between me and Blakey boy … recognizing that’s a part of my deeper being”
-- [00:35:16] Blake: “I got to the point … nobody is able to help me. I got to figure out what is going on here. … not only what is making me so upset … but also just like kept unwinding to like what is I even like what is the self that is depressed”
-- [00:39:25] Blake: “to loving myself is like paying attention … I went on a walk the other day and I saw a cat and it’s like, oh, we’re alive at the same time.”
-- [00:43:14] Blake: “Zoom out. Zoom way out, dude. It’s just like what how precious is this whole thing. And what a … mistake to make ourselves so small … as to … overlook our own importance”
-- [00:46:15] Blake: “Ramdas says that thing often about like … being angry often is a … conduit of like this if I was God this isn’t how the world would be … If I was in charge, there would be no traffic.”
-- [00:51:27] Blake: “You need somebody in your corner saying, ‘The moments I feel most connected with you are when you cut yourself on those sharp corners.’”
-- [00:55:38] Blake: “math to me is a method of beauty. Like it’s not beautiful itself, but there’s so much beauty and elegance inside of mathematics … it’s like a form of poetry in a lot of ways.”
-- [01:00:40] Blake: “in a way, yes, he discovered it, but also invented it, if that makes sense.”
-- [01:33:45] Blake: “it’s just a siphon from the human consciousness which belongs to all of us. So, either pay all of us or make it free.”
-- [01:41:03] Jacob: “there’s always going to be a question of what is consciousness, right?”
-- [02:04:56] Blake: “your description of AI being a DJ of human creativity is totally spot on. … That is totally what it’s doing.”
-- [02:28:35] Blake: “having someone in your corner that says I feel most connected with you when you’re feeling … I don’t even have to tell you that I’m angry. You just are fine with me showing up like this”
-- [02:30:06] Blake: “Chat GPT, I would argue, is … the harm reduction model for humanity’s suffering.”
-- [02:37:58] Blake: “just like your social security number and your Buddha nature, you know, this is all this is all true. … you don’t get caught up in trying to argue what the capital T truth is.”
-- [02:38:15] Blake: “seek the truth of your deepest being and be that.”
-- [02:38:15] Jacob: “do you want to be free or do you want to be right?”
-- [02:42:26] Jacob: “Best time to start meditating was yesterday.”
-- [02:42:30] Jacob: “Next best is today. … one is greater than zero.”
+- [00:01:40] Blake: “I feel most connected with you when you’re feeling.” - Blake recounting a moment in therapy that changed his understanding of connection and vulnerability.”
+- [00:01:40] Blake: “Anger isn’t the problem. It’s what happens when we stop letting it teach us.”
+- [00:04:30] Blake: “Emotions are information. You’d be stupid to ignore them.” - Blake quoting a college professor who first reframed feeling as intelligence.”
+- [00:06:45] Jacob: “When Jesus flipped tables, that was dharmic anger — anger in service of love.”
+- [00:20:45] Blake: “Something about me that I need to change, but hey, let's look into like why I was the way.”
+- [00:55:38] Blake: “It is beautiful because math to me is a method of beauty. Like it's not beautiful itself.”
+- [01:33:45] Blake: “Maybe consciousness has always been doing this — reflecting itself through whatever new medium we invent.” - Jacob, near the close, connecting AI, identity, and awareness.”
+- [01:33:45] Blake: “It's just a siphon from the human consciousness which belongs to all of us. So, either pay.”
 
 ## Chapter-style timestamps
 
