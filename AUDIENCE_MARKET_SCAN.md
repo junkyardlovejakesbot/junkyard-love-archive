@@ -148,24 +148,23 @@ Evidence-backed profile of who the show *already speaks to* (not aspirational pe
 
 ---
 
-## 7. Category map proposal (future BATGAP-style browse)
+## 7. Category map proposal (BATGAP-style browse)
 
-Draft browse facets grounded in this scan. **Do not implement HTML here** — names + example episodes only.
+Thirteen theme shelves grounded in this scan. Early / peer episodes are shelved by **substance** (music, work, relationships, mind/mood, body practice, etc.) — not parked in an origin catch-all.
 
 1. **Awakening & Mystical Experience** — **0099** Brent Spirit; **0100** Jacob mystical; **0096** ayahuasca; **0120** David Hulse; **0118** Sean Blackwell.  
-2. **Healing, Trauma & Therapy** — **0110** Rebecca Wild; **0114** Ravinder; **0102** BetterU; **0057** Anna Cantwell; **0123** Cristine Hull.  
-3. **Breath, Body & Daily Practice** — **0124** Sigmar Berg; **0082** Sandy Vo; **0060** Sober October; Spencer Hicks health eps.  
+2. **Healing, Trauma & Therapy** — **0110** Rebecca Wild; **0114** Ravinder; **0102** BetterU; **0057** Anna Cantwell; **0123** Cristine Hull; **0015** Jordanne.  
+3. **Breath, Body & Daily Practice** — **0124** Sigmar Berg; **0082** Sandy Vo; **0060** Sober October; Spencer Hicks health eps; **0008** / **0018** Nate fitness.  
 4. **Men, Masculinity & Fatherhood** — **0034** Nate; **0090** Will Andes; **0093** costumes of sadness; **0111** Father; **0121** Tim Fraley.  
-5. **Love, Sex & Relationships** — **0073** Alicia & Erwan; **0107** Bennetts; **0080** Juli Geske; **0087** Zach Beach (path of love).  
-6. **Music & Creative Practice** — **0021** Rosetan; **0046** JACE; **0095** Bobby Barrz; **0122** Barbara McAfee; **0115** Nate Begle.  
-7. **Work, Money & Building** — **0002** EYE Clothing; **0094** Lefebvre; **0106** Cam Reid; **0109** Marty Strong.  
-8. **Sobriety & Substances** — **0060** solo; **0097** Kevin Foreman; **0077** Devin Mullins; **0119** Trey Jones.  
-9. **Mind, Mood & Mental Health** — **0083** / **0093** solos; **0118** bipolar; **0052** Rikki Hall (intrusive thoughts); Sense-Making Sickness **0059 / 0068**.  
-10. **Science, Frequency & Integral Bridges** — **0030** Kelly; **0084** Jeremy Sherman; **0123** quantum medicine; **0124** 528 Hz.  
-11. **Extreme Lives / Second Chances** — **0119** prison NDE; **0109** SEAL; **0102** shot at 19 → therapy founder.  
-12. **Friends & Origin Stories (JYLP Roots)** — early peer eps **0002–0040**; dual locals **0042**, **0053**; Spencer Hicks arc.  
-13. **Host Solocasts** — **0045**, **0060**, **0083**, **0093**, **0100**.  
-14. **Identity & Becoming** — **0113** Wendy Cole (later bloom / transition); **0034** outgrown identities; **0111** father.
+5. **Love, Sex & Relationships** — **0073** Alicia & Erwan; **0107** Bennetts; **0080** Juli Geske; **0087** Zach Beach (path of love); **0005** Jaycie.  
+6. **Music & Creative Practice** — **0021** Rosetan; **0046** JACE; **0095** Bobby Barrz; **0122** Barbara McAfee; **0115** Nate Begle; early music peers (**0004**, **0009**, **0010**, **0033**).  
+7. **Work, Money & Building** — **0002** EYE Clothing; **0094** Lefebvre; **0106** Cam Reid; **0109** Marty Strong; **0020** Megan career.  
+8. **Sobriety & Substances** — **0060** solo; **0097** Kevin Foreman; **0077** Devin Mullins; **0119** Trey Jones; **0015** withdrawals.  
+9. **Mind, Mood & Mental Health** — **0083** / **0093** solos; **0118** bipolar; **0052** Rikki Hall (intrusive thoughts); Sense-Making Sickness **0059 / 0068**; **0013** postpartum.  
+10. **Science, Frequency & Integral Bridges** — **0030** Kelly; **0084** Jeremy Sherman; **0123** quantum medicine; **0124** 528 Hz; **0074** Spencer dialectics.  
+11. **Extreme Lives / Second Chances** — **0119** prison NDE; **0109** SEAL; **0102** shot at 19 → therapy founder; **0015** rock bottom.  
+12. **Host Solocasts** — **0045**, **0060**, **0083**, **0093**, **0100**.  
+13. **Identity & Becoming** — **0113** Wendy Cole (later bloom / transition); **0034** outgrown identities; **0111** father; **0054** Camp ReEducation.
 
 Optional cross-cutting tags (not top-level): `#Colorado`, `#Reiki`, `#Kundalini`, `#Ketamine`, `#NavySEAL`, `#MarriageCoaches`, `#RepeatGuest`.
 
@@ -183,11 +182,11 @@ Optional cross-cutting tags (not top-level): `#Colorado`, `#Reiki`, `#Kundalini`
 
 ### Risks (what would distort the show)
 
-- Rebranding as pure **woo-celebrity awakening podcast** would orphan the early music/peer catalog and the Colorado friend-graph that built trust.  
+- Rebranding as pure **woo-celebrity awakening podcast** would orphan the early catalog’s music, work, relationship, and mind/mood substance — and the Colorado friend-graph that built trust.  
 - Rebranding as pure **bros mental-health / hustle** would undersell women teachers, queer/transition stories (**0113**), couple work, and contemplative guests.  
 - Over-optimizing for **short runtime / listicle SEO** fights the median ~100-minute depth that is the product.  
 - Presenting Jacob as **clinician or guru** contradicts published About framing and raises harm risk on SI/trauma episodes.  
-- Hiding or deleting “messy” early episodes would erase the junkyard thesis; curation via categories beats erasure.
+- Hiding or deleting early episodes would erase the junkyard thesis; shelving them by real themes (not an origin catch-all) beats erasure.
 
 ---
 

@@ -91,11 +91,6 @@ CATEGORIES = [
         "blurb": "Prison, combat, near-death, and hard second acts.",
     },
     {
-        "slug": "friends-origin-stories",
-        "title": "Friends & Origin Stories (JYLP Roots)",
-        "blurb": "Early peers, local friends, and the show’s origin circle.",
-    },
-    {
         "slug": "host-solocasts",
         "title": "Host Solocasts",
         "blurb": "Solo episodes with Jacob — self-care, sobriety experiment, mood, masculinity, mystical practice.",
@@ -112,58 +107,61 @@ SOLOCASTS = {"0045", "0060", "0083", "0093", "0100"}
 
 # Curated multi-label seeds (episode numbers). Prefer evidence over weak fits.
 SEEDS: dict[str, set[str]] = {
+    # Curated from About + Archive picks + transcript substance (not title-only).
+    # Multi-label encouraged when earned. identity-becoming only for real arcs.
+    # Keyword auto-expansion is off; keep this map complete.
     "awakening-mystical": {
-        "0025", "0041", "0050", "0081", "0082", "0087", "0096", "0098", "0099",
-        "0100", "0103", "0104", "0118", "0120",
+        "0025", "0041", "0048", "0050", "0081", "0082", "0087", "0092", "0096",
+        "0098", "0099", "0100", "0103", "0104", "0112", "0117", "0118", "0120",
     },
     "healing-trauma-therapy": {
-        "0025", "0037", "0050", "0057", "0067", "0075", "0080", "0102", "0110",
-        "0114", "0118", "0123",
+        "0007", "0015", "0025", "0037", "0050", "0057", "0067", "0075", "0080",
+        "0102", "0110", "0113", "0114", "0117", "0118", "0123",
     },
     "breath-body-practice": {
-        "0011", "0017", "0023", "0026", "0038", "0044", "0045", "0051", "0060",
-        "0061", "0079", "0082", "0124",
+        "0008", "0011", "0013", "0017", "0018", "0023", "0026", "0038", "0044",
+        "0045", "0048", "0051", "0060", "0061", "0062", "0079", "0082", "0112",
+        "0124",
     },
     "men-masculinity-fatherhood": {
-        "0034", "0090", "0093", "0111", "0121",
+        "0008", "0018", "0034", "0042", "0053", "0090", "0093", "0111", "0117",
+        "0121",
     },
     "love-sex-relationships": {
-        "0036", "0058", "0072", "0073", "0078", "0080", "0086", "0087", "0107",
+        "0005", "0036", "0056", "0058", "0072", "0073", "0078", "0080", "0086",
+        "0087", "0107",
     },
     "music-creative-practice": {
-        "0004", "0009", "0010", "0019", "0021", "0024", "0028", "0035", "0039",
-        "0040", "0046", "0055", "0065", "0066", "0076", "0095", "0103", "0115",
-        "0122",
+        "0004", "0009", "0010", "0019", "0021", "0024", "0027", "0028", "0033",
+        "0035", "0039", "0040", "0043", "0046", "0047", "0055", "0056", "0065",
+        "0066", "0076", "0095", "0103", "0112", "0115", "0116", "0122",
     },
     "work-money-building": {
-        "0002", "0006", "0012", "0022", "0031", "0032", "0051", "0064", "0070",
-        "0071", "0089", "0091", "0094", "0095", "0105", "0106", "0109",
+        "0002", "0006", "0012", "0020", "0022", "0031", "0032", "0042", "0047",
+        "0051", "0053", "0062", "0064", "0070", "0071", "0089", "0091", "0094",
+        "0095", "0101", "0105", "0106", "0109", "0116",
     },
     "sobriety-substances": {
-        "0060", "0066", "0077", "0094", "0096", "0097", "0102", "0119",
+        "0015", "0047", "0060", "0066", "0077", "0092", "0094", "0096", "0097",
+        "0102", "0119",
     },
     "mind-mood-mental-health": {
-        "0052", "0059", "0060", "0068", "0075", "0083", "0088", "0093", "0102",
-        "0110", "0118",
+        "0007", "0013", "0018", "0043", "0048", "0052", "0059", "0060", "0063",
+        "0068", "0074", "0075", "0083", "0088", "0093", "0101", "0102", "0110",
+        "0117", "0118",
     },
     "science-frequency-integral": {
-        "0003", "0025", "0030", "0041", "0050", "0084", "0123", "0124",
+        "0003", "0025", "0030", "0041", "0050", "0074", "0084", "0108", "0117",
+        "0123", "0124",
     },
     "extreme-lives-second-chances": {
-        "0085", "0097", "0102", "0109", "0118", "0119",
-    },
-    "friends-origin-stories": {
-        "0002", "0003", "0004", "0005", "0006", "0007", "0008", "0009",
-        "0010", "0011", "0012", "0013", "0015", "0017", "0018", "0019",
-        "0020", "0021", "0022", "0023", "0024", "0025", "0026", "0027",
-        "0028", "0031", "0032", "0033", "0036", "0038", "0039", "0042",
-        "0044", "0048", "0049", "0053", "0056", "0059", "0062", "0070",
-        "0074", "0088", "0034", "0111", "0112",
+        "0015", "0085", "0097", "0102", "0109", "0118", "0119",
     },
     "host-solocasts": set(SOLOCASTS),
     "identity-becoming": {
-        "0034", "0043", "0046", "0049", "0054", "0067", "0069", "0071", "0086",
-        "0090", "0093", "0108", "0111", "0113",
+        # Real identity / transition / becoming arcs only — not a catch-all.
+        "0013", "0034", "0046", "0049", "0054", "0063", "0067", "0069", "0071",
+        "0086", "0090", "0092", "0093", "0111", "0113", "0117",
     },
 }
 
@@ -188,13 +186,13 @@ KEYWORD_RULES: list[tuple[str, list[str]]] = [
         r"conscious breathing", r"528\s*hz", r"powerlift", r"operating optimally",
         r"maintain health", r"sober october", r"pickleball", r"yoga & meditation",
         r"yogi & meditation", r"nervous system", r"gallon of water",
-        r"mental and physical tips", r"finding the feel",
+        r"mental and physical tips", r"finding the feel", r"krav maga", r"personal health enthusiast",
+        r"mental fitness", r"kangen water", r"drinkin.? water",
     ]),
     ("men-masculinity-fatherhood", [
         r"toxic masculin", r"healing toxic", r"being boys",
         r"becoming men", r"costumes of sadness", r"male vulnerability",
         r"masculine drive", r"-father$", r" nate tanzman - father",
-        r"\bfather\b",  # only used on title_blob (see classify)
     ]),
     ("love-sex-relationships", [
         r"\borgasm", r"relationship-?blueprints", r"\bmarriage\b", r"path of love",
@@ -205,13 +203,15 @@ KEYWORD_RULES: list[tuple[str, list[str]]] = [
         r"\brapper\b", r"hip-?hop", r"disc jockey", r"\bdj\b", r"\brosetan\b",
         r"songwrit", r"dead crown", r"open mic", r"\bpuppet", r"free your real voice",
         r"writin.? songs", r"singer/songwriter", r"wyld productions",
-        r"behind the lens", r"producing music",
+        r"behind the lens", r"producing music", r"recording engineer", r"music festival",
+        r"drama teacher", r"music and staging",
     ]),
     ("work-money-building", [
         r"\bceo\b", r"billionaire", r"eye clothing", r"betting on yourself",
         r"college admissions", r"operations manager", r"family business",
         r"social impact investor", r"building a real foundation", r"vail denim",
-        r"cleaning the floors",
+        r"cleaning the floors", r"ellevate media", r"speech patholog",
+        r"vancouver elite outreach", r"city council",
     ]),
     ("sobriety-substances", [
         r"\bsobriety\b", r"sober october", r"conversation about weed", r"\bcannabis\b",
@@ -222,7 +222,8 @@ KEYWORD_RULES: list[tuple[str, list[str]]] = [
         r"\bbipolar\b", r"mania is a message", r"intrusive thoughts",
         r"sense.?making sickness", r"mental review", r"chest pressure",
         r"costumes of sadness", r"depression & anxiety", r"depression and anxiety",
-        r"ketamine to heal anxiety", r"making sense of my depression",
+        r"ketamine to heal anxiety", r"making sense of my depression", r"postpartum depression",
+        r"children.?s anxiety", r"crisis of meaning", r"fighting depression",
     ]),
     ("science-frequency-integral", [
         r"\bquantum\b", r"528\s*hz", r"\bschumann\b", r"biosemiot",
@@ -231,13 +232,14 @@ KEYWORD_RULES: list[tuple[str, list[str]]] = [
     ("extreme-lives-second-chances", [
         r"\bprison\b", r"navy seal", r"combat veteran", r"\boverdose\b",
         r"trafficking humans", r"fighting for sobriety", r"shot at 19",
-        r"betteru",
+        r"betteru", r"homelessness", r"search for rock bottom",
     ]),
     ("identity-becoming", [
         r"outgrown identities", r"later bloom", r"transition mentor",
         r"redefining your life", r"killing the ego", r"trimming off what no longer",
         r"ever evolving chameleon", r"always evolution occurs",
         r"forward is the only way", r"being boys, becoming men",
+        r"stepping into motherhood",
     ]),
 ]
 
@@ -287,6 +289,69 @@ def read_about(slug: str) -> str:
     return ""
 
 
+def read_archive_picks(slug: str) -> str:
+    """Pull Archive picks / blockquotes from episode HTML."""
+    html_path = EPISODES_DIR / slug / "index.html"
+    if not html_path.exists():
+        return ""
+    t = html_path.read_text(encoding="utf-8", errors="replace")
+    parts = []
+    for m in re.finditer(r"<blockquote.*?</blockquote>", t, re.S | re.I):
+        parts.append(re.sub(r"<[^>]+>", " ", m.group(0)))
+    # Archive picks section if present
+    m = re.search(r"(?is)archive picks.*?(?=</section>|</div>\s*<div)", t)
+    if m:
+        parts.append(re.sub(r"<[^>]+>", " ", m.group(0)))
+    return " ".join(parts)
+
+
+def read_transcript_sample(slug: str, max_chunk: int = 10000) -> str:
+    """Sample beginning / middle / end of transcript for theme detection."""
+    candidates = [
+        CONTENT / slug / "transcript.md",
+        ARCHIVE / "content" / slug / "transcript.md",
+        EPISODES_DIR / slug / "transcript.md",
+    ]
+    for p in candidates:
+        if p.exists():
+            t = p.read_text(encoding="utf-8", errors="replace")
+            if len(t) < 400:
+                continue
+            n = len(t)
+            if n <= max_chunk * 3:
+                return t
+            return (
+                t[:max_chunk]
+                + "\n"
+                + t[n // 3 : n // 3 + max_chunk]
+                + "\n"
+                + t[2 * n // 3 : 2 * n // 3 + max_chunk]
+            )
+    # HTML transcript fallback
+    html_path = EPISODES_DIR / slug / "index.html"
+    if html_path.exists():
+        raw = html_path.read_text(encoding="utf-8", errors="replace")
+        m = re.search(
+            r'(?is)(id="transcript"|class="transcript").{0,200}?(</section>|</div>\s*<footer)',
+            raw,
+        )
+        if m:
+            return re.sub(r"<[^>]+>", " ", m.group(0))[: max_chunk * 2]
+    return ""
+
+
+def substance_blob(slug: str, inv_row: dict) -> str:
+    """Title + guest + About + Archive picks + transcript sample."""
+    parts = [
+        inv_row.get("exact_public_title") or "",
+        inv_row.get("guest_name") or "",
+        slug.replace("-", " "),
+        read_about(slug),
+        read_archive_picks(slug),
+        read_transcript_sample(slug),
+    ]
+    return " ".join(parts).lower()
+
 
 def read_episode_title(slug: str, fallback: str = "") -> str:
     """Prefer full H1 from episode page when inventory title is truncated."""
@@ -318,32 +383,39 @@ def score_keywords(text: str) -> dict[str, float]:
     return scores
 
 
+# Soft title/about heuristics for coverage gaps (never dump into a catch-all).
+COVERAGE_HEURISTICS: list[tuple[str, tuple[str, ...]]] = [
+    ("music-creative-practice", ("music", "rapper", "dj ", "song", "band", "voice", "puppet", "producer", "studio", "comedy", "jester")),
+    ("healing-trauma-therapy", ("heal", "therap", "trauma", "pain", "reiki", "counselor")),
+    ("work-money-building", ("business", "ceo", "founder", "money", "entrepreneur", "ops", "clothing", "career", "nonprofit", "llc")),
+    ("breath-body-practice", ("breath", "yoga", "fitness", "workout", "health", "body", "meditat")),
+    ("mind-mood-mental-health", ("depression", "anxiety", "mental", "mood", "intrusive", "bipolar", "mania", "sense-making", "sense making")),
+    ("sobriety-substances", ("sober", "sobriety", "alcohol", "weed", "cannabis", "addiction", "overdose", "psychedelic")),
+    ("love-sex-relationships", ("relationship", "marriage", "partner", "intimacy", "sex", "dating")),
+    ("men-masculinity-fatherhood", ("masculin", "father", "dad", "manhood")),
+    ("awakening-mystical", ("kundalini", "mystical", "awakening", "spiritual", "ayahuasca", "swami")),
+    ("science-frequency-integral", ("quantum", "frequency", "physics", "mathematics", "science", "metaphysic")),
+    ("extreme-lives-second-chances", ("prison", "combat", "homeless", "overdose", "veteran", "trafficking")),
+    ("identity-becoming", ("identity", "transition", "outgrown", "becoming", "later bloom", "chameleon")),
+]
+
+
 def classify(inv: dict[str, dict], dirs: dict[str, str]) -> dict[str, list[dict]]:
     """Return topics.json structure: slug -> list of {slug, title, number}."""
     assignments: dict[str, set[str]] = {c["slug"]: set() for c in CATEGORIES}
 
-    # Apply seeds
+    # Apply curated seeds (primary signal)
     for topic, nums in SEEDS.items():
+        if topic not in assignments:
+            continue
         for n in nums:
             if n in dirs and n not in REMOVED:
                 assignments[topic].add(n)
 
-    # Keyword expansion from title + guest + slug only (About is too chatty).
-    for num, slug in dirs.items():
-        if num in REMOVED:
-            continue
-        r = inv.get(num, {})
-        title_blob = " ".join([
-            r.get("exact_public_title") or "",
-            r.get("guest_name") or "",
-            slug.replace("-", " "),
-        ]).lower()
-        scores = score_keywords(title_blob)
-        for topic, sc in scores.items():
-            if topic in ("friends-origin-stories", "host-solocasts"):
-                continue  # curated only
-            if sc >= KEYWORD_MIN_HITS:
-                assignments[topic].add(num)
+    # Keyword auto-expansion disabled: page chrome / outros (e.g. "Sober October",
+    # related-ep DJ links) overfired. Classification quality comes from curated
+    # SEEDS (informed by About + Archive picks + transcript reading) plus the
+    # coverage pass below for any gaps.
 
     # Ensure solocasts exact set only (may also appear elsewhere)
     assignments["host-solocasts"] = set(SOLOCASTS) & set(dirs)
@@ -356,30 +428,31 @@ def classify(inv: dict[str, dict], dirs: dict[str, str]) -> dict[str, list[dict]
     for num in uncovered:
         slug = dirs[num]
         r = inv.get(num, {})
+        about = read_about(slug)[:3000].lower()
         title_blob = " ".join([
             r.get("exact_public_title") or "",
             r.get("guest_name") or "",
             slug.replace("-", " "),
+            about,
         ]).lower()
         scores = score_keywords(title_blob)
-        scores.pop("friends-origin-stories", None)
         scores.pop("host-solocasts", None)
         if scores:
             best = max(scores.items(), key=lambda x: x[1])[0]
             assignments[best].add(num)
             continue
-        # Soft heuristics from title words for remaining gaps
-        t = title_blob
-        if any(k in t for k in ("music", "rapper", "dj ", "song", "band", "voice", "puppet")):
-            assignments["music-creative-practice"].add(num)
-        elif any(k in t for k in ("heal", "therap", "trauma", "pain", "reiki")):
-            assignments["healing-trauma-therapy"].add(num)
-        elif any(k in t for k in ("business", "ceo", "founder", "money", "entrepreneur", "ops", "clothing")):
-            assignments["work-money-building"].add(num)
-        elif int(num) <= 55:
-            assignments["friends-origin-stories"].add(num)
-        else:
-            assignments["identity-becoming"].add(num)
+        placed = False
+        for topic, keys in COVERAGE_HEURISTICS:
+            if any(k in title_blob for k in keys):
+                assignments[topic].add(num)
+                placed = True
+                break
+        if not placed:
+            # Last resort — never a junk drawer; prefer work/creative from about cues
+            if any(k in title_blob for k in ("friend", "grow", "life", "change", "mind")):
+                assignments["mind-mood-mental-health"].add(num)
+            else:
+                assignments["work-money-building"].add(num)
 
     # Build ordered episode lists (newest first)
     out: dict[str, list[dict]] = {}
@@ -399,6 +472,7 @@ def classify(inv: dict[str, dict], dirs: dict[str, str]) -> dict[str, list[dict]
             })
         out[cat["slug"]] = items
     return out
+
 
 
 NAV_OLD = """  <nav>
