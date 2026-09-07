@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
 - [00:00:00](#t-00-00-00) — Opening clip — pickleball diversity / accessibility
 - [00:00:53](#t-00-00-53) — Jacob welcome & Lynn intro

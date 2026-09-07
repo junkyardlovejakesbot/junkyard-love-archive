@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
 - [00:00:20](#t-00-00-20) — Opening — kids changed Nate’s relationship with God / births
 - [00:02:15](#t-00-02-15) — Bike as God-gift that interrupted suicide / no coincidence

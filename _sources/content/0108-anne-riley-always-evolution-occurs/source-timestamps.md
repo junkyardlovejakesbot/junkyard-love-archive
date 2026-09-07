@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
 - [00:00:12](#t-00-00-12) — Opening — better conversations / check-in with Anne
 - [00:06:30](#t-00-06-30) — Age-10 Catholic school + evolution — lifelong how-alike/how-different question

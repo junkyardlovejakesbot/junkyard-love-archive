@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
 - [00:00:04](#t-00-00-04) — Opening — Kendall Johns / Dead Crown intro
 - [00:01:11](#t-00-01-11) — Metalcore genre / Dead Crown sound
@@ -12,12 +12,12 @@
 - [00:40:48](#t-00-40-48) — Carol / grandson at a metal show
 - [00:48:48](#t-00-48-48) — Design Hundred Dollar
 - [00:54:40](#t-00-54-40) — Frontman path / crowd control
-- [01:02:42](#t-01-02-42) — Writing / Taking
+- [01:02:42](#t-01-02-42) — Fatherhood and Music
 - [01:11:17](#t-01-11-17) — Depression / Instagram / dark weeks
 - [01:19:09](#t-01-19-09) — Meds Shut Long
 - [01:26:36](#t-01-26-36) — Mental health medication views
 - [01:34:40](#t-01-34-40) — Entrepreneurship / graphic & clothing design
 - [01:42:50](#t-01-42-50) — Venues Haven't Crazy Ton
-- [01:50:49](#t-01-50-49) — Dealing / Learned
-- [01:58:39](#t-01-58-39) — Thinking / Friends
+- [01:50:49](#t-01-50-49) — Embodied Practice and Awakening
+- [01:58:39](#t-01-58-39) — Music and Shows and Releases
 - [02:02:09](#t-02-02-09) — Boy vs man — right time and place

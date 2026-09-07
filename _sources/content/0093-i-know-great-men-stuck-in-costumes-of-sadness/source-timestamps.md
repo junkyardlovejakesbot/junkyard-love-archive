@@ -1,23 +1,23 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
-- [00:00:15](#t-00-00-15) — Host open — Health, Mental & Send
+- [00:00:15](#t-00-00-15) — Host open — Mental Health and Community
 - [00:05:18](#t-00-05-18) — Suffering, labels, depression & anxiety in the Western mind
 - [00:13:07](#t-00-13-07) — Cannot Sit Silence Cannot Sit
 - [00:16:42](#t-00-16-42) — Armor — the front we keep vs how we truly feel
 - [00:17:43](#t-00-17-43) — Suicidal years / starting to get better
 - [00:26:11](#t-00-26-11) — Genetics vs epigenetics — kids, Gabor Maté
-- [00:33:58](#t-00-33-58) — Experience / Anxiety
+- [00:33:58](#t-00-33-58) — Fatherhood and Work and Money
 - [00:41:48](#t-00-41-48) — Intrusive Thoughts
 - [00:47:10](#t-00-47-10) — Alan Watts backwards law & meditation-as-fix
 - [00:54:18](#t-00-54-18) — Fight-or-flight armor / Dr Joe Dispenza
 - [00:56:48](#t-00-56-48) — Dad, addiction, eviction, rehab story
 - [01:04:35](#t-01-04-35) — Childhood Trauma
 - [01:09:03](#t-01-09-03) — Admit it’s not working — do something different, brother
-- [01:16:56](#t-01-16-56) — That's Find
+- [01:16:56](#t-01-16-56) — Meditation and Gratitude
 - [01:24:44](#t-01-24-44) — Depression Anxiety
 - [01:32:15](#t-01-32-15) — Update your firmware — depression numbers & antidepressants
 - [01:40:19](#t-01-40-19) — Body Keeps Score Hold
-- [01:48:34](#t-01-48-34) — Depression / Depressed
+- [01:48:34](#t-01-48-34) — Breathwork and Meditation
 - [01:53:27](#t-01-53-27) — Growth mindset — who you are now held with love later
-- [02:01:32](#t-02-01-32) — Depression / Backwards
+- [02:01:32](#t-02-01-32) — Embodied Practice and Mental Health
 - [02:06:00](#t-02-06-00) — Malfunction ≠ identity — change who you are

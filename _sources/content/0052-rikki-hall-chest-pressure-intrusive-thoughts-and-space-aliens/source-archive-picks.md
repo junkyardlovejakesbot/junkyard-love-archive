@@ -11,11 +11,11 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 
 ## Chapter-style timestamps
 
-- [00:01:43](#t-00-01-43) — Host open — Experience, Rikki & Sleep
+- [00:01:43](#t-00-01-43) — Host open — Embodied Practice and Community
 - [00:10:51](#t-00-10-51) — Life path — Canada / hockey
 - [00:12:27](#t-00-12-27) — Background — Woodland / Kalama
 - [00:20:22](#t-00-20-22) — Hawaii / LA years
-- [00:28:37](#t-00-28-37) — Understand / Favorite
+- [00:28:37](#t-00-28-37) — Embodied Practice and Work and Money
 - [00:38:04](#t-00-38-04) — Breast implants / gummy bear
 - [00:46:21](#t-00-46-21) — Doctor Scared
 - [00:52:05](#t-00-52-05) — Pilates / reconnecting to body
@@ -26,8 +26,8 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 - [01:28:44](#t-01-28-44) — Stone Deep Theory
 - [01:34:04](#t-01-34-04) — Dinosaurs / freaky tales
 - [01:37:59](#t-01-37-59) — Reiki / Medium experiences
-- [01:46:10](#t-01-46-10) — Consciousness / Evolution
-- [01:54:36](#t-01-54-36) — Girlfriend / Understand
+- [01:46:10](#t-01-46-10) — Fatherhood and Sleep
+- [01:54:36](#t-01-54-36) — Fatherhood and Sleep
 - [02:02:36](#t-02-02-36) — Aliens Ufos Alternate Realities
 
 ## Keywords

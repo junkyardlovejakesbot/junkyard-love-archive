@@ -1,9 +1,9 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
 - [00:02:07](#t-00-02-07) — Conversation open — editing / being a beginner
 - [00:07:15](#t-00-07-15) — Self-love / living well
 - [00:13:18](#t-00-13-18) — Take me where I feel small
-- [00:14:43](#t-00-14-43) — Hiking / AllTrails
+- [00:14:43](#t-00-14-43) — Your Bear Story
 - [00:19:44](#t-00-19-44) — Cougars / bears on hikes
 - [00:20:34](#t-00-20-34) — Coyotes
 - [00:21:32](#t-00-21-32) — Boundaries you didn’t know you had

@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
 - [00:00:13](#t-00-00-13) — Opening — welcome Matt / “who are you”
 - [00:02:51](#t-00-02-51) — Why 2024 is harder — test-optional, application spikes, cost, FAFSA

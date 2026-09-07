@@ -23,7 +23,7 @@ _(no stand-alone complete quotes retained for this episode)_
 - [01:05:32](#t-01-05-32) — Nervous system health & hard days
 - [01:10:14](#t-01-10-14) — Real suffering — suicide, alcoholism
 - [01:12:17](#t-01-12-17) — Transactional love vs deeper love
-- [01:17:48](#t-01-17-48) — Compassion, intimacy & openness
+- [01:17:48](#t-01-17-48) — Meditation and Community
 - [01:22:07](#t-01-22-07) — Natural world / open heart
 
 ## Keywords

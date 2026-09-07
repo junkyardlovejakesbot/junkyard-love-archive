@@ -9,7 +9,7 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:01](#t-00-00-01) — Host open — Episodes, Life & Conversations
+- [00:00:01](#t-00-00-01) — Host open — Building a Brand and Relationships
 - [00:03:44](#t-00-03-44) — One year in the apartment / adjusting
 - [00:07:23](#t-00-07-23) — Catch-up & life updates
 - [00:10:14](#t-00-10-14) — Home setup / LED vibes

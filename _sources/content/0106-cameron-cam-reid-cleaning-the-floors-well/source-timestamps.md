@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
 - [00:00:09](#t-00-00-09) — Opening — better conversations / better conversations with ourselves
 - [00:02:30](#t-00-02-30) — Cam nervous — first podcast / free-flowing talk vs “statement”

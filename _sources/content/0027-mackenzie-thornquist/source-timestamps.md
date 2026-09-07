@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
 - [00:01:30](#t-00-01-30) — Opening — Junkyard Love / Mackenzie
 - [00:07:48](#t-00-07-48) — Crowd nerves / entitlement at shows

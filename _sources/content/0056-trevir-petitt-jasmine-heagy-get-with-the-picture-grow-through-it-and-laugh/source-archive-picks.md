@@ -11,10 +11,10 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 
 ## Chapter-style timestamps
 
-- [00:01:26](#t-00-01-26) — Host open — Year, Money & Water
+- [00:01:26](#t-00-01-26) — Host open — Breathwork and Meditation
 - [00:02:12](#t-00-02-12) — Guest intro — Jazz & Trev
 - [00:03:18](#t-00-03-18) — Into conversation — pandemic / stimulus
-- [00:07:10](#t-00-07-10) — Extraterrestrial / information
+- [00:07:10](#t-00-07-10) — Fatherhood and Relationships
 - [00:11:12](#t-00-11-12) — Work / pandemic layoff
 - [00:13:01](#t-00-13-01) — Jasmine — photos / unemployment
 - [00:14:24](#t-00-14-24) — Parenting / kids for eight weeks

@@ -11,7 +11,7 @@ Extracted from the YouTube auto-caption transcript and published About. Labeled 
 
 ## Chapter-style timestamps
 
-- [00:00:00](#t-00-00-00) — Host open — Spiritual, Against & Whether
+- [00:00:00](#t-00-00-00) — Host open — Breathwork and Meditation
 - [00:01:48](#t-00-01-48) — Episode 100 welcome — solocast intro
 - [00:03:04](#t-00-03-04) — Mystical / Spiritual Awakening framing (kundalini)
 - [00:12:05](#t-00-12-05) — Ram Dass neurosis line / still just a dude
@@ -29,8 +29,8 @@ Extracted from the YouTube auto-caption transcript and published About. Labeled 
 - [00:53:56](#t-00-53-56) — Four experiences / energy centers / need for grounding
 - [01:01:39](#t-01-01-39) — Integration — ordinary life, work, not preaching enlightenment
 - [01:11:04](#t-01-11-04) — Artistry / spoken word after kundalini healing
-- [01:19:05](#t-01-19-05) — Journey / Poetry
-- [01:27:19](#t-01-27-19) — Integration / Meditation
+- [01:19:05](#t-01-19-05) — Ego and Building a Brand
+- [01:27:19](#t-01-27-19) — Meditation and Trauma and Healing
 - [01:33:20](#t-01-33-20) — Spirituality & artistry are personal work
 - [01:41:23](#t-01-41-23) — Willing Meet
 - [01:50:25](#t-01-50-25) — “Bottom dropping out” in spiritual practice

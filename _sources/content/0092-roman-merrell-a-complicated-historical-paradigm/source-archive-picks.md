@@ -9,11 +9,11 @@ Extracted from the YouTube auto-caption transcript and published links already o
 
 ## Chapter-style timestamps
 
-- [00:01:57](#t-00-01-57) — Music, Yourself & Ableton
-- [00:05:36](#t-00-05-36) — Growing, Catchy & Follow
+- [00:01:57](#t-00-01-57) — Music and Mentorship and Learning
+- [00:05:36](#t-00-05-36) — Fatherhood
 - [00:07:21](#t-00-07-21) — Scorpio loner / chameleon — celestial archetypes
 - [00:13:10](#t-00-13-10) — Bellingham — psychedelics and first out-of-body experience
-- [00:21:40](#t-00-21-40) — Experiences / Experience
+- [00:21:40](#t-00-21-40) — Work and Money and Habits and Goals
 - [00:29:34](#t-00-29-34) — Allegory, philosophy, and cognitive perception over the ages
 - [00:37:27](#t-00-37-27) — Societal Structures
 - [00:45:09](#t-00-45-09) — Huge Scale Plan

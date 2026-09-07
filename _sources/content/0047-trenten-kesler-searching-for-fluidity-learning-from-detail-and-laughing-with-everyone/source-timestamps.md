@@ -1,25 +1,25 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
-- [00:00:51](#t-00-00-51) — Host open — Order, Universal & Entire
+- [00:00:51](#t-00-00-51) — Host open — Letterkenny bit and settling in
 - [00:06:24](#t-00-06-24) — Introduce Trenten / cheers
 - [00:10:56](#t-00-10-56) — Clean Machine / COVID businesses
-- [00:19:15](#t-00-19-15) — Detailing / Machine
+- [00:19:15](#t-00-19-15) — Building a Brand and Work and Money
 - [00:29:51](#t-00-29-51) — Idaho / liquor licenses / bars
 - [00:37:57](#t-00-37-57) — Restoring Car
 - [00:45:42](#t-00-45-42) — Molly Young Age
 - [00:53:46](#t-00-53-46) — Last Night
-- [00:59:44](#t-00-59-44) — Addiction / consciousness
+- [00:59:44](#t-00-59-44) — Trauma and Healing and Family
 - [01:07:36](#t-01-07-36) — Church Addiction Youth Group
-- [01:13:07](#t-01-13-07) — Church / belonging / spirituality
-- [01:21:01](#t-01-21-01) — Spirituality / Church
-- [01:28:51](#t-01-28-51) — God / recovery / optimism
+- [01:13:07](#t-01-13-07) — Embodied Practice and Addiction and Recovery
+- [01:21:01](#t-01-21-01) — Mentorship and Learning
+- [01:28:51](#t-01-28-51) — Mental Health and Creativity
 - [01:37:34](#t-01-37-34) — Too Openly
-- [01:45:37](#t-01-45-37) — Madness / Idaho
+- [01:45:37](#t-01-45-37) — Research, opinions & staying curious
 - [01:50:06](#t-01-50-06) — Political climate / Facebook / news
-- [01:58:22](#t-01-58-22) — Washington / Family
-- [02:06:07](#t-02-06-07) — News / Please
+- [01:58:22](#t-01-58-22) — Fatherhood and Community
+- [02:06:07](#t-02-06-07) — This Black of Your Life
 - [02:09:38](#t-02-09-38) — Thailand / travel stories
 - [02:11:56](#t-02-11-56) — Flight / puking story
-- [02:20:14](#t-02-20-14) — Comfortable / Bartenders
-- [02:27:55](#t-02-27-55) — Experiences / Personal
+- [02:20:14](#t-02-20-14) — Travel picks — Thailand, Ireland, Dublin
+- [02:27:55](#t-02-27-55) — Mentorship and Learning and Shows and Releases
 - [02:33:11](#t-02-33-11) — Everyone you meet knows something

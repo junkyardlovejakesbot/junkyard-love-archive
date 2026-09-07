@@ -19,11 +19,11 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [00:17:20](#t-00-17-20) — The Compound
 - [00:20:12](#t-00-20-12) — Hanging Out With Friends
 - [00:22:07](#t-00-22-07) — Store Updates
-- [00:24:25](#t-00-24-25) — Shirts, Trunk & Clothing
+- [00:24:25](#t-00-24-25) — Building a Brand and Creativity
 - [00:28:35](#t-00-28-35) — Selling Shirts
 - [00:31:06](#t-00-31-06) — Future of EYE
 - [00:36:38](#t-00-36-38) — The Diamond
-- [00:40:31](#t-00-40-31) — Clothing, Permission & Community
+- [00:40:31](#t-00-40-31) — Building a Brand
 
 ## Keywords
 

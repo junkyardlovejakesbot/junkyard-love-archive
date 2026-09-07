@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
 - [00:00:22](#t-00-00-22) — Opening — welcome Sigmar Berg
 - [00:01:46](#t-00-01-46) — Aqua Journey guided meditation / head → heart awakening

@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
 - [00:01:16](#t-00-01-16) — What made you want to start this podcast
 - [00:10:22](#t-00-10-22) — The 10x Rule / breaking point comfort zone
@@ -10,13 +10,13 @@
 - [00:31:19](#t-00-31-19) — When did you get into Beatboxing
 - [00:38:17](#t-00-38-17) — Losing love for the set routine
 - [00:46:00](#t-00-46-00) — Technology Social Media
-- [00:53:25](#t-00-53-25) — Connection / Forward
+- [00:53:25](#t-00-53-25) — Mental Health and Habits and Goals
 - [00:58:47](#t-00-58-47) — Emotional intelligence
 - [01:01:44](#t-01-01-44) — Self-love
 - [01:10:05](#t-01-10-05) — Power Conversation
-- [01:18:04](#t-01-18-04) — Opinions / Positive
+- [01:18:04](#t-01-18-04) — Presence and Habits and Goals
 - [01:25:10](#t-01-25-10) — Where do I see myself
 - [01:29:23](#t-01-29-23) — Where do you see yourself in 10 years
 - [01:40:01](#t-01-40-01) — The meaning of life
-- [01:47:41](#t-01-47-41) — That's Worth Checking
+- [01:47:41](#t-01-47-41) — Frequency and Science and Building a Brand
 - [01:55:52](#t-01-55-52) — What the world needs — discipline

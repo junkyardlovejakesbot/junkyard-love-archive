@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
 - [00:00:00](#t-00-00-00) — Opening — elevator pitch / Junkyard Love framing
 - [00:00:48](#t-00-00-48) — Love as vital-body + quantum-body solution

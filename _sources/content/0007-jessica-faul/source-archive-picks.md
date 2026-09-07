@@ -24,8 +24,8 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [01:20:01](#t-01-20-01) — Group messages / attacking ourselves
 - [01:29:57](#t-01-29-57) — Maslow levels / self identity
 - [01:39:55](#t-01-39-55) — Instant karma / small good acts
-- [01:47:30](#t-01-47-30) — Personality / Bartender
-- [01:55:28](#t-01-55-28) — Mindfulness / Every
+- [01:47:30](#t-01-47-30) — Work and Money and Relationships
+- [01:55:28](#t-01-55-28) — Meditation and Presence
 - [01:59:55](#t-01-59-55) — Slogans / Christmas jingle analogy
 - [02:08:06](#t-02-08-06) — Else Certainly Makes
 - [02:15:56](#t-02-15-56) — Meditation Yoga Class

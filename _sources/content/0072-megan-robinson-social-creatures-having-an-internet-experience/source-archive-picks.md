@@ -13,7 +13,7 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [00:06:34](#t-00-06-34) — Coffee / vitamins / body as engine
 - [00:13:07](#t-00-13-07) — Travel / meat / earth impact
 - [00:16:32](#t-00-16-32) — Food systems / technology expansion
-- [00:24:52](#t-00-24-52) — Conversations / Production
+- [00:24:52](#t-00-24-52) — Gratitude and Community
 - [00:28:18](#t-00-28-18) — Diverse conversations / connecting people
 - [00:32:46](#t-00-32-46) — Talking across beliefs
 - [00:41:23](#t-00-41-23) — Pittsburgh / community / social network

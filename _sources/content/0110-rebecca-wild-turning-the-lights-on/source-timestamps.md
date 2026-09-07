@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
 - [00:02:03](#t-00-02-03) — Opening — depression tools / welcome newcomers + toe-dippers
 - [00:03:01](#t-00-03-01) — Healing path — you have to do the work (no outsourcing the pain)

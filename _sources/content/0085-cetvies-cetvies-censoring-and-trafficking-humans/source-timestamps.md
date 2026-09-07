@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
 - [00:00:18](#t-00-00-18) — Studying human rights / trafficking sensitivity
 - [00:01:28](#t-00-01-28) — Trafficking as a recent legal concept (UN/US 2000)

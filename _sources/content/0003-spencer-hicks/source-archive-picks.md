@@ -11,11 +11,11 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:02](#t-00-00-02) — Friend, Yourself & Ladies
-- [00:01:06](#t-00-01-06) — Ego, consciousness & mindfulness
+- [00:00:02](#t-00-00-02) — Live Friend
+- [00:01:06](#t-00-01-06) — Meditation and Ego
 - [00:05:57](#t-00-05-57) — Ego and reality
 - [00:08:03](#t-00-08-03) — Changing your ego
-- [00:11:44](#t-00-11-44) — Mindfulness, Perspective & Third-person
+- [00:11:44](#t-00-11-44) — Meditation and Mental Health
 - [00:13:56](#t-00-13-56) — Third-person perspective
 - [00:17:09](#t-00-17-09) — Following feelings back to the core
 - [00:20:46](#t-00-20-46) — Different generations
@@ -26,8 +26,8 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [00:38:15](#t-00-38-15) — Determinism
 - [00:40:14](#t-00-40-14) — Words & intent
 - [00:44:10](#t-00-44-10) — Phones as the opposite of presence
-- [00:48:24](#t-00-48-24) — Phone, Present & Moment
-- [00:51:50](#t-00-51-50) — Heartened, Chemical & Dopamine
+- [00:48:24](#t-00-48-24) — Meditation and Presence
+- [00:51:50](#t-00-51-50) — Presence and Sleep
 - [00:54:13](#t-00-54-13) — ADHD & dopamine
 - [01:05:30](#t-01-05-30) — Floating above ego in conversation
 - [01:08:25](#t-01-08-25) — Journaling, mindfulness apps & practice

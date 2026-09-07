@@ -8,7 +8,7 @@ Extracted from the YouTube auto-caption transcript and published About. Labeled 
 
 ## Chapter-style timestamps
 
-- [00:02:30](#t-00-02-30) — Host open — Coffee, Caffeine & Days
+- [00:02:30](#t-00-02-30) — Host open — Building a Brand and Sleep
 - [00:03:48](#t-00-03-48) — Caffeine quit — anxiety, decaf slips, jaw twitch
 - [00:10:26](#t-00-10-26) — Gallon of water — hydration vs ibuprofen instant fix
 - [00:17:17](#t-00-17-17) — Alcohol break — social lubricant urges & lonely IPA texts

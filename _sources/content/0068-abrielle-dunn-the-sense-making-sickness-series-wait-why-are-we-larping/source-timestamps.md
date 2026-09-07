@@ -1,6 +1,6 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
-- [00:01:18](#t-00-01-18) — Host open — Sense, Trying & Conversation
+- [00:01:18](#t-00-01-18) — Host open — Embodied Practice and Creativity
 - [00:07:24](#t-00-07-24) — Abrielles Note
 - [00:10:48](#t-00-10-48) — The Illusion of Conversation
 - [00:13:45](#t-00-13-45) — Abrielles Story
@@ -25,7 +25,7 @@
 - [01:23:03](#t-01-23-03) — Compassion amid conflicting realities
 - [01:46:10](#t-01-46-10) — I've I've
 - [01:51:26](#t-01-51-26) — Victim mindset / projection
-- [01:59:36](#t-01-59-36) — Within / Human
+- [01:59:36](#t-01-59-36) — Fatherhood and Gratitude
 - [02:13:13](#t-02-13-13) — Easily inspired / building the self
 - [02:28:44](#t-02-28-44) — What's World
-- [02:37:00](#t-02-37-00) — Expose Myself
+- [02:37:00](#t-02-37-00) — Fatherhood

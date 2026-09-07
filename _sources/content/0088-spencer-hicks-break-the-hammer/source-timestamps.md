@@ -1,17 +1,17 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
-- [00:00:00](#t-00-00-00) — Host open — Communication, Listening & Every
+- [00:00:00](#t-00-00-00) — Host open — Meditation and Embodied Practice
 - [00:07:52](#t-00-07-52) — Karma Past Lives Comes
 - [00:17:28](#t-00-17-28) — Ghost in the Shell / cyberpunk thesis
 - [00:20:06](#t-00-20-06) — Baudrillard — hyperreality / semiotics
 - [00:25:21](#t-00-25-21) — Hauntology — Derrida / ontology of what’s not there
-- [00:33:13](#t-00-33-13) — Inherently / Hegemonic
+- [00:33:13](#t-00-33-13) — All Systems
 - [00:41:51](#t-00-41-51) — Trash can of ideology / the unbroken hammer
 - [00:45:17](#t-00-45-17) — Self-terminating systems
 - [00:53:29](#t-00-53-29) — Abstract Felt Without
-- [01:01:49](#t-01-01-49) — Capitalism / Hegemonic
+- [01:01:49](#t-01-01-49) — Work and Money
 - [01:10:29](#t-01-10-29) — Vulnerable Show
-- [01:18:12](#t-01-18-12) — Philosophy / Ideology
+- [01:18:12](#t-01-18-12) — Relationships and Comedy
 - [01:25:57](#t-01-25-57) — Eyes refreshed — shattering / perception
 - [01:33:07](#t-01-33-07) — Alan Watts — The Wisdom of Insecurity
 - [01:40:40](#t-01-40-40) — Political Call
@@ -20,5 +20,5 @@
 - [02:03:27](#t-02-03-27) — I fundamentally disagree with myself every year
 - [02:11:23](#t-02-11-23) — Allowing Ideas
 - [02:19:29](#t-02-19-29) — Too Thin
-- [02:27:07](#t-02-27-07) — Fundamentally / Personality
+- [02:27:07](#t-02-27-07) — Breathwork and Meditation
 - [02:34:41](#t-02-34-41) — Company Stagehand

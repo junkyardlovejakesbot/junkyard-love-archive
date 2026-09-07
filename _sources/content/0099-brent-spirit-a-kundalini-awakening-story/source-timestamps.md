@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
 - [00:00:47](#t-00-00-47) — Opening — welcome and Loneliness of kundalini
 - [00:02:48](#t-00-02-48) — Bio — Brent Spirit alias, photographer, tumblr → spiritual teacher

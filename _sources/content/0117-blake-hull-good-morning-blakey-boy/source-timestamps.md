@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
 - [00:00:45](#t-00-00-45) — Opening — welcome Blake / Junkyard Love
 - [00:01:40](#t-00-01-40) — Therapy line: “I feel most connected when you’re feeling”
@@ -21,11 +21,11 @@
 - [01:00:40](#t-01-00-40) — Galois / discover and invent math
 - [01:08:27](#t-01-08-27) — Kurzweil / father’s journals / long view
 - [01:12:50](#t-01-12-50) — Future of math, AI, human consciousness
-- [01:21:18](#t-01-21-18) — Information / Meditation
+- [01:21:18](#t-01-21-18) — That Smoking Gun
 - [01:33:45](#t-01-33-45) — UBI dream / AI optimism / transformer attention
 - [01:41:03](#t-01-41-03) — What is consciousness, really?
 - [01:59:58](#t-01-59-58) — Journaling, memory, preserving the self
 - [02:04:56](#t-02-04-56) — AI as DJ of human creativity
-- [02:18:30](#t-02-18-30) — Saying / Share
+- [02:18:30](#t-02-18-30) — This and What Is This Life
 - [02:28:35](#t-02-28-35) — Returning to “connected when you’re feeling”
 - [02:30:06](#t-02-30-06) — Hope for humanity / ChatGPT as harm reduction

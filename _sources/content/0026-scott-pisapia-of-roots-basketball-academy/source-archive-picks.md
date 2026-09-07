@@ -21,16 +21,16 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [00:48:48](#t-00-48-48) — Zombie apocalypse / hypotheticals
 - [00:57:36](#t-00-57-36) — DiGiorno's / bachelor pad life
 - [01:00:24](#t-01-00-24) — Genie wishes
-- [01:08:07](#t-01-08-07) — Anxiety / breathing / agoraphobia
+- [01:08:07](#t-01-08-07) — Breathwork and Fatherhood
 - [01:16:02](#t-01-16-02) — Giving Yourself
-- [01:23:59](#t-01-23-59) — Perspective / Basketball
+- [01:23:59](#t-01-23-59) — Fatherhood and Shows and Releases
 - [01:31:51](#t-01-31-51) — Makes Uncomfortable
 - [01:40:19](#t-01-40-19) — CBD / Joe Rogan rabbit holes
-- [01:48:17](#t-01-48-17) — Basketball / College
+- [01:48:17](#t-01-48-17) — Meditation and Relationships
 - [01:56:16](#t-01-56-16) — Fights I've
 - [02:03:10](#t-02-03-10) — Conor McGregor influence
 - [02:11:14](#t-02-11-14) — Don't Land Phone
-- [02:19:13](#t-02-19-13) — Basketball / Coffee
+- [02:19:13](#t-02-19-13) — Building a Brand and Creativity
 
 ## Keywords
 

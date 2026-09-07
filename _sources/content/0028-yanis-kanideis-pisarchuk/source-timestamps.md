@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
 - [00:01:17](#t-00-01-17) — Beautiful Minds
 - [00:02:35](#t-00-02-35) — Being Enlightened
@@ -18,7 +18,7 @@
 - [00:29:42](#t-00-29-42) — Advice for rappers
 - [00:34:20](#t-00-34-20) — Being an introvert
 - [00:37:08](#t-00-37-08) — Stage fright
-- [00:42:16](#t-00-42-16) — Anxiety, Shows & Control
+- [00:42:16](#t-00-42-16) — Mental Health and Shows and Releases
 - [00:44:45](#t-00-44-45) — Dance Team
 - [00:47:33](#t-00-47-33) — Acting
 - [00:50:51](#t-00-50-51) — Punching walls

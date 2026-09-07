@@ -26,12 +26,12 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [00:58:37](#t-00-58-37) — Plant Medicine
 - [01:07:42](#t-01-07-42) — Psychedelics / neural pathways
 - [01:15:58](#t-01-15-58) — Cannabis Start Yoga Meditation
-- [01:24:04](#t-01-24-04) — Information / Positive
+- [01:24:04](#t-01-24-04) — Relationships
 - [01:28:08](#t-01-28-08) — Home as vision board
 - [01:32:35](#t-01-32-35) — Garden metaphor — not broken to be fixed
 - [01:40:44](#t-01-40-44) — Medicine Cards
 - [01:48:54](#t-01-48-54) — Social Masculine Bring
-- [01:57:10](#t-01-57-10) — Learning / Yourself
+- [01:57:10](#t-01-57-10) — Healing and Habits and Goals
 
 ## Keywords
 

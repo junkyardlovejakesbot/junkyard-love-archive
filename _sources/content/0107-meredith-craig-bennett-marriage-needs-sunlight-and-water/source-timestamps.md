@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
 - [00:00:04](#t-00-00-04) — Opening — welcome Meredith & Craig
 - [00:03:47](#t-00-03-47) — Family-first / real-estate bomb in six weeks / life-vision pause / personal growth → marri

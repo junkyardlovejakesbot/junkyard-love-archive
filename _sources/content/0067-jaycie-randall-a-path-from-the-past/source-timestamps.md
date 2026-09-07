@@ -1,6 +1,6 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
-- [00:01:30](#t-00-01-30) — Host open — Yourself, Keep & Jaycie
+- [00:01:30](#t-00-01-30) — Host open — Healing
 - [00:02:34](#t-00-02-34) — Conversation start — welcome back
 - [00:05:21](#t-00-05-21) — What's changed since the first episode
 - [00:07:14](#t-00-07-14) — Shadow work & healing language
@@ -14,11 +14,11 @@
 - [00:41:35](#t-00-41-35) — Imposter syndrome & compliments
 - [00:51:05](#t-00-51-05) — Social media expectations
 - [01:00:13](#t-01-00-13) — Identity rejecting the upgrade
-- [01:08:27](#t-01-08-27) — Experiences / Spiritually
+- [01:08:27](#t-01-08-27) — Breathwork and Meditation
 - [01:16:21](#t-01-16-21) — Reframe Learn
 - [01:26:09](#t-01-26-09) — Spiritual and still human
-- [01:28:43](#t-01-28-43) — INFJ / Myers-Briggs
-- [01:36:57](#t-01-36-57) — Understanding / Personality
-- [01:44:09](#t-01-44-09) — Clairvoyant / channeling / empath
+- [01:28:43](#t-01-28-43) — Healing and Community
+- [01:36:57](#t-01-36-57) — Healing and Community
+- [01:44:09](#t-01-44-09) — Ego and Healing
 - [01:53:05](#t-01-53-05) — What does the world need more of?
-- [02:01:15](#t-02-01-15) — Intuitive / Finding
+- [02:01:15](#t-02-01-15) — Healing

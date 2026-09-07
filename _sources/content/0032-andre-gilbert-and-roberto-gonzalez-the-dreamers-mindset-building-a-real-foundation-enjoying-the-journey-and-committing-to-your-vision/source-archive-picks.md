@@ -18,15 +18,15 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [00:29:56](#t-00-29-56) — Steve Jobs — crazy enough to believe
 - [00:30:55](#t-00-30-55) — How Andre & Roberto linked up / trunk shirts
 - [00:32:56](#t-00-32-56) — Fairs / festivals / EYE Clothing path
-- [00:39:37](#t-00-39-37) — Andre / Check
+- [00:39:37](#t-00-39-37) — Meditation and Building a Brand
 - [00:43:05](#t-00-43-05) — Third eye / EYE Clothing meaning
-- [00:49:56](#t-00-49-56) — Conversation / Improving
+- [00:49:56](#t-00-49-56) — Gratitude and Building a Brand
 - [00:57:01](#t-00-57-01) — Mind Far Incredible
-- [01:04:04](#t-01-04-04) — Positive / Follow
-- [01:11:13](#t-01-11-13) — Learning That's
+- [01:04:04](#t-01-04-04) — Building a Brand and Habits and Goals
+- [01:11:13](#t-01-11-13) — Meditation and Fatherhood
 - [01:18:00](#t-01-18-00) — Beat Apple
-- [01:24:53](#t-01-24-53) — Aliens / Crazy
-- [01:31:21](#t-01-31-21) — Yourself / World
+- [01:24:53](#t-01-24-53) — Mental Health and Habits and Goals
+- [01:31:21](#t-01-31-21) — Breathwork and Relationships
 
 ## Keywords
 

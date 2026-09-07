@@ -1,22 +1,22 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
 - [00:01:36](#t-00-01-36) — Opening clip — leadership training Jerry wished he'd had
 - [00:02:55](#t-00-02-55) — Jacob welcome & Jerry bio
 - [00:04:54](#t-00-04-54) — How Jerry got into this work
 - [00:11:12](#t-00-11-12) — Fired / pharmacy path stories
-- [00:17:23](#t-00-17-23) — Fascinating / Leadership
+- [00:17:23](#t-00-17-23) — Breathwork and Gratitude
 - [00:25:29](#t-00-25-29) — Mentorship & potential
 - [00:27:35](#t-00-27-35) — Feed the right beast / leadership spark
 - [00:30:53](#t-00-30-53) — Be free from the fear of conflict
 - [00:33:12](#t-00-33-12) — Never free of conflict — still can deal with it
 - [00:34:47](#t-00-34-47) — Passive-aggressiveness
 - [00:38:11](#t-00-38-11) — Decision of indecision
-- [00:44:28](#t-00-44-28) — Leadership / Resolution
-- [00:50:34](#t-00-50-34) — Resolution / Conflict
+- [00:44:28](#t-00-44-28) — Community and Journaling
+- [00:50:34](#t-00-50-34) — Ego and Work and Money
 - [00:58:11](#t-00-58-11) — Ask for help
 - [01:01:02](#t-01-01-02) — Book recommendations
 - [01:05:10](#t-01-05-10) — Internal dialogue
 - [01:08:31](#t-01-08-31) — Generate awareness
 - [01:14:02](#t-01-14-02) — Technology as servant vs master
 - [01:16:52](#t-01-16-52) — Reading the room / body language
-- [01:23:12](#t-01-23-12) — Relationships / Leadership
+- [01:23:12](#t-01-23-12) — Relationships

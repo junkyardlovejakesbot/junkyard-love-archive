@@ -1,21 +1,21 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
-- [00:00:00](#t-00-00-00) — Host open — Song, Background & Trying
+- [00:00:00](#t-00-00-00) — Host open — Gratitude and Music
 - [00:01:50](#t-00-01-50) — Tim performs an original song
 - [00:07:56](#t-00-07-56) — When Did You First Write Your First Song
 - [00:16:46](#t-00-16-46) — Brother Brother Law
-- [00:24:33](#t-00-24-33) — Creating / Writing
+- [00:24:33](#t-00-24-33) — Fatherhood and Mental Health
 - [00:29:31](#t-00-29-31) — Music as emotional outlet
-- [00:37:46](#t-00-37-46) — Background / Alcohol
+- [00:37:46](#t-00-37-46) — Music and Relationships
 - [00:45:41](#t-00-45-41) — Liquor Expo
-- [00:53:40](#t-00-53-40) — Alcohol / Breaks
+- [00:53:40](#t-00-53-40) — Embodied Practice and Addiction and Recovery
 - [01:00:55](#t-01-00-55) — First Sip of Alcohol
-- [01:08:38](#t-01-08-38) — Conspiracy, Country & Died
-- [01:11:39](#t-01-11-39) — Beginning, States & Country
+- [01:08:38](#t-01-08-38) — America Dummy
+- [01:11:39](#t-01-11-39) — Mortality and Grief
 - [01:15:20](#t-01-15-20) — COVID drive-through strip club
 - [01:26:06](#t-01-26-06) — Working at Mercedes-Benz
 - [01:29:10](#t-01-29-10) — Where Where Is Mercedes at with Autonomous Vehicles
-- [01:37:23](#t-01-37-23) — Technology / Yourself
+- [01:37:23](#t-01-37-23) — Relationships
 - [01:42:45](#t-01-42-45) — Conspiracies & sense-making
-- [01:50:59](#t-01-50-59) — Country / Guy
+- [01:50:59](#t-01-50-59) — Habits and Goals and Relationships
 - [01:54:10](#t-01-54-10) — What does the world need more of?

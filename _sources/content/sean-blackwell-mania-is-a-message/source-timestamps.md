@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
 - [00:00:44](#t-00-00-44) — Opening — Am I Bipolar or Waking Up? / Bipolar Awakenings
 - [00:01:36](#t-00-01-36) — What bipolar is — DSM labels, Bipolar I vs II, psychosis

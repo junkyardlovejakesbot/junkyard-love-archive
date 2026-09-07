@@ -11,7 +11,7 @@ Extracted from the YouTube auto-caption transcript and published About. Labeled 
 
 ## Chapter-style timestamps
 
-- [00:02:32](#t-00-02-32) — Host open — Might, Learning & Change
+- [00:02:32](#t-00-02-32) — Host open — Addiction and Recovery and Mental Health
 - [00:04:55](#t-00-04-55) — Why take care of yourself — body & mind
 - [00:08:31](#t-00-08-31) — Habits / values / who you became
 - [00:11:27](#t-00-11-27) — Social media / comparison / Instagram
@@ -20,8 +20,8 @@ Extracted from the YouTube auto-caption transcript and published About. Labeled 
 - [00:24:16](#t-00-24-16) — Being weird / stretching in public
 - [00:33:07](#t-00-33-07) — Screen time before bed / content
 - [00:34:55](#t-00-34-55) — Grounding / barefoot tips
-- [00:40:56](#t-00-40-56) — Diet / inflammation / fasting
-- [00:48:28](#t-00-48-28) — Inflammation / Consumption
+- [00:40:56](#t-00-40-56) — Work and Money and Habits and Goals
+- [00:48:28](#t-00-48-28) — Presence and Habits and Goals
 - [00:52:42](#t-00-52-42) — Caffeine awareness
 - [01:01:07](#t-01-01-07) — Cares Gym
 - [01:11:14](#t-01-11-14) — Pornography / NoFap / sexual urges

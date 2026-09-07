@@ -1,6 +1,6 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
-- [00:01:40](#t-00-01-40) — Touch, Subjects & Perfect
+- [00:01:40](#t-00-01-40) — Healing and Mental Health
 - [00:03:29](#t-00-03-29) — Topics — math / science / quantum
 - [00:05:15](#t-00-05-15) — Layers of abstraction
 - [00:06:43](#t-00-06-43) — Bits / computing scaffold
@@ -9,7 +9,7 @@
 - [00:21:30](#t-00-21-30) — Compiling / debugging yourself
 - [00:27:11](#t-00-27-11) — Rick and Morty / quantum computing
 - [00:30:31](#t-00-30-31) — Schrödinger's cat
-- [00:31:54](#t-00-31-54) — Superposition / entanglement
+- [00:31:54](#t-00-31-54) — Frequency and Science and Mortality and Grief
 - [00:41:24](#t-00-41-24) — Prime numbers
 - [00:49:12](#t-00-49-12) — Kung Fu Panda analogy
 - [00:52:32](#t-00-52-32) — Quantum computing / A.I.
@@ -19,5 +19,5 @@
 - [01:07:23](#t-01-07-23) — Linear algebra / coursework
 - [01:11:31](#t-01-11-31) — Induction
 - [01:20:29](#t-01-20-29) — Astronaut dreams
-- [01:27:53](#t-01-27-53) — Differential / Friendship
+- [01:27:53](#t-01-27-53) — Sleep and Relationships
 - [01:35:47](#t-01-35-47) — Archimedes / Eureka story

@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
 - [00:00:00](#t-00-00-00) — Opening clip — uninterrupted listening / mediation
 - [00:00:52](#t-00-00-52) — Jacob welcome & bio ask

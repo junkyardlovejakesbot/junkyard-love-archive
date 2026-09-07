@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
 - [00:00:00](#t-00-00-00) — Opening — Junkyard Love / Jordanne Crane
 - [00:00:56](#t-00-00-56) — C-Diff / how Jordanne reached out
@@ -12,6 +12,6 @@
 - [00:42:12](#t-00-42-12) — Cops Cab Tell
 - [00:46:07](#t-00-46-07) — Homelessness / alcohol withdrawals
 - [00:48:17](#t-00-48-17) — ICU / mental health facilities / suicidal thoughts
-- [00:54:53](#t-00-54-53) — Religion / healing / light
+- [00:54:53](#t-00-54-53) — Healing and Addiction and Recovery
 - [00:59:51](#t-00-59-51) — Healing Room California
 - [01:05:10](#t-01-05-10) — Clean, sober, full of life / survivor story

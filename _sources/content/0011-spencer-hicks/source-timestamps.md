@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
 - [00:00:00](#t-00-00-00) — Echo chambers & online communication
 - [00:01:16](#t-00-01-16) — Opening — Junkyard Love / Spencer Hicks
@@ -16,6 +16,6 @@
 - [01:05:36](#t-01-05-36) — Language barriers inside our own language
 - [01:08:50](#t-01-08-50) — Talking heads & corporate agendas
 - [01:15:50](#t-01-15-50) — Fail Loud I've
-- [01:22:53](#t-01-22-53) — View / Myself
+- [01:22:53](#t-01-22-53) — Course Abstract
 - [01:26:40](#t-01-26-40) — Saying fewer words / Thanksgiving
 - [01:33:02](#t-01-33-02) — Posture & standing up straight

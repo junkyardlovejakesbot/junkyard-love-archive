@@ -1,6 +1,6 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
-- [00:01:26](#t-00-01-26) — Host open — Grow, Towards & Choice
+- [00:01:26](#t-00-01-26) — Host open — Rolled Ricky
 - [00:04:02](#t-00-04-02) — Taking notes / remembering
 - [00:04:51](#t-00-04-51) — Tough upbringing / shaken baby aside
 - [00:07:35](#t-00-07-35) — Background — changing attitude / weight
@@ -11,13 +11,13 @@
 - [00:36:34](#t-00-36-34) — Caffeine / ammonia at meets
 - [00:38:02](#t-00-38-02) — Meet prep phases
 - [00:38:55](#t-00-38-55) — Electrician knowledge
-- [00:46:40](#t-00-46-40) — Started / Younger
-- [00:55:05](#t-00-55-05) — Rebellious / Knowledge
-- [01:02:54](#t-01-02-54) — Hard / Life
-- [01:10:50](#t-01-10-50) — Electrician / Years
+- [00:46:40](#t-00-46-40) — Fatherhood and Family
+- [00:55:05](#t-00-55-05) — Fatherhood and Family
+- [01:02:54](#t-01-02-54) — Addiction and Recovery and Building a Brand
+- [01:10:50](#t-01-10-50) — Work and Money
 - [01:14:21](#t-01-14-21) — Not stayin stag / Instagram realism
 - [01:19:52](#t-01-19-52) — Job site — junction box / hot wire
 - [01:27:30](#t-01-27-30) — Sniff Pneumonia
 - [01:34:49](#t-01-34-49) — Ego-lifting / pre-workout pump
-- [01:42:41](#t-01-42-41) — Connection / Weight
+- [01:42:41](#t-01-42-41) — Embodied Practice and Ego
 - [01:50:09](#t-01-50-09) — Balance — girlfriend Rachel / gym life

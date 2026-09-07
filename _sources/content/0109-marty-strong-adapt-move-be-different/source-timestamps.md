@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
 - [00:00:09](#t-00-00-09) — Opening — Junkyard Love check-in
 - [00:03:40](#t-00-03-40) — Jacob on intuition — how a 17–18-year-old said yes

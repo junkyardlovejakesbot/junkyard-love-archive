@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
 - [00:12:05](#t-00-12-05) — Solo intro — Jacob’s at-home ketamine / BetterU framing
 - [00:13:54](#t-00-13-54) — Megan intro — BetterU, telemedicine, brain box, LA HQ

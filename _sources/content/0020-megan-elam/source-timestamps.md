@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
 - [00:00:01](#t-00-00-01) — Opening — Megalodon / Megan Elam intro
 - [00:01:01](#t-00-01-01) — Portland move / belonging in the city

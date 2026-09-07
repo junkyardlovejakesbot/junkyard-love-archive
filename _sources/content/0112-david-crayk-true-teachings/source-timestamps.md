@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
 - [00:00:23](#t-00-00-23) — Opening — welcome David Crayk / high-school theatre teacher reunion
 - [00:02:58](#t-00-02-58) — Talking people off a ledge / “this is going to pass”

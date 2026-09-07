@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
 - [00:00:55](#t-00-00-55) — Opening — welcome Ravinder / Mind Training intro
 - [00:05:29](#t-00-05-29) — Research solid, mystical explanations aren’t / what really works

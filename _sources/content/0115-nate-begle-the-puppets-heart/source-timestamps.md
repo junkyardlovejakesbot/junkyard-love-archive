@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
 - [00:01:10](#t-00-01-10) — Opening — welcome Nate / voice actor & puppeteer intro
 - [00:02:12](#t-00-02-12) — DJ Bob Show / make a door if there isn’t one

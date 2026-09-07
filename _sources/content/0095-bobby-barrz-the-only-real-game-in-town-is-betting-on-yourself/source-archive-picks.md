@@ -10,7 +10,7 @@ Extracted from the YouTube auto-caption transcript and published links already o
 
 ## Chapter-style timestamps
 
-- [00:01:26](#t-00-01-26) — Real, Stay & Position
+- [00:01:26](#t-00-01-26) — Building a Brand and Creativity
 - [00:05:45](#t-00-05-45) — Betting on yourself — thesis
 - [00:13:40](#t-00-13-40) — Music origin story
 - [00:20:52](#t-00-20-52) — Support, Patreon & posting consistency

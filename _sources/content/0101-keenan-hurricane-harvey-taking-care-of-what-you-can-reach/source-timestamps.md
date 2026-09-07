@@ -1,6 +1,6 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
-- [00:00:00](#t-00-00-00) — Host open — Friends, Conversations & Keenan
+- [00:00:00](#t-00-00-00) — Host open — Trauma and Healing and Fatherhood
 - [00:05:28](#t-00-05-28) — Stump speech vs conversational politics
 - [00:08:11](#t-00-08-11) — Who Keenan is — Kelso Council, insurance, DOC, Humane Society, Rotary
 - [00:11:16](#t-00-11-16) — Running for Kelso City Council / local vs national politics

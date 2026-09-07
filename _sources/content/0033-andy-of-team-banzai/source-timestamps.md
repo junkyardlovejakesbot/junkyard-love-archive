@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
 - [00:00:11](#t-00-00-11) — Open — COVID / Mask Off banter
 - [00:02:02](#t-00-02-02) — At Black Diamond Recording Studio
@@ -18,5 +18,5 @@
 - [01:00:11](#t-01-00-11) — Sound design process
 - [01:07:52](#t-01-07-52) — Mentorship
 - [01:15:09](#t-01-15-09) — YouTube tutorial pet peeves
-- [01:21:16](#t-01-21-16) — Producers / Learning
+- [01:21:16](#t-01-21-16) — Music and Habits and Goals
 - [01:26:02](#t-01-26-02) — Vangelis / Blade Runner sound design

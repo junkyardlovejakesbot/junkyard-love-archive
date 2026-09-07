@@ -16,8 +16,8 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [00:11:40](#t-00-11-40) — Course Regionally
 - [00:18:11](#t-00-18-11) — Save Our Stages / venues
 - [00:25:36](#t-00-25-36) — Play what you want / please yourself
-- [00:33:25](#t-00-33-25) — Streaming / Multiple
-- [00:41:07](#t-00-41-07) — Streaming / Creating
+- [00:33:25](#t-00-33-25) — Music and Work and Money
+- [00:41:07](#t-00-41-07) — Gratitude and Creativity
 - [00:49:27](#t-00-49-27) — Taste There's
 - [00:57:28](#t-00-57-28) — Couldn't Dance
 - [01:04:58](#t-01-04-58) — Soft Close Hard Closes
@@ -26,13 +26,13 @@ Extracted from the YouTube auto-caption transcript and published About already o
 - [01:22:27](#t-01-22-27) — Money is not the only currency
 - [01:24:06](#t-01-24-06) — Hangover → depression / anxiety
 - [01:30:51](#t-01-30-51) — Don't want to be that Toasty again
-- [01:38:22](#t-01-38-22) — Substances / Nightlife
+- [01:38:22](#t-01-38-22) — Fatherhood and Community
 - [01:46:10](#t-01-46-10) — Morning-after / suicidal thoughts
 - [01:52:39](#t-01-52-39) — Mindset — how do I get better
-- [01:59:50](#t-01-59-50) — Depression / Experience
+- [01:59:50](#t-01-59-50) — Trauma and Healing and Fatherhood
 - [02:08:37](#t-02-08-37) — Friendship Don't
-- [02:16:29](#t-02-16-29) — Experiencing / Depression
-- [02:24:11](#t-02-24-11) — Conversations / Experiencing
+- [02:16:29](#t-02-16-29) — Mental Health and Community
+- [02:24:11](#t-02-24-11) — Fatherhood and Mental Health
 - [02:32:33](#t-02-32-33) — Self Outsider
 - [02:41:02](#t-02-41-02) — Every Song Plays He's
 

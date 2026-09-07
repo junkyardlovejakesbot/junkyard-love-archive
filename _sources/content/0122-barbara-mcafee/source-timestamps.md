@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
 - [00:00:15](#t-00-00-15) — Opening — unconscious vocal habits / TED spark
 - [00:02:00](#t-00-02-00) — Vocal girdle / gut truth stuck in throat / keepers of secrets

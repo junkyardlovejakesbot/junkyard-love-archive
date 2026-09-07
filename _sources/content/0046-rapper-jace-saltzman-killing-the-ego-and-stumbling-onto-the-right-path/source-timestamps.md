@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
 - [00:01:29](#t-00-01-29) — Episode start — we got JACE / podcast voice
 - [00:09:03](#t-00-09-03) — Counselor Struggle
@@ -12,11 +12,11 @@
 - [00:58:47](#t-00-58-47) — Masculine pain / crying / vulnerability
 - [01:01:14](#t-01-01-14) — Rehab / addiction stories
 - [01:05:55](#t-01-05-55) — Relapse night / clean and sober again
-- [01:13:48](#t-01-13-48) — Hopefully / Explore
-- [01:21:58](#t-01-21-58) — Emotions / Brings
-- [01:30:08](#t-01-30-08) — Empowering / Listening
+- [01:13:48](#t-01-13-48) — Meditation and Gratitude
+- [01:21:58](#t-01-21-58) — Mental Health and Relationships
+- [01:30:08](#t-01-30-08) — Know the World Is Crazy As
 - [01:34:56](#t-01-34-56) — BIG MAD track / real life bars
-- [01:42:54](#t-01-42-54) — Crying / Music
-- [01:50:56](#t-01-50-56) — Opportunity / Though
+- [01:42:54](#t-01-42-54) — Family and Awakening
+- [01:50:56](#t-01-50-56) — Family and Gratitude
 - [01:54:05](#t-01-54-05) — Possibility of opportunity / take the ride
-- [02:02:26](#t-02-02-26) — Listening / Better
+- [02:02:26](#t-02-02-26) — Music and Relationships

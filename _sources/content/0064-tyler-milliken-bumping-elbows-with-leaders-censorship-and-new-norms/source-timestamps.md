@@ -1,21 +1,21 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
 - [00:02:00](#t-00-02-00) — Social decorum after going digital
 - [00:03:07](#t-00-03-07) — Handshaking gone / elbow bumps
 - [00:08:36](#t-00-08-36) — Demolition Man / new norms
 - [00:15:15](#t-00-15-15) — Today's Confer
-- [00:22:06](#t-00-22-06) — Work / Retail
-- [00:29:14](#t-00-29-14) — Leadership / Production
+- [00:22:06](#t-00-22-06) — Trauma and Healing and Building a Brand
+- [00:29:14](#t-00-29-14) — Students Adults
 - [00:32:43](#t-00-32-43) — Censorship & kids / leadership example
 - [00:35:00](#t-00-35-00) — Parental controls & curated content
 - [00:35:58](#t-00-35-58) — Explicit vs clean content
-- [00:43:06](#t-00-43-06) — Rated / Older
+- [00:43:06](#t-00-43-06) — Family and Community
 - [00:48:43](#t-00-48-43) — Christy Howard / future of clean content
 - [00:54:11](#t-00-54-11) — Ratings — movies, games, Netflix
 - [01:01:03](#t-01-01-03) — Letting Cuss Word Slip
 - [01:07:05](#t-01-07-05) — Political climate & meaning of words
 - [01:14:16](#t-01-14-16) — Why History Books Refl
-- [01:20:51](#t-01-20-51) — Political / Explicit
+- [01:20:51](#t-01-20-51) — Five Political
 - [01:26:52](#t-01-26-52) — Aldi shopping / bags & choices
 - [01:28:30](#t-01-28-30) — What does the world need more of?
 - [01:30:07](#t-01-30-07) — Unapologetic patience

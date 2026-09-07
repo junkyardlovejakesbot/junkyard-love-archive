@@ -1,7 +1,7 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
 - [00:00:00](#t-00-00-00) — Opening — Nate Tanzman returns
-- [00:04:22](#t-00-04-22) — Ego / patience / confidence
+- [00:04:22](#t-00-04-22) — Work and Money
 - [00:06:29](#t-00-06-29) — Mental fitness / learning
 - [00:09:39](#t-00-09-39) — Fighting depression / soft demeanor
 - [00:14:41](#t-00-14-41) — Silence is a cosign
@@ -12,8 +12,8 @@
 - [00:30:34](#t-00-30-34) — New Year resolutions / mental & physical health
 - [00:33:39](#t-00-33-39) — Confidence level rises
 - [00:39:13](#t-00-39-13) — Accountability and consistency
-- [00:44:13](#t-00-44-13) — Seeing / Care
+- [00:44:13](#t-00-44-13) — Effort Seeing
 - [00:47:47](#t-00-47-47) — Fear sails in
 - [00:53:34](#t-00-53-34) — Be a scholar / ways to win 2020
-- [00:58:32](#t-00-58-32) — Motivational / Constantly
-- [01:03:36](#t-01-03-36) — Important / Life
+- [00:58:32](#t-00-58-32) — Habits and Goals
+- [01:03:36](#t-01-03-36) — Ego and Work and Money

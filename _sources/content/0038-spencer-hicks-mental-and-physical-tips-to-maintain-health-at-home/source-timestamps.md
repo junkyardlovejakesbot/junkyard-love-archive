@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
 - [00:00:01](#t-00-00-01) — Opening — virtual/remote Junkyard Love
 - [00:01:51](#t-00-01-51) — Xbox / irritability / sleep schedule
@@ -10,13 +10,13 @@
 - [00:10:16](#t-00-10-16) — At-home workout — bands / water jugs / bodyweight
 - [00:12:20](#t-00-12-20) — Where to start with mindfulness
 - [00:13:13](#t-00-13-13) — Morning practice / less irritable
-- [00:19:21](#t-00-19-21) — Quarantine / Home
+- [00:19:21](#t-00-19-21) — Fatherhood and Music
 - [00:22:58](#t-00-22-58) — Breath work / meditation / planning
-- [00:28:17](#t-00-28-17) — Awareness / Work
-- [00:33:46](#t-00-33-46) — Walking / Favorite
+- [00:28:17](#t-00-28-17) — Fatherhood and Family
+- [00:33:46](#t-00-33-46) — Breathwork and Shows and Releases
 - [00:36:13](#t-00-36-13) — Wim Hof breathing
 - [00:43:25](#t-00-43-25) — Breathing and posture
-- [00:48:44](#t-00-48-44) — Stretching / Posture
+- [00:48:44](#t-00-48-44) — Breathwork
 - [00:54:04](#t-00-54-04) — Borrowing Happiness
 - [00:59:39](#t-00-59-39) — Next Level Human
 - [01:09:55](#t-01-09-55) — Fantasy / Witcher / playground for the mind

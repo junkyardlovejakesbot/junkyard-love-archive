@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
 
 - [00:01:00](#t-00-01-00) — Opening — welcome Julie / “who are you”
 - [00:03:04](#t-00-03-04) — Jacob asks for the 1989 lucid-dream story
