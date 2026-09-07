@@ -1,154 +1,90 @@
 {
   "title": "Chapter radio",
-  "subline": "named chapters from the long conversations. not a highlight reel we invented.",
-  "sets": [
+  "subline": "A random stretch from a real conversation.",
+  "mode": "random_from_clips_index",
+  "subjects": [
     {
-      "slug": "body",
-      "label": "Body",
-      "chapters": [
-        {
-          "slug": "0124-sigmar-berg-conscious-breathing-break",
-          "chapter_time": "00:11:20",
-          "chapter_title": "Breathwork for beginners: why a slow exhale regulates the nervous system"
-        },
-        {
-          "slug": "0124-sigmar-berg-conscious-breathing-break",
-          "chapter_time": "00:16:57",
-          "chapter_title": "Morning breathwork practice vs using tools only in an emergency"
-        },
-        {
-          "slug": "0124-sigmar-berg-conscious-breathing-break",
-          "chapter_time": "00:20:15",
-          "chapter_title": "Night practice, cortisol, sleep, and waking at 2am"
-        },
-        {
-          "slug": "0121-surrendering-the-porsche-tim-fraley",
-          "chapter_time": "00:16:50",
-          "chapter_title": "Meditation, Yoga, Breathwork & Reconnecting With Your Body"
-        },
-        {
-          "slug": "0122-laughing-like-a-hairy-oaf-barbara-mcafee",
-          "chapter_time": "00:40:06",
-          "chapter_title": "Laugh, Yawn & Read Children’s Books: Easy Daily Practices to Open Your Voice"
-        },
-        {
-          "slug": "0114-ravinder-taylor-from-chronic-pain-to-inner-power",
-          "chapter_time": "00:25:25",
-          "chapter_title": "Night routine — diaphragmatic breathing, forgiveness, gratitude"
-        },
-        {
-          "slug": "0060-solo-jacob-rhines-sober-october-a-personal-mental-review",
-          "chapter_time": "00:53:21",
-          "chapter_title": "Yoga 20 minutes a day — stretch before bed tip"
-        }
+      "slug": "breath",
+      "label": "Breath",
+      "terms": [
+        "breath",
+        "breathwork",
+        "exhale",
+        "lovetuner"
       ]
     },
     {
-      "slug": "armor-down",
-      "label": "Armor down",
-      "chapters": [
-        {
-          "slug": "0093-i-know-great-men-stuck-in-costumes-of-sadness",
-          "chapter_time": "00:16:42",
-          "chapter_title": "Armor — the front we keep vs how we truly feel"
-        },
-        {
-          "slug": "0093-i-know-great-men-stuck-in-costumes-of-sadness",
-          "chapter_time": "00:54:18",
-          "chapter_title": "Fight-or-flight armor / Dr Joe Dispenza"
-        },
-        {
-          "slug": "0121-surrendering-the-porsche-tim-fraley",
-          "chapter_time": "00:11:20",
-          "chapter_title": "Balancing Masculine Drive & Feminine Grace"
-        },
-        {
-          "slug": "0121-surrendering-the-porsche-tim-fraley",
-          "chapter_time": "00:57:40",
-          "chapter_title": "The Porsche Story: Surrender, Divine Timing & Trusting the Redirect"
-        },
-        {
-          "slug": "0111-nate-tanzman-father",
-          "chapter_time": "00:17:01",
-          "chapter_title": "Father litmus — son model / daughter’s husband test"
-        },
-        {
-          "slug": "0121-surrendering-the-porsche-tim-fraley",
-          "chapter_time": "01:25:30",
-          "chapter_title": "Mentoring Young Men, Leadership & Being the Example"
-        }
+      "slug": "men-fatherhood",
+      "label": "Men & fatherhood",
+      "terms": [
+        "father",
+        "fatherhood",
+        "masculinity",
+        "men",
+        "son",
+        "armor"
       ]
     },
     {
-      "slug": "opened",
-      "label": "Opened",
-      "chapters": [
-        {
-          "slug": "0099-brent-spirit-a-kundalini-awakening-story",
-          "chapter_time": "00:25:46",
-          "chapter_title": "2012 top-down opening / no-self / void of thoughts"
-        },
-        {
-          "slug": "0099-brent-spirit-a-kundalini-awakening-story",
-          "chapter_time": "01:06:49",
-          "chapter_title": "Major kundalini rising — freight-train up the spine"
-        },
-        {
-          "slug": "0118-what-if-mania-is-a-message-sean-blackwell",
-          "chapter_time": "00:03:38",
-          "chapter_title": "Sean’s Landmark Experience: The Turning Point"
-        },
-        {
-          "slug": "0118-what-if-mania-is-a-message-sean-blackwell",
-          "chapter_time": "00:11:35",
-          "chapter_title": "Kundalini, Trauma Energy & Somatic Roots of Bipolar"
-        },
-        {
-          "slug": "0120-im-not-a-teacher-david-hulse",
-          "chapter_time": "00:47:30",
-          "chapter_title": "Cellular Awakening: Inner Becoming Outer"
-        },
-        {
-          "slug": "0120-im-not-a-teacher-david-hulse",
-          "chapter_time": "01:04:30",
-          "chapter_title": "David’s 17-Year-Old Awakening & Cosmic Story"
-        }
+      "slug": "awakening",
+      "label": "Awakening",
+      "terms": [
+        "awakening",
+        "kundalini",
+        "mystical",
+        "vision"
       ]
     },
     {
-      "slug": "second-chances",
-      "label": "Second chances",
-      "chapters": [
-        {
-          "slug": "0110-rebecca-wild-turning-the-lights-on",
-          "chapter_time": "00:03:01",
-          "chapter_title": "Healing path — you have to do the work (no outsourcing the pain)"
-        },
-        {
-          "slug": "0110-rebecca-wild-turning-the-lights-on",
-          "chapter_time": "00:08:31",
-          "chapter_title": "Rock bottom → getting up off the floor / take action"
-        },
-        {
-          "slug": "0110-rebecca-wild-turning-the-lights-on",
-          "chapter_time": "00:09:24",
-          "chapter_title": "Book beat — tiny spark / “one more try” / survival mode"
-        },
-        {
-          "slug": "0119-trey-jones-prison-overdose-witness-state",
-          "chapter_time": "00:23:00",
-          "chapter_title": "Prison life, the fentanyl overdose, and the near-death turning point"
-        },
-        {
-          "slug": "0119-trey-jones-prison-overdose-witness-state",
-          "chapter_time": "00:28:00",
-          "chapter_title": "Instant perspective after dying and working through deep regret"
-        },
-        {
-          "slug": "0119-trey-jones-prison-overdose-witness-state",
-          "chapter_time": "00:33:00",
-          "chapter_title": "Cutting ties with old energies while allowing redemption"
-        }
+      "slug": "healing",
+      "label": "Healing",
+      "terms": [
+        "healing",
+        "trauma",
+        "pain",
+        "recovery"
+      ]
+    },
+    {
+      "slug": "starting-over",
+      "label": "Starting over",
+      "terms": [
+        "prison",
+        "second chance",
+        "collapse",
+        "rock bottom",
+        "overdose"
+      ]
+    },
+    {
+      "slug": "music",
+      "label": "Music",
+      "terms": [
+        "music",
+        "song",
+        "voice",
+        "band",
+        "guitar"
+      ]
+    },
+    {
+      "slug": "meditation",
+      "label": "Meditation",
+      "terms": [
+        "meditation",
+        "practice",
+        "presence"
+      ]
+    },
+    {
+      "slug": "work-money",
+      "label": "Work & money",
+      "terms": [
+        "work",
+        "money",
+        "brand",
+        "business",
+        "building"
       ]
     }
   ]

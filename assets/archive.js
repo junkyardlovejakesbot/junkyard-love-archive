@@ -2,6 +2,8 @@
   "use strict";
 
   var INDEX_URL = "assets/episodes_index.json";
+  var CLIPS_URL = "assets/clips_index.json";
+  var clipsCache = null;
   var REMOVED = { "0001": 1, "0014": 1, "0016": 1, "0029": 1 };
   var cache = null;
 
@@ -15,6 +17,108 @@
     if (/^https?:\/\//i.test(path) || path.charAt(0) === "#") return path;
     return baseHref() + path.replace(/^\//, "");
   }
+
+
+  function loadClips() {
+    if (clipsCache) return Promise.resolve(clipsCache);
+    return fetch(abs(CLIPS_URL))
+      .then(function (r) {
+        if (!r.ok) throw new Error("clips " + r.status);
+        return r.json();
+      })
+      .then(function (data) {
+        var list = (data.clips || data || []).filter(function (c) {
+          if (!c || !c.title) return false;
+          if (REMOVED[c.episode_number]) return false;
+          return !isBumper(c.title);
+        });
+        clipsCache = { raw: data, clips: list };
+        return clipsCache;
+      });
+  }
+
+  function clipFromIndexCard(c, opts) {
+    opts = opts || {};
+    var startSec = parseTs(c.start_seconds != null ? c.start_seconds : c.start);
+    var hash = "#t-" + fmtTs(startSec);
+    var epUrl = abs("episodes/" + c.episode_slug + "/index.html");
+    var guest = c.guest || "Solo";
+    var yt = c.youtube_id
+      ? "https://www.youtube.com/watch?v=" + c.youtube_id + "&t=" + Math.floor(startSec) + "s"
+      : null;
+    var html = '<div class="clip-card"><h3>' + esc(c.title) + "</h3>";
+    if (c.short_summary) html += '<p class="clip-summary">' + esc(c.short_summary) + "</p>";
+    html +=
+      '<p class="clip-ep">' +
+      esc(c.browse_title || "") +
+      " · Episode " +
+      esc(c.episode_number || "") +
+      " · " +
+      esc(guest) +
+      " · starts " +
+      esc(fmtHuman(startSec)) +
+      "</p>";
+    if (opts.long && c.long_summary) {
+      html +=
+        '<details class="clip-more"><summary>More</summary><p>' +
+        esc(c.long_summary) +
+        "</p></details>";
+    }
+    html += '<div class="btn-row">';
+    html += '<a href="' + esc(epUrl + hash) + '">Open at this chapter</a>';
+    html += '<a class="secondary" href="' + esc(epUrl) + '">Full episode</a>';
+    if (yt) {
+      html +=
+        '<a class="secondary" href="' +
+        esc(yt) +
+        '" target="_blank" rel="noopener">YouTube at time</a>';
+    } else if (opts.playLabel) {
+      html += '<span class="note">No YouTube ID — open the transcript chapter.</span>';
+    }
+    if (opts.play && yt) {
+      html +=
+        '<a class="btn" href="' + esc(yt) + '" target="_blank" rel="noopener">Play</a>';
+    } else if (opts.play) {
+      html += '<a class="btn" href="' + esc(epUrl + hash) + '">Open chapter</a>';
+    }
+    html += "</div></div>";
+    return html;
+  }
+
+  function filterClipsByTerms(clips, terms) {
+    terms = (terms || []).map(function (t) { return String(t).toLowerCase(); });
+    if (!terms.length) return clips.slice();
+    return clips.filter(function (c) {
+      var hay = ((c.title || "") + " " + (c.short_summary || "") + " " + ((c.topic_tags || []).join(" ")) + " " + (c.browse_title || "")).toLowerCase();
+      for (var i = 0; i < terms.length; i++) {
+        if (hay.indexOf(terms[i]) !== -1) return true;
+      }
+      return false;
+    });
+  }
+
+  function diversifyClips(pool, limit) {
+    limit = limit || 5;
+    var shuffled = pool.slice().sort(function () { return Math.random() - 0.5; });
+    var chosen = [];
+    var used = {};
+    for (var i = 0; i < shuffled.length && chosen.length < limit; i++) {
+      var c = shuffled[i];
+      if (used[c.episode_slug]) continue;
+      used[c.episode_slug] = 1;
+      chosen.push(c);
+    }
+    for (var j = 0; j < shuffled.length && chosen.length < Math.min(3, limit); j++) {
+      var c2 = shuffled[j];
+      var dup = chosen.some(function (x) {
+        return x.episode_slug === c2.episode_slug && x.title === c2.title;
+      });
+      if (dup) continue;
+      chosen.push(c2);
+    }
+    return chosen;
+  }
+
 
   function loadIndex() {
     if (cache) return Promise.resolve(cache);
@@ -254,33 +358,19 @@
     });
   }
 
+
   function shuffleClip(targetEl) {
-    return loadIndex().then(function (data) {
-      var eps = published(data.episodes).filter(function (e) {
-        return usableChapters(e).length > 0;
-      });
-      var ep = pick(eps);
+    return loadClips().then(function (data) {
       var el = typeof targetEl === "string" ? document.querySelector(targetEl) : targetEl;
-      if (!ep || !el) {
+      var clip = pick(data.clips);
+      if (!clip || !el) {
         if (el) el.innerHTML = '<p class="search-empty">No chapters available yet.</p>';
         return;
       }
-      var usable = usableChapters(ep);
-      var picked = pick(usable);
-      var ch = picked.ch;
-      var chs = ep.chapters || [];
-      var startSec = parseTs(ch.start_seconds != null ? ch.start_seconds : ch.start);
-      var endSec = chs[picked.i + 1]
-        ? parseTs(
-            chs[picked.i + 1].start_seconds != null
-              ? chs[picked.i + 1].start_seconds
-              : chs[picked.i + 1].start
-          )
-        : startSec + (picked.dur || 120);
-      var quote = nearestQuote(ep, startSec, endSec);
-      el.innerHTML = clipCardHtml(ep, ch, quote);
+      el.innerHTML = clipFromIndexCard(clip, { long: true });
     });
   }
+
 
   function normalize(s) {
     return String(s || "")
@@ -306,92 +396,29 @@
     return hit >= Math.min(2, words.length) || (words.length === 1 && hit === 1);
   }
 
+
   function pickClips(phrase, targetEl, limit) {
     limit = limit || 5;
-    return loadIndex().then(function (data) {
+    return loadClips().then(function (data) {
       var el = typeof targetEl === "string" ? document.querySelector(targetEl) : targetEl;
       if (!el) return;
-      var matches = [];
-      var usedEps = {};
-      published(data.episodes).forEach(function (ep) {
-        (ep.chapters || []).forEach(function (ch, i) {
-          if (isBumper(ch.title)) return;
-          if (!phraseMatchesChapter(phrase, ch.title)) return;
-          // also match topic titles lightly
-          matches.push({ ep: ep, ch: ch, i: i });
-        });
-        // topic / keyword soft match if chapter miss
+      var p = normalize(phrase);
+      var matches = data.clips.filter(function (c) {
+        var hay = normalize((c.title || "") + " " + (c.short_summary || "") + " " + ((c.topic_tags || []).join(" ")));
+        if (hay.indexOf(p) !== -1) return true;
+        return phraseMatchesChapter(phrase, c.title || "");
       });
-      // topic fallback: if phrase matches a topic word and chapter titles contain related words
-      if (matches.length < 3) {
-        published(data.episodes).forEach(function (ep) {
-          var hay = normalize(
-            [
-              ep.browse_title,
-              ep.guest,
-              (ep.topics || [])
-                .map(function (t) {
-                  return t.title || t.slug;
-                })
-                .join(" "),
-              (ep.keywords || []).join(" "),
-            ].join(" ")
-          );
-          if (hay.indexOf(normalize(phrase)) === -1) return;
-          usableChapters(ep).forEach(function (u) {
-            matches.push({ ep: ep, ch: u.ch, i: u.i });
-          });
-        });
-      }
-      // diversify across episodes
-      var chosen = [];
-      var pool = matches.slice().sort(function () {
-        return Math.random() - 0.5;
-      });
-      for (var i = 0; i < pool.length && chosen.length < limit; i++) {
-        var m = pool[i];
-        if (usedEps[m.ep.slug]) continue;
-        usedEps[m.ep.slug] = 1;
-        chosen.push(m);
-      }
-      // fill if needed allowing same ep
-      for (var j = 0; j < pool.length && chosen.length < Math.min(3, limit); j++) {
-        var m2 = pool[j];
-        var dup = chosen.some(function (c) {
-          return c.ep.slug === m2.ep.slug && c.ch.title === m2.ch.title;
-        });
-        if (dup) continue;
-        chosen.push(m2);
-      }
+      var chosen = diversifyClips(matches, limit);
       if (!chosen.length) {
-        el.innerHTML =
-          '<p class="search-empty">No chapters matched “' +
-          esc(phrase) +
-          '”. Try another phrase.</p>';
+        el.innerHTML = '<p class="search-empty">No chapters matched “' + esc(phrase) + '”. Try another phrase.</p>';
         return;
       }
       el.innerHTML =
-        "<p class=\"note\">Clips for “" +
-        esc(phrase) +
-        "”</p>" +
-        chosen
-          .map(function (m) {
-            var chs = m.ep.chapters || [];
-            var startSec = parseTs(
-              m.ch.start_seconds != null ? m.ch.start_seconds : m.ch.start
-            );
-            var endSec = chs[m.i + 1]
-              ? parseTs(
-                  chs[m.i + 1].start_seconds != null
-                    ? chs[m.i + 1].start_seconds
-                    : chs[m.i + 1].start
-                )
-              : startSec + 120;
-            return clipCardHtml(m.ep, m.ch, nearestQuote(m.ep, startSec, endSec));
-          })
-          .join("");
+        '<p class="note">Clips for “' + esc(phrase) + '”</p>' +
+        chosen.map(function (c) { return clipFromIndexCard(c); }).join("");
     });
   }
+
 
   function renderPhraseCloud(container, phrases) {
     var el =
@@ -634,38 +661,53 @@
     return out;
   }
 
+
   function showMood(slug, targetEl) {
-    var el =
-      typeof targetEl === "string" ? document.querySelector(targetEl) : targetEl;
+    var el = typeof targetEl === "string" ? document.querySelector(targetEl) : targetEl;
     if (!el) return Promise.resolve();
-    return Promise.all([loadIndex(), loadMoods()]).then(function (pair) {
-      var data = pair[0];
-      var moods = pair[1];
-      var door = (moods.doors || []).filter(function (d) {
-        return d.slug === slug;
-      })[0];
+    return Promise.all([loadMoods(), loadClips()]).then(function (pair) {
+      var moods = pair[0];
+      var clipsData = pair[1];
+      var door = (moods.doors || []).filter(function (d) { return d.slug === slug; })[0];
       if (!door) {
         el.innerHTML = '<p class="search-empty">Door not found.</p>';
         return;
       }
-      var cards = resolveRefs(door.chapters, data);
+      var cards = [];
+      (door.chapters || []).forEach(function (ref) {
+        var found = null;
+        for (var i = 0; i < clipsData.clips.length; i++) {
+          var c = clipsData.clips[i];
+          if (c.episode_slug !== ref.slug) continue;
+          if (ref.chapter_title && c.title === ref.chapter_title) { found = c; break; }
+          if (ref.start_seconds != null && c.start_seconds === ref.start_seconds) { found = c; break; }
+          if (ref.chapter_time && parseTs(c.start) === parseTs(ref.chapter_time)) { found = c; break; }
+        }
+        if (found) cards.push(found);
+        else if (ref.chapter_title) {
+          cards.push({
+            title: ref.chapter_title,
+            episode_slug: ref.slug,
+            episode_number: ref.episode_number || "",
+            browse_title: ref.browse_title || "",
+            guest: ref.guest || "",
+            start: ref.chapter_time,
+            start_seconds: ref.start_seconds != null ? ref.start_seconds : parseTs(ref.chapter_time),
+            short_summary: ref.short_summary || "",
+            youtube_id: ref.youtube_id || "",
+          });
+        }
+      });
       if (!cards.length) {
         el.innerHTML = '<p class="search-empty">No chapters for this door yet.</p>';
         return;
       }
       el.innerHTML =
-        '<p class="note">' +
-        esc(door.label) +
-        ' · <a href="' +
-        esc(abs("moods/" + door.slug + "/index.html")) +
-        '">Open door page</a></p>' +
-        cards
-          .map(function (m) {
-            return clipCardHtml(m.ep, m.ch, m.quote);
-          })
-          .join("");
+        '<p class="note">' + esc(door.label) + ' · <a href="' + esc(abs("moods/" + door.slug + "/index.html")) + '">Open door page</a></p>' +
+        cards.map(function (c) { return clipFromIndexCard(c); }).join("");
     });
   }
+
 
   function wireMoodDoors() {
     var cloud = document.querySelector("[data-mood-doors]");
@@ -704,23 +746,106 @@
     });
   }
 
-  function wireRadioSets() {
-    var bar = document.querySelector("[data-radio-sets]");
-    if (!bar) return;
-    bar.addEventListener("click", function (e) {
-      var btn = e.target.closest("button[data-radio-set]");
-      if (!btn) return;
-      var id = btn.getAttribute("data-radio-set");
-      bar.querySelectorAll("button[data-radio-set]").forEach(function (b) {
-        b.setAttribute("aria-pressed", b === btn ? "true" : "false");
-      });
-      document.querySelectorAll("[data-radio-playlist]").forEach(function (pl) {
-        var match = pl.getAttribute("data-radio-playlist") === id;
-        if (match) pl.removeAttribute("hidden");
-        else pl.setAttribute("hidden", "");
-      });
+
+  var radioState = { subject: null, last: null, subjects: null };
+
+  function loadRadioSubjects() {
+    if (radioState.subjects) return Promise.resolve(radioState.subjects);
+    return fetch(abs("assets/radio_sets.json"))
+      .then(function (r) { if (!r.ok) return []; return r.json(); })
+      .then(function (data) { radioState.subjects = data.subjects || []; return radioState.subjects; })
+      .catch(function () { radioState.subjects = []; return radioState.subjects; });
+  }
+
+  function radioPlay(next) {
+    return Promise.all([loadClips(), loadRadioSubjects()]).then(function (pair) {
+      var clips = pair[0].clips;
+      var subjects = pair[1];
+      var pool = clips;
+      if (radioState.subject) {
+        var sub = subjects.filter(function (s) { return s.slug === radioState.subject; })[0];
+        if (sub && sub.terms) {
+          pool = filterClipsByTerms(clips, sub.terms);
+          if (!pool.length) pool = clips;
+        }
+      }
+      var clip = pick(pool);
+      if (next && radioState.last && pool.length > 1) {
+        var guard = 0;
+        while (clip && radioState.last && clip.episode_slug === radioState.last.episode_slug && clip.title === radioState.last.title && guard < 8) {
+          clip = pick(pool);
+          guard++;
+        }
+      }
+      radioState.last = clip;
+      var el = document.querySelector("[data-radio-card], #radio-card");
+      if (!el || !clip) return;
+      el.innerHTML = clipFromIndexCard(clip, { long: true, play: true, playLabel: true });
+      var nextBtn = document.querySelector("[data-radio-next]");
+      if (nextBtn) nextBtn.removeAttribute("hidden");
     });
   }
+
+  function wireRadioSets() {
+    wireChapterRadio();
+  }
+
+  function wireChapterRadio() {
+    var play = document.querySelector("[data-radio-play]");
+    var next = document.querySelector("[data-radio-next]");
+    var bar = document.querySelector("[data-radio-subjects]");
+    if (!play && !bar) return;
+    if (bar) {
+      bar.addEventListener("click", function (e) {
+        var btn = e.target.closest("button[data-radio-subject]");
+        if (!btn) return;
+        var slug = btn.getAttribute("data-radio-subject");
+        if (radioState.subject === slug) {
+          radioState.subject = null;
+          btn.setAttribute("aria-pressed", "false");
+        } else {
+          radioState.subject = slug;
+          bar.querySelectorAll("button[data-radio-subject]").forEach(function (b) {
+            b.setAttribute("aria-pressed", b === btn ? "true" : "false");
+          });
+        }
+      });
+    }
+    if (play) play.addEventListener("click", function () { radioPlay(false); });
+    if (next) next.addEventListener("click", function () { radioPlay(true); });
+  }
+
+  function wireWhatWeTalk() {
+    var btn = document.querySelector("[data-what-we-talk]");
+    var out = document.querySelector("#what-we-talk-result");
+    if (!btn || !out) return;
+    var cache = null;
+    btn.addEventListener("click", function () {
+      var go = function (data) {
+        var entries = data.entries || [];
+        var item = pick(entries);
+        if (!item) {
+          out.innerHTML = '<p class="search-empty">No subjects yet.</p>';
+          return;
+        }
+        var links = (item.links || [])
+          .map(function (l) {
+            return (
+              '<li><a href="' + esc(abs(l.url)) + '">' + esc(l.title) + "</a> · Episode " +
+              esc(l.episode_number || "") + (l.guest ? " · " + esc(l.guest) : "") + "</li>"
+            );
+          })
+          .join("");
+        out.innerHTML = "<h3>" + esc(item.subject) + "</h3><p>" + esc(item.blurb) + '</p><ul class="list">' + links + "</ul>";
+      };
+      if (cache) return go(cache);
+      fetch(abs("assets/what_we_talk_about.json"))
+        .then(function (r) { return r.json(); })
+        .then(function (data) { cache = data; go(data); })
+        .catch(function () { out.innerHTML = '<p class="search-empty">Could not load subjects.</p>'; });
+    });
+  }
+
 
   function wireHome() {
     var randomBtn = document.querySelector("[data-random-episode]");
@@ -810,6 +935,7 @@
 
   window.JYLArchive = {
     loadIndex: loadIndex,
+    loadClips: loadClips,
     search: search,
     randomEpisode: randomEpisode,
     shuffleClip: shuffleClip,

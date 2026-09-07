@@ -1,130 +1,238 @@
 {
   "title": "Listen by mood",
-  "subline": "not a diagnosis. just a door.",
+  "subline": "",
   "doors": [
     {
       "slug": "cant-sleep",
       "label": "Can't sleep",
       "chapters": [
         {
-          "slug": "0124-sigmar-berg-conscious-breathing-break",
-          "chapter_time": "00:20:15",
-          "chapter_title": "Night practice, cortisol, sleep, and waking at 2am"
-        },
-        {
-          "slug": "0124-sigmar-berg-conscious-breathing-break",
-          "chapter_time": "00:11:20",
-          "chapter_title": "Breathwork for beginners: why a slow exhale regulates the nervous system"
-        },
-        {
-          "slug": "0114-ravinder-taylor-from-chronic-pain-to-inner-power",
-          "chapter_time": "00:25:25",
-          "chapter_title": "Night routine — diaphragmatic breathing, forgiveness, gratitude"
-        }
-      ]
-    },
-    {
-      "slug": "armors-on",
-      "label": "Armor's on",
-      "chapters": [
-        {
-          "slug": "0093-i-know-great-men-stuck-in-costumes-of-sadness",
-          "chapter_time": "00:16:42",
-          "chapter_title": "Armor — the front we keep vs how we truly feel"
-        },
-        {
-          "slug": "0121-surrendering-the-porsche-tim-fraley",
-          "chapter_time": "00:57:40",
-          "chapter_title": "The Porsche Story: Surrender, Divine Timing & Trusting the Redirect"
-        },
-        {
-          "slug": "0111-nate-tanzman-father",
-          "chapter_time": "00:17:01",
-          "chapter_title": "Father litmus — son model / daughter’s husband test"
-        }
-      ]
-    },
-    {
-      "slug": "something-opened",
-      "label": "Something opened",
-      "chapters": [
-        {
-          "slug": "0099-brent-spirit-a-kundalini-awakening-story",
-          "chapter_time": "01:06:49",
-          "chapter_title": "Major kundalini rising — freight-train up the spine"
-        },
-        {
-          "slug": "0118-what-if-mania-is-a-message-sean-blackwell",
-          "chapter_time": "00:03:38",
-          "chapter_title": "Sean’s Landmark Experience: The Turning Point"
-        },
-        {
-          "slug": "0120-im-not-a-teacher-david-hulse",
-          "chapter_time": "01:04:30",
-          "chapter_title": "David’s 17-Year-Old Awakening & Cosmic Story"
-        }
-      ]
-    },
-    {
-      "slug": "need-my-body-back",
-      "label": "Need my body back",
-      "chapters": [
-        {
-          "slug": "0124-sigmar-berg-conscious-breathing-break",
-          "chapter_time": "00:16:57",
-          "chapter_title": "Morning breathwork practice vs using tools only in an emergency"
-        },
-        {
-          "slug": "0122-laughing-like-a-hairy-oaf-barbara-mcafee",
-          "chapter_time": "00:40:06",
-          "chapter_title": "Laugh, Yawn & Read Children’s Books: Easy Daily Practices to Open Your Voice"
-        },
-        {
-          "slug": "0114-ravinder-taylor-from-chronic-pain-to-inner-power",
-          "chapter_time": "00:08:59",
-          "chapter_title": "Personal healing journey / rheumatoid arthritis question"
-        }
-      ]
-    },
-    {
-      "slug": "on-the-floor",
-      "label": "On the floor",
-      "chapters": [
-        {
-          "slug": "0110-rebecca-wild-turning-the-lights-on",
-          "chapter_time": "00:08:31",
-          "chapter_title": "Rock bottom → getting up off the floor / take action"
-        },
-        {
-          "slug": "0110-rebecca-wild-turning-the-lights-on",
-          "chapter_time": "00:09:24",
-          "chapter_title": "Book beat — tiny spark / “one more try” / survival mode"
-        },
-        {
-          "slug": "0110-rebecca-wild-turning-the-lights-on",
-          "chapter_time": "00:03:01",
-          "chapter_title": "Healing path — you have to do the work (no outsourcing the pain)"
-        }
-      ]
-    },
-    {
-      "slug": "want-a-friend-talking",
-      "label": "Want a friend talking",
-      "chapters": [
-        {
-          "slug": "0083-making-sense-of-my-depression-and-anxiety-pt-1",
-          "chapter_time": "00:05:19",
-          "chapter_title": "Ram Dass — walking each other home"
-        },
-        {
-          "slug": "0006-ryan-tos-santos",
-          "chapter_time": "00:01:32",
-          "chapter_title": "Tuxedo rental / Mister Formal friendship"
+          "slug": "0003-spencer-hicks",
+          "chapter_time": "00:51:50",
+          "chapter_title": "Presence and Sleep",
+          "start_seconds": 3110,
+          "youtube_id": "xBXbCjWmYcA",
+          "guest": "Spencer Hicks",
+          "browse_title": "Ego mindfulness and consciousness",
+          "episode_number": "0003",
+          "short_summary": "Spencer and Jacob talk about presence and Sleep. They stay with the thread instead of jumping ahead."
         },
         {
           "slug": "0004-zack-wyld",
-          "chapter_time": "00:18:41",
-          "chapter_title": "Bromance / Brandon Jake / friendship"
+          "chapter_time": "00:24:37",
+          "chapter_title": "Community and Sleep",
+          "start_seconds": 1477,
+          "youtube_id": "lAOZvAUurL4",
+          "guest": "Brandon Cruz (Zack Wyld)",
+          "browse_title": "Community technology positive use",
+          "episode_number": "0004",
+          "short_summary": "Brandon and Jacob talk about community and Sleep. The beat also touches on relationships."
+        },
+        {
+          "slug": "0005-jaycie-randall",
+          "chapter_time": "00:29:52",
+          "chapter_title": "Waking up / consciousness / woke AF",
+          "start_seconds": 1792,
+          "youtube_id": "jx-zGMfKoxk",
+          "guest": "Jaycie Randall",
+          "browse_title": "Goals presence meditation and plateaus",
+          "episode_number": "0005",
+          "short_summary": "Jaycie and Jacob talk about Waking up / consciousness. The beat also touches on family and relationships."
+        }
+      ]
+    },
+    {
+      "slug": "tired-of-holding-it-together",
+      "label": "Tired of holding it together",
+      "chapters": [
+        {
+          "slug": "0002-rob-gonzalez-of-eye-clothing",
+          "chapter_time": "00:01:18",
+          "chapter_title": "Growing up",
+          "start_seconds": 78,
+          "youtube_id": "Z8C9RSb3YI8",
+          "guest": "Rob Gonzalez of EYE Clothing",
+          "browse_title": "Growth hard work vision and raves",
+          "episode_number": "0002",
+          "short_summary": "Rob and Jacob talk about growing up. The beat also touches on fatherhood and family."
+        },
+        {
+          "slug": "0003-spencer-hicks",
+          "chapter_time": "00:01:06",
+          "chapter_title": "Meditation and Ego",
+          "start_seconds": 66,
+          "youtube_id": "xBXbCjWmYcA",
+          "guest": "Spencer Hicks",
+          "browse_title": "Ego mindfulness and consciousness",
+          "episode_number": "0003",
+          "short_summary": "Spencer and Jacob talk about meditation and Ego. The beat also touches on music."
+        },
+        {
+          "slug": "0004-zack-wyld",
+          "chapter_time": "00:06:04",
+          "chapter_title": "Trauma and Healing and Healing",
+          "start_seconds": 364,
+          "youtube_id": "lAOZvAUurL4",
+          "guest": "Brandon Cruz (Zack Wyld)",
+          "browse_title": "Community technology positive use",
+          "episode_number": "0004",
+          "short_summary": "Brandon and Jacob talk about trauma and Healing and Healing. The beat also touches on psychedelics and building a brand."
+        }
+      ]
+    },
+    {
+      "slug": "something-big-shifted",
+      "label": "Something big shifted",
+      "chapters": [
+        {
+          "slug": "0002-rob-gonzalez-of-eye-clothing",
+          "chapter_time": "00:01:18",
+          "chapter_title": "Growing up",
+          "start_seconds": 78,
+          "youtube_id": "Z8C9RSb3YI8",
+          "guest": "Rob Gonzalez of EYE Clothing",
+          "browse_title": "Growth hard work vision and raves",
+          "episode_number": "0002",
+          "short_summary": "Rob and Jacob talk about growing up. The beat also touches on fatherhood and family."
+        },
+        {
+          "slug": "0004-zack-wyld",
+          "chapter_time": "00:06:04",
+          "chapter_title": "Trauma and Healing and Healing",
+          "start_seconds": 364,
+          "youtube_id": "lAOZvAUurL4",
+          "guest": "Brandon Cruz (Zack Wyld)",
+          "browse_title": "Community technology positive use",
+          "episode_number": "0004",
+          "short_summary": "Brandon and Jacob talk about trauma and Healing and Healing. The beat also touches on psychedelics and building a brand."
+        },
+        {
+          "slug": "0006-ryan-tos-santos",
+          "chapter_time": "00:36:33",
+          "chapter_title": "MDMA / psychedelics / PTSD research",
+          "start_seconds": 2193,
+          "youtube_id": "ealUSRdB9BA",
+          "guest": "Ryan 'Tos' Santos",
+          "browse_title": "Always smiling friendship and shared history",
+          "episode_number": "0006",
+          "short_summary": "Ryan and Jacob talk about MDMA / psychedelics. The beat also touches on meditation and embodied practice."
+        }
+      ]
+    },
+    {
+      "slug": "need-to-come-back-to-my-body",
+      "label": "Need to come back to my body",
+      "chapters": [
+        {
+          "slug": "0002-rob-gonzalez-of-eye-clothing",
+          "chapter_time": "00:01:18",
+          "chapter_title": "Growing up",
+          "start_seconds": 78,
+          "youtube_id": "Z8C9RSb3YI8",
+          "guest": "Rob Gonzalez of EYE Clothing",
+          "browse_title": "Growth hard work vision and raves",
+          "episode_number": "0002",
+          "short_summary": "Rob and Jacob talk about growing up. The beat also touches on fatherhood and family."
+        },
+        {
+          "slug": "0003-spencer-hicks",
+          "chapter_time": "00:01:06",
+          "chapter_title": "Meditation and Ego",
+          "start_seconds": 66,
+          "youtube_id": "xBXbCjWmYcA",
+          "guest": "Spencer Hicks",
+          "browse_title": "Ego mindfulness and consciousness",
+          "episode_number": "0003",
+          "short_summary": "Spencer and Jacob talk about meditation and Ego. The beat also touches on music."
+        },
+        {
+          "slug": "0004-zack-wyld",
+          "chapter_time": "00:06:04",
+          "chapter_title": "Trauma and Healing and Healing",
+          "start_seconds": 364,
+          "youtube_id": "lAOZvAUurL4",
+          "guest": "Brandon Cruz (Zack Wyld)",
+          "browse_title": "Community technology positive use",
+          "episode_number": "0004",
+          "short_summary": "Brandon and Jacob talk about trauma and Healing and Healing. The beat also touches on psychedelics and building a brand."
+        }
+      ]
+    },
+    {
+      "slug": "having-a-really-hard-time",
+      "label": "Having a really hard time",
+      "chapters": [
+        {
+          "slug": "0002-rob-gonzalez-of-eye-clothing",
+          "chapter_time": "00:22:07",
+          "chapter_title": "Store Updates",
+          "start_seconds": 1327,
+          "youtube_id": "Z8C9RSb3YI8",
+          "guest": "Rob Gonzalez of EYE Clothing",
+          "browse_title": "Growth hard work vision and raves",
+          "episode_number": "0002",
+          "short_summary": "Rob and Jacob talk about Store Updates. The beat also touches on building a brand and mortality and grief."
+        },
+        {
+          "slug": "0004-zack-wyld",
+          "chapter_time": "00:53:17",
+          "chapter_title": "Embodied Practice and Mortality and Grief",
+          "start_seconds": 3197,
+          "youtube_id": "lAOZvAUurL4",
+          "guest": "Brandon Cruz (Zack Wyld)",
+          "browse_title": "Community technology positive use",
+          "episode_number": "0004",
+          "short_summary": "Brandon and Jacob talk about Embodied Practice and Mortality and Grief. The beat also touches on relationships."
+        },
+        {
+          "slug": "0006-ryan-tos-santos",
+          "chapter_time": "01:00:03",
+          "chapter_title": "Fighting depression / repercussions",
+          "start_seconds": 3603,
+          "youtube_id": "ealUSRdB9BA",
+          "guest": "Ryan 'Tos' Santos",
+          "browse_title": "Always smiling friendship and shared history",
+          "episode_number": "0006",
+          "short_summary": "Ryan and Jacob talk about Fighting depression / repercussions. The beat also touches on meditation and ego."
+        }
+      ]
+    },
+    {
+      "slug": "just-want-a-real-conversation",
+      "label": "Just want a real conversation",
+      "chapters": [
+        {
+          "slug": "0002-rob-gonzalez-of-eye-clothing",
+          "chapter_time": "00:01:18",
+          "chapter_title": "Growing up",
+          "start_seconds": 78,
+          "youtube_id": "Z8C9RSb3YI8",
+          "guest": "Rob Gonzalez of EYE Clothing",
+          "browse_title": "Growth hard work vision and raves",
+          "episode_number": "0002",
+          "short_summary": "Rob and Jacob talk about growing up. The beat also touches on fatherhood and family."
+        },
+        {
+          "slug": "0003-spencer-hicks",
+          "chapter_time": "00:01:06",
+          "chapter_title": "Meditation and Ego",
+          "start_seconds": 66,
+          "youtube_id": "xBXbCjWmYcA",
+          "guest": "Spencer Hicks",
+          "browse_title": "Ego mindfulness and consciousness",
+          "episode_number": "0003",
+          "short_summary": "Spencer and Jacob talk about meditation and Ego. The beat also touches on music."
+        },
+        {
+          "slug": "0004-zack-wyld",
+          "chapter_time": "00:06:04",
+          "chapter_title": "Trauma and Healing and Healing",
+          "start_seconds": 364,
+          "youtube_id": "lAOZvAUurL4",
+          "guest": "Brandon Cruz (Zack Wyld)",
+          "browse_title": "Community technology positive use",
+          "episode_number": "0004",
+          "short_summary": "Brandon and Jacob talk about trauma and Healing and Healing. The beat also touches on psychedelics and building a brand."
         }
       ]
     }
