@@ -128,3 +128,8 @@ Plain static site. No domain configured yet — open `site/index.html` locally, 
 Open `site/index.html` or an episode folder `index.html` in a browser.
 
 Spotify/Apple links are show-level until per-episode public URLs are confirmed.
+
+## Topics browse
+
+Static theme index under `topics/` (BATGAP-inspired). Mapping lives in `_sources/topics.json`; regenerate with `_sources/build_topics.py`. Episodes may appear in multiple topics; `*-removed` placeholders are excluded.
+
