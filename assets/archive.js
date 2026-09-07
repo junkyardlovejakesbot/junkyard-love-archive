@@ -747,7 +747,18 @@
   }
 
 
-  var radioState = { subject: null, last: null, subjects: null };
+  // Chapter radio: on-page listen path.
+  // Choice: no YouTube-end auto-advance — user must hit Next (safer default).
+  // Embeds load only after Play/Next gesture; never on page load.
+  var radioState = {
+    subject: null,
+    last: null,
+    subjects: null,
+    hasPlayed: false,
+    ytApiReady: false,
+    ytApiLoading: false,
+    player: null,
+  };
 
   function loadRadioSubjects() {
     if (radioState.subjects) return Promise.resolve(radioState.subjects);
@@ -755,6 +766,133 @@
       .then(function (r) { if (!r.ok) return []; return r.json(); })
       .then(function (data) { radioState.subjects = data.subjects || []; return radioState.subjects; })
       .catch(function () { radioState.subjects = []; return radioState.subjects; });
+  }
+
+  function ensureYtApi() {
+    if (radioState.ytApiReady) return Promise.resolve();
+    if (window.YT && window.YT.Player) {
+      radioState.ytApiReady = true;
+      return Promise.resolve();
+    }
+    return new Promise(function (resolve) {
+      var prev = window.onYouTubeIframeAPIReady;
+      window.onYouTubeIframeAPIReady = function () {
+        radioState.ytApiReady = true;
+        if (typeof prev === "function") prev();
+        resolve();
+      };
+      if (!radioState.ytApiLoading) {
+        radioState.ytApiLoading = true;
+        var tag = document.createElement("script");
+        tag.src = "https://www.youtube.com/iframe_api";
+        tag.async = true;
+        document.head.appendChild(tag);
+      }
+      // Fallback if API already mid-load
+      var n = 0;
+      var timer = setInterval(function () {
+        if (window.YT && window.YT.Player) {
+          clearInterval(timer);
+          radioState.ytApiReady = true;
+          resolve();
+        } else if (++n > 80) {
+          clearInterval(timer);
+          resolve();
+        }
+      }, 100);
+    });
+  }
+
+  function destroyRadioPlayer() {
+    try {
+      if (radioState.player && radioState.player.destroy) radioState.player.destroy();
+    } catch (e) {}
+    radioState.player = null;
+  }
+
+  function radioCardHtml(c) {
+    var startSec = parseTs(c.start_seconds != null ? c.start_seconds : c.start);
+    var hash = "#t-" + fmtTs(startSec);
+    var epUrl = abs("episodes/" + c.episode_slug + "/index.html");
+    var guest = c.guest || "Solo";
+    var html = '<div class="clip-card radio-now-playing"><h3>' + esc(c.title) + "</h3>";
+    if (c.short_summary) html += '<p class="clip-summary">' + esc(c.short_summary) + "</p>";
+    html +=
+      '<p class="clip-ep">' +
+      esc(c.browse_title || "") +
+      " · Episode " +
+      esc(c.episode_number || "") +
+      " · " +
+      esc(guest) +
+      " · starts " +
+      esc(fmtHuman(startSec)) +
+      "</p>";
+    if (c.long_summary) {
+      html +=
+        '<details class="clip-more"><summary>More</summary><p>' +
+        esc(c.long_summary) +
+        "</p></details>";
+    }
+    if (c.youtube_id) {
+      html +=
+        '<div class="yt-embed radio-embed" data-radio-embed>' +
+        '<div id="radio-yt-player"></div>' +
+        "</div>";
+    } else {
+      html +=
+        '<p class="note">No YouTube ID for this episode — open the transcript chapter instead.</p>';
+    }
+    html += '<div class="btn-row">';
+    html +=
+      '<a href="' +
+      esc(epUrl + hash) +
+      '">' +
+      (c.youtube_id ? "Open episode at chapter" : "Open episode at chapter") +
+      "</a>";
+    html += '<a class="secondary" href="' + esc(epUrl) + '">Full episode</a>';
+    html += "</div></div>";
+    return html;
+  }
+
+  function mountRadioEmbed(clip) {
+    if (!clip || !clip.youtube_id) return Promise.resolve();
+    var startSec = Math.floor(parseTs(clip.start_seconds != null ? clip.start_seconds : clip.start));
+    var mount = document.getElementById("radio-yt-player");
+    if (!mount) return Promise.resolve();
+    destroyRadioPlayer();
+    // Prefer IFrame API when available; fall back to nocookie iframe.
+    return ensureYtApi().then(function () {
+      mount = document.getElementById("radio-yt-player");
+      if (!mount) return;
+      if (window.YT && window.YT.Player) {
+        radioState.player = new window.YT.Player("radio-yt-player", {
+          videoId: clip.youtube_id,
+          playerVars: {
+            start: startSec,
+            autoplay: 1,
+            rel: 0,
+            modestbranding: 1,
+            playsinline: 1,
+            origin: window.location.origin,
+          },
+          events: {
+            // Safer default: do not auto-advance on end — user hits Next.
+            onStateChange: function () {},
+          },
+        });
+      } else {
+        var src =
+          "https://www.youtube-nocookie.com/embed/" +
+          encodeURIComponent(clip.youtube_id) +
+          "?start=" +
+          startSec +
+          "&autoplay=1&rel=0&modestbranding=1&playsinline=1";
+        mount.outerHTML =
+          '<iframe src="' +
+          esc(src) +
+          '" title="Chapter video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>';
+      }
+    });
   }
 
   function radioPlay(next) {
@@ -772,17 +910,26 @@
       var clip = pick(pool);
       if (next && radioState.last && pool.length > 1) {
         var guard = 0;
-        while (clip && radioState.last && clip.episode_slug === radioState.last.episode_slug && clip.title === radioState.last.title && guard < 8) {
+        while (
+          clip &&
+          radioState.last &&
+          clip.episode_slug === radioState.last.episode_slug &&
+          clip.title === radioState.last.title &&
+          guard < 8
+        ) {
           clip = pick(pool);
           guard++;
         }
       }
       radioState.last = clip;
+      radioState.hasPlayed = true;
       var el = document.querySelector("[data-radio-card], #radio-card");
       if (!el || !clip) return;
-      el.innerHTML = clipFromIndexCard(clip, { long: true, play: true, playLabel: true });
+      destroyRadioPlayer();
+      el.innerHTML = radioCardHtml(clip);
       var nextBtn = document.querySelector("[data-radio-next]");
       if (nextBtn) nextBtn.removeAttribute("hidden");
+      return mountRadioEmbed(clip);
     });
   }
 

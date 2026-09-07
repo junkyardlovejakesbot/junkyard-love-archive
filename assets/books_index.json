@@ -1,10 +1,25 @@
 {
   "title": "Books mentioned on Junkyard Love",
-  "count": 53,
+  "count": 37,
+  "before_count": 53,
   "books": [
     {
       "title": "Atomic Habits",
-      "mentioned_by": "discussed",
+      "book_slug": "atomic-habits",
+      "mentioned_by": "Jacob",
+      "guest_slug": null,
+      "mentions": [
+        {
+          "mentioned_by": "Jacob",
+          "guest_slug": null,
+          "guest": "Bradley Roth",
+          "episode_slug": "0075-bradley-roth-being-most-people-is-bad-for-your-health",
+          "episode_number": "0075",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "Being Most People Is Bad For Your Health"
+        }
+      ],
       "episode_slug": "0075-bradley-roth-being-most-people-is-bad-for-your-health",
       "episode_number": "0075",
       "start": null,
@@ -13,18 +28,22 @@
       "guest": "Bradley Roth"
     },
     {
-      "title": "awake The Yoga of pure awareness and the fast elevator talk is it's about how to live in jo",
-      "mentioned_by": "Guest",
-      "episode_slug": "0098-swami-nityananda-be-still-as-the-universe-plays-through-you",
-      "episode_number": "0098",
-      "start": null,
-      "start_seconds": null,
-      "browse_title": "Be Still, As The Universe Plays Through You",
-      "guest": "Swami Nityananda"
-    },
-    {
       "title": "Awake: The Yoga of Pure Awareness",
+      "book_slug": "awake-the-yoga-of-pure-awareness",
       "mentioned_by": "Swami Nityananda",
+      "guest_slug": "swami-nityananda",
+      "mentions": [
+        {
+          "mentioned_by": "Swami Nityananda",
+          "guest_slug": "swami-nityananda",
+          "guest": "Swami Nityananda",
+          "episode_slug": "0098-swami-nityananda-be-still-as-the-universe-plays-through-you",
+          "episode_number": "0098",
+          "start": "00:18:22",
+          "start_seconds": 1102,
+          "browse_title": "Be Still, As The Universe Plays Through You"
+        }
+      ],
       "episode_slug": "0098-swami-nityananda-be-still-as-the-universe-plays-through-you",
       "episode_number": "0098",
       "start": "00:18:22",
@@ -33,28 +52,32 @@
       "guest": "Swami Nityananda"
     },
     {
-      "title": "Awake: The Yoga of Pure Awareness / Awake Awareness",
-      "mentioned_by": "Guest",
-      "episode_slug": "0098-swami-nityananda-be-still-as-the-universe-plays-through-you",
-      "episode_number": "0098",
-      "start": null,
-      "start_seconds": null,
-      "browse_title": "Be Still, As The Universe Plays Through You",
-      "guest": "Swami Nityananda"
-    },
-    {
-      "title": "awareness and it's a lot of stuff that like any of the spiritual teachings anything that li",
-      "mentioned_by": "Guest",
-      "episode_slug": "0050-jordenelle-tsugawa-healing-the-soul-with-hands-and-self-love",
-      "episode_number": "0050",
-      "start": null,
-      "start_seconds": null,
-      "browse_title": "Healing The Soul With Hands and Self Love",
-      "guest": "Jordenelle Tsugawa"
-    },
-    {
       "title": "Be Here Now",
-      "mentioned_by": "discussed",
+      "book_slug": "be-here-now",
+      "mentioned_by": "Jacob, Will Andes",
+      "guest_slug": "will-andes",
+      "mentions": [
+        {
+          "mentioned_by": "Jacob",
+          "guest_slug": null,
+          "guest": "Will Andes",
+          "episode_slug": "0090-will-andes-being-boys-becoming-men-and-bringing-peace",
+          "episode_number": "0090",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "Being Boys, Becoming Men, And Bringing Peace"
+        },
+        {
+          "mentioned_by": "Will Andes",
+          "guest_slug": "will-andes",
+          "guest": "Will Andes",
+          "episode_slug": "0090-will-andes-being-boys-becoming-men-and-bringing-peace",
+          "episode_number": "0090",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "Being Boys, Becoming Men, And Bringing Peace"
+        }
+      ],
       "episode_slug": "0090-will-andes-being-boys-becoming-men-and-bringing-peace",
       "episode_number": "0090",
       "start": null,
@@ -64,7 +87,21 @@
     },
     {
       "title": "Be Nimble",
+      "book_slug": "be-nimble",
       "mentioned_by": "Marty Strong",
+      "guest_slug": "marty-strong",
+      "mentions": [
+        {
+          "mentioned_by": "Marty Strong",
+          "guest_slug": "marty-strong",
+          "guest": "Marty Strong",
+          "episode_slug": "0109-marty-strong-adapt-move-be-different",
+          "episode_number": "0109",
+          "start": "01:09:46",
+          "start_seconds": 4186,
+          "browse_title": "Adapt, Move, Be Different"
+        }
+      ],
       "episode_slug": "0109-marty-strong-adapt-move-be-different",
       "episode_number": "0109",
       "start": "01:09:46",
@@ -74,7 +111,21 @@
     },
     {
       "title": "Be Visionary",
+      "book_slug": "be-visionary",
       "mentioned_by": "Marty Strong",
+      "guest_slug": "marty-strong",
+      "mentions": [
+        {
+          "mentioned_by": "Marty Strong",
+          "guest_slug": "marty-strong",
+          "guest": "Marty Strong",
+          "episode_slug": "0109-marty-strong-adapt-move-be-different",
+          "episode_number": "0109",
+          "start": "01:09:46",
+          "start_seconds": 4186,
+          "browse_title": "Adapt, Move, Be Different"
+        }
+      ],
       "episode_slug": "0109-marty-strong-adapt-move-be-different",
       "episode_number": "0109",
       "start": "01:09:46",
@@ -84,7 +135,21 @@
     },
     {
       "title": "Building Resilient Family Enterprises",
+      "book_slug": "building-resilient-family-enterprises",
       "mentioned_by": "Nike Anani",
+      "guest_slug": "nike-anani",
+      "mentions": [
+        {
+          "mentioned_by": "Nike Anani",
+          "guest_slug": "nike-anani",
+          "guest": "Nike Anani",
+          "episode_slug": "0091-nike-anani-next-gen-legacy-perspective-new-beginnings",
+          "episode_number": "0091",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "Speaker, Author, and Family Business Consultant Nike Anani"
+        }
+      ],
       "episode_slug": "0091-nike-anani-next-gen-legacy-perspective-new-beginnings",
       "episode_number": "0091",
       "start": null,
@@ -93,8 +158,22 @@
       "guest": "Nike Anani"
     },
     {
-      "title": "decisive by chip and dan heath and they talk about the situation and i'm glad i managed to",
-      "mentioned_by": "Guest",
+      "title": "Decisive",
+      "book_slug": "decisive",
+      "mentioned_by": "Jerry Fu",
+      "guest_slug": "jerry-fu",
+      "mentions": [
+        {
+          "mentioned_by": "Jerry Fu",
+          "guest_slug": "jerry-fu",
+          "guest": "Jerry Fu",
+          "episode_slug": "0078-jerry-fu-be-free-from-the-fear-of-conflict",
+          "episode_number": "0078",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "Be Free From The Fear Of Conflict"
+        }
+      ],
       "episode_slug": "0078-jerry-fu-be-free-from-the-fear-of-conflict",
       "episode_number": "0078",
       "start": null,
@@ -103,8 +182,22 @@
       "guest": "Jerry Fu"
     },
     {
-      "title": "educated by I think it's Tara west over I think that's her name I'm like picturing that I'v",
-      "mentioned_by": "Guest",
+      "title": "Educated",
+      "book_slug": "educated",
+      "mentioned_by": "Mack T & J Faul",
+      "guest_slug": "mack-t",
+      "mentions": [
+        {
+          "mentioned_by": "Mack T & J Faul",
+          "guest_slug": "mack-t",
+          "guest": "Mack T & J Faul",
+          "episode_slug": "0042-mack-t-and-j-faul-the-last-saturday-small-town-minds-evolving-and-an-attitude-of-growth",
+          "episode_number": "0042",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "The Last Saturday: Small Town Minds Evolving and An Attitude of Growth"
+        }
+      ],
       "episode_slug": "0042-mack-t-and-j-faul-the-last-saturday-small-town-minds-evolving-and-an-attitude-of-growth",
       "episode_number": "0042",
       "start": null,
@@ -113,8 +206,46 @@
       "guest": "Mack T & J Faul"
     },
     {
+      "title": "Far Side of the Mountain",
+      "book_slug": "far-side-of-the-mountain",
+      "mentioned_by": "Spencer Hicks",
+      "guest_slug": "spencer-hicks",
+      "mentions": [
+        {
+          "mentioned_by": "Spencer Hicks",
+          "guest_slug": "spencer-hicks",
+          "guest": "Spencer Hicks",
+          "episode_slug": "0038-spencer-hicks-mental-and-physical-tips-to-maintain-health-at-home",
+          "episode_number": "0038",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "Mental and Physical Tips To Maintain Health At Home"
+        }
+      ],
+      "episode_slug": "0038-spencer-hicks-mental-and-physical-tips-to-maintain-health-at-home",
+      "episode_number": "0038",
+      "start": null,
+      "start_seconds": null,
+      "browse_title": "Mental and Physical Tips To Maintain Health At Home",
+      "guest": "Spencer Hicks"
+    },
+    {
       "title": "Five Senses For Success",
+      "book_slug": "five-senses-for-success",
       "mentioned_by": "Juli Geske-Peer",
+      "guest_slug": "juli-geske-peer",
+      "mentions": [
+        {
+          "mentioned_by": "Juli Geske-Peer",
+          "guest_slug": "juli-geske-peer",
+          "guest": "Juli Geske-Peer",
+          "episode_slug": "0080-juli-geske-peer-personal-success",
+          "episode_number": "0080",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "Personal Success"
+        }
+      ],
       "episode_slug": "0080-juli-geske-peer-personal-success",
       "episode_number": "0080",
       "start": null,
@@ -124,7 +255,21 @@
     },
     {
       "title": "Full Voice",
+      "book_slug": "full-voice",
       "mentioned_by": "Barbara McAfee",
+      "guest_slug": "barbara-mcafee",
+      "mentions": [
+        {
+          "mentioned_by": "Barbara McAfee",
+          "guest_slug": "barbara-mcafee",
+          "guest": "Barbara McAfee",
+          "episode_slug": "0122-laughing-like-a-hairy-oaf-barbara-mcafee",
+          "episode_number": "0122",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "Laughing Like a Hairy Oaf"
+        }
+      ],
       "episode_slug": "0122-laughing-like-a-hairy-oaf-barbara-mcafee",
       "episode_number": "0122",
       "start": null,
@@ -133,18 +278,22 @@
       "guest": "Barbara McAfee"
     },
     {
-      "title": "Full Voice and Vocal Intelligence",
-      "mentioned_by": "Guest",
-      "episode_slug": "0122-barbara-mcafee",
-      "episode_number": "0122",
-      "start": null,
-      "start_seconds": null,
-      "browse_title": "Laughing Like a Hairy Oaf",
-      "guest": "Barbara McAfee"
-    },
-    {
       "title": "Holding On by Letting Go: A Memoir",
+      "book_slug": "holding-on-by-letting-go-a-memoir",
       "mentioned_by": "Heather Hutchison",
+      "guest_slug": "heather-hutchison",
+      "mentions": [
+        {
+          "mentioned_by": "Heather Hutchison",
+          "guest_slug": "heather-hutchison",
+          "guest": "Heather Hutchison",
+          "episode_slug": "0076-heather-hutchison-seeing-more-clearly",
+          "episode_number": "0076",
+          "start": "00:02:06",
+          "start_seconds": 126,
+          "browse_title": "Seeing More Clearly"
+        }
+      ],
       "episode_slug": "0076-heather-hutchison-seeing-more-clearly",
       "episode_number": "0076",
       "start": "00:02:06",
@@ -153,28 +302,22 @@
       "guest": "Heather Hutchison"
     },
     {
-      "title": "I believe time and being And it kind of it's funny because it Lines up with a lot of Easter",
-      "mentioned_by": "Guest",
-      "episode_slug": "0088-spencer-hicks-break-the-hammer",
-      "episode_number": "0088",
-      "start": null,
-      "start_seconds": null,
-      "browse_title": "Break The Hammer",
-      "guest": "Spencer Hicks"
-    },
-    {
-      "title": "love 2",
-      "mentioned_by": "Guest",
-      "episode_slug": "0087-zach-beach-a-path-of-love",
-      "episode_number": "0087",
-      "start": null,
-      "start_seconds": null,
-      "browse_title": "A Path Of Love",
-      "guest": "Zach Beach"
-    },
-    {
       "title": "Man's Search for Meaning",
-      "mentioned_by": "discussed",
+      "book_slug": "mans-search-for-meaning",
+      "mentioned_by": "Jacob",
+      "guest_slug": null,
+      "mentions": [
+        {
+          "mentioned_by": "Jacob",
+          "guest_slug": null,
+          "guest": "John Lee",
+          "episode_slug": "0081-john-lee-pondering-the-beautiful-mysteries-of-being",
+          "episode_number": "0081",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "Pondering The Beautiful Mysteries Of Being"
+        }
+      ],
       "episode_slug": "0081-john-lee-pondering-the-beautiful-mysteries-of-being",
       "episode_number": "0081",
       "start": null,
@@ -183,8 +326,22 @@
       "guest": "John Lee"
     },
     {
-      "title": "mind gym that my sister gave me who was a college softball player for four years she was li",
-      "mentioned_by": "Guest",
+      "title": "Mind Gym",
+      "book_slug": "mind-gym",
+      "mentioned_by": "Trevor May",
+      "guest_slug": "trevor-may",
+      "mentions": [
+        {
+          "mentioned_by": "Trevor May",
+          "guest_slug": "trevor-may",
+          "guest": "Trevor May",
+          "episode_slug": "0061-trevor-may-finding-the-feel",
+          "episode_number": "0061",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "Finding The Feel"
+        }
+      ],
       "episode_slug": "0061-trevor-may-finding-the-feel",
       "episode_number": "0061",
       "start": null,
@@ -194,7 +351,21 @@
     },
     {
       "title": "Mind Training - Science of Self-Empowerment",
+      "book_slug": "mind-training-science-of-self-empowerment",
       "mentioned_by": "Ravinder Taylor",
+      "guest_slug": "ravinder-taylor",
+      "mentions": [
+        {
+          "mentioned_by": "Ravinder Taylor",
+          "guest_slug": "ravinder-taylor",
+          "guest": "Ravinder Taylor",
+          "episode_slug": "0114-ravinder-taylor-from-chronic-pain-to-inner-power",
+          "episode_number": "0114",
+          "start": "00:00:55",
+          "start_seconds": 55,
+          "browse_title": "From Chronic Pain To Inner Power"
+        }
+      ],
       "episode_slug": "0114-ravinder-taylor-from-chronic-pain-to-inner-power",
       "episode_number": "0114",
       "start": "00:00:55",
@@ -204,7 +375,21 @@
     },
     {
       "title": "Neither Ghost Nor Machine",
+      "book_slug": "neither-ghost-nor-machine",
       "mentioned_by": "Jeremy Sherman",
+      "guest_slug": "jeremy-sherman",
+      "mentions": [
+        {
+          "mentioned_by": "Jeremy Sherman",
+          "guest_slug": "jeremy-sherman",
+          "guest": "Jeremy Sherman",
+          "episode_slug": "0084-jeremy-sherman-the-trying-self",
+          "episode_number": "0084",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "The Trying Self"
+        }
+      ],
       "episode_slug": "0084-jeremy-sherman-the-trying-self",
       "episode_number": "0084",
       "start": null,
@@ -213,8 +398,22 @@
       "guest": "Jeremy Sherman"
     },
     {
-      "title": "next level human and it's so",
-      "mentioned_by": "Guest",
+      "title": "Next Level Human",
+      "book_slug": "next-level-human",
+      "mentioned_by": "Spencer Hicks",
+      "guest_slug": "spencer-hicks",
+      "mentions": [
+        {
+          "mentioned_by": "Spencer Hicks",
+          "guest_slug": "spencer-hicks",
+          "guest": "Spencer Hicks",
+          "episode_slug": "0038-spencer-hicks-mental-and-physical-tips-to-maintain-health-at-home",
+          "episode_number": "0038",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "Mental and Physical Tips To Maintain Health At Home"
+        }
+      ],
       "episode_slug": "0038-spencer-hicks-mental-and-physical-tips-to-maintain-health-at-home",
       "episode_number": "0038",
       "start": null,
@@ -223,28 +422,22 @@
       "guest": "Spencer Hicks"
     },
     {
-      "title": "nine published novels and three business books (*Be Nimble*",
-      "mentioned_by": "Guest",
-      "episode_slug": "0109-marty-strong-adapt-move-be-different",
-      "episode_number": "0109",
-      "start": null,
-      "start_seconds": null,
-      "browse_title": "Adapt, Move, Be Different",
-      "guest": "Marty Strong"
-    },
-    {
-      "title": "nine published novels and three published business books",
-      "mentioned_by": "Guest",
-      "episode_slug": "0109-marty-strong-adapt-move-be-different",
-      "episode_number": "0109",
-      "start": null,
-      "start_seconds": null,
-      "browse_title": "Adapt, Move, Be Different",
-      "guest": "Marty Strong"
-    },
-    {
       "title": "One Journey",
+      "book_slug": "one-journey",
       "mentioned_by": "Sigmar Berg",
+      "guest_slug": "sigmar-berg",
+      "mentions": [
+        {
+          "mentioned_by": "Sigmar Berg",
+          "guest_slug": "sigmar-berg",
+          "guest": "Sigmar Berg",
+          "episode_slug": "0124-sigmar-berg-conscious-breathing-break",
+          "episode_number": "0124",
+          "start": "00:47:56",
+          "start_seconds": 2876,
+          "browse_title": "Adding 'A Conscious Breathing Break' To Your Daily Vocabulary"
+        }
+      ],
       "episode_slug": "0124-sigmar-berg-conscious-breathing-break",
       "episode_number": "0124",
       "start": "00:47:56",
@@ -253,19 +446,23 @@
       "guest": "Sigmar Berg"
     },
     {
-      "title": "PCAL",
-      "mentioned_by": "Guest",
-      "episode_slug": "0119-trey-jones-prison-overdose-witness-state",
-      "episode_number": "0119",
-      "start": null,
-      "start_seconds": null,
-      "browse_title": "The Story Of Trey Jones – From Prison Overdose to Witness State",
-      "guest": "Trey Jones"
-    },
-    {
-      "title": "Potatoes Not Prozac that says a lot in the title",
-      "mentioned_by": "Guest",
-      "episode_slug": "0123-cristine-hull",
+      "title": "Potatoes Not Prozac",
+      "book_slug": "potatoes-not-prozac",
+      "mentioned_by": "Dr. Cristine Hull",
+      "guest_slug": "cristine-hull",
+      "mentions": [
+        {
+          "mentioned_by": "Dr. Cristine Hull",
+          "guest_slug": "cristine-hull",
+          "guest": "Dr. Cristine Hull",
+          "episode_slug": "0123-endorphins-love-quantum-medicine-four-bodies",
+          "episode_number": "0123",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "Endorphins, Love, Quantum Medicine, & the Four Bodies Model"
+        }
+      ],
+      "episode_slug": "0123-endorphins-love-quantum-medicine-four-bodies",
       "episode_number": "0123",
       "start": null,
       "start_seconds": null,
@@ -273,8 +470,22 @@
       "guest": "Dr. Cristine Hull"
     },
     {
-      "title": "psycho cybernetics and that was super interesting in it started making me like realize that",
-      "mentioned_by": "Guest",
+      "title": "Psycho-Cybernetics",
+      "book_slug": "psycho-cybernetics",
+      "mentioned_by": "Brandon Cruz",
+      "guest_slug": "brandon-cruz",
+      "mentions": [
+        {
+          "mentioned_by": "Brandon Cruz",
+          "guest_slug": "brandon-cruz",
+          "guest": "Brandon Cruz",
+          "episode_slug": "0040-brandon-cruz-formulating-perspective-from-behind-the-lens-cognitive-change-with-intention-and-being-a-creative-individual",
+          "episode_number": "0040",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "Formulating Perspective From Behind The Lens, Cognitive Change With Intention, and Being A Creative Individual"
+        }
+      ],
       "episode_slug": "0040-brandon-cruz-formulating-perspective-from-behind-the-lens-cognitive-change-with-intention-and-being-a-creative-individual",
       "episode_number": "0040",
       "start": null,
@@ -284,7 +495,21 @@
     },
     {
       "title": "Tattooing the World: Pacific Designs in Print and Skin",
-      "mentioned_by": "Guest",
+      "book_slug": "tattooing-the-world-pacific-designs-in-print-and-skin",
+      "mentioned_by": "Swami Nityananda",
+      "guest_slug": "swami-nityananda",
+      "mentions": [
+        {
+          "mentioned_by": "Swami Nityananda",
+          "guest_slug": "swami-nityananda",
+          "guest": "Swami Nityananda",
+          "episode_slug": "0098-swami-nityananda-be-still-as-the-universe-plays-through-you",
+          "episode_number": "0098",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "Be Still, As The Universe Plays Through You"
+        }
+      ],
       "episode_slug": "0098-swami-nityananda-be-still-as-the-universe-plays-through-you",
       "episode_number": "0098",
       "start": null,
@@ -293,8 +518,22 @@
       "guest": "Swami Nityananda"
     },
     {
-      "title": "the 10x Rule by Grant Cardone it was when i Was in car sales and it really kind of changed",
-      "mentioned_by": "Guest",
+      "title": "The 10X Rule",
+      "book_slug": "the-10x-rule",
+      "mentioned_by": "Ryan Baker",
+      "guest_slug": "ryan-baker",
+      "mentions": [
+        {
+          "mentioned_by": "Ryan Baker",
+          "guest_slug": "ryan-baker",
+          "guest": "Ryan Baker",
+          "episode_slug": "0071-ryan-baker-forward-is-the-only-way",
+          "episode_number": "0071",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "Forward Is The Only Way"
+        }
+      ],
       "episode_slug": "0071-ryan-baker-forward-is-the-only-way",
       "episode_number": "0071",
       "start": null,
@@ -303,18 +542,32 @@
       "guest": "Ryan Baker"
     },
     {
-      "title": "the body keeps a score",
-      "mentioned_by": "Guest",
-      "episode_slug": "0037-rebecca-wyld-habit-change-and-happiness-actualization",
-      "episode_number": "0037",
-      "start": null,
-      "start_seconds": null,
-      "browse_title": "Habit Change and Happiness Actualization",
-      "guest": "Rebecca Wyld"
-    },
-    {
       "title": "The Body Keeps the Score",
-      "mentioned_by": "Rebecca Wyld / discussed",
+      "book_slug": "the-body-keeps-the-score",
+      "mentioned_by": "Rebecca Wyld, Jacob",
+      "guest_slug": "rebecca-wyld",
+      "mentions": [
+        {
+          "mentioned_by": "Rebecca Wyld",
+          "guest_slug": "rebecca-wyld",
+          "guest": "Rebecca Wyld",
+          "episode_slug": "0037-rebecca-wyld-habit-change-and-happiness-actualization",
+          "episode_number": "0037",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "Habit Change and Happiness Actualization"
+        },
+        {
+          "mentioned_by": "Jacob",
+          "guest_slug": null,
+          "guest": "Jacob",
+          "episode_slug": "0093-i-know-great-men-stuck-in-costumes-of-sadness",
+          "episode_number": "0093",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "I Know Great Men Stuck In Costumes Of Sadness"
+        }
+      ],
       "episode_slug": "0037-rebecca-wyld-habit-change-and-happiness-actualization",
       "episode_number": "0037",
       "start": null,
@@ -323,28 +576,22 @@
       "guest": "Rebecca Wyld"
     },
     {
-      "title": "the body keeps the score you hold on to these things you saw that snake oh you tensed up an",
-      "mentioned_by": "Guest",
-      "episode_slug": "0093-i-know-great-men-stuck-in-costumes-of-sadness",
-      "episode_number": "0093",
-      "start": null,
-      "start_seconds": null,
-      "browse_title": "I Know Great Men Stuck In Costumes Of Sadness",
-      "guest": "Solo (host)"
-    },
-    {
-      "title": "the book Tattooing the World: Pacific Designs in Print and Skin",
-      "mentioned_by": "Guest",
-      "episode_slug": "0098-swami-nityananda-be-still-as-the-universe-plays-through-you",
-      "episode_number": "0098",
-      "start": null,
-      "start_seconds": null,
-      "browse_title": "Be Still, As The Universe Plays Through You",
-      "guest": "Swami Nityananda"
-    },
-    {
-      "title": "The Celestine prophecies have you ever heard of that book yes yeah um I love like that kind",
-      "mentioned_by": "Guest",
+      "title": "The Celestine Prophecy",
+      "book_slug": "the-celestine-prophecy",
+      "mentioned_by": "Julie Hoyle",
+      "guest_slug": "julie-hoyle",
+      "mentions": [
+        {
+          "mentioned_by": "Julie Hoyle",
+          "guest_slug": "julie-hoyle",
+          "guest": "Julie Hoyle",
+          "episode_slug": "0104-julie-hoyle-awakening-from-the-lucid-dream",
+          "episode_number": "0104",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "Awakening From The Lucid Dream"
+        }
+      ],
       "episode_slug": "0104-julie-hoyle-awakening-from-the-lucid-dream",
       "episode_number": "0104",
       "start": null,
@@ -353,8 +600,22 @@
       "guest": "Julie Hoyle"
     },
     {
-      "title": "The End Of Your World uncensored Straight Talk on the nature of Enlightenment and so he spe",
-      "mentioned_by": "Guest",
+      "title": "The End of Your World",
+      "book_slug": "the-end-of-your-world",
+      "mentioned_by": "Brent Spirit",
+      "guest_slug": "brent-spirit",
+      "mentions": [
+        {
+          "mentioned_by": "Brent Spirit",
+          "guest_slug": "brent-spirit",
+          "guest": "Brent Spirit",
+          "episode_slug": "0099-brent-spirit-a-kundalini-awakening-story",
+          "episode_number": "0099",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "A Kundalini Awakening Story"
+        }
+      ],
       "episode_slug": "0099-brent-spirit-a-kundalini-awakening-story",
       "episode_number": "0099",
       "start": null,
@@ -363,18 +624,46 @@
       "guest": "Brent Spirit"
     },
     {
-      "title": "the far side of the mountain it was like this dudette like went out to the woods and he had",
-      "mentioned_by": "Guest",
-      "episode_slug": "0038-spencer-hicks-mental-and-physical-tips-to-maintain-health-at-home",
-      "episode_number": "0038",
+      "title": "The Human Idea",
+      "book_slug": "the-human-idea",
+      "mentioned_by": "Anne Riley",
+      "guest_slug": "anne-riley",
+      "mentions": [
+        {
+          "mentioned_by": "Anne Riley",
+          "guest_slug": "anne-riley",
+          "guest": "Anne Riley",
+          "episode_slug": "0108-anne-riley-always-evolution-occurs",
+          "episode_number": "0108",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "Always Evolution Occurs"
+        }
+      ],
+      "episode_slug": "0108-anne-riley-always-evolution-occurs",
+      "episode_number": "0108",
       "start": null,
       "start_seconds": null,
-      "browse_title": "Mental and Physical Tips To Maintain Health At Home",
-      "guest": "Spencer Hicks"
+      "browse_title": "Always Evolution Occurs",
+      "guest": "Anne Riley"
     },
     {
-      "title": "The Human Idea",
+      "title": "The Light Eaters",
+      "book_slug": "the-light-eaters",
       "mentioned_by": "Anne Riley",
+      "guest_slug": "anne-riley",
+      "mentions": [
+        {
+          "mentioned_by": "Anne Riley",
+          "guest_slug": "anne-riley",
+          "guest": "Anne Riley",
+          "episode_slug": "0108-anne-riley-always-evolution-occurs",
+          "episode_number": "0108",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "Always Evolution Occurs"
+        }
+      ],
       "episode_slug": "0108-anne-riley-always-evolution-occurs",
       "episode_number": "0108",
       "start": null,
@@ -384,7 +673,21 @@
     },
     {
       "title": "The Power of Now",
-      "mentioned_by": "discussed",
+      "book_slug": "the-power-of-now",
+      "mentioned_by": "Jacob",
+      "guest_slug": null,
+      "mentions": [
+        {
+          "mentioned_by": "Jacob",
+          "guest_slug": null,
+          "guest": "Rebecca Wild",
+          "episode_slug": "0110-rebecca-wild-turning-the-lights-on",
+          "episode_number": "0110",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "Turning The Lights On"
+        }
+      ],
       "episode_slug": "0110-rebecca-wild-turning-the-lights-on",
       "episode_number": "0110",
       "start": null,
@@ -393,8 +696,46 @@
       "guest": "Rebecca Wild"
     },
     {
+      "title": "The Protestant Ethic and the Spirit of Capitalism",
+      "book_slug": "the-protestant-ethic-and-the-spirit-of-capitalism",
+      "mentioned_by": "Spencer Hicks",
+      "guest_slug": "spencer-hicks",
+      "mentions": [
+        {
+          "mentioned_by": "Spencer Hicks",
+          "guest_slug": "spencer-hicks",
+          "guest": "Spencer Hicks",
+          "episode_slug": "0088-spencer-hicks-break-the-hammer",
+          "episode_number": "0088",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "Break The Hammer"
+        }
+      ],
+      "episode_slug": "0088-spencer-hicks-break-the-hammer",
+      "episode_number": "0088",
+      "start": null,
+      "start_seconds": null,
+      "browse_title": "Break The Hammer",
+      "guest": "Spencer Hicks"
+    },
+    {
       "title": "The Road Less Traveled",
+      "book_slug": "the-road-less-traveled",
       "mentioned_by": "Rebecca Wild",
+      "guest_slug": "rebecca-wild",
+      "mentions": [
+        {
+          "mentioned_by": "Rebecca Wild",
+          "guest_slug": "rebecca-wild",
+          "guest": "Rebecca Wild",
+          "episode_slug": "0110-rebecca-wild-turning-the-lights-on",
+          "episode_number": "0110",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "Turning The Lights On"
+        }
+      ],
       "episode_slug": "0110-rebecca-wild-turning-the-lights-on",
       "episode_number": "0110",
       "start": null,
@@ -404,7 +745,21 @@
     },
     {
       "title": "The Seven Lessons of Love",
+      "book_slug": "the-seven-lessons-of-love",
       "mentioned_by": "Zach Beach",
+      "guest_slug": "zach-beach",
+      "mentions": [
+        {
+          "mentioned_by": "Zach Beach",
+          "guest_slug": "zach-beach",
+          "guest": "Zach Beach",
+          "episode_slug": "0087-zach-beach-a-path-of-love",
+          "episode_number": "0087",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "A Path Of Love"
+        }
+      ],
       "episode_slug": "0087-zach-beach-a-path-of-love",
       "episode_number": "0087",
       "start": null,
@@ -413,18 +768,22 @@
       "guest": "Zach Beach"
     },
     {
-      "title": "The Seven Lessons of Love and two poetry collections with a third out in June",
-      "mentioned_by": "Guest",
-      "episode_slug": "0087-zach-beach-a-path-of-love",
-      "episode_number": "0087",
-      "start": null,
-      "start_seconds": null,
-      "browse_title": "A Path Of Love",
-      "guest": "Zach Beach"
-    },
-    {
-      "title": "the spiritual awakening guide by Mary Weller chutan which I really enjoy as well uh uh espe",
-      "mentioned_by": "Guest",
+      "title": "The Spiritual Awakening Guide",
+      "book_slug": "the-spiritual-awakening-guide",
+      "mentioned_by": "Brent Spirit",
+      "guest_slug": "brent-spirit",
+      "mentions": [
+        {
+          "mentioned_by": "Brent Spirit",
+          "guest_slug": "brent-spirit",
+          "guest": "Brent Spirit",
+          "episode_slug": "0099-brent-spirit-a-kundalini-awakening-story",
+          "episode_number": "0099",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "A Kundalini Awakening Story"
+        }
+      ],
       "episode_slug": "0099-brent-spirit-a-kundalini-awakening-story",
       "episode_number": "0099",
       "start": null,
@@ -433,8 +792,22 @@
       "guest": "Brent Spirit"
     },
     {
-      "title": "the symbolic species the co-evolution of language and brain um and uh i cried when i first",
-      "mentioned_by": "Guest",
+      "title": "The Symbolic Species",
+      "book_slug": "the-symbolic-species",
+      "mentioned_by": "Jeremy Sherman",
+      "guest_slug": "jeremy-sherman",
+      "mentions": [
+        {
+          "mentioned_by": "Jeremy Sherman",
+          "guest_slug": "jeremy-sherman",
+          "guest": "Jeremy Sherman",
+          "episode_slug": "0084-jeremy-sherman-the-trying-self",
+          "episode_number": "0084",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "The Trying Self"
+        }
+      ],
       "episode_slug": "0084-jeremy-sherman-the-trying-self",
       "episode_number": "0084",
       "start": null,
@@ -444,7 +817,21 @@
     },
     {
       "title": "The War of Art",
-      "mentioned_by": "discussed",
+      "book_slug": "the-war-of-art",
+      "mentioned_by": "Jacob",
+      "guest_slug": null,
+      "mentions": [
+        {
+          "mentioned_by": "Jacob",
+          "guest_slug": null,
+          "guest": "Maxx V. Payne",
+          "episode_slug": "0024-maxx-v-payne",
+          "episode_number": "0024",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "Rap music background & inspiration"
+        }
+      ],
       "episode_slug": "0024-maxx-v-payne",
       "episode_number": "0024",
       "start": null,
@@ -454,7 +841,21 @@
     },
     {
       "title": "The Will To Live Project",
+      "book_slug": "the-will-to-live-project",
       "mentioned_by": "Rebecca Wild",
+      "guest_slug": "rebecca-wild",
+      "mentions": [
+        {
+          "mentioned_by": "Rebecca Wild",
+          "guest_slug": "rebecca-wild",
+          "guest": "Rebecca Wild",
+          "episode_slug": "0110-rebecca-wild-turning-the-lights-on",
+          "episode_number": "0110",
+          "start": "00:09:24",
+          "start_seconds": 564,
+          "browse_title": "Turning The Lights On"
+        }
+      ],
       "episode_slug": "0110-rebecca-wild-turning-the-lights-on",
       "episode_number": "0110",
       "start": "00:09:24",
@@ -463,18 +864,22 @@
       "guest": "Rebecca Wild"
     },
     {
-      "title": "The Will To Live Project' here",
-      "mentioned_by": "Guest",
-      "episode_slug": "0110-rebecca-wild-turning-the-lights-on",
-      "episode_number": "0110",
-      "start": null,
-      "start_seconds": null,
-      "browse_title": "Turning The Lights On",
-      "guest": "Rebecca Wild"
-    },
-    {
-      "title": "The Wisdom Of Insecurity",
-      "mentioned_by": "discussed",
+      "title": "The Wisdom of Insecurity",
+      "book_slug": "the-wisdom-of-insecurity",
+      "mentioned_by": "Jacob",
+      "guest_slug": null,
+      "mentions": [
+        {
+          "mentioned_by": "Jacob",
+          "guest_slug": null,
+          "guest": "Spencer Hicks",
+          "episode_slug": "0088-spencer-hicks-break-the-hammer",
+          "episode_number": "0088",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "Break The Hammer"
+        }
+      ],
       "episode_slug": "0088-spencer-hicks-break-the-hammer",
       "episode_number": "0088",
       "start": null,
@@ -483,48 +888,22 @@
       "guest": "Spencer Hicks"
     },
     {
-      "title": "uh Capitalism in the Protestant ethic so it Actually refers to kind of what I was Just talk",
-      "mentioned_by": "Guest",
-      "episode_slug": "0088-spencer-hicks-break-the-hammer",
-      "episode_number": "0088",
-      "start": null,
-      "start_seconds": null,
-      "browse_title": "Break The Hammer",
-      "guest": "Spencer Hicks"
-    },
-    {
-      "title": "uh dark psychology",
-      "mentioned_by": "Guest",
-      "episode_slug": "0119-trey-jones-prison-overdose-witness-state",
-      "episode_number": "0119",
-      "start": null,
-      "start_seconds": null,
-      "browse_title": "The Story Of Trey Jones – From Prison Overdose to Witness State",
-      "guest": "Trey Jones"
-    },
-    {
-      "title": "uh light eaters it's like it's about plants and um like the life behind plants it's so fasc",
-      "mentioned_by": "Guest",
-      "episode_slug": "0108-anne-riley-always-evolution-occurs",
-      "episode_number": "0108",
-      "start": null,
-      "start_seconds": null,
-      "browse_title": "Always Evolution Occurs",
-      "guest": "Anne Riley"
-    },
-    {
-      "title": "um uh be here now I think it's B here now but I would recommend that book that's great for",
-      "mentioned_by": "Guest",
-      "episode_slug": "0090-will-andes-being-boys-becoming-men-and-bringing-peace",
-      "episode_number": "0090",
-      "start": null,
-      "start_seconds": null,
-      "browse_title": "Being Boys, Becoming Men, And Bringing Peace",
-      "guest": "Will Andes"
-    },
-    {
-      "title": "who's afraid of AI and that's a really quick one and that one's really dope it's funny beca",
-      "mentioned_by": "Guest",
+      "title": "Who's Afraid of AI?",
+      "book_slug": "whos-afraid-of-ai",
+      "mentioned_by": "Ryan Reed",
+      "guest_slug": "ryan-reed",
+      "mentions": [
+        {
+          "mentioned_by": "Ryan Reed",
+          "guest_slug": "ryan-reed",
+          "guest": "Ryan Reed",
+          "episode_slug": "0035-ryan-reed-hope-ambition-fortitude-unlimited-beliefs-putting-yourself-on-creating-hip-hop-producing-music-and-reaching-for-greatness",
+          "episode_number": "0035",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "Hope, Ambition, Fortitude, Unlimited Beliefs, Putting Yourself On, Creating Hip-Hop, Producing Music and Reaching For Greatness"
+        }
+      ],
       "episode_slug": "0035-ryan-reed-hope-ambition-fortitude-unlimited-beliefs-putting-yourself-on-creating-hip-hop-producing-music-and-reaching-for-greatness",
       "episode_number": "0035",
       "start": null,

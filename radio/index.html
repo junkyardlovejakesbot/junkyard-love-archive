@@ -5,7 +5,12 @@
 <script>(function(){try{var t=localStorage.getItem("jylp-theme");if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t);}catch(e){}})();</script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Chapter radio - The Junkyard Love Podcast</title>
+<title>Chapter radio — a random stretch of a real conversation</title>
+<meta name="description" content="Hit Play for a random chapter from Junkyard Love. Listen on the page starting at the real timestamp. No autoplay on load.">
+<meta property="og:title" content="Chapter radio — a random stretch of a real conversation">
+<meta property="og:description" content="Hit Play for a random chapter from Junkyard Love. Listen on the page starting at the real timestamp. No autoplay on load.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://junkyardlovejakesbot.github.io/junkyard-love-archive/radio/">
 <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
@@ -30,7 +35,7 @@
 </header>
 
 <h1>Chapter radio</h1>
-<p class="note">A random stretch from a real conversation.</p>
+<p class="note">A random stretch from a real conversation. Play embeds YouTube at the chapter time after you click — nothing starts on load.</p>
 <div class="action-row">
   <button type="button" class="btn" data-radio-play>Play a random clip</button>
   <button type="button" class="btn secondary" data-radio-next hidden>Next</button>
@@ -47,7 +52,7 @@
 <button type="button" class="mood-chip" data-radio-subject="work-money">Work &amp; money</button>
 </div>
 <div id="radio-card" class="radio-card-slot" data-radio-card></div>
-<p class="note">No autoplay on load. Missing YouTube ID means card + transcript jump only.</p>
+<p class="note">No autoplay on load. Next picks another clip (same subject if one is selected). Missing YouTube ID (e.g. episode 0047) shows the card and an “Open episode at chapter” link — no fake player. YouTube ending does not auto-advance; hit Next.</p>
 
 <footer class="site">
   <p class="motto">drink some water, stretch, love yourselves.</p>

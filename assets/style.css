@@ -725,3 +725,18 @@ a.mood-chip[aria-current="true"] {
 .radio-row {
   margin: 0.65rem 0;
 }
+
+
+/* —— Chapter radio on-page player —— */
+.radio-card-slot {
+  margin: 1rem 0 1.5rem;
+  min-height: 2rem;
+}
+.radio-now-playing .radio-embed,
+.radio-card-slot .yt-embed {
+  margin-top: 0.85rem;
+}
+.radio-subjects button.mood-chip[aria-pressed="true"] {
+  border-color: var(--accent);
+  background: var(--chip-hover-bg);
+}
