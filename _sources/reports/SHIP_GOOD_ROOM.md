@@ -3,8 +3,8 @@
 - Guest pages rebuilt: **98**
 - Also Made filled: **36** (`alicia-davon, anna-cantwell, barbara-mcafee, bobby-barrz, brent-spirit, cetvies-cetvies, craig-bennett, cristine-hull, curtis-l-harnagel, daniel-t-matalon, david-hulse, erwan-davon, heather-hutchison, jerry-fu, john-lee, john-lefebvre, juli-geske-peer, julie-hoyle, kevin-foreman, landon-dirtyzen-smith, lynn-cherry, matt-mcgee, matt-young, megan-hawkins, meredith-bennett, nate-begle, nike-anani, rebecca-wild, roman-merrell, sandy-vo, scott-pisapia, sean-blackwell, sigmar-berg, swami-nityananda, wendy-cole, zach-beach`)
 - Also Made omitted (non-authors → NEEDS JACOB): **58**
-- Portraits wired (file present at build): **3** — ['barbara-mcafee', 'rebecca-wild', 'sigmar-berg']
-- Identity bios kept: **40**
+- Portraits wired (file present at build): **0** — []
+- Identity bios kept: **39**
 
 ## Name notes
 
