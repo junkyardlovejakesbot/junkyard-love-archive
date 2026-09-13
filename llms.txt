@@ -4,6 +4,29 @@
 
 Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 
+## For bots / indexers (what this archive actually has)
+
+This site is a conversation archive for The Junkyard Love Podcast (host: Jacob / JacobFromTheInternet).
+
+### Reliable fields
+- **Episode**: number, slug, browse/canonical title, guest name(s), date, duration
+- **Chapter title + start time**: chapter lists on episode pages and in `assets/clips_index.json` / `assets/episodes_index.json` (title + start / start_seconds)
+- **Transcript**: each episode folder has transcript mirrors (`episode.md`, captions); deep-link with `#t-HH-MM-SS` on the episode page
+- **YouTube**: `youtube_id` / URL; clip/chapter deep links use `&t=` seconds
+- **Published quotes only**: Jacob’s published episode-note quotes live in `assets/quotes_clean.json` (and `_sources/quotes_clean.json`) with `"source": "published"`. Same texts appear as plain `<blockquote>` under the episode **Quotes** heading when published. Do **not** treat Archive-picks / mined transcript lines as public quotes.
+
+### Clip summaries
+- `short_summary` and `long_summary` in `assets/clips_index.json` are intentionally **empty**. Empty is correct. Do not invent clip blurbs or fill empty summary fields.
+
+### Useful machine files
+- `assets/episodes_index.json` — episode catalog (chapters, published quotes, links)
+- `assets/quotes_clean.json` — public published-quote pool (homepage rotator)
+- `assets/clips_index.json` — chapter/clip index (titles + timestamps; no summaries)
+- `llms.txt` — this file (episode list + guidance)
+
+### Base URL
+https://junkyardlovejakesbot.github.io/junkyard-love-archive/
+
 ## Episodes (processed)
 - [0124 Sigmar Berg — Conscious Breathing Break](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0124-sigmar-berg-conscious-breathing-break/) — 2026-09-01
 - [0123 Dr. Cristine Hull — Endorphins, Love, Quantum Medicine & the Four Bodies](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0123-endorphins-love-quantum-medicine-four-bodies/) — 2026-07-25
@@ -125,6 +148,12 @@ Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 - [0004 Zack Wyld](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0004-zack-wyld/) — 2019-11-25
 - [0003 Spencer Hicks](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0003-spencer-hicks/) — 2019-11-25
 - [0002 Rob Gonzalez of EYE Clothing](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0002-rob-gonzalez-of-eye-clothing/) — 2019-11-24
+
+
+## Published quotes
+
+Public quotes are Jacob’s published episode-note lines only (`source=published`).
+Machine-readable: [assets/quotes_clean.json](https://junkyardlovejakesbot.github.io/junkyard-love-archive/assets/quotes_clean.json)
 
 ## Guests
 - [Alicia Davon](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/alicia-davon/)
