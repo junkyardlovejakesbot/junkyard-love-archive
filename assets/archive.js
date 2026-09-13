@@ -628,7 +628,7 @@
     if (!el) return Promise.resolve();
     if (!q) {
       el.innerHTML =
-        '<p class="search-empty">try a guest name, or a word like breath, father, surrender.</p>';
+        '<p class="search-empty">Type a guest or a topic, then search.</p>';
       return Promise.resolve();
     }
     return loadIndex().then(function (data) {
@@ -1175,7 +1175,7 @@
     if (initial) search(initial, results);
     else
       results.innerHTML =
-        '<p class="search-empty">try a guest name, or a word like breath, father, surrender.</p>';
+        '<p class="search-empty">Type a guest or a topic, then search.</p>';
   }
 
   document.addEventListener("DOMContentLoaded", function () {

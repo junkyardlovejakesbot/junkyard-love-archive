@@ -886,3 +886,92 @@ ul.links a {
     grid-template-columns: 1fr;
   }
 }
+
+
+/* Donate + homepage about cleanup */
+.donate-page { max-width: 36rem; margin: 0 auto; }
+.donate-lede {
+  font-size: 1.35rem;
+  line-height: 1.45;
+  margin: 0.75rem 0 1.5rem;
+  font-style: normal;
+}
+.donate-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+}
+.donate-btn {
+  display: block;
+  text-align: center;
+  padding: 1rem 1.25rem;
+  font-size: 1.1rem;
+  min-height: 3rem;
+}
+.donate-qr {
+  text-align: center;
+  margin-bottom: 1.25rem;
+}
+.donate-qr img {
+  display: block;
+  margin: 0 auto 0.75rem;
+  width: min(280px, 85vw);
+  height: auto;
+  border-radius: 12px;
+  background: #fff;
+}
+.donate-apple h2 { font-size: 1.1rem; margin-top: 0; }
+.about-top {
+  max-width: 42rem;
+  margin: 0.75rem 0 1.5rem;
+  font-style: normal;
+}
+.about-top p {
+  margin: 0 0 0.85rem;
+  line-height: 1.55;
+  font-style: normal;
+}
+.about-tagline {
+  font-size: 1.25rem;
+  font-weight: 600;
+  line-height: 1.35;
+  margin-bottom: 0.9rem !important;
+}
+.home-donate-strip {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem 1rem;
+  margin: 0 0 1.5rem;
+  padding: 0.9rem 1rem;
+}
+.donate-strip-copy { margin: 0; }
+.donate-strip-row {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+.donate-qr-thumb img {
+  display: block;
+  width: 72px;
+  height: 72px;
+  border-radius: 8px;
+  background: #fff;
+  object-fit: cover;
+}
+@media (min-width: 900px) {
+  .wrap-wide {
+    max-width: 64rem;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+  }
+}
+@media (max-width: 639px) {
+  .donate-actions { gap: 0.65rem; }
+  .donate-btn { width: 100%; }
+  .home-donate-strip { flex-direction: column; align-items: stretch; }
+  .donate-strip-row { justify-content: space-between; }
+  .nav-main { flex-wrap: wrap; row-gap: 0.35rem; }
+}
