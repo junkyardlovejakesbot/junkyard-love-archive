@@ -1,0 +1,44 @@
+{
+  "guest_pages": 98,
+  "bios_kept": [
+    "andy-of-team-banzai",
+    "bobby-barrz",
+    "brian-dj-toasty-andrew",
+    "cameron-reid",
+    "crystal-nyman",
+    "devon-sims",
+    "erik-nordin",
+    "heather-hutchison",
+    "jerry-fu",
+    "john-lee",
+    "jordenelle-tsugawa",
+    "josh-gebhardt",
+    "keenan-harvey",
+    "landon-dirtyzen-smith",
+    "lynn-cherry",
+    "matt-mcgee",
+    "maxx-v-payne",
+    "megan-robinson",
+    "nate-tanzman",
+    "ricky-navarrete",
+    "rosetan-the-band",
+    "ryan-reed",
+    "tyler-milliken",
+    "will-andes"
+  ],
+  "needs_jacob": [],
+  "wyld_wild_separate": {
+    "rebecca-wyld": {
+      "slug": "rebecca-wyld",
+      "display_name": "Rebecca Wyld",
+      "episode_count": 1,
+      "sort_key": "rebecca wyld"
+    },
+    "rebecca-wild": {
+      "slug": "rebecca-wild",
+      "display_name": "Rebecca Wild",
+      "episode_count": 1,
+      "sort_key": "rebecca wild"
+    }
+  }
+}
