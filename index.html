@@ -6,114 +6,122 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>The Junkyard Love Podcast — long conversations worth keeping</title>
-<meta name="description" content="Long conversations when you can’t sleep. Real talks about healing, becoming, breath, and taking the armor off.">
+<meta name="description" content="Long conversations for people who want honest talk about how we grow, heal, create, and understand ourselves. Full episodes, searchable transcripts, and clips.">
 <meta property="og:title" content="The Junkyard Love Podcast — long conversations worth keeping">
-<meta property="og:description" content="Long conversations when you can’t sleep. Real talks about healing, becoming, breath, and taking the armor off.">
+<meta property="og:description" content="Long conversations for people who want honest talk about how we grow, heal, create, and understand ourselves. Full episodes, searchable transcripts, and clips.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://junkyardlovejakesbot.github.io/junkyard-love-archive/">
 <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
-<div class="wrap">
+<div class="wrap wrap-wide">
 <header class="site">
-  <div class="header-row">
-    <a class="brand" href="index.html">The Junkyard Love Podcast</a>
-    <button type="button" class="theme-toggle" data-theme-toggle aria-label="Toggle light and dark mode">Light</button>
+  <div class="header-row header-row-home">
+    <a class="brand" href="index.html" title="Home — archive front door">The Junkyard Love Podcast</a>
+    <div class="header-tools">
+      <form class="search-box search-box-header" data-archive-search role="search" action="search/index.html">
+        <label class="sr-only" for="home-q">Search episodes</label>
+        <input id="home-q" type="search" name="q" placeholder="try a guest name, or a word like breath, father, surrender." data-search-hint autocomplete="off">
+        <button type="submit" title="Search the archive">Search</button>
+      </form>
+      <button type="button" class="theme-toggle" data-theme-toggle aria-label="Toggle light and dark mode" title="Switch light or dark">Light</button>
+    </div>
   </div>
   <nav class="nav-main" aria-label="Primary">
-    <a href="index.html">Home</a>
-    <a href="six-ways-in/index.html">Six ways in</a>
-    <a href="radio/index.html">Chapter radio</a>
-    <a href="topics/index.html">Topics</a>
-    <a href="guests/index.html">Guests</a>
-    <a href="episodes/index.html">Episodes</a>
-    <a href="books/index.html">Books</a>
-    <a href="search/index.html">Search</a>
-    <a href="listen/index.html">Listen</a>
-    <a href="https://www.instagram.com/jacobfromtheinternet/" target="_blank" rel="noopener">Instagram</a>
+    <a href="index.html" title="Home — archive front door">Home</a>
+    <a href="six-ways-in/index.html" title="Six plain doors into the catalog">Six ways in</a>
+    <a href="radio/index.html" title="Play a random chapter clip">Chapter radio</a>
+    <a href="topics/index.html" title="Browse by conversation theme">Topics</a>
+    <a href="guests/index.html" title="Browse by guest">Guests</a>
+    <a href="episodes/index.html" title="All published episodes">Episodes</a>
+    <a href="books/index.html" title="Books mentioned on the show">Books</a>
+    <a href="search/index.html" title="Search transcripts and titles">Search</a>
+    <a href="listen/index.html" title="Ways to listen">Listen</a>
+    <a href="https://www.instagram.com/jacobfromtheinternet/" target="_blank" rel="noopener" title="Jacob on Instagram">Instagram</a>
   </nav>
 </header>
-<h1>The Junkyard Love Podcast</h1>
-<p class="note">Conversation archive - published episodes, searchable transcripts.</p>
-<div class="quote-spotlight card" data-random-quote></div>
-<div class="about thesis">
-<p>&quot;Mining the hearts and minds of unorthodox teachers&quot; For the life-long learner who wants honest, human conversations about how we grow, heal, create, and understand ourselves.</p>
-<p>These are longform dialogues with artists, thinkers, authors, meditators, psychologists, musicians, creatives, leaders, philosophers, healers, and everyday people with something real to teach. Each episode offers a perspective, story, or insight that tends to lands exactly when someone needs it most.</p>
-<p>Thoughtful, curious, and quietly life-changing, this show exists to help us live a better life by understanding our own inner world more deeply, through the perspectives of one another. The Junkyard Love Podcast - for a better life.</p>
+
+<p class="hero-tagline">Mining the hearts and minds of unorthodox teachers</p>
+<p class="show-name-sub">The Junkyard Love Podcast</p>
+
+<div class="home-intro">
+<p>Long conversations for people who want honest talk about how we grow, heal, create, and understand ourselves. Artists, thinkers, musicians, healers, and everyday people who learned something the hard way.</p>
+<p>This site is the archive: full episodes, searchable transcripts, and clips you can open at the exact moment in the talk.</p>
 </div>
-<h2>Search</h2>
-<form class="search-box" data-archive-search role="search" action="search/index.html">
-  <label class="sr-only" for="home-q">Search episodes</label>
-  <input id="home-q" type="search" name="q" placeholder="Guest, topic, or a word like breath" autocomplete="off">
-  <button type="submit">Search</button>
-</form>
+
+<div class="quote-spotlight card" data-random-quote>
+  <div class="quote-actions"><button type="button" class="btn secondary btn-small" data-another-quote title="Show another quote">another quote</button></div>
+</div>
+
 <div id="search-results"></div>
+
 <h2>Topics</h2>
 <div class="card-grid cols-3">
-<a class="topic-card" href="topics/awakening-mystical/index.html"><h3>Awakening &amp; Mystical Experience</h3><span class="count">0 episodes</span><p class="blurb">Kundalini, mystical practice, spiritual emergency, and awakening stories.</p></a>
-<a class="topic-card" href="topics/healing-trauma-therapy/index.html"><h3>Healing, Trauma &amp; Therapy</h3><span class="count">0 episodes</span><p class="blurb">Trauma work, therapy, chronic pain, and recovery of the self.</p></a>
-<a class="topic-card" href="topics/breath-body-practice/index.html"><h3>Breath, Body &amp; Daily Practice</h3><span class="count">0 episodes</span><p class="blurb">Breath, yoga, fitness, and everyday care of the body.</p></a>
-<a class="topic-card" href="topics/men-masculinity-fatherhood/index.html"><h3>Men, Masculinity &amp; Fatherhood</h3><span class="count">0 episodes</span><p class="blurb">Men’s emotional life, fatherhood, and outgrown masculine costumes.</p></a>
-<a class="topic-card" href="topics/love-sex-relationships/index.html"><h3>Love, Sex &amp; Relationships</h3><span class="count">0 episodes</span><p class="blurb">Intimacy, partnership, belonging, and relationship practice.</p></a>
-<a class="topic-card" href="topics/music-creative-practice/index.html"><h3>Music &amp; Creative Practice</h3><span class="count">0 episodes</span><p class="blurb">Music, voice, art, and making as a way of life.</p></a>
-<a class="topic-card" href="topics/work-money-building/index.html"><h3>Work, Money &amp; Building</h3><span class="count">0 episodes</span><p class="blurb">Entrepreneurship, craft of work, money, and building something real.</p></a>
-<a class="topic-card" href="topics/sobriety-substances/index.html"><h3>Sobriety &amp; Substances</h3><span class="count">0 episodes</span><p class="blurb">Sobriety, cannabis, plant medicine, and substance questions.</p></a>
-<a class="topic-card" href="topics/mind-mood-mental-health/index.html"><h3>Mind, Mood &amp; Mental Health</h3><span class="count">0 episodes</span><p class="blurb">Depression, anxiety, mania, intrusive thoughts, and sense-making.</p></a>
-<a class="topic-card" href="topics/science-frequency-integral/index.html"><h3>Science, Frequency &amp; Integral Bridges</h3><span class="count">0 episodes</span><p class="blurb">Quantum talk, frequency, and bridges between science and spirit.</p></a>
-<a class="topic-card" href="topics/extreme-lives-second-chances/index.html"><h3>Extreme Lives / Second Chances</h3><span class="count">0 episodes</span><p class="blurb">Prison, combat, near-death, and hard second acts.</p></a>
-<a class="topic-card" href="topics/host-solocasts/index.html"><h3>Host Solocasts</h3><span class="count">0 episodes</span><p class="blurb">Solo episodes with Jacob — self-care, sobriety experiment, mood, masculinity, mystical practice.</p></a>
-<a class="topic-card" href="topics/identity-becoming/index.html"><h3>Identity &amp; Becoming</h3><span class="count">0 episodes</span><p class="blurb">Transition, outgrown identities, and becoming who you are.</p></a>
+<a class="topic-card" href="topics/awakening-mystical/index.html" title="Awakening stories, kundalini, and mystical practice."><h3>Awakening &amp; Mystical Experience</h3><span class="count">18 episodes</span><p class="blurb">Kundalini, mystical practice, spiritual emergency, and awakening stories.</p></a><a class="topic-card" href="topics/healing-trauma-therapy/index.html" title="Trauma, therapy, pain, and recovering a sense of self."><h3>Healing, Trauma &amp; Therapy</h3><span class="count">16 episodes</span><p class="blurb">Trauma work, therapy, chronic pain, and recovery of the self.</p></a><a class="topic-card" href="topics/breath-body-practice/index.html" title="Breath, yoga, fitness, and everyday body care."><h3>Breath, Body &amp; Daily Practice</h3><span class="count">19 episodes</span><p class="blurb">Breath, yoga, fitness, and everyday care of the body.</p></a><a class="topic-card" href="topics/men-masculinity-fatherhood/index.html" title="Fatherhood, pressure, softness, and outgrown armor."><h3>Men, Masculinity &amp; Fatherhood</h3><span class="count">10 episodes</span><p class="blurb">Men’s emotional life, fatherhood, and outgrown masculine costumes.</p></a><a class="topic-card" href="topics/love-sex-relationships/index.html" title="Intimacy, partnership, belonging, and relationship practice."><h3>Love, Sex &amp; Relationships</h3><span class="count">11 episodes</span><p class="blurb">Intimacy, partnership, belonging, and relationship practice.</p></a><a class="topic-card" href="topics/music-creative-practice/index.html" title="Music, voice, art, and making as a way of life."><h3>Music &amp; Creative Practice</h3><span class="count">26 episodes</span><p class="blurb">Music, voice, art, and making as a way of life.</p></a><a class="topic-card" href="topics/work-money-building/index.html" title="Work, money, craft, and building something real."><h3>Work, Money &amp; Building</h3><span class="count">24 episodes</span><p class="blurb">Entrepreneurship, craft of work, money, and building something real.</p></a><a class="topic-card" href="topics/sobriety-substances/index.html" title="Sobriety, cannabis, plant medicine, and substance questions."><h3>Sobriety &amp; Substances</h3><span class="count">11 episodes</span><p class="blurb">Sobriety, cannabis, plant medicine, and substance questions.</p></a><a class="topic-card" href="topics/mind-mood-mental-health/index.html" title="Depression, anxiety, mania, and making sense of mood."><h3>Mind, Mood &amp; Mental Health</h3><span class="count">20 episodes</span><p class="blurb">Depression, anxiety, mania, intrusive thoughts, and sense-making.</p></a><a class="topic-card" href="topics/science-frequency-integral/index.html" title="Science, frequency, and bridges between fields."><h3>Science, Frequency &amp; Integral Bridges</h3><span class="count">11 episodes</span><p class="blurb">Quantum talk, frequency, and bridges between science and spirit.</p></a><a class="topic-card" href="topics/extreme-lives-second-chances/index.html" title="Prison, combat, near-death, and hard second acts."><h3>Extreme Lives / Second Chances</h3><span class="count">7 episodes</span><p class="blurb">Prison, combat, near-death, and hard second acts.</p></a><a class="topic-card" href="topics/host-solocasts/index.html" title="Solo episodes with Jacob from the catalog."><h3>Host Solocasts</h3><span class="count">5 episodes</span><p class="blurb">Solo episodes with Jacob — self-care, sobriety experiment, mood, masculinity, mystical practice.</p></a><a class="topic-card" href="topics/identity-becoming/index.html" title="Transition, outgrown identities, and becoming."><h3>Identity &amp; Becoming</h3><span class="count">16 episodes</span><p class="blurb">Transition, outgrown identities, and becoming who you are.</p></a>
 </div>
+
 <h2>Six ways in</h2>
 <p class="note">Six doors into the catalog - same topic packs, plain labels.</p>
 <div class="card-grid">
-<a class="start-pack" href="topics/men-masculinity-fatherhood/index.html"><p class="pack-label">Six ways in</p><h3>Talks for men</h3><p>fatherhood, pressure, softness, and taking the armor off</p></a>
-<a class="start-pack" href="topics/healing-trauma-therapy/index.html"><p class="pack-label">Six ways in</p><h3>Getting through the hard thing</h3><p>trauma, pain, healing, without clinic-speak</p></a>
-<a class="start-pack" href="topics/awakening-mystical/index.html"><p class="pack-label">Six ways in</p><h3>When your life cracks open</h3><p>awakening, kundalini, visions, was that a breakdown?</p></a>
-<a class="start-pack" href="topics/breath-body-practice/index.html"><p class="pack-label">Six ways in</p><h3>Breath, body, daily practice</h3><p>nervous system, yoga, voice, water, stretch</p></a>
-<a class="start-pack" href="topics/extreme-lives-second-chances/index.html"><p class="pack-label">Six ways in</p><h3>Starting over</h3><p>prison, collapse, second chances</p></a>
-<a class="start-pack" href="topics/mind-mood-mental-health/index.html"><p class="pack-label">Six ways in</p><h3>Mind, mood, making sense</h3><p>anxiety, depression, mania, intrusive thoughts, sense-making</p></a>
+<a class="start-pack" href="topics/men-masculinity-fatherhood/index.html" title="Talks for men — fatherhood, pressure, softness."><p class="pack-label">Six ways in</p><h3>Talks for men</h3><p>fatherhood, pressure, softness, and taking the armor off</p></a>
+<a class="start-pack" href="topics/healing-trauma-therapy/index.html" title="Getting through the hard thing — trauma, pain, healing."><p class="pack-label">Six ways in</p><h3>Getting through the hard thing</h3><p>trauma, pain, healing, without clinic-speak</p></a>
+<a class="start-pack" href="topics/awakening-mystical/index.html" title="When your life cracks open — awakening and visions."><p class="pack-label">Six ways in</p><h3>When your life cracks open</h3><p>awakening, kundalini, visions, was that a breakdown?</p></a>
+<a class="start-pack" href="topics/breath-body-practice/index.html" title="Breath, body, daily practice."><p class="pack-label">Six ways in</p><h3>Breath, body, daily practice</h3><p>nervous system, yoga, voice, water, stretch</p></a>
+<a class="start-pack" href="topics/extreme-lives-second-chances/index.html" title="Starting over — prison, collapse, second chances."><p class="pack-label">Six ways in</p><h3>Starting over</h3><p>prison, collapse, second chances</p></a>
+<a class="start-pack" href="topics/mind-mood-mental-health/index.html" title="Mind, mood, making sense."><p class="pack-label">Six ways in</p><h3>Mind, mood, making sense</h3><p>anxiety, depression, mania, intrusive thoughts, sense-making</p></a>
 </div>
+
 <div class="action-row">
-  <a class="btn" href="#" data-random-episode>Random episode</a>
-  <a class="btn secondary" href="#" data-shuffle-clip>Shuffle a clip</a>
-  <a class="btn secondary" href="radio/index.html">Chapter radio</a>
+  <a class="btn" href="#" data-random-episode title="Open a random published episode">Random episode</a>
+  <a class="btn secondary" href="#" data-shuffle-clip title="Pick a random chapter clip">Shuffle a clip</a>
+  <a class="btn secondary" href="radio/index.html" title="Play a random chapter clip">Chapter radio</a>
 </div>
 <div id="shuffle-result"></div>
+
 <h2>Listen by mood</h2>
 <div id="mood-doors" class="mood-doors" data-mood-doors>
-<a class="mood-chip" href="moods/cant-sleep/index.html" data-mood="cant-sleep">Can't sleep</a>
-<a class="mood-chip" href="moods/tired-of-holding-it-together/index.html" data-mood="tired-of-holding-it-together">Tired of holding it together</a>
-<a class="mood-chip" href="moods/something-big-shifted/index.html" data-mood="something-big-shifted">Something big shifted</a>
-<a class="mood-chip" href="moods/need-to-come-back-to-my-body/index.html" data-mood="need-to-come-back-to-my-body">Need to come back to my body</a>
-<a class="mood-chip" href="moods/having-a-really-hard-time/index.html" data-mood="having-a-really-hard-time">Having a really hard time</a>
-<a class="mood-chip" href="moods/just-want-a-real-conversation/index.html" data-mood="just-want-a-real-conversation">Just want a real conversation</a>
+<a class="mood-chip" href="moods/cant-sleep/index.html" data-mood="cant-sleep" title="Chapters for when you can't sleep">Can't sleep</a>
+<a class="mood-chip" href="moods/tired-of-holding-it-together/index.html" data-mood="tired-of-holding-it-together" title="Chapters for when you're tired of holding it together">Tired of holding it together</a>
+<a class="mood-chip" href="moods/something-big-shifted/index.html" data-mood="something-big-shifted" title="Chapters for when something big shifted">Something big shifted</a>
+<a class="mood-chip" href="moods/need-to-come-back-to-my-body/index.html" data-mood="need-to-come-back-to-my-body" title="Chapters for coming back to the body">Need to come back to my body</a>
+<a class="mood-chip" href="moods/having-a-really-hard-time/index.html" data-mood="having-a-really-hard-time" title="Chapters for a really hard time">Having a really hard time</a>
+<a class="mood-chip" href="moods/just-want-a-real-conversation/index.html" data-mood="just-want-a-real-conversation" title="Chapters for a real conversation">Just want a real conversation</a>
 </div>
 <div id="mood-results" class="mood-results" data-mood-results></div>
+
 <h2>Pick a clip</h2>
 <p class="note">Plain words from real chapter titles - click for a few chapter cards. <a href="clips/index.html">Open Pick a clip</a></p>
 <div class="phrase-cloud" data-phrase-cloud></div>
 <div id="clip-results"></div>
+
 <h2>What do we talk about?</h2>
 <p class="note">One fine-grained subject from chapter titles across the catalog - not the big Topics list.</p>
 <div class="action-row">
-  <button type="button" class="btn" data-what-we-talk>What do we talk about on Junkyard Love?</button>
+  <button type="button" class="btn" data-what-we-talk title="Shuffle a fine-grained subject from chapter titles">What do we talk about on the Junkyard Love Podcast?</button>
 </div>
 <div id="what-we-talk-result"></div>
+
 <div class="section-head">
   <h2>Latest</h2>
-  <a class="more" href="episodes/index.html">All episodes</a>
+  <a class="more" href="episodes/index.html" title="Browse every published episode">All episodes</a>
 </div>
 <div class="card-grid" data-latest-cards data-count="8"></div>
+
+<div class="about about-show" id="about-the-show">
+<h2>About the show</h2>
+<p>&quot;Mining the hearts and minds of unorthodox teachers&quot; For the life-long learner who wants honest, human conversations about how we grow, heal, create, and understand ourselves.</p>
+<p>These are longform dialogues with artists, thinkers, authors, meditators, psychologists, musicians, creatives, leaders, philosophers, healers, and everyday people with something real to teach. Each episode offers a perspective, story, or insight that tends to land exactly when someone needs it most.</p>
+<p>Thoughtful, curious, and quietly life-changing, this show exists to help us live a better life by understanding our own inner world more deeply, through the perspectives of one another. The Junkyard Love Podcast - for a better life.</p>
+</div>
 
 <footer class="site">
   <p class="motto">drink some water, stretch, love yourselves.</p>
   <p class="footer-links">
-    <a href="donate/index.html">Donate</a>
+    <a href="donate/index.html" title="Donate">Donate</a>
     ·
-    <a href="merch/index.html">Merch</a>
+    <a href="merch/index.html" title="Merch">Merch</a>
     ·
-    <a href="https://www.instagram.com/jacobfromtheinternet/" target="_blank" rel="noopener">Instagram</a>
+    <a href="https://www.instagram.com/jacobfromtheinternet/" target="_blank" rel="noopener" title="Jacob on Instagram">Instagram</a>
   </p>
 </footer>
 </div>

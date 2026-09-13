@@ -459,14 +459,14 @@
         });
         var item = pick(pool);
         if (!item) {
-          el.innerHTML = "";
+          renderQuoteCard(el, "");
           return;
         }
         var t = parseTs(item.t_seconds != null ? item.t_seconds : item.timestamp);
         var hash = item.timestamp ? "#t-" + fmtTs(t) : "";
         var text = String(item.text).replace(/^["“]|["”]$/g, "");
         var epUrl = abs("episodes/" + item.episode_slug + "/index.html") + hash;
-        el.innerHTML =
+        var body =
           '<blockquote class="pull-quote">“' +
           esc(text) +
           '”</blockquote>' +
@@ -479,6 +479,7 @@
           " · Episode " +
           esc(item.episode_number || "") +
           "</a></p>";
+        renderQuoteCard(el, body);
       })
       .catch(function () {
         return loadIndex().then(function (data) {
@@ -490,13 +491,13 @@
           });
           var item = pick(pool);
           if (!item) {
-            el.innerHTML = "";
+            renderQuoteCard(el, "");
             return;
           }
           var t = parseTs(item.q.t_seconds != null ? item.q.t_seconds : item.q.t);
           var hash = item.q.t ? "#t-" + fmtTs(t) : "";
           var text = item.q.text.replace(/^["“]|["”]$/g, "");
-          el.innerHTML =
+          var body =
             '<blockquote class="pull-quote">“' +
             esc(text) +
             '”</blockquote>' +
@@ -509,7 +510,117 @@
             " · Episode " +
             esc(item.ep.number) +
             "</a></p>";
+          renderQuoteCard(el, body);
         });
+      });
+  }
+
+  function renderQuoteCard(el, bodyHtml) {
+    if (!el) return;
+    var actions = el.querySelector(".quote-actions");
+    if (!actions) {
+      actions = document.createElement("div");
+      actions.className = "quote-actions";
+      actions.innerHTML =
+        '<button type="button" class="btn secondary btn-small" data-another-quote title="Show another quote">another quote</button>';
+    } else {
+      actions = actions.cloneNode(true);
+    }
+    var body = document.createElement("div");
+    body.className = "quote-body";
+    body.innerHTML = bodyHtml || "";
+    el.innerHTML = "";
+    el.appendChild(body);
+    el.appendChild(actions);
+  }
+
+  function wireAnotherQuote() {
+    document.addEventListener("click", function (e) {
+      var btn = e.target.closest("[data-another-quote]");
+      if (!btn) return;
+      e.preventDefault();
+      var card = btn.closest("[data-random-quote]") || document.querySelector("[data-random-quote]");
+      if (card) randomQuote(card);
+    });
+  }
+
+  function wireSearchHints() {
+    var inputs = document.querySelectorAll("input[data-search-hint], input#home-q");
+    if (!inputs.length) return;
+    var fallback = [
+      "try a guest name, or a word like breath, father, surrender.",
+      "try a guest name, or a word like sleep, prayer, music.",
+      "try a guest name, or a word like awakening, grief, work.",
+      "try a guest name, or a word like voice, meditation, money.",
+    ];
+    function applyHints(hints) {
+      inputs.forEach(function (input) {
+        function setHint() {
+          var h = hints[Math.floor(Math.random() * hints.length)];
+          input.setAttribute("placeholder", h);
+        }
+        setHint();
+        input.addEventListener("focus", setHint);
+      });
+    }
+    loadClips()
+      .then(function (payload) {
+        var clips = payload.clips || payload || [];
+        var words = {};
+        var guests = {};
+        clips.forEach(function (c) {
+          if (c.guest) {
+            var g = String(c.guest).split(/[,&/]/)[0].trim().split(/\s+/)[0];
+            if (g && g.length > 2 && g[0] === g[0].toUpperCase()) guests[g] = true;
+          }
+          String(c.title || "")
+            .toLowerCase()
+            .split(/[^a-z]+/)
+            .forEach(function (w) {
+              if (
+                w.length >= 4 &&
+                [
+                  "with",
+                  "from",
+                  "that",
+                  "this",
+                  "your",
+                  "about",
+                  "into",
+                  "have",
+                  "what",
+                  "when",
+                  "open",
+                  "host",
+                  "episode",
+                  "intro",
+                  "outro",
+                ].indexOf(w) < 0
+              )
+                words[w] = (words[w] || 0) + 1;
+            });
+        });
+        var topWords = Object.keys(words)
+          .sort(function (a, b) {
+            return words[b] - words[a];
+          })
+          .slice(0, 24);
+        var guestNames = Object.keys(guests).slice(0, 20);
+        var hints = [];
+        for (var i = 0; i < 12; i++) {
+          var g = guestNames[i % Math.max(guestNames.length, 1)] || "Spencer";
+          var w1 = topWords[(i * 2) % Math.max(topWords.length, 1)] || "breath";
+          var w2 = topWords[(i * 2 + 1) % Math.max(topWords.length, 1)] || "father";
+          var w3 = topWords[(i * 3 + 2) % Math.max(topWords.length, 1)] || "surrender";
+          hints.push(
+            "try a guest name, or a word like " + w1 + ", " + w2 + ", " + w3 + "."
+          );
+          if (g) hints.push("try " + g + ", or a word like " + w1 + ", " + w2 + ".");
+        }
+        applyHints(hints.length ? hints : fallback);
+      })
+      .catch(function () {
+        applyHints(fallback);
       });
   }
 
@@ -1068,6 +1179,8 @@
   }
 
   document.addEventListener("DOMContentLoaded", function () {
+    wireAnotherQuote();
+    wireSearchHints();
     wireHome();
     wireMoodDoors();
     wireRadioSets();

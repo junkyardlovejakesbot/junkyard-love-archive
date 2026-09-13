@@ -740,3 +740,149 @@ a.mood-chip[aria-current="true"] {
   border-color: var(--accent);
   background: var(--chip-hover-bg);
 }
+
+/* —— Ship 1: wider desktop + homepage hierarchy —— */
+.wrap-wide {
+  max-width: 72rem;
+}
+@media (min-width: 1100px) {
+  .wrap-wide {
+    max-width: 78rem;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+  }
+  .wrap-wide header.site {
+    margin-left: -2.5rem;
+    margin-right: -2.5rem;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+  }
+  .wrap-wide .card-grid.cols-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1.15rem 1.35rem;
+  }
+}
+
+.header-row-home {
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 0.75rem 1.25rem;
+}
+.header-tools {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  margin-left: auto;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+.search-box-header {
+  display: flex;
+  gap: 0.4rem;
+  align-items: center;
+  margin: 0;
+}
+.search-box-header input[type="search"] {
+  min-width: min(18rem, 52vw);
+  font-family: system-ui, sans-serif;
+  font-size: 0.88rem;
+  padding: 0.4rem 0.65rem;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: var(--bg);
+  color: var(--fg);
+}
+.search-box-header button {
+  font-family: system-ui, sans-serif;
+  font-size: 0.85rem;
+  padding: 0.4rem 0.75rem;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: var(--accent);
+  color: var(--btn-fg);
+  cursor: pointer;
+}
+@media (max-width: 720px) {
+  .header-tools {
+    width: 100%;
+    margin-left: 0;
+  }
+  .search-box-header {
+    width: 100%;
+  }
+  .search-box-header input[type="search"] {
+    flex: 1;
+    min-width: 0;
+  }
+}
+
+.hero-tagline {
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  font-size: clamp(1.35rem, 3.2vw, 1.85rem);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1.25;
+  margin: 0 0 0.35rem;
+  color: var(--fg);
+}
+.show-name-sub {
+  font-family: system-ui, sans-serif;
+  font-size: 0.95rem;
+  font-weight: 550;
+  color: var(--muted);
+  margin: 0 0 1.15rem;
+  letter-spacing: 0.01em;
+}
+.home-intro {
+  max-width: 44rem;
+  margin: 0 0 1.5rem;
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+.home-intro p { margin: 0 0 0.85rem; }
+
+.quote-spotlight {
+  position: relative;
+  margin: 0 0 1.75rem;
+  padding: 1.1rem 1.2rem 1.2rem;
+}
+.quote-spotlight .quote-actions {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 0.65rem;
+}
+.btn-small,
+button.btn-small {
+  font-size: 0.8rem;
+  padding: 0.3rem 0.65rem;
+  border-radius: 4px;
+}
+
+.about-show {
+  margin-top: 2.5rem;
+  max-width: 44rem;
+}
+.about-show h2 { margin-top: 0; }
+
+.search-hint {
+  color: var(--muted);
+  font-family: system-ui, sans-serif;
+  font-size: 0.88rem;
+  margin: 0.35rem 0 0;
+}
+
+/* Guest / about link lists — normal spacing */
+ul.links li {
+  margin: 0.35rem 0;
+  line-height: 1.5;
+}
+ul.links a {
+  margin-right: 0.15rem;
+}
+
+@media (max-width: 639px) {
+  .wrap-wide .card-grid,
+  .wrap-wide .card-grid.cols-3 {
+    grid-template-columns: 1fr;
+  }
+}
