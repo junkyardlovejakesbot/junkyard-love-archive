@@ -975,3 +975,36 @@ ul.links a {
   .donate-strip-row { justify-content: space-between; }
   .nav-main { flex-wrap: wrap; row-gap: 0.35rem; }
 }
+
+
+/* Quiet tip page */
+.donate-quiet .donate-lede {
+  font-size: 1.05rem;
+  line-height: 1.5;
+  margin: 0.5rem 0 1.25rem;
+}
+.donate-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  max-width: 28rem;
+}
+.donate-links li {
+  margin: 0 0 1rem;
+  line-height: 1.5;
+}
+.donate-links a {
+  font-size: 1.05rem;
+}
+.donate-qr-small {
+  margin-top: 0.5rem;
+}
+.donate-qr-small img {
+  display: block;
+  width: 140px;
+  height: auto;
+  border-radius: 8px;
+  background: #fff;
+}
+.nav-tip { opacity: 0.9; }
+.home-donate-strip { display: none; }
