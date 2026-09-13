@@ -147,16 +147,6 @@
       "episode_slug": "0122-laughing-like-a-hairy-oaf-barbara-mcafee",
       "episode_number": "0122",
       "browse_title": "Laughing Like a Hairy Oaf",
-      "timestamp": "00:00:30",
-      "t_seconds": 30,
-      "text": "Most of us are using our kind of unconscious default voice that we think is us, but it’s not. It’s cobbled together with duct tape and popsicle sticks and trauma…",
-      "source": "archive"
-    },
-    {
-      "speaker": "Barbara",
-      "episode_slug": "0122-laughing-like-a-hairy-oaf-barbara-mcafee",
-      "episode_number": "0122",
-      "browse_title": "Laughing Like a Hairy Oaf",
       "timestamp": "00:04:10",
       "t_seconds": 250,
       "text": "I never wanted to sing alone ever in front of anyone, which is a common fear.",
@@ -270,16 +260,6 @@
       "timestamp": "01:45:59",
       "t_seconds": 6359,
       "text": "Gratitude I guess it's gratitude and thankfulness is how I start and my prayers.",
-      "source": "archive"
-    },
-    {
-      "speaker": "Tim",
-      "episode_slug": "0121-surrendering-the-porsche-tim-fraley",
-      "episode_number": "0121",
-      "browse_title": "Surrendering The Porsche",
-      "timestamp": "01:45:59",
-      "t_seconds": 6359,
-      "text": "Always asking for that relationship and always um being thankful.",
       "source": "archive"
     },
     {
@@ -1237,16 +1217,6 @@
       "episode_slug": "0102-megan-hawkins-betteru-ketamine",
       "episode_number": "0102",
       "browse_title": "Ketamine To Heal Anxiety And Depression",
-      "timestamp": "00:00:00",
-      "t_seconds": 0,
-      "text": "I'm working with patients, I'm talking with them, when they are that rock bottom place in themself when they're first coming to this treatment for whatever the reason is, whatever they've gone through, whatever pain or trauma...",
-      "source": "archive"
-    },
-    {
-      "speaker": "Megan",
-      "episode_slug": "0102-megan-hawkins-betteru-ketamine",
-      "episode_number": "0102",
-      "browse_title": "Ketamine To Heal Anxiety And Depression",
       "timestamp": "00:31:25",
       "t_seconds": 1885,
       "text": "I'm always talking about meditation and stuff on here it gives you the space.",
@@ -1720,16 +1690,6 @@
       "timestamp": "01:30:38",
       "t_seconds": 5438,
       "text": "They're all just boring or they're all just aggressive or because we're not looking for the right things when we're on the app we're doing it to ourselves.",
-      "source": "archive"
-    },
-    {
-      "speaker": "Cetvies",
-      "episode_slug": "0085-cetvies-cetvies-censoring-and-trafficking-humans",
-      "episode_number": "0085",
-      "browse_title": "Censoring and Trafficking Humans",
-      "timestamp": "00:07:20",
-      "t_seconds": 440,
-      "text": "The mafia because they tell them you know what if you are if you go we know where you live we know we know where your family.",
       "source": "archive"
     },
     {
@@ -4422,5 +4382,7 @@
       "text": "I know that this has 10-year 20-year vision.",
       "source": "archive"
     }
-  ]
+  ],
+  "filtered_at": "2026-09-13",
+  "removed_count": 4
 }

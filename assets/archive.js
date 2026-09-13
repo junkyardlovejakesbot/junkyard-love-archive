@@ -27,11 +27,7 @@
         return r.json();
       })
       .then(function (data) {
-        var list = (data.clips || data || []).filter(function (c) {
-          if (!c || !c.title) return false;
-          if (REMOVED[c.episode_number]) return false;
-          return !isBumper(c.title);
-        });
+        var list = (data.clips || data || []).filter(isPoolClip);
         clipsCache = { raw: data, clips: list };
         return clipsCache;
       });
@@ -47,40 +43,30 @@
       ? "https://www.youtube.com/watch?v=" + c.youtube_id + "&t=" + Math.floor(startSec) + "s"
       : null;
     var html = '<div class="clip-card"><h3>' + esc(c.title) + "</h3>";
-    if (c.short_summary) html += '<p class="clip-summary">' + esc(c.short_summary) + "</p>";
     html +=
       '<p class="clip-ep">' +
-      esc(c.browse_title || "") +
-      " · Episode " +
+      "Episode " +
       esc(c.episode_number || "") +
       " · " +
       esc(guest) +
       " · starts " +
       esc(fmtHuman(startSec)) +
       "</p>";
-    if (opts.long && c.long_summary) {
-      html +=
-        '<details class="clip-more"><summary>More</summary><p>' +
-        esc(c.long_summary) +
-        "</p></details>";
-    }
+    // short_summary / long_summary intentionally hidden until a later extract pass
     html += '<div class="btn-row">';
-    html += '<a href="' + esc(epUrl + hash) + '">Open at this chapter</a>';
-    html += '<a class="secondary" href="' + esc(epUrl) + '">Full episode</a>';
     if (yt) {
       html +=
-        '<a class="secondary" href="' +
+        '<a class="btn" href="' +
         esc(yt) +
-        '" target="_blank" rel="noopener">YouTube at time</a>';
-    } else if (opts.playLabel) {
-      html += '<span class="note">No YouTube ID — open the transcript chapter.</span>';
+        '" target="_blank" rel="noopener">Play this clip on YouTube</a>';
+    } else {
+      html += '<a class="btn" href="' + esc(epUrl + hash) + '">Open at this chapter</a>';
     }
-    if (opts.play && yt) {
-      html +=
-        '<a class="btn" href="' + esc(yt) + '" target="_blank" rel="noopener">Play</a>';
-    } else if (opts.play) {
-      html += '<a class="btn" href="' + esc(epUrl + hash) + '">Open chapter</a>';
-    }
+    html +=
+      '<a class="secondary" href="' +
+      esc(epUrl + hash) +
+      '">Read this moment in the transcript</a>';
+    html += '<a class="secondary" href="' + esc(epUrl) + '">Full episode</a>';
     html += "</div></div>";
     return html;
   }
@@ -89,7 +75,7 @@
     terms = (terms || []).map(function (t) { return String(t).toLowerCase(); });
     if (!terms.length) return clips.slice();
     return clips.filter(function (c) {
-      var hay = ((c.title || "") + " " + (c.short_summary || "") + " " + ((c.topic_tags || []).join(" ")) + " " + (c.browse_title || "")).toLowerCase();
+      var hay = ((c.title || "") + " " + ((c.topic_tags || []).join(" ")) + " " + (c.browse_title || "") + " " + (c.guest || "")).toLowerCase();
       for (var i = 0; i < terms.length; i++) {
         if (hay.indexOf(terms[i]) !== -1) return true;
       }
@@ -242,7 +228,19 @@
     if (/^(intro|outro|opening|closing|end credits|credits|theme|bumper)\b/.test(t))
       return true;
     if (/welcome to the junkyard love/.test(t) && t.length < 55) return true;
+    if (/drink some water/.test(t)) return true;
+    if (/let'?s roll/.test(t) && /drink|water|hit record/.test(t)) return true;
+    if (/hit record/.test(t) && t.length < 40) return true;
     return false;
+  }
+
+  /** Clips allowed in radio / shuffle / pick / mood pools (not host-open, not bumpers). */
+  function isPoolClip(c) {
+    if (!c || !c.title) return false;
+    if (REMOVED[c.episode_number]) return false;
+    if (c.host_open) return false;
+    if (isBumper(c.title)) return false;
+    return true;
   }
 
   function chapterDuration(ch, next, epDur) {
@@ -367,7 +365,7 @@
         if (el) el.innerHTML = '<p class="search-empty">No chapters available yet.</p>';
         return;
       }
-      el.innerHTML = clipFromIndexCard(clip, { long: true });
+      el.innerHTML = clipFromIndexCard(clip, {});
     });
   }
 
@@ -404,7 +402,7 @@
       if (!el) return;
       var p = normalize(phrase);
       var matches = data.clips.filter(function (c) {
-        var hay = normalize((c.title || "") + " " + (c.short_summary || "") + " " + ((c.topic_tags || []).join(" ")));
+        var hay = normalize((c.title || "") + " " + ((c.topic_tags || []).join(" ")) + " " + (c.guest || ""));
         if (hay.indexOf(p) !== -1) return true;
         return phraseMatchesChapter(phrase, c.title || "");
       });
@@ -794,9 +792,9 @@
           if (ref.start_seconds != null && c.start_seconds === ref.start_seconds) { found = c; break; }
           if (ref.chapter_time && parseTs(c.start) === parseTs(ref.chapter_time)) { found = c; break; }
         }
-        if (found) cards.push(found);
-        else if (ref.chapter_title) {
-          cards.push({
+        if (found && isPoolClip(found)) cards.push(found);
+        else if (ref.chapter_title && !isBumper(ref.chapter_title)) {
+          var synth = {
             title: ref.chapter_title,
             episode_slug: ref.slug,
             episode_number: ref.episode_number || "",
@@ -804,13 +802,14 @@
             guest: ref.guest || "",
             start: ref.chapter_time,
             start_seconds: ref.start_seconds != null ? ref.start_seconds : parseTs(ref.chapter_time),
-            short_summary: ref.short_summary || "",
             youtube_id: ref.youtube_id || "",
-          });
+            host_open: false,
+          };
+          if (isPoolClip(synth)) cards.push(synth);
         }
       });
       if (!cards.length) {
-        el.innerHTML = '<p class="search-empty">No chapters for this door yet.</p>';
+        el.innerHTML = '<p class="search-empty">No honest chapters for this door after removing intros/host-opens. NEEDS JACOB if this door should stay.</p>';
         return;
       }
       el.innerHTML =
@@ -927,23 +926,16 @@
     var epUrl = abs("episodes/" + c.episode_slug + "/index.html");
     var guest = c.guest || "Solo";
     var html = '<div class="clip-card radio-now-playing"><h3>' + esc(c.title) + "</h3>";
-    if (c.short_summary) html += '<p class="clip-summary">' + esc(c.short_summary) + "</p>";
     html +=
       '<p class="clip-ep">' +
-      esc(c.browse_title || "") +
-      " · Episode " +
+      "Episode " +
       esc(c.episode_number || "") +
       " · " +
       esc(guest) +
       " · starts " +
       esc(fmtHuman(startSec)) +
       "</p>";
-    if (c.long_summary) {
-      html +=
-        '<details class="clip-more"><summary>More</summary><p>' +
-        esc(c.long_summary) +
-        "</p></details>";
-    }
+    // short_summary / long_summary hidden until extract pass
     if (c.youtube_id) {
       html +=
         '<div class="yt-embed radio-embed" data-radio-embed>' +
@@ -1011,12 +1003,21 @@
       var clips = pair[0].clips;
       var subjects = pair[1];
       var pool = clips;
+      var thinSubject = false;
       if (radioState.subject) {
         var sub = subjects.filter(function (s) { return s.slug === radioState.subject; })[0];
         if (sub && sub.terms) {
           pool = filterClipsByTerms(clips, sub.terms);
-          if (!pool.length) pool = clips;
+          if (!pool.length) thinSubject = true;
         }
+      }
+      var el = document.querySelector("[data-radio-card], #radio-card");
+      if (!el) return;
+      if (thinSubject) {
+        destroyRadioPlayer();
+        el.innerHTML =
+          '<p class="search-empty">No honest chapters left in this subject after removing intros/host-opens. Try another subject, or NEEDS JACOB to hand-curate this door.</p>';
+        return;
       }
       var clip = pick(pool);
       if (next && radioState.last && pool.length > 1) {
@@ -1034,8 +1035,7 @@
       }
       radioState.last = clip;
       radioState.hasPlayed = true;
-      var el = document.querySelector("[data-radio-card], #radio-card");
-      if (!el || !clip) return;
+      if (!clip) return;
       destroyRadioPlayer();
       el.innerHTML = radioCardHtml(clip);
       var nextBtn = document.querySelector("[data-radio-next]");
