@@ -1,7 +1,7 @@
 # SHIP 1 report
 
 **Date:** 2026-09-13 (America/Chicago)  
-**Commit:** (filled after push)  
+**Commit:** 0de0c7a  
 **Scope:** Ship 1 only — counts, chrome, empty labels, Trenten spelling check, publish dates, newbie above-fold. Ships 2–6 not started.
 
 ## Live URLs (after Pages catch-up)
