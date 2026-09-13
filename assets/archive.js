@@ -71,11 +71,55 @@
     return html;
   }
 
-  function filterClipsByTerms(clips, terms) {
+  function filterClipsByTerms(clips, termsOrSubject) {
+    var subject = null;
+    var terms = termsOrSubject;
+    if (termsOrSubject && !Array.isArray(termsOrSubject) && typeof termsOrSubject === "object") {
+      subject = termsOrSubject;
+      terms = subject.terms || [];
+    }
+    var match = (subject && subject.match) || "all";
+    var titleTerms = subject && subject.title_terms
+      ? subject.title_terms.map(function (t) { return String(t).toLowerCase(); })
+      : null;
+    var tagTerms = subject && subject.tag_terms
+      ? subject.tag_terms.map(function (t) { return String(t).toLowerCase(); })
+      : null;
+
+    // Hybrid: tag_terms OR title_terms (chapter title only)
+    if ((titleTerms && titleTerms.length) || (tagTerms && tagTerms.length)) {
+      titleTerms = titleTerms || [];
+      tagTerms = tagTerms || [];
+      return clips.filter(function (c) {
+        var title = (c.title || "").toLowerCase();
+        var tags = ((c.topic_tags || []).join(" ")).toLowerCase();
+        var i;
+        for (i = 0; i < tagTerms.length; i++) {
+          if (tags.indexOf(tagTerms[i]) !== -1) return true;
+        }
+        for (i = 0; i < titleTerms.length; i++) {
+          if (title.indexOf(titleTerms[i]) !== -1) return true;
+        }
+        return false;
+      });
+    }
+
     terms = (terms || []).map(function (t) { return String(t).toLowerCase(); });
     if (!terms.length) return clips.slice();
     return clips.filter(function (c) {
-      var hay = ((c.title || "") + " " + ((c.topic_tags || []).join(" ")) + " " + (c.browse_title || "") + " " + (c.guest || "")).toLowerCase();
+      var hay;
+      if (match === "title") {
+        hay = (c.title || "").toLowerCase();
+      } else {
+        hay =
+          ((c.title || "") +
+            " " +
+            ((c.topic_tags || []).join(" ")) +
+            " " +
+            (c.browse_title || "") +
+            " " +
+            (c.guest || "")).toLowerCase();
+      }
       for (var i = 0; i < terms.length; i++) {
         if (hay.indexOf(terms[i]) !== -1) return true;
       }
@@ -622,18 +666,143 @@
       });
   }
 
+  var chapterSearchCache = null;
+
+  function loadChapterSearch() {
+    if (chapterSearchCache) return Promise.resolve(chapterSearchCache);
+    var single = abs("assets/chapter_search.json");
+    return fetch(single)
+      .then(function (r) {
+        if (r.ok) return r.json().then(function (data) {
+          chapterSearchCache = data.chapters || [];
+          return chapterSearchCache;
+        });
+        // Sharded corpus
+        return fetch(abs("assets/chapter_search/manifest.json")).then(function (m) {
+          if (!m.ok) throw new Error("chapter search missing");
+          return m.json();
+        }).then(function (manifest) {
+          var files = (manifest.shards || []).map(function (s) {
+            return abs("assets/chapter_search/" + s.file);
+          });
+          return Promise.all(
+            files.map(function (url) {
+              return fetch(url).then(function (r) {
+                if (!r.ok) throw new Error("shard " + url);
+                return r.json();
+              });
+            })
+          ).then(function (parts) {
+            var all = [];
+            parts.forEach(function (p) {
+              (p.chapters || []).forEach(function (c) { all.push(c); });
+            });
+            chapterSearchCache = all;
+            return chapterSearchCache;
+          });
+        });
+      })
+      .catch(function () {
+        chapterSearchCache = [];
+        return chapterSearchCache;
+      });
+  }
+
+  function chapterHitHtml(ch) {
+    var startSec = parseTs(ch.start_seconds != null ? ch.start_seconds : ch.start);
+    var hash = "#t-" + fmtTs(startSec);
+    var epUrl = abs("episodes/" + ch.episode_slug + "/index.html");
+    var guest = ch.guest || "Solo";
+    var excerpt = ch.excerpt || "";
+    var html = '<div class="card clip-card chapter-hit">';
+    html += "<h3>" + esc(ch.chapter_title || "Chapter") + "</h3>";
+    html +=
+      '<p class="clip-ep">Episode ' +
+      esc(ch.episode_number || "") +
+      " · " +
+      esc(guest) +
+      " · " +
+      esc(fmtHuman(startSec)) +
+      "</p>";
+    if (excerpt) {
+      html += '<p class="clip-quote">' + esc(excerpt) + "</p>";
+    }
+    html += '<div class="btn-row">';
+    html += '<a href="' + esc(epUrl + hash) + '">Read in transcript</a>';
+    if (ch.youtube_url) {
+      html +=
+        '<a class="secondary" href="' +
+        esc(ch.youtube_url) +
+        '" target="_blank" rel="noopener">YouTube at this time</a>';
+    } else if (ch.youtube_id) {
+      html +=
+        '<a class="secondary" href="' +
+        esc(
+          "https://www.youtube.com/watch?v=" +
+            ch.youtube_id +
+            "&t=" +
+            Math.floor(startSec) +
+            "s"
+        ) +
+        '" target="_blank" rel="noopener">YouTube at this time</a>';
+    }
+    html += '<a class="secondary" href="' + esc(epUrl) + '">Full episode</a>';
+    html += "</div></div>";
+    return html;
+  }
+
+  function scoreChapterHit(ch, q, words) {
+    var text = normalize(ch.text || "");
+    var excerpt = normalize(ch.excerpt || "");
+    var title = normalize(ch.chapter_title || "");
+    var guest = normalize(ch.guest || "");
+    var hay = text || excerpt;
+    if (!hay && !title) return -1;
+    var score = 0;
+    if (title.indexOf(q) !== -1) score += 40;
+    if (guest.indexOf(q) !== -1) score += 25;
+    if (excerpt.indexOf(q) !== -1) score += 20;
+    if (hay.indexOf(q) !== -1) {
+      score += 15;
+    } else {
+      var ok = words.every(function (w) {
+        return hay.indexOf(w) !== -1 || title.indexOf(w) !== -1;
+      });
+      if (!ok) return -1;
+      score += 8;
+    }
+    // Prefer denser matches in excerpt
+    if (excerpt.indexOf(q) !== -1) score += 5;
+    return score;
+  }
+
   function search(query, targetEl) {
     var q = normalize(query);
     var el = typeof targetEl === "string" ? document.querySelector(targetEl) : targetEl;
     if (!el) return Promise.resolve();
     if (!q) {
-      el.innerHTML = isSearchPage()
-        ? ""
-        : "";
+      el.innerHTML = isSearchPage() ? "" : "";
       return Promise.resolve();
     }
-    return loadIndex().then(function (data) {
-      var scored = [];
+    var words = q.split(" ").filter(Boolean);
+    return Promise.all([loadChapterSearch(), loadIndex()]).then(function (pair) {
+      var chapters = pair[0] || [];
+      var data = pair[1] || {};
+      var chapterHits = [];
+      chapters.forEach(function (ch) {
+        var score = scoreChapterHit(ch, q, words);
+        if (score < 0) return;
+        chapterHits.push({ ch: ch, score: score });
+      });
+      chapterHits.sort(function (a, b) {
+        return (
+          b.score - a.score ||
+          String(b.ch.episode_number || "").localeCompare(String(a.ch.episode_number || "")) ||
+          (a.ch.start_seconds || 0) - (b.ch.start_seconds || 0)
+        );
+      });
+
+      var epScored = [];
       published(data.episodes).forEach(function (ep) {
         var hay = normalize(
           [
@@ -660,8 +829,6 @@
           ].join(" ")
         );
         if (hay.indexOf(q) === -1) {
-          // all words
-          var words = q.split(" ");
           var ok = words.every(function (w) {
             return hay.indexOf(w) !== -1;
           });
@@ -672,25 +839,50 @@
         if (normalize(ep.browse_title).indexOf(q) !== -1) score += 40;
         if (normalize(ep.canonical_title).indexOf(q) !== -1) score += 20;
         score += (ep.number || "").indexOf(q) !== -1 ? 30 : 0;
-        scored.push({ ep: ep, score: score });
+        epScored.push({ ep: ep, score: score });
       });
-      scored.sort(function (a, b) {
+      epScored.sort(function (a, b) {
         return b.score - a.score || String(b.ep.number).localeCompare(String(a.ep.number));
       });
-      if (!scored.length) {
+
+      if (!chapterHits.length && !epScored.length) {
         el.innerHTML =
-          '<p class="search-empty">No matches. try a guest name, or a word like breath, father, surrender.</p>';
+          '<p class="search-empty">No matches in chapter transcripts. Try a guest name, or a word like breath, father, surrender.</p>';
         return;
       }
-      el.innerHTML =
-        '<div class="card-grid">' +
-        scored
-          .slice(0, 40)
-          .map(function (s) {
-            return cardHtml(s.ep);
-          })
-          .join("") +
-        "</div>";
+
+      var html = "";
+      if (chapterHits.length) {
+        html +=
+          '<p class="note">' +
+          chapterHits.length +
+          " chapter hit" +
+          (chapterHits.length === 1 ? "" : "s") +
+          " in conversation transcripts</p>";
+        html +=
+          '<div class="card-grid">' +
+          chapterHits
+            .slice(0, 40)
+            .map(function (s) {
+              return chapterHitHtml(s.ch);
+            })
+            .join("") +
+          "</div>";
+      }
+      if (epScored.length) {
+        html +=
+          '<p class="note" style="margin-top:1.25rem">Episode matches</p>';
+        html +=
+          '<div class="card-grid">' +
+          epScored
+            .slice(0, 24)
+            .map(function (s) {
+              return cardHtml(s.ep);
+            })
+            .join("") +
+          "</div>";
+      }
+      el.innerHTML = html;
     });
   }
 
@@ -1129,8 +1321,8 @@
       var thinSubject = false;
       if (radioState.subject) {
         var sub = subjects.filter(function (s) { return s.slug === radioState.subject; })[0];
-        if (sub && sub.terms) {
-          pool = filterClipsByTerms(clips, sub.terms);
+        if (sub && (sub.terms || sub.title_terms || sub.tag_terms)) {
+          pool = filterClipsByTerms(clips, sub);
           if (!pool.length) thinSubject = true;
         }
       }

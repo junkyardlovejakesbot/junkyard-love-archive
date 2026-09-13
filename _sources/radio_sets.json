@@ -6,86 +6,86 @@
     {
       "slug": "breath",
       "label": "Breath",
-      "terms": [
-        "breath",
-        "breathwork",
-        "exhale",
-        "lovetuner"
-      ]
+      "terms": ["breath", "breathwork", "exhale", "lovetuner"]
     },
     {
       "slug": "men-fatherhood",
       "label": "Men & fatherhood",
-      "terms": [
-        "father",
-        "fatherhood",
-        "masculinity",
-        "men",
-        "son",
-        "armor"
-      ]
+      "terms": ["father", "fatherhood", "masculinity", "men", "son", "armor"]
     },
     {
       "slug": "awakening",
       "label": "Awakening",
-      "terms": [
-        "awakening",
-        "kundalini",
-        "mystical",
-        "vision"
-      ]
+      "terms": ["awakening", "kundalini", "mystical", "vision"]
     },
     {
       "slug": "healing",
       "label": "Healing",
-      "terms": [
-        "healing",
-        "trauma",
-        "pain",
-        "recovery"
-      ]
+      "terms": ["healing", "trauma", "pain", "recovery"]
     },
     {
       "slug": "starting-over",
       "label": "Starting over",
-      "terms": [
-        "prison",
-        "second chance",
-        "collapse",
-        "rock bottom",
-        "overdose"
-      ]
+      "terms": ["prison", "second chance", "collapse", "rock bottom", "overdose"]
     },
     {
       "slug": "music",
       "label": "Music",
-      "terms": [
-        "music",
-        "song",
-        "voice",
-        "band",
-        "guitar"
-      ]
+      "terms": ["music", "song", "voice", "band", "guitar"]
     },
     {
       "slug": "meditation",
       "label": "Meditation",
-      "terms": [
-        "meditation",
-        "practice",
-        "presence"
-      ]
+      "terms": ["meditation", "practice", "presence"]
     },
     {
       "slug": "work-money",
       "label": "Work & money",
-      "terms": [
-        "work",
-        "money",
-        "brand",
-        "business",
-        "building"
-      ]
+      "terms": ["work", "money", "brand", "business", "building"]
+    },
+    {
+      "slug": "love-relationships",
+      "label": "Love & relationships",
+      "terms": ["love-sex", "relationships-community", "relationship", "marriage", "dating", "intimacy", "partner"]
+    },
+    {
+      "slug": "sobriety",
+      "label": "Sobriety",
+      "terms": ["sobriety", "sober", "addiction-recovery", "sobriety-substances", "addiction"]
+    },
+    {
+      "slug": "body",
+      "label": "Body",
+      "match": "title",
+      "terms": ["body", "somatic", "yoga", "movement", "physical health", "embodiment", "embodied"]
+    },
+    {
+      "slug": "voice",
+      "label": "Voice",
+      "match": "title",
+      "terms": ["voice", "vocal", "singing"]
+    },
+    {
+      "slug": "mind-mood",
+      "label": "Mind & mood",
+      "tag_terms": ["mind-mood-mental-health"],
+      "title_terms": ["mind", "mood", "anxiety", "depression", "bipolar", "mental"]
+    },
+    {
+      "slug": "science-frequency",
+      "label": "Science & frequency",
+      "terms": ["science-frequency", "science", "frequency", "vibration"]
+    },
+    {
+      "slug": "faith-doubt",
+      "label": "Faith & doubt",
+      "match": "title",
+      "terms": ["faith", "doubt", "god", "prayer", "religion", "belief"]
+    },
+    {
+      "slug": "creativity",
+      "label": "Creativity",
+      "terms": ["creativity-work", "music-creative", "creativ", "artist", "poetry"]
     }
   ]
 }

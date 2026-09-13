@@ -11,6 +11,7 @@ This site is a conversation archive for The Junkyard Love Podcast (host: Jacob /
 ### Reliable fields
 - **Episode**: number, slug, browse/canonical title, guest name(s), date, duration
 - **Chapter title + start time**: chapter lists on episode pages and in `assets/clips_index.json` / `assets/episodes_index.json` (title + start / start_seconds)
+- **Chapter windows (machine)**: `assets/chapter_index.json` — per-chapter start/end + transcript_url + youtube_url (no invented blurbs)
 - **Transcript**: each episode folder has transcript mirrors (`episode.md`, captions); deep-link with `#t-HH-MM-SS` on the episode page
 - **YouTube**: `youtube_id` / URL; clip/chapter deep links use `&t=` seconds
 - **Published quotes only**: Jacob’s published episode-note quotes live in `assets/quotes_clean.json` (and `_sources/quotes_clean.json`) with `"source": "published"`. Same texts appear as plain `<blockquote>` under the episode **Quotes** heading when published. Do **not** treat Archive-picks / mined transcript lines as public quotes.
@@ -22,6 +23,8 @@ This site is a conversation archive for The Junkyard Love Podcast (host: Jacob /
 - `assets/episodes_index.json` — episode catalog (chapters, links, topics, youtube_id)
 - `assets/quotes_clean.json` — public published-quote pool only (`source=published`, 244)
 - `assets/clips_index.json` — chapter/clip index (titles + timestamps; summaries intentionally empty)
+- `assets/chapter_index.json` — lean chapter windows for machines (start/end, transcript `#t-` deep link, YouTube `t=` when present). Full URL: https://junkyardlovejakesbot.github.io/junkyard-love-archive/assets/chapter_index.json
+- `assets/chapter_search/` — sharded verbatim chapter transcript corpus for on-site human search (not a summary layer)
 - `assets/books_index.json` — books library (authored + mentioned; author + bucket fields)
 - `guests/index.html` — guest doorway index (filterable)
 - `llms.txt` — this file

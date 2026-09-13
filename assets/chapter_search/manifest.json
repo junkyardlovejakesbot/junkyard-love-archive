@@ -1,0 +1,16 @@
+{
+  "generated": "2026-09-13T16:41:20Z",
+  "generator": "build_ask_junkyard.py",
+  "chapter_count": 2349,
+  "shard_count": 2,
+  "shards": [
+    {
+      "file": "shard-00.json",
+      "chapter_count": 1069
+    },
+    {
+      "file": "shard-01.json",
+      "chapter_count": 1280
+    }
+  ]
+}
