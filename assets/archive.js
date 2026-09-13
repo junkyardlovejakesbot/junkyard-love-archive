@@ -627,8 +627,9 @@
     var el = typeof targetEl === "string" ? document.querySelector(targetEl) : targetEl;
     if (!el) return Promise.resolve();
     if (!q) {
-      el.innerHTML =
-        '<p class="search-empty">Type a guest or a topic, then search.</p>';
+      el.innerHTML = isSearchPage()
+        ? ""
+        : "";
       return Promise.resolve();
     }
     return loadIndex().then(function (data) {
@@ -858,7 +859,7 @@
 
 
   // Chapter radio: on-page listen path.
-  // Choice: no YouTube-end auto-advance — user must hit Next (safer default).
+  // One YT.Player instance; auto-advance after chapter end (~2s quiet gap).
   // Embeds load only after Play/Next gesture; never on page load.
   var radioState = {
     subject: null,
@@ -868,6 +869,11 @@
     ytApiReady: false,
     ytApiLoading: false,
     player: null,
+    autoAdvance: true,
+    advanceTimer: null,
+    watchTimer: null,
+    clipEndSec: null,
+    blockedNote: false,
   };
 
   function loadRadioSubjects() {
@@ -920,6 +926,35 @@
     radioState.player = null;
   }
 
+  function clipEndSeconds(clip, allClips) {
+    if (!clip) return null;
+    var startSec = Math.floor(parseTs(clip.start_seconds != null ? clip.start_seconds : clip.start));
+    var same = (allClips || []).filter(function (c) {
+      return c.episode_slug === clip.episode_slug && c.youtube_id;
+    });
+    same.sort(function (a, b) {
+      return parseTs(a.start_seconds != null ? a.start_seconds : a.start) -
+        parseTs(b.start_seconds != null ? b.start_seconds : b.start);
+    });
+    for (var i = 0; i < same.length; i++) {
+      var s = Math.floor(parseTs(same[i].start_seconds != null ? same[i].start_seconds : same[i].start));
+      if (s > startSec) return s;
+    }
+    // Last chapter in episode: cap at ~10 minutes so radio keeps moving.
+    return startSec + 600;
+  }
+
+  function clearRadioTimers() {
+    if (radioState.advanceTimer) {
+      clearTimeout(radioState.advanceTimer);
+      radioState.advanceTimer = null;
+    }
+    if (radioState.watchTimer) {
+      clearInterval(radioState.watchTimer);
+      radioState.watchTimer = null;
+    }
+  }
+
   function radioCardHtml(c) {
     var startSec = parseTs(c.start_seconds != null ? c.start_seconds : c.start);
     var hash = "#t-" + fmtTs(startSec);
@@ -935,70 +970,158 @@
       " · starts " +
       esc(fmtHuman(startSec)) +
       "</p>";
-    // short_summary / long_summary hidden until extract pass
-    if (c.youtube_id) {
-      html +=
-        '<div class="yt-embed radio-embed" data-radio-embed>' +
-        '<div id="radio-yt-player"></div>' +
-        "</div>";
-    } else {
-      html +=
-        '<p class="note">No YouTube ID for this episode — open the transcript chapter instead.</p>';
-    }
     html += '<div class="btn-row">';
     html +=
       '<a href="' +
       esc(epUrl + hash) +
-      '">' +
-      (c.youtube_id ? "Open episode at chapter" : "Open episode at chapter") +
-      "</a>";
+      '">Open episode at chapter</a>';
     html += '<a class="secondary" href="' + esc(epUrl) + '">Full episode</a>';
     html += "</div></div>";
     return html;
   }
 
-  function mountRadioEmbed(clip) {
+  function showRadioBlockedNote(show) {
+    var note = document.querySelector("[data-radio-autoplay-note]");
+    if (!note) return;
+    if (show) note.removeAttribute("hidden");
+    else note.setAttribute("hidden", "");
+  }
+
+  function scheduleRadioAdvance() {
+    if (!radioState.autoAdvance) return;
+    clearRadioTimers();
+    radioState.advanceTimer = setTimeout(function () {
+      radioState.advanceTimer = null;
+      radioPlay(true);
+    }, 2000);
+  }
+
+  function watchChapterEnd() {
+    if (radioState.watchTimer) clearInterval(radioState.watchTimer);
+    radioState.watchTimer = setInterval(function () {
+      if (!radioState.player || !radioState.player.getCurrentTime) return;
+      if (!radioState.autoAdvance) return;
+      try {
+        var t = radioState.player.getCurrentTime();
+        var end = radioState.clipEndSec;
+        if (end != null && t >= end - 0.35) {
+          clearInterval(radioState.watchTimer);
+          radioState.watchTimer = null;
+          try { radioState.player.pauseVideo(); } catch (e) {}
+          scheduleRadioAdvance();
+        }
+      } catch (e) {}
+    }, 500);
+  }
+
+  function onRadioPlayerStateChange(ev) {
+    // YT.PlayerState.ENDED === 0
+    if (!ev || ev.data !== 0) return;
+    if (!radioState.autoAdvance) return;
+    scheduleRadioAdvance();
+  }
+
+  function pickRadioClip(pool, preferNext) {
+    var ytPool = (pool || []).filter(function (c) { return c && c.youtube_id; });
+    if (!ytPool.length) return null;
+    var clip = pick(ytPool);
+    if (preferNext && radioState.last && ytPool.length > 1) {
+      var guard = 0;
+      while (
+        clip &&
+        radioState.last &&
+        clip.episode_slug === radioState.last.episode_slug &&
+        clip.title === radioState.last.title &&
+        guard < 12
+      ) {
+        clip = pick(ytPool);
+        guard++;
+      }
+    }
+    return clip;
+  }
+
+  function mountOrLoadRadio(clip, allClips) {
     if (!clip || !clip.youtube_id) return Promise.resolve();
     var startSec = Math.floor(parseTs(clip.start_seconds != null ? clip.start_seconds : clip.start));
+    radioState.clipEndSec = clipEndSeconds(clip, allClips);
+    var shell = document.querySelector("[data-radio-embed-shell]");
+    if (shell) shell.removeAttribute("hidden");
     var mount = document.getElementById("radio-yt-player");
     if (!mount) return Promise.resolve();
-    destroyRadioPlayer();
-    // Prefer IFrame API when available; fall back to nocookie iframe.
+
+    function afterLoad() {
+      watchChapterEnd();
+      // Soft-detect autoplay block shortly after load.
+      setTimeout(function () {
+        try {
+          if (!radioState.player || !radioState.player.getPlayerState) return;
+          var st = radioState.player.getPlayerState();
+          // -1 unstarted, 2 paused, 5 cued — after gesture should be 1 playing
+          if (st === 2 || st === 5 || st === -1) {
+            showRadioBlockedNote(true);
+          } else {
+            showRadioBlockedNote(false);
+          }
+        } catch (e) {}
+      }, 1200);
+    }
+
     return ensureYtApi().then(function () {
-      mount = document.getElementById("radio-yt-player");
-      if (!mount) return;
-      if (window.YT && window.YT.Player) {
-        radioState.player = new window.YT.Player("radio-yt-player", {
-          videoId: clip.youtube_id,
-          playerVars: {
-            start: startSec,
-            autoplay: 1,
-            rel: 0,
-            modestbranding: 1,
-            playsinline: 1,
-            origin: window.location.origin,
-          },
-          events: {
-            // Safer default: do not auto-advance on end — user hits Next.
-            onStateChange: function () {},
-          },
-        });
-      } else {
+      if (!(window.YT && window.YT.Player)) {
+        // Fallback iframe (no auto-advance API)
         var src =
           "https://www.youtube-nocookie.com/embed/" +
           encodeURIComponent(clip.youtube_id) +
           "?start=" +
           startSec +
           "&autoplay=1&rel=0&modestbranding=1&playsinline=1";
-        mount.outerHTML =
+        mount.innerHTML =
           '<iframe src="' +
           esc(src) +
-          '" title="Chapter video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>';
+          '" title="Chapter video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>';
+        showRadioBlockedNote(true);
+        return;
       }
+      if (radioState.player && radioState.player.loadVideoById) {
+        try {
+          radioState.player.loadVideoById({
+            videoId: clip.youtube_id,
+            startSeconds: startSec,
+          });
+          afterLoad();
+          return;
+        } catch (e) {
+          try { radioState.player.destroy(); } catch (e2) {}
+          radioState.player = null;
+        }
+      }
+      // First play (or after destroy): create one player on the stable mount node.
+      mount.innerHTML = "";
+      radioState.player = new window.YT.Player("radio-yt-player", {
+        videoId: clip.youtube_id,
+        playerVars: {
+          start: startSec,
+          autoplay: 1,
+          rel: 0,
+          modestbranding: 1,
+          playsinline: 1,
+          origin: window.location.origin,
+        },
+        events: {
+          onReady: function (ev) {
+            try { ev.target.playVideo(); } catch (e) {}
+            afterLoad();
+          },
+          onStateChange: onRadioPlayerStateChange,
+        },
+      });
     });
   }
 
   function radioPlay(next) {
+    clearRadioTimers();
+    showRadioBlockedNote(false);
     return Promise.all([loadClips(), loadRadioSubjects()]).then(function (pair) {
       var clips = pair[0].clips;
       var subjects = pair[1];
@@ -1014,33 +1137,31 @@
       var el = document.querySelector("[data-radio-card], #radio-card");
       if (!el) return;
       if (thinSubject) {
-        destroyRadioPlayer();
         el.innerHTML =
           '<p class="search-empty">No honest chapters left in this subject after removing intros/host-opens. Try another subject, or NEEDS JACOB to hand-curate this door.</p>';
         return;
       }
-      var clip = pick(pool);
-      if (next && radioState.last && pool.length > 1) {
-        var guard = 0;
-        while (
-          clip &&
-          radioState.last &&
-          clip.episode_slug === radioState.last.episode_slug &&
-          clip.title === radioState.last.title &&
-          guard < 8
-        ) {
-          clip = pick(pool);
-          guard++;
-        }
+      var clip = pickRadioClip(pool, !!next);
+      if (!clip) {
+        el.innerHTML =
+          '<p class="search-empty">No YouTube chapters in this pool. Hit Next or pick another subject.</p>';
+        showRadioBlockedNote(true);
+        return;
       }
       radioState.last = clip;
       radioState.hasPlayed = true;
-      if (!clip) return;
-      destroyRadioPlayer();
       el.innerHTML = radioCardHtml(clip);
       var nextBtn = document.querySelector("[data-radio-next]");
       if (nextBtn) nextBtn.removeAttribute("hidden");
-      return mountRadioEmbed(clip);
+      var autoWrap = document.querySelector("[data-radio-auto-wrap]");
+      if (autoWrap) autoWrap.removeAttribute("hidden");
+      // After first Play, default auto-advance ON (toggle can turn off).
+      var autoToggle = document.querySelector("[data-radio-auto-advance]");
+      if (autoToggle && !next) {
+        autoToggle.checked = true;
+        radioState.autoAdvance = true;
+      }
+      return mountOrLoadRadio(clip, clips);
     });
   }
 
@@ -1052,7 +1173,15 @@
     var play = document.querySelector("[data-radio-play]");
     var next = document.querySelector("[data-radio-next]");
     var bar = document.querySelector("[data-radio-subjects]");
+    var autoToggle = document.querySelector("[data-radio-auto-advance]");
     if (!play && !bar) return;
+    if (autoToggle) {
+      radioState.autoAdvance = !!autoToggle.checked;
+      autoToggle.addEventListener("change", function () {
+        radioState.autoAdvance = !!autoToggle.checked;
+        if (!radioState.autoAdvance) clearRadioTimers();
+      });
+    }
     if (bar) {
       bar.addEventListener("click", function (e) {
         var btn = e.target.closest("button[data-radio-subject]");
@@ -1156,10 +1285,17 @@
     });
   }
 
+  function isSearchPage() {
+    var p = window.location.pathname || "";
+    return /\/search(\/|$)/.test(p) || document.body.getAttribute("data-page") === "search";
+  }
+
   function wireSearchPage() {
     var form = document.querySelector("[data-archive-search]");
     var results = document.querySelector("#search-results");
     if (!form || !results) return;
+    // Homepage keeps #search-results for live results only — never paint helper copy into the body.
+    if (!isSearchPage()) return;
     var params = new URLSearchParams(window.location.search);
     var initial = params.get("q") || "";
     var input = form.querySelector('input[type="search"], input[name="q"]');
@@ -1173,9 +1309,7 @@
       search(q, results);
     });
     if (initial) search(initial, results);
-    else
-      results.innerHTML =
-        '<p class="search-empty">Type a guest or a topic, then search.</p>';
+    else results.innerHTML = "";
   }
 
   document.addEventListener("DOMContentLoaded", function () {

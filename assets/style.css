@@ -1008,3 +1008,14 @@ ul.links a {
 }
 .nav-tip { opacity: 0.9; }
 .home-donate-strip { display: none; }
+
+.radio-auto-label { cursor: pointer; user-select: none; }
+.radio-auto-label input { margin-right: 0.4rem; vertical-align: middle; }
+#radio-yt-player, #radio-yt-player iframe {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  min-height: 200px;
+  border: 0;
+  border-radius: 8px;
+  background: #000;
+}
