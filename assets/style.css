@@ -1019,3 +1019,17 @@ ul.links a {
   border-radius: 8px;
   background: #000;
 }
+
+
+/* Good Room guest portraits */
+.guest-portrait-wrap { margin: 0.75rem 0 1rem; }
+img.guest-portrait {
+  display: block;
+  width: min(100%, 320px);
+  height: auto;
+  border-radius: 10px;
+  border: 1px solid var(--border, #444);
+}
+.guest-alias { margin-top: -0.35rem; }
+.also-made-item { margin: 0.35rem 0 0.75rem; }
+.clip-permission { margin-top: 2rem; opacity: 0.85; }

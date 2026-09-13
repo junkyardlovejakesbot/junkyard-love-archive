@@ -1,14 +1,24 @@
 #!/usr/bin/env python3
-"""Rebuild guest doorway pages + guests/index.html from catalog data only.
+"""Rebuild Good Room guest doorway pages + guests/index.html.
 
-Sources of truth:
-  - guests/index.html display names (canonical labels)
+Sources of truth (no invented bios / brands / URLs / books / YouTube):
+  - guests/index.html display names (canonical labels), with Brandon Cruz override
   - existing guests/*/index.html episode hrefs (multi-guest splits already curated)
-  - assets/episodes_index.json (titles, dates, topics, youtube)
-  - assets/quotes_clean.json (published quotes only)
-  - assets/books_index.json (books naming this guest via guest_slug / mentions)
+  - assets/episodes_index.json, assets/quotes_clean.json, assets/books_index.json
+  - _sources/content/*/source-about.md (identity sentence only when clear)
+  - _sources/also_made.json (verified Also Made only)
+  - assets/portraits/<slug>.{png,webp,jpg} when present
 
-Does NOT invent bios, quotes, books, or YouTube IDs.
+Good Room order:
+  1. Name (+ optional portrait) (+ Zak alias line for brandon-cruz)
+  2. One published-notes identity sentence (omit host-voice openers)
+  3. Episode setlist
+  4. Published quotes
+  5. Authored books (+ optional Books mentioned if already on file)
+  6. ALSO MADE (verified; skip entirely for authors with no non-book entry)
+  7. Quiet clip-permission line
+
+Does NOT invent bios, quotes, books, brands, or YouTube IDs.
 Does NOT git commit or push.
 """
 from __future__ import annotations
@@ -22,8 +32,75 @@ from pathlib import Path
 DEPLOY = Path(__file__).resolve().parents[1]
 GUESTS_DIR = DEPLOY / "guests"
 ASSETS = DEPLOY / "assets"
+SOURCES = DEPLOY / "_sources"
+CONTENT = SOURCES / "content"
+
+def content_dirs_index() -> dict[str, list[Path]]:
+    """Map 4-digit episode numbers (and exact folder names) to content dirs."""
+    by_num: dict[str, list[Path]] = {}
+    by_name: dict[str, Path] = {}
+    if not CONTENT.is_dir():
+        return {}
+    for d in CONTENT.iterdir():
+        if not d.is_dir():
+            continue
+        by_name[d.name] = d
+        m = re.match(r"^(\d{4})", d.name)
+        if m:
+            by_num.setdefault(m.group(1), []).append(d)
+    # stash on function for reuse
+    content_dirs_index.by_num = by_num  # type: ignore
+    content_dirs_index.by_name = by_name  # type: ignore
+    return by_num
+
+
+def resolve_content_dirs(ep_slug: str, guest_slug: str | None = None) -> list[Path]:
+    if not hasattr(content_dirs_index, "by_name"):
+        content_dirs_index()
+    by_name = content_dirs_index.by_name  # type: ignore
+    by_num = content_dirs_index.by_num  # type: ignore
+    out: list[Path] = []
+    if ep_slug in by_name:
+        out.append(by_name[ep_slug])
+    m = re.match(r"^(\d{4})", ep_slug)
+    if m:
+        for d in by_num.get(m.group(1), []):
+            if d not in out:
+                out.append(d)
+    # Non-numeric / renamed folders: match guest slug or distinctive ep tokens
+    tokens = []
+    if guest_slug:
+        tokens.append(guest_slug)
+        # also first+last if hyphenated
+        parts = [x for x in guest_slug.split("-") if x and x not in {"of", "the", "and", "a"}]
+        if len(parts) >= 2:
+            tokens.append("-".join(parts[:2]))
+    # ep slug without leading number
+    rest = re.sub(r"^\d{4}-?", "", ep_slug)
+    if rest and len(rest) > 8:
+        tokens.append(rest[:40])
+    for tok in tokens:
+        for name, d in by_name.items():
+            if tok and tok in name and d not in out:
+                out.append(d)
+    return out
+
+PORTRAITS = ASSETS / "portraits"
 BASE_SITE = "https://junkyardlovejakesbot.github.io/junkyard-love-archive"
 MOTTO = "drink some water, stretch, love yourselves."
+CLIP_LINE = "You’re welcome to clip this conversation. I won’t copyright you."
+
+# Hard name rules
+DISPLAY_OVERRIDES = {
+    "brandon-cruz": "Brandon Cruz",
+}
+ALIAS_LINES = {
+    "brandon-cruz": "Also known as Zak Wyld",
+}
+# Index may note alias in parentheses for findability
+INDEX_NAME_OVERRIDES = {
+    "brandon-cruz": "Brandon Cruz",
+}
 
 HEADER = """<!DOCTYPE html>
 <html lang="en" data-theme="dark">
@@ -87,7 +164,6 @@ def esc(s: str) -> str:
 
 
 def text_esc(s: str) -> str:
-    """Escape for HTML text nodes (keep apostrophes/quotes readable)."""
     return html.escape(s or "", quote=False)
 
 
@@ -96,7 +172,6 @@ def load_json(path: Path):
 
 
 def git_show(relpath: str) -> str | None:
-    """Read a file from HEAD so rebuilds stay idempotent against prior site copy."""
     try:
         r = subprocess.run(
             ["git", "show", f"HEAD:{relpath}"],
@@ -117,23 +192,39 @@ def parse_index_names() -> dict[str, str]:
     if text is None:
         text = (GUESTS_DIR / "index.html").read_text(encoding="utf-8")
     items = re.findall(
-        r'<li><a href="guests/([^/]+)/index\.html">([^<]+)</a>',
+        r'<li[^>]*>\s*<a href="guests/([^/]+)/index\.html">([^<]+)</a>',
         text,
     )
-    return {slug: html.unescape(name) for slug, name in items}
+    names = {slug: html.unescape(name) for slug, name in items}
+    for slug, name in DISPLAY_OVERRIDES.items():
+        names[slug] = name
+    return names
 
 
 def existing_episode_map() -> dict[str, list[str]]:
     mapping: dict[str, list[str]] = {}
     for p in sorted(GUESTS_DIR.glob("*/index.html")):
         slug = p.parent.name
-        # Prefer HEAD mapping (pre-rebuild) so multi-guest splits stay curated
         src = git_show(f"guests/{slug}/index.html")
         if src is None:
             src = p.read_text(encoding="utf-8")
-        eps = re.findall(r'href="episodes/([^/]+)/index\.html"', src)
-        seen = set()
-        uniq = []
+        # Prefer curated setlist block when present (idempotent across rebuilds)
+        block = re.search(
+            r'<ul class="list guest-episodes">(.*?)</ul>', src, re.S
+        )
+        region = block.group(1) if block else src
+        # On legacy pages, prefer Episodes heading region before Topics/Watch
+        if not block:
+            m = re.search(
+                r"<h2>Episodes</h2>(.*?)(?:<h2>Topics</h2>|<h2>Published|<h2>Watch|<h2>Books|<h2>Also|</div>\s*<footer)",
+                src,
+                re.S | re.I,
+            )
+            if m:
+                region = m.group(1)
+        eps = re.findall(r'href="episodes/([^/]+)/index\.html"', region)
+        seen: set[str] = set()
+        uniq: list[str] = []
         for e in eps:
             if e not in seen:
                 seen.add(e)
@@ -142,81 +233,152 @@ def existing_episode_map() -> dict[str, list[str]]:
     return mapping
 
 
-def extract_one_line_bio(page_text: str) -> str | None:
-    """Keep at most one short existing identity bio; never invent."""
-    about_blocks = re.findall(r'<div class="about">(.*?)</div>', page_text, re.S)
-    paras: list[str] = []
+def portrait_src(slug: str) -> str | None:
+    for ext in (".png", ".webp", ".jpg", ".jpeg"):
+        p = PORTRAITS / f"{slug}{ext}"
+        if p.is_file():
+            return f"assets/portraits/{slug}{ext}"
+    return None
+
+
+def is_host_voice(s: str) -> bool:
+    low = s.lower().strip()
+    if low.startswith(
+        (
+            "in this episode",
+            "in this conversation",
+            "in this chat",
+            "in this podcast",
+            "today we’re",
+            "today we're",
+            "today we",
+            "here the founder",
+            "here he",
+            "here she",
+            "i find myself",
+            "i get to",
+            "i'm joined",
+            "i am joined",
+            "i sit down",
+            "i'm sitting",
+            "we’re joined",
+            "we're joined",
+            "this week we're",
+            "this week we",
+            "joining us",
+            "welcome to",
+            "welcome back",
+            "what if ",
+            "this is ",
+            "hit follow",
+            "to skip",
+            "blu and i",
+            "andre and rob",
+            "the sense-making",
+            "at the junkyard",
+            "“",
+            '"',
+            "(",
+        )
+    ):
+        return True
+    if re.match(r"^my buddy\b", low):
+        return True
+    if " and i " in low or low.endswith(" and i"):
+        # host co-presence openers
+        if not re.match(r"^[A-Z][a-z]+ [A-Z]", s):
+            return True
+    if "stops by" in low or "leans back" in low or "spills his" in low:
+        return True
+    if re.match(r"^(rebecca|brandon|nate|matt|sigmar|barbara)\s+and i\b", low):
+        return True
+    return False
+
+
+def is_identity_sentence(s: str) -> bool:
+    if is_host_voice(s):
+        return False
+    # Clear "Name … is/are …" identity (allow He/She/They/Hailing)
+    if re.match(
+        r"^(?:[A-Z][\w'.\-]+(?:\s+(?:[A-Z][\w'.\-]+|of|the|de|da|van|von)){0,6}|He|She|They)\s+(?:is|are|was|has been)\b",
+        s,
+    ):
+        return True
+    if re.match(r"^Hailing from\b", s):
+        return True
+    if re.match(
+        r"^Meet [A-Z][\w'.\-]+(?:\s+[A-Z][\w'.\-]+){0,5}\s*[—\-:]",
+        s,
+    ):
+        return True
+    return False
+
+
+def first_identity_from_text(blob: str) -> str | None:
+    if not blob or blob.strip().startswith("(none"):
+        return None
+    # drop markdown noise
+    text = re.sub(r"^#+\s.*$", "", blob, flags=re.M)
+    text = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", text)
+    paras = [p.strip() for p in re.split(r"\n\s*\n", text) if p.strip()]
+    for para in paras:
+        plain = re.sub(r"[*_`]", "", para)
+        plain = re.sub(r"\s+", " ", plain).strip()
+        if is_host_voice(plain):
+            continue
+        # first sentence
+        m = re.match(r"^([^.?!]{20,220}[.?!])", plain)
+        if not m:
+            continue
+        cand = m.group(1).strip()
+        if len(cand) > 220:
+            continue
+        if is_identity_sentence(cand):
+            return cand
+    return None
+
+
+def extract_identity_bio(slug: str, old_page: str) -> str | None:
+    # Prefer published source-about across mapped episodes (caller passes via side channel)
+    # Fallback: existing about block on prior page
+    about_blocks = re.findall(r'<div class="about">(.*?)</div>', old_page, re.S)
     for block in about_blocks:
         for p in re.findall(r"<p>(.*?)</p>", block, re.S):
             plain = re.sub(r"<[^>]+>", "", p)
             plain = html.unescape(plain).strip()
-            if plain:
-                paras.append(plain)
-    if not paras:
-        return None
-
-    def is_identity(s: str) -> bool:
-        low = s.lower().strip()
-        # Reject episode-note openers / host voice
-        if low.startswith(
-            (
-                "in this episode",
-                "in this conversation",
-                "in this chat",
-                "i find myself",
-                "i get to",
-                "i'm joined",
-                "i am joined",
-                "what if ",
-                "this is ",
-                "“",
-                '"',
-            )
-        ):
-            return False
-        if "stops by" in low or "leans back" in low or "spills his" in low:
-            return False
-        # Identity cues
-        if re.match(
-            r"^(?:[A-Z][\w'.\-]+(?:\s+[A-Z][\w'.\-]+){0,4}|He|She|They)\s+(?:is|are|'s)\b",
-            s,
-        ):
-            return True
-        if re.match(r"^Hailing from\b", s):
-            return True
-        return False
-
-    # One sentence max, identity only
-    first = paras[0]
-    m = re.match(r"^([^.?!]{20,140}[.?!])", first)
-    if not m:
-        return None
-    cand = m.group(1).strip()
-    if len(cand) > 140:
-        return None
-    if is_identity(cand):
-        return cand
+            if plain and is_identity_sentence(plain.split(".")[0] + "." if "." in plain else plain):
+                m = re.match(r"^([^.?!]{20,220}[.?!])", plain)
+                if m and is_identity_sentence(m.group(1).strip()):
+                    return m.group(1).strip()
+    # lede
+    m = re.search(r'<p class="lede">(.*?)</p>', old_page, re.S)
+    if m:
+        plain = html.unescape(re.sub(r"<[^>]+>", "", m.group(1))).strip()
+        if plain and is_identity_sentence(plain):
+            return plain
     return None
 
 
-def iso_duration(duration: str | None, duration_seconds: int | None) -> str | None:
-    secs = duration_seconds
-    if secs is None and duration:
-        parts = [int(x) for x in duration.split(":")]
-        if len(parts) == 3:
-            secs = parts[0] * 3600 + parts[1] * 60 + parts[2]
-        elif len(parts) == 2:
-            secs = parts[0] * 60 + parts[1]
-    if secs is None:
-        return None
-    h, rem = divmod(int(secs), 3600)
-    m, s = divmod(rem, 60)
-    if h:
-        return f"PT{h}H{m}M{s}S"
-    return f"PT{m}M{s}S"
+def identity_from_sources(ep_slugs: list[str], guest_slug: str | None = None) -> str | None:
+    content_dirs_index()
+    for es in ep_slugs:
+        for d in resolve_content_dirs(es, guest_slug=guest_slug):
+            about = d / "source-about.md"
+            if about.exists():
+                bio = first_identity_from_text(about.read_text(encoding="utf-8", errors="replace"))
+                if bio:
+                    return bio
+    for es in ep_slugs:
+        for d in resolve_content_dirs(es, guest_slug=guest_slug):
+            desc = d / "source-description.md"
+            if desc.exists():
+                bio = first_identity_from_text(desc.read_text(encoding="utf-8", errors="replace"))
+                if bio:
+                    return bio
+    return None
 
 
-def person_json_ld(name: str, slug: str, episodes: list[dict]) -> str:
+def person_json_ld(name: str, slug: str, episodes: list[dict], alias: str | None = None) -> str:
     url = f"{BASE_SITE}/guests/{slug}/"
     items = []
     for i, ep in enumerate(episodes, 1):
@@ -228,7 +390,7 @@ def person_json_ld(name: str, slug: str, episodes: list[dict]) -> str:
                 "name": ep.get("browse_title") or ep.get("canonical_title") or ep["slug"],
             }
         )
-    data = {
+    data: dict = {
         "@context": "https://schema.org",
         "@type": "Person",
         "name": name,
@@ -240,12 +402,13 @@ def person_json_ld(name: str, slug: str, episodes: list[dict]) -> str:
             "itemListElement": items,
         },
     }
+    if alias:
+        data["alternateName"] = alias.replace("Also known as ", "").strip()
     blob = json.dumps(data, ensure_ascii=False, indent=2)
     return f'<script type="application/ld+json">\n{blob}\n</script>'
 
 
 def books_for_guest(slug: str, books: list[dict]) -> dict[str, list[dict]]:
-    """Split authored vs mentioned for a guest. Authored wins over mentioned for same slug."""
     authored: list[dict] = []
     mentioned: list[dict] = []
     seen_a: set[str] = set()
@@ -282,24 +445,27 @@ def quotes_for_episodes(ep_slugs: set[str], quotes: list[dict]) -> list[dict]:
     return out
 
 
+def fill_header(**kw) -> str:
+    out = HEADER
+    for k, v in kw.items():
+        out = out.replace("{" + k + "}", v)
+    return out
+
+
 def render_guest_page(
     slug: str,
     display_name: str,
     bio: str | None,
     episodes: list[dict],
-    books: dict[str, list[dict]] | list[dict],
+    books: dict[str, list[dict]],
     quotes: list[dict],
+    also_made: dict | None,
+    has_authored: bool,
 ) -> str:
-    ep_count = len(episodes)
-    desc = f"Doorway for {display_name} on The Junkyard Love Podcast — episodes, topics, published quotes, and books already on file."
+    desc = f"{display_name} on The Junkyard Love Podcast — episodes, published quotes, and what they made (when verified)."
     og_url = f"{BASE_SITE}/guests/{slug}/"
-    json_ld = person_json_ld(display_name, slug, episodes)
-
-    def fill_header(**kw):
-        out = HEADER
-        for k, v in kw.items():
-            out = out.replace("{" + k + "}", v)
-        return out
+    alias = ALIAS_LINES.get(slug)
+    json_ld = person_json_ld(display_name, slug, episodes, alias)
 
     parts = [
         fill_header(
@@ -310,12 +476,22 @@ def render_guest_page(
             json_ld=json_ld,
         ),
         f"<h1>{text_esc(display_name)}</h1>",
-        f'<p class="note">Appeared on The Junkyard Love Podcast ({ep_count} episode{"s" if ep_count != 1 else ""})</p>',
     ]
-    if bio:
-        parts.append(f'<p class="lede">{text_esc(bio)}</p>')
 
-    # Episodes
+    portrait = portrait_src(slug)
+    if portrait:
+        parts.append(
+            f'<p class="guest-portrait-wrap"><img class="guest-portrait" src="{esc(portrait)}" '
+            f'alt="{esc(display_name)}" width="320" height="320" loading="lazy"></p>'
+        )
+
+    if alias:
+        parts.append(f'<p class="guest-alias note">{text_esc(alias)}</p>')
+
+    if bio:
+        parts.append(f'<p class="lede guest-about">{text_esc(bio)}</p>')
+
+    # Episode setlist
     parts.append("<h2>Episodes</h2>")
     if not episodes:
         parts.append('<p class="note">(no episodes on file)</p>')
@@ -332,23 +508,6 @@ def render_guest_page(
             parts.append(
                 f'<li><a href="{esc(href)}"><strong>{text_esc(num)}</strong> — {text_esc(title)}</a>'
                 f'<br><span class="note">{text_esc(meta)}</span></li>'
-            )
-        parts.append("</ul>")
-
-    # Topic shelves
-    topic_map: dict[str, str] = {}
-    for ep in episodes:
-        for t in ep.get("topics") or []:
-            if isinstance(t, dict) and t.get("slug"):
-                topic_map[t["slug"]] = t.get("title") or t["slug"]
-    parts.append("<h2>Topics</h2>")
-    if not topic_map:
-        parts.append('<p class="note">(no topic shelves on file for these episodes)</p>')
-    else:
-        parts.append('<ul class="list guest-topics">')
-        for tslug, ttitle in sorted(topic_map.items(), key=lambda x: x[1].lower()):
-            parts.append(
-                f'<li><a href="topics/{esc(tslug)}/index.html">{text_esc(ttitle)}</a></li>'
             )
         parts.append("</ul>")
 
@@ -372,14 +531,9 @@ def render_guest_page(
                 )
             parts.append("</blockquote>")
 
-    # Books — authored vs mentioned
-    if isinstance(books, list):
-        # backward compat
-        authored_books = [b for b in books if b.get("bucket") == "authored"]
-        mentioned_books = [b for b in books if b.get("bucket") != "authored"]
-    else:
-        authored_books = books.get("authored") or []
-        mentioned_books = books.get("mentioned") or []
+    # Books
+    authored_books = books.get("authored") or []
+    mentioned_books = books.get("mentioned") or []
     if authored_books:
         parts.append("<h2>Authored books</h2>")
         parts.append('<ul class="list book-list">')
@@ -410,28 +564,33 @@ def render_guest_page(
             else:
                 parts.append(f"<li>{esc(title)}{extra}</li>")
         parts.append("</ul>")
-    if not authored_books and not mentioned_books:
-        parts.append("<h2>Books on file</h2>")
-        parts.append('<p class="note">(none in the books index for this guest)</p>')
 
-    # YouTube / archive links from episodes
-    parts.append("<h2>Watch / archive</h2>")
-    parts.append('<ul class="list guest-watch">')
-    for ep in episodes:
-        title = ep.get("browse_title") or ep.get("canonical_title") or ep["slug"]
-        num = ep.get("number") or ""
-        archive = f"episodes/{ep['slug']}/index.html"
-        yid = ep.get("youtube_id")
-        yurl = ep.get("youtube_url")
-        if yid and not yurl:
-            yurl = f"https://www.youtube.com/watch?v={yid}"
-        line = f'<li><strong>{esc(num)}</strong> — {esc(title)} · <a href="{esc(archive)}">archive</a>'
-        if yurl:
-            line += f' · <a href="{esc(yurl)}" target="_blank" rel="noopener">YouTube</a>'
-        line += "</li>"
-        parts.append(line)
-    parts.append("</ul>")
+    # ALSO MADE
+    if also_made:
+        parts.append('<h2 class="also-made">Also made</h2>')
+        label = also_made.get("label") or "Also made"
+        url = also_made.get("url") or ""
+        kind = also_made.get("kind") or ""
+        kind_bit = f' <span class="note">({text_esc(kind)})</span>' if kind else ""
+        if url:
+            parts.append(
+                f'<p class="also-made-item"><a href="{esc(url)}" target="_blank" rel="noopener">'
+                f"{text_esc(label)}</a>{kind_bit}</p>"
+            )
+        else:
+            parts.append(f"<p class=\"also-made-item\">{text_esc(label)}{kind_bit}</p>")
+        vurl = also_made.get("video_url")
+        if vurl:
+            parts.append(
+                f'<p class="also-made-video note"><a href="{esc(vurl)}" target="_blank" rel="noopener">'
+                f"Video</a></p>"
+            )
+    elif not has_authored:
+        # heading omitted when unverified for non-authors (listed in NEEDS report)
+        pass
+    # authors without non-book Also Made: skip section entirely
 
+    parts.append(f'<p class="clip-permission note">{text_esc(CLIP_LINE)}</p>')
     parts.append(FOOTER)
     return "\n".join(parts) + "\n"
 
@@ -441,11 +600,16 @@ def render_index(guests: list[dict]) -> str:
     og_url = f"{BASE_SITE}/guests/"
     rows = []
     for g in guests:
-        count = g["episode_count"]
-        count_html = f' <span class="note">({count})</span>'
+        index_name = g.get("index_name") or g["display_name"]
+        alias_note = ""
+        filter_name = index_name.lower()
+        if g["slug"] == "brandon-cruz":
+            alias_note = ' <span class="note">(also Zak Wyld)</span>'
+            filter_name = f"{filter_name} zak wyld zack wyld"
         rows.append(
-            f'<li data-guest-name="{esc(g["display_name"].lower())}" data-guest-slug="{esc(g["slug"])}">'
-            f'<a href="guests/{esc(g["slug"])}/index.html">{text_esc(g["display_name"])}</a>{count_html}</li>'
+            f'<li data-guest-name="{esc(filter_name)}" '
+            f'data-guest-slug="{esc(g["slug"])}">'
+            f'<a href="guests/{esc(g["slug"])}/index.html">{text_esc(index_name)}</a>{alias_note}</li>'
         )
     filter_js = """
 <script>
@@ -466,12 +630,6 @@ def render_index(guests: list[dict]) -> str:
 })();
 </script>
 """
-    def fill_header(**kw):
-        out = HEADER
-        for k, v in kw.items():
-            out = out.replace("{" + k + "}", v)
-        return out
-
     body = [
         fill_header(
             title=esc("Guests — The Junkyard Love Podcast"),
@@ -483,7 +641,9 @@ def render_index(guests: list[dict]) -> str:
         "<h1>Guests</h1>",
         '<p class="note">Everyone who sat down for a conversation. Filter by name, or scan A–Z.</p>',
         '<p><label class="note" for="guest-filter">Filter guests</label><br>',
-        '<input id="guest-filter" type="search" placeholder="Type a name…" autocomplete="off" style="width:min(100%,22rem);padding:0.5rem 0.75rem;border-radius:6px;border:1px solid var(--border, #444);background:var(--bg-elevated, #1a1a1a);color:inherit;"></p>',
+        '<input id="guest-filter" type="search" placeholder="Type a name…" autocomplete="off" '
+        'style="width:min(100%,22rem);padding:0.5rem 0.75rem;border-radius:6px;border:1px solid var(--border, #444);'
+        'background:var(--bg-elevated, #1a1a1a);color:inherit;"></p>',
         '<ul class="list" id="guest-list">',
         "".join(rows),
         "</ul>",
@@ -493,36 +653,78 @@ def render_index(guests: list[dict]) -> str:
     return "\n".join(body) + "\n"
 
 
+def ensure_portrait_css() -> None:
+    css_path = ASSETS / "style.css"
+    if not css_path.exists():
+        return
+    css = css_path.read_text(encoding="utf-8")
+    if "guest-portrait" in css:
+        return
+    css += """
+
+/* Good Room guest portraits */
+.guest-portrait-wrap { margin: 0.75rem 0 1rem; }
+img.guest-portrait {
+  display: block;
+  width: min(100%, 320px);
+  height: auto;
+  border-radius: 10px;
+  border: 1px solid var(--border, #444);
+}
+.guest-alias { margin-top: -0.35rem; }
+.also-made-item { margin: 0.35rem 0 0.75rem; }
+.clip-permission { margin-top: 2rem; opacity: 0.85; }
+"""
+    css_path.write_text(css, encoding="utf-8")
+
+
 def main() -> None:
     episodes_doc = load_json(ASSETS / "episodes_index.json")
     ep_by_slug = {e["slug"]: e for e in episodes_doc["episodes"]}
     quotes = load_json(ASSETS / "quotes_clean.json")["quotes"]
     books = load_json(ASSETS / "books_index.json")["books"]
+    also_made_doc = load_json(SOURCES / "also_made.json") if (SOURCES / "also_made.json").exists() else {}
+
+    authored_slugs = {
+        b["authored_guest_slug"]
+        for b in books
+        if b.get("bucket") == "authored" and b.get("authored_guest_slug")
+    }
 
     index_names = parse_index_names()
     ep_map = existing_episode_map()
+    ensure_portrait_css()
 
-    # Ensure every guest folder is covered
     folder_slugs = sorted(p.parent.name for p in GUESTS_DIR.glob("*/index.html"))
     guests_out = []
     bios_kept = []
+    also_filled = []
+    also_omitted = []
+    needs_jacob_also = []
+    portraits_wired = []
     needs_jacob = []
 
     for slug in folder_slugs:
-        display = index_names.get(slug)
+        display = DISPLAY_OVERRIDES.get(slug) or index_names.get(slug)
         if not display:
-            # fall back to existing h1
             page = (GUESTS_DIR / slug / "index.html").read_text(encoding="utf-8")
             m = re.search(r"<h1>([^<]+)</h1>", page)
             display = m.group(1) if m else slug
             needs_jacob.append(f"Guest folder `{slug}` missing from prior index labels — left as `{display}`")
 
-        old_page = git_show(f"guests/{slug}/index.html") or (GUESTS_DIR / slug / "index.html").read_text(encoding="utf-8")
-        bio = extract_one_line_bio(old_page)
+        # Strip old parenthetical Zack from display if still present
+        if slug == "brandon-cruz":
+            display = "Brandon Cruz"
+
+        old_page = git_show(f"guests/{slug}/index.html") or (
+            GUESTS_DIR / slug / "index.html"
+        ).read_text(encoding="utf-8")
+
+        ep_slugs = ep_map.get(slug) or []
+        bio = identity_from_sources(ep_slugs, guest_slug=slug) or extract_identity_bio(slug, old_page)
         if bio:
             bios_kept.append(slug)
 
-        ep_slugs = ep_map.get(slug) or []
         episodes = []
         for es in ep_slugs:
             ep = ep_by_slug.get(es)
@@ -531,7 +733,6 @@ def main() -> None:
             else:
                 needs_jacob.append(f"Guest `{slug}` linked episode `{es}` not in episodes_index")
 
-        # newest first for doorway
         episodes_sorted = sorted(
             episodes,
             key=lambda e: (e.get("date") or "", e.get("number") or ""),
@@ -540,9 +741,32 @@ def main() -> None:
         ep_slug_set = {e["slug"] for e in episodes_sorted}
         g_quotes = quotes_for_episodes(ep_slug_set, quotes)
         g_books = books_for_guest(slug, books)
+        has_authored = slug in authored_slugs or bool(g_books["authored"])
+
+        am = also_made_doc.get(slug)
+        if am and am.get("url") and am.get("label"):
+            also_filled.append(slug)
+        else:
+            am = None
+            if has_authored:
+                # skip section — books cover what they made
+                pass
+            else:
+                also_omitted.append(slug)
+                needs_jacob_also.append(slug)
+
+        if portrait_src(slug):
+            portraits_wired.append(slug)
 
         html_out = render_guest_page(
-            slug, display, bio, episodes_sorted, g_books, g_quotes
+            slug,
+            display,
+            bio,
+            episodes_sorted,
+            g_books,
+            g_quotes,
+            am,
+            has_authored,
         )
         (GUESTS_DIR / slug / "index.html").write_text(html_out, encoding="utf-8")
 
@@ -550,6 +774,7 @@ def main() -> None:
             {
                 "slug": slug,
                 "display_name": display,
+                "index_name": INDEX_NAME_OVERRIDES.get(slug, display),
                 "episode_count": len(episodes_sorted),
                 "sort_key": display.lstrip('"').lower(),
             }
@@ -558,23 +783,84 @@ def main() -> None:
     guests_out.sort(key=lambda g: g["sort_key"])
     (GUESTS_DIR / "index.html").write_text(render_index(guests_out), encoding="utf-8")
 
+    # NEEDS JACOB Also Made report
+    reports = SOURCES / "reports"
+    reports.mkdir(parents=True, exist_ok=True)
+    needs_lines = [
+        "# NEEDS JACOB — Also Made",
+        "",
+        "Guests with **no authored book** on file and **no verified** Also Made entry",
+        "(company / band / practice / podcast / product / movement + real URL from published notes).",
+        "",
+    ]
+    for slug in also_omitted:
+        name = next((g["display_name"] for g in guests_out if g["slug"] == slug), slug)
+        needs_lines.append(f"- `{slug}` — {name}")
+    needs_lines.append("")
+    (reports / "NEEDS_JACOB_ALSO_MADE.md").write_text("\n".join(needs_lines), encoding="utf-8")
+
     report = {
         "guest_pages": len(guests_out),
         "bios_kept": bios_kept,
+        "also_made_filled": also_filled,
+        "also_made_omitted_non_author": also_omitted,
+        "portraits_wired": portraits_wired,
         "needs_jacob": needs_jacob,
-        "wyld_wild_separate": {
-            "rebecca-wyld": next(g for g in guests_out if g["slug"] == "rebecca-wyld"),
-            "rebecca-wild": next(g for g in guests_out if g["slug"] == "rebecca-wild"),
-        },
+        "brandon_cruz": next(g for g in guests_out if g["slug"] == "brandon-cruz"),
+        "rebecca_wyld": next(g for g in guests_out if g["slug"] == "rebecca-wyld"),
+        "rebecca_wild": next(g for g in guests_out if g["slug"] == "rebecca-wild"),
     }
-    out = DEPLOY / "_sources" / "reports" / "GUEST_DOORWAYS_BUILD.json"
-    out.write_text(json.dumps(report, indent=2), encoding="utf-8")
-    print(f"Rebuilt {len(guests_out)} guest pages + index")
+    (reports / "GUEST_DOORWAYS_BUILD.json").write_text(
+        json.dumps(report, indent=2), encoding="utf-8"
+    )
+
+    # SHIP report
+    base = BASE_SITE
+    ship = [
+        "# SHIP — Good Room guest pages + Also Made",
+        "",
+        f"- Guest pages rebuilt: **{len(guests_out)}**",
+        f"- Also Made filled: **{len(also_filled)}** (`{', '.join(also_filled)}`)",
+        f"- Also Made omitted (non-authors → NEEDS JACOB): **{len(also_omitted)}**",
+        f"- Portraits wired (file present at build): **{len(portraits_wired)}** — {portraits_wired}",
+        f"- Identity bios kept: **{len(bios_kept)}**",
+        "",
+        "## Name notes",
+        "",
+        "- **Brandon Cruz** single doorway `guests/brandon-cruz/` with alias line "
+        "`Also known as Zak Wyld` (episode slug `0004-zack-wyld` unchanged; Zak/Zack treated as one alias).",
+        "- **Rebecca Wyld** (`rebecca-wyld`, ep 0037) ≠ **Rebecca Wild** (`rebecca-wild`, ep 0110) — separate folders.",
+        "- Portraits: wired for `sigmar-berg`, `barbara-mcafee`, `rebecca-wild`. "
+        "Skipped (no trustworthy face): `brandon-cruz`, `rebecca-wyld`.",
+        "",
+        "## Live URL stubs",
+        "",
+        f"- Guests index: {base}/guests/",
+        f"- Brandon Cruz: {base}/guests/brandon-cruz/",
+        f"- Rebecca Wyld: {base}/guests/rebecca-wyld/",
+        f"- Rebecca Wild: {base}/guests/rebecca-wild/",
+        f"- Author guest (Sigmar Berg): {base}/guests/sigmar-berg/",
+        f"- Also-made-only example (Anna Cantwell): {base}/guests/anna-cantwell/",
+        f"- Also-made-only example (Scott Pisapia): {base}/guests/scott-pisapia/",
+        "",
+        "## Example Also Made entries",
+        "",
+    ]
+    for ex in ("sigmar-berg", "anna-cantwell", "scott-pisapia", "brent-spirit", "matt-mcgee"):
+        am = also_made_doc.get(ex) or {}
+        ship.append(
+            f"- `{ex}`: {am.get('label')} → {am.get('url')} ({am.get('kind')})"
+        )
+    ship.append("")
+    ship.append(f"See also: `_sources/reports/NEEDS_JACOB_ALSO_MADE.md` ({len(also_omitted)} guests).")
+    ship.append("")
+    (reports / "SHIP_GOOD_ROOM.md").write_text("\n".join(ship), encoding="utf-8")
+
+    print(f"Rebuilt {len(guests_out)} Good Room guest pages + index")
+    print(f"Also Made filled ({len(also_filled)}): {also_filled}")
+    print(f"Also Made omitted / NEEDS JACOB ({len(also_omitted)})")
+    print(f"Portraits wired: {portraits_wired}")
     print(f"Bios kept ({len(bios_kept)}): {bios_kept}")
-    if needs_jacob:
-        print("NEEDS JACOB:")
-        for line in needs_jacob:
-            print(" -", line)
 
 
 if __name__ == "__main__":

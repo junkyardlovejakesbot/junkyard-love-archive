@@ -1,0 +1,63 @@
+# NEEDS JACOB — Also Made
+
+Guests with **no authored book** on file and **no verified** Also Made entry
+(company / band / practice / podcast / product / movement + real URL from published notes).
+
+- `abrielle-dunn` — Abrielle Dunn
+- `airik-makaio-hokulani-mobbs` — Airik Makaio Hokulani Mobbs
+- `andre-gilbert` — Andre Gilbert
+- `andy-of-team-banzai` — Andy of Team Banzai
+- `blake-hull` — Blake Hull
+- `bob-kendall` — Bob Kendall
+- `bradley-roth` — Bradley Roth
+- `brandon-cruz` — Brandon Cruz
+- `brian-dj-toasty-andrew` — Brian 'DJ Toasty' Andrew
+- `cameron-reid` — Cameron 'Cam' Reid
+- `conner-anshutz` — Conner Anshutz
+- `crystal-nyman` — Crystal Nyman
+- `david-crayk` — David Crayk
+- `devin-mullins` — Devin Mullins
+- `devon-sims` — Devon Sims
+- `erik-nordin` — Erik Nordin
+- `georgia-peach` — Georgia Peach
+- `ian-camp-reeducation` — Ian of Camp Re-Education
+- `j-faul` — Jessica Faul (J Faul)
+- `jace-saltzman` — JACE Saltzman
+- `jasmine-heagy` — Jasmine Heagy
+- `jaycie-randall` — Jaycie Randall
+- `jordanne-crane` — Jordanne Crane
+- `jordenelle-tsugawa` — Jordenelle Tsugawa
+- `joseph-crumb` — Joseph Crumb
+- `josh-gebhardt` — Josh Gebhardt
+- `keenan-harvey` — Keenan 'Hurricane' Harvey
+- `kelly-st-onge` — Kelly St. Onge
+- `kendall-johns` — Kendall Johns of Dead Crown
+- `mack-t` — Mackenzie Thornquist (Mack T)
+- `madi-allis` — Madi Allis
+- `maxx-v-payne` — Maxx V. Payne
+- `megan-elam` — Megan Elam
+- `megan-robinson` — Megan Robinson
+- `mika-woodruff` — Mika Woodruff
+- `nate-tanzman` — Nate Tanzman
+- `nona-southard` — Nona Southard
+- `rebecca-wyld` — Rebecca Wyld
+- `ricky-navarrete` — Ricky Navarrete
+- `rikki-hall` — Rikki Hall
+- `roberto-gonzalez` — Roberto Gonzalez (Rob / EYE Clothing)
+- `rosetan-the-band` — "rosetan" the band
+- `ryan-baker` — Ryan Baker
+- `ryan-reed` — Ryan Reed
+- `ryan-tos-santos` — Ryan 'Tos' Santos
+- `shaden-hvshi-nugent` — Shaden 'Hvshi' Nugent
+- `shaye-camp-reeducation` — Shaye of Camp Re-Education
+- `shiloh-rister` — Shiloh Rister
+- `spencer-hicks` — Spencer Hicks
+- `taya-sanders` — Taya Sanders of Clover+Tribe
+- `tim-fraley` — Tim Fraley
+- `trenten-kesler` — Trenten Kesler
+- `trevir-petitt` — Trevir Petitt
+- `trevor-may` — Trevor May
+- `trey-jones` — Trey Jones
+- `tyler-milliken` — Tyler Milliken
+- `will-andes` — Will Andes
+- `yanis-kanideis-pisarchuk` — Yanis 'Kanideis' Pisarchuk
