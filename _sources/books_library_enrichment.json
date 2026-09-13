@@ -1,0 +1,417 @@
+{
+  "_meta": {
+    "note": "Verified author/bucket/url enrichment only. Do not invent. Unverified guesses go in SHIP_BOOKS NEEDS JACOB."
+  },
+  "by_slug": {
+    "atomic-habits": {
+      "author": "James Clear",
+      "bucket": "mentioned",
+      "url": "https://jamesclear.com/atomic-habits"
+    },
+    "awake-the-yoga-of-pure-awareness": {
+      "author": "Swami Nityananda Giri",
+      "authors": ["Swami Nityananda Giri"],
+      "bucket": "authored",
+      "authored_guest_slug": "swami-nityananda",
+      "url": "https://www.awakeyogameditation.org/store/p/awake-the-yoga-of-pure-awareness"
+    },
+    "be-here-now": {
+      "author": "Ram Dass",
+      "bucket": "mentioned"
+    },
+    "be-nimble": {
+      "author": "Marty Strong",
+      "bucket": "authored",
+      "authored_guest_slug": "marty-strong",
+      "url": "https://www.simonandschuster.net/books/Be-Nimble/Marty-Strong/9781789048407"
+    },
+    "be-visionary": {
+      "author": "Marty Strong",
+      "bucket": "authored",
+      "authored_guest_slug": "marty-strong",
+      "url": "https://www.simonandschuster.net/books/Be-Visionary/Marty-Strong/9781785354328"
+    },
+    "building-resilient-family-enterprises": {
+      "author": null,
+      "bucket": "mentioned",
+      "needs_jacob": "Episode bio names Nike Anani as author of this title, but public listings show her book as Lifetime to Legacy. Unverified whether this is a real/alternate title or a bio error."
+    },
+    "decisive": {
+      "author": "Chip Heath and Dan Heath",
+      "authors": ["Chip Heath", "Dan Heath"],
+      "bucket": "mentioned"
+    },
+    "educated": {
+      "author": "Tara Westover",
+      "bucket": "mentioned"
+    },
+    "far-side-of-the-mountain": {
+      "author": "Jean Craighead George",
+      "bucket": "mentioned",
+      "url": "https://www.penguinrandomhouse.com/books/319562/on-the-far-side-of-the-mountain-by-jean-craighead-george/"
+    },
+    "five-senses-for-success": {
+      "author": "Juli Geske-Peer",
+      "bucket": "authored",
+      "authored_guest_slug": "juli-geske-peer",
+      "url": "https://juligeskepeer.com/5-senses-for-success/"
+    },
+    "full-voice": {
+      "author": "Barbara McAfee",
+      "bucket": "authored",
+      "authored_guest_slug": "barbara-mcafee",
+      "url": "https://www.penguinrandomhouse.com/books/575193/full-voice-by-barbara-mcafee/"
+    },
+    "holding-on-by-letting-go-a-memoir": {
+      "author": "Heather Hutchison",
+      "bucket": "authored",
+      "authored_guest_slug": "heather-hutchison",
+      "url": "https://www.amazon.com/Holding-Letting-Go-Heather-Hutchison-ebook/dp/B094674YMR"
+    },
+    "mans-search-for-meaning": {
+      "author": "Viktor E. Frankl",
+      "bucket": "mentioned"
+    },
+    "mind-gym": {
+      "author": "Gary Mack with David Casstevens",
+      "authors": ["Gary Mack", "David Casstevens"],
+      "bucket": "mentioned"
+    },
+    "mind-training-science-of-self-empowerment": {
+      "author": "Ravinder K. Taylor and Eldon Taylor",
+      "authors": ["Ravinder K. Taylor", "Eldon Taylor"],
+      "bucket": "authored",
+      "authored_guest_slug": "ravinder-taylor",
+      "url": "https://www.ravindertaylor.com/mind_training/mind_training.html"
+    },
+    "neither-ghost-nor-machine": {
+      "author": "Jeremy Sherman",
+      "bucket": "authored",
+      "authored_guest_slug": "jeremy-sherman",
+      "url": "https://cup.columbia.edu/book/neither-ghost-nor-machine/9780231173339/"
+    },
+    "next-level-human": {
+      "author": null,
+      "bucket": "mentioned",
+      "needs_jacob": "Title appears on shelf from Spencer Hicks episode; real author not confirmed (possible Jade Teta-related or another work). Do not invent."
+    },
+    "one-journey": {
+      "author": "Sigmar Berg",
+      "bucket": "authored",
+      "authored_guest_slug": "sigmar-berg",
+      "url": "https://www.amazon.com/One-Journey-Lovetuner-Sigmar-Berg/dp/1960583743"
+    },
+    "potatoes-not-prozac": {
+      "author": "Kathleen DesMaisons",
+      "bucket": "mentioned",
+      "url": "https://www.simonandschuster.com/books/Potatoes-Not-Prozac-Revised-and-Updated/Kathleen-DesMaisons/9781982106478"
+    },
+    "psycho-cybernetics": {
+      "author": "Maxwell Maltz",
+      "bucket": "mentioned"
+    },
+    "tattooing-the-world-pacific-designs-in-print-and-skin": {
+      "author": "Juniper Ellis",
+      "authors": ["Juniper Ellis (Swami Nityananda)"],
+      "bucket": "authored",
+      "authored_guest_slug": "swami-nityananda",
+      "url": "https://cup.columbia.edu/book/tattooing-the-world/9780231143691/"
+    },
+    "the-10x-rule": {
+      "author": "Grant Cardone",
+      "bucket": "mentioned"
+    },
+    "the-body-keeps-the-score": {
+      "author": "Bessel van der Kolk",
+      "bucket": "mentioned"
+    },
+    "the-celestine-prophecy": {
+      "author": "James Redfield",
+      "bucket": "mentioned"
+    },
+    "the-end-of-your-world": {
+      "author": "Adyashanti",
+      "bucket": "mentioned"
+    },
+    "the-human-idea": {
+      "author": "Anne Riley",
+      "bucket": "authored",
+      "authored_guest_slug": "anne-riley",
+      "url": "https://anne-riley-author.com/books/the-human-idea-earth-s-newest-ecosystem"
+    },
+    "the-light-eaters": {
+      "author": "Zoe Schlanger",
+      "bucket": "mentioned"
+    },
+    "the-power-of-now": {
+      "author": "Eckhart Tolle",
+      "bucket": "mentioned"
+    },
+    "the-protestant-ethic-and-the-spirit-of-capitalism": {
+      "author": "Max Weber",
+      "bucket": "mentioned"
+    },
+    "the-road-less-traveled": {
+      "author": "M. Scott Peck",
+      "bucket": "mentioned"
+    },
+    "the-seven-lessons-of-love": {
+      "author": "Zach Beach",
+      "bucket": "authored",
+      "authored_guest_slug": "zach-beach",
+      "url": "https://www.zachbeach.com/thesevenlessonsoflove/"
+    },
+    "the-spiritual-awakening-guide": {
+      "author": "Mary Mueller Shutan",
+      "bucket": "mentioned",
+      "url": "https://www.simonandschuster.net/books/The-Spiritual-Awakening-Guide/Mary-Mueller-Shutan/9781844096718"
+    },
+    "the-symbolic-species": {
+      "author": "Terrence W. Deacon",
+      "bucket": "mentioned",
+      "url": "https://wwnorton.com/books/9780393317541"
+    },
+    "the-war-of-art": {
+      "author": "Steven Pressfield",
+      "bucket": "mentioned"
+    },
+    "the-will-to-live-project": {
+      "author": "Rebecca Wild",
+      "bucket": "authored",
+      "authored_guest_slug": "rebecca-wild",
+      "url": "https://www.rebeccawild.org/books"
+    },
+    "the-wisdom-of-insecurity": {
+      "author": "Alan Watts",
+      "bucket": "mentioned"
+    },
+    "whos-afraid-of-ai": {
+      "author": "Thomas Ramge",
+      "bucket": "mentioned",
+      "url": "https://theexperimentpublishing.com/catalogs/spring-2019/whos-afraid-of-ai/"
+    }
+  },
+  "additional_authored": [
+    {
+      "title": "Vocal Intelligence",
+      "book_slug": "vocal-intelligence",
+      "author": "Barbara McAfee",
+      "bucket": "authored",
+      "authored_guest_slug": "barbara-mcafee",
+      "url": "https://www.barbaramcafee.com/about.html",
+      "mentions": [],
+      "source_note": "Named in published episode About for 0122 as co-title with Full Voice; confirmed on her site."
+    },
+    {
+      "title": "Be Different",
+      "book_slug": "be-different",
+      "author": "Marty Strong",
+      "bucket": "authored",
+      "authored_guest_slug": "marty-strong",
+      "url": "https://www.simonandschuster.net/authors/Marty-Strong/245931157",
+      "mentions": [],
+      "source_note": "Third business book in Marty Strong trilogy; confirmed on Simon & Schuster author page. Not named as a title on-mic in existing index."
+    },
+    {
+      "title": "What's Up With Assholes?",
+      "book_slug": "whats-up-with-assholes",
+      "author": "Jeremy Sherman",
+      "bucket": "authored",
+      "authored_guest_slug": "jeremy-sherman",
+      "url": "https://jeremysherman.com/",
+      "mentions": [],
+      "source_note": "Named in published episode About for 0084 as one of three books Jeremy authored."
+    },
+    {
+      "title": "Negotiate With Yourself And Win!",
+      "book_slug": "negotiate-with-yourself-and-win",
+      "author": "Jeremy Sherman",
+      "bucket": "authored",
+      "authored_guest_slug": "jeremy-sherman",
+      "url": "https://jeremysherman.com/",
+      "mentions": [],
+      "source_note": "Named in published episode About for 0084 as one of three books Jeremy authored."
+    },
+    {
+      "title": "Lifetime to Legacy",
+      "book_slug": "lifetime-to-legacy",
+      "author": "Nike Anani",
+      "bucket": "authored",
+      "authored_guest_slug": "nike-anani",
+      "url": "https://nikeanani.com/",
+      "mentions": [],
+      "source_note": "Verified published book by Nike Anani (Hambone Publishing). Episode bio instead named Building Resilient Family Enterprises — see NEEDS JACOB."
+    },
+    {
+      "title": "108 Savasana Poems",
+      "book_slug": "108-savasana-poems",
+      "author": "Zach Beach",
+      "bucket": "authored",
+      "authored_guest_slug": "zach-beach",
+      "url": "https://www.zachbeach.com/poetry-books/",
+      "mentions": [],
+      "source_note": "Poetry collection confirmed on zachbeach.com; episode About says two poetry collections with a third out in June."
+    },
+    {
+      "title": "Drinking Roses on Sunday",
+      "book_slug": "drinking-roses-on-sunday",
+      "author": "Zach Beach",
+      "bucket": "authored",
+      "authored_guest_slug": "zach-beach",
+      "url": "https://www.zachbeach.com/poetry-books/",
+      "mentions": [],
+      "source_note": "Poetry collection confirmed on zachbeach.com."
+    },
+    {
+      "title": "Pebbles",
+      "book_slug": "pebbles",
+      "author": "Zach Beach",
+      "bucket": "authored",
+      "authored_guest_slug": "zach-beach",
+      "url": "https://www.zachbeach.com/poetry-books/",
+      "mentions": [],
+      "source_note": "Named in episode About as newest collection 'Pebbles'; confirmed on zachbeach.com."
+    },
+    {
+      "title": "An Awakened Life, A Journey of Transformation",
+      "book_slug": "an-awakened-life-a-journey-of-transformation",
+      "author": "Julie Hoyle",
+      "bucket": "authored",
+      "authored_guest_slug": "julie-hoyle",
+      "url": "https://www.amazon.com/Awakened-Life-Journey-Transformation-ebook/dp/B08VF47GRG",
+      "mentions": [],
+      "source_note": "Verified Julie Hoyle title; episode calls her author and discusses book-writing; Celestine Prophecy on shelf remains mentioned (James Redfield)."
+    },
+    {
+      "title": "Living An Awakened Life",
+      "book_slug": "living-an-awakened-life",
+      "author": "Julie Hoyle",
+      "bucket": "authored",
+      "authored_guest_slug": "julie-hoyle",
+      "url": "https://www.amazon.com/Living-Awakened-Life-Julie-Hoyle-ebook/dp/B08V6HVJBW",
+      "mentions": [],
+      "source_note": "Verified Julie Hoyle title (Honoring Your Sacred Self series)."
+    },
+    {
+      "title": "Wake Up and Say Yes!",
+      "book_slug": "wake-up-and-say-yes",
+      "author": "Julie Hoyle",
+      "bucket": "authored",
+      "authored_guest_slug": "julie-hoyle",
+      "url": "https://www.amazon.com/Practical-Guide-Lucid-Living-Dreaming-ebook/dp/B08SLBQC4W",
+      "mentions": [],
+      "source_note": "Verified Julie Hoyle lucid living/dreaming guide."
+    },
+    {
+      "title": "All's Well: Where Thou Art Earth and Why",
+      "book_slug": "alls-well-where-thou-art-earth-and-why",
+      "author": "John Lefebvre",
+      "bucket": "authored",
+      "authored_guest_slug": "john-lefebvre",
+      "url": "https://www.johnlefebvre.com/alls-well/",
+      "mentions": [],
+      "source_note": "Episode About says he has written two books and discusses thoughts in his books; this title verified on his site."
+    },
+    {
+      "title": "Good with Money",
+      "book_slug": "good-with-money",
+      "author": "Kerry Gold with John Lefebvre",
+      "authors": ["Kerry Gold", "John Lefebvre"],
+      "bucket": "authored",
+      "authored_guest_slug": "john-lefebvre",
+      "url": "https://www.amazon.com/Good-Money-Kerry-Gold/dp/1773271296",
+      "mentions": [],
+      "source_note": "Memoir co-credited to John Lefebvre; episode About says written two books."
+    },
+    {
+      "title": "Bipolar Awakenings",
+      "book_slug": "bipolar-awakenings",
+      "author": "Sean Blackwell",
+      "bucket": "authored",
+      "authored_guest_slug": "sean-blackwell",
+      "url": "https://www.bipolarawakenings.com/",
+      "mentions": [
+        {
+          "mentioned_by": "Sean Blackwell",
+          "guest_slug": "sean-blackwell",
+          "guest": "Sean Blackwell",
+          "episode_slug": "0118-what-if-mania-is-a-message-sean-blackwell",
+          "episode_number": "0118",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "What If Mania Is a Message?"
+        }
+      ],
+      "source_note": "Named in published episode About with Amazon link; confirmed on bipolarawakenings.com."
+    },
+    {
+      "title": "Am I Bipolar or Waking Up?",
+      "book_slug": "am-i-bipolar-or-waking-up",
+      "author": "Sean Blackwell",
+      "bucket": "authored",
+      "authored_guest_slug": "sean-blackwell",
+      "url": "https://www.bipolarawakenings.com/",
+      "mentions": [
+        {
+          "mentioned_by": "Sean Blackwell",
+          "guest_slug": "sean-blackwell",
+          "guest": "Sean Blackwell",
+          "episode_slug": "0118-what-if-mania-is-a-message-sean-blackwell",
+          "episode_number": "0118",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "What If Mania Is a Message?"
+        }
+      ],
+      "source_note": "Named in published episode About with Amazon link."
+    },
+    {
+      "title": "DINA: Nature's Case for Democracy",
+      "book_slug": "dina-natures-case-for-democracy",
+      "author": "Anne Riley",
+      "bucket": "authored",
+      "authored_guest_slug": "anne-riley",
+      "url": "https://www.thehumanidea.com/",
+      "mentions": [],
+      "source_note": "Confirmed on Anne Riley author sites as her Socratic novel articulating Ideasphere theory alongside The Human Idea."
+    }
+  ],
+  "needs_jacob": [
+    {
+      "item": "Building Resilient Family Enterprises",
+      "guest": "Nike Anani",
+      "status": "unverified",
+      "note": "Named as her book in published episode bio and other podcast bios, but bookstore/publisher listings show Lifetime to Legacy. Is BRFE a real title, working title, or bio error?"
+    },
+    {
+      "item": "Next Level Human (author)",
+      "guest": "Spencer Hicks (mentioned)",
+      "status": "unverified",
+      "note": "Shelf title from Spencer episode; author not confirmed. Do not guess Jade Teta or others without a show/source match."
+    },
+    {
+      "item": "Marty Strong novels (nine published novels)",
+      "guest": "Marty Strong",
+      "status": "unverified titles",
+      "note": "Episode bio says nine published novels (Time Warrior / SEAL Strike series mentioned on his site). Individual novel titles not verified for this ship — list titles before adding."
+    },
+    {
+      "item": "Julie Hoyle additional books beyond the three added",
+      "guest": "Julie Hoyle",
+      "status": "unverified",
+      "note": "Interview sources mention five books total; only three clear titles verified here."
+    },
+    {
+      "item": "Wendy Cole / other guests flagged as writers without clear published titles in notes",
+      "guest": "various",
+      "status": "unchecked exhaustively",
+      "note": "Preferred solid authored set for clear writers over rushing all 98 guests. Remaining guests not exhaustively web-checked for books."
+    }
+  ],
+  "guests_checked_writerish": [
+    "sigmar-berg", "barbara-mcafee", "marty-strong", "jeremy-sherman", "nike-anani",
+    "ravinder-taylor", "swami-nityananda", "zach-beach", "anne-riley", "julie-hoyle",
+    "brent-spirit", "juli-geske-peer", "heather-hutchison", "john-lefebvre", "sean-blackwell",
+    "rebecca-wild", "ryan-reed", "jerry-fu", "spencer-hicks", "wendy-cole"
+  ]
+}

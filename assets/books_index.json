@@ -1,8 +1,89 @@
 {
-  "title": "Books mentioned on Junkyard Love",
-  "count": 37,
-  "before_count": 53,
+  "title": "Books on Junkyard Love — authored and mentioned",
+  "count": 53,
+  "authored_count": 29,
+  "mentioned_count": 24,
+  "schema_note": "bucket=authored|mentioned; author=actual book author; mentions=show appearances",
   "books": [
+    {
+      "title": "108 Savasana Poems",
+      "book_slug": "108-savasana-poems",
+      "author": "Zach Beach",
+      "bucket": "authored",
+      "authored_guest_slug": "zach-beach",
+      "mentions": [],
+      "mentioned_by": null,
+      "guest_slug": "zach-beach",
+      "guest": "Zach Beach",
+      "episode_slug": null,
+      "episode_number": null,
+      "start": null,
+      "start_seconds": null,
+      "browse_title": null,
+      "url": "https://www.zachbeach.com/poetry-books/"
+    },
+    {
+      "title": "All's Well: Where Thou Art Earth and Why",
+      "book_slug": "alls-well-where-thou-art-earth-and-why",
+      "author": "John Lefebvre",
+      "bucket": "authored",
+      "authored_guest_slug": "john-lefebvre",
+      "mentions": [],
+      "mentioned_by": null,
+      "guest_slug": "john-lefebvre",
+      "guest": "John Lefebvre",
+      "episode_slug": null,
+      "episode_number": null,
+      "start": null,
+      "start_seconds": null,
+      "browse_title": null,
+      "url": "https://www.johnlefebvre.com/alls-well/"
+    },
+    {
+      "title": "Am I Bipolar or Waking Up?",
+      "book_slug": "am-i-bipolar-or-waking-up",
+      "author": "Sean Blackwell",
+      "bucket": "authored",
+      "authored_guest_slug": "sean-blackwell",
+      "mentions": [
+        {
+          "mentioned_by": "Sean Blackwell",
+          "guest_slug": "sean-blackwell",
+          "guest": "Sean Blackwell",
+          "episode_slug": "0118-what-if-mania-is-a-message-sean-blackwell",
+          "episode_number": "0118",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "What If Mania Is a Message?"
+        }
+      ],
+      "mentioned_by": "Sean Blackwell",
+      "guest_slug": "sean-blackwell",
+      "guest": "Sean Blackwell",
+      "episode_slug": "0118-what-if-mania-is-a-message-sean-blackwell",
+      "episode_number": "0118",
+      "start": null,
+      "start_seconds": null,
+      "browse_title": "What If Mania Is a Message?",
+      "url": "https://www.bipolarawakenings.com/"
+    },
+    {
+      "title": "An Awakened Life, A Journey of Transformation",
+      "book_slug": "an-awakened-life-a-journey-of-transformation",
+      "author": "Julie Hoyle",
+      "bucket": "authored",
+      "authored_guest_slug": "julie-hoyle",
+      "mentions": [],
+      "mentioned_by": null,
+      "guest_slug": "julie-hoyle",
+      "guest": "Julie Hoyle",
+      "episode_slug": null,
+      "episode_number": null,
+      "start": null,
+      "start_seconds": null,
+      "browse_title": null,
+      "url": "https://www.amazon.com/Awakened-Life-Journey-Transformation-ebook/dp/B08VF47GRG"
+    },
     {
       "title": "Atomic Habits",
       "book_slug": "atomic-habits",
@@ -25,7 +106,10 @@
       "start": null,
       "start_seconds": null,
       "browse_title": "Being Most People Is Bad For Your Health",
-      "guest": "Bradley Roth"
+      "guest": "Bradley Roth",
+      "author": "James Clear",
+      "bucket": "mentioned",
+      "url": "https://jamesclear.com/atomic-habits"
     },
     {
       "title": "Awake: The Yoga of Pure Awareness",
@@ -49,7 +133,31 @@
       "start": "00:18:22",
       "start_seconds": 1102,
       "browse_title": "Be Still, As The Universe Plays Through You",
-      "guest": "Swami Nityananda"
+      "guest": "Swami Nityananda",
+      "author": "Swami Nityananda Giri",
+      "authors": [
+        "Swami Nityananda Giri"
+      ],
+      "bucket": "authored",
+      "url": "https://www.awakeyogameditation.org/store/p/awake-the-yoga-of-pure-awareness",
+      "authored_guest_slug": "swami-nityananda"
+    },
+    {
+      "title": "Be Different",
+      "book_slug": "be-different",
+      "author": "Marty Strong",
+      "bucket": "authored",
+      "authored_guest_slug": "marty-strong",
+      "mentions": [],
+      "mentioned_by": null,
+      "guest_slug": "marty-strong",
+      "guest": "Marty Strong",
+      "episode_slug": null,
+      "episode_number": null,
+      "start": null,
+      "start_seconds": null,
+      "browse_title": null,
+      "url": "https://www.simonandschuster.net/authors/Marty-Strong/245931157"
     },
     {
       "title": "Be Here Now",
@@ -83,7 +191,9 @@
       "start": null,
       "start_seconds": null,
       "browse_title": "Being Boys, Becoming Men, And Bringing Peace",
-      "guest": "Will Andes"
+      "guest": "Will Andes",
+      "author": "Ram Dass",
+      "bucket": "mentioned"
     },
     {
       "title": "Be Nimble",
@@ -107,7 +217,11 @@
       "start": "01:09:46",
       "start_seconds": 4186,
       "browse_title": "Adapt, Move, Be Different",
-      "guest": "Marty Strong"
+      "guest": "Marty Strong",
+      "author": "Marty Strong",
+      "bucket": "authored",
+      "url": "https://www.simonandschuster.net/books/Be-Nimble/Marty-Strong/9781789048407",
+      "authored_guest_slug": "marty-strong"
     },
     {
       "title": "Be Visionary",
@@ -131,7 +245,39 @@
       "start": "01:09:46",
       "start_seconds": 4186,
       "browse_title": "Adapt, Move, Be Different",
-      "guest": "Marty Strong"
+      "guest": "Marty Strong",
+      "author": "Marty Strong",
+      "bucket": "authored",
+      "url": "https://www.simonandschuster.net/books/Be-Visionary/Marty-Strong/9781785354328",
+      "authored_guest_slug": "marty-strong"
+    },
+    {
+      "title": "Bipolar Awakenings",
+      "book_slug": "bipolar-awakenings",
+      "author": "Sean Blackwell",
+      "bucket": "authored",
+      "authored_guest_slug": "sean-blackwell",
+      "mentions": [
+        {
+          "mentioned_by": "Sean Blackwell",
+          "guest_slug": "sean-blackwell",
+          "guest": "Sean Blackwell",
+          "episode_slug": "0118-what-if-mania-is-a-message-sean-blackwell",
+          "episode_number": "0118",
+          "start": null,
+          "start_seconds": null,
+          "browse_title": "What If Mania Is a Message?"
+        }
+      ],
+      "mentioned_by": "Sean Blackwell",
+      "guest_slug": "sean-blackwell",
+      "guest": "Sean Blackwell",
+      "episode_slug": "0118-what-if-mania-is-a-message-sean-blackwell",
+      "episode_number": "0118",
+      "start": null,
+      "start_seconds": null,
+      "browse_title": "What If Mania Is a Message?",
+      "url": "https://www.bipolarawakenings.com/"
     },
     {
       "title": "Building Resilient Family Enterprises",
@@ -155,7 +301,9 @@
       "start": null,
       "start_seconds": null,
       "browse_title": "Speaker, Author, and Family Business Consultant Nike Anani",
-      "guest": "Nike Anani"
+      "guest": "Nike Anani",
+      "author": null,
+      "bucket": "mentioned"
     },
     {
       "title": "Decisive",
@@ -179,7 +327,47 @@
       "start": null,
       "start_seconds": null,
       "browse_title": "Be Free From The Fear Of Conflict",
-      "guest": "Jerry Fu"
+      "guest": "Jerry Fu",
+      "author": "Chip Heath and Dan Heath",
+      "authors": [
+        "Chip Heath",
+        "Dan Heath"
+      ],
+      "bucket": "mentioned"
+    },
+    {
+      "title": "DINA: Nature's Case for Democracy",
+      "book_slug": "dina-natures-case-for-democracy",
+      "author": "Anne Riley",
+      "bucket": "authored",
+      "authored_guest_slug": "anne-riley",
+      "mentions": [],
+      "mentioned_by": null,
+      "guest_slug": "anne-riley",
+      "guest": "Anne Riley",
+      "episode_slug": null,
+      "episode_number": null,
+      "start": null,
+      "start_seconds": null,
+      "browse_title": null,
+      "url": "https://www.thehumanidea.com/"
+    },
+    {
+      "title": "Drinking Roses on Sunday",
+      "book_slug": "drinking-roses-on-sunday",
+      "author": "Zach Beach",
+      "bucket": "authored",
+      "authored_guest_slug": "zach-beach",
+      "mentions": [],
+      "mentioned_by": null,
+      "guest_slug": "zach-beach",
+      "guest": "Zach Beach",
+      "episode_slug": null,
+      "episode_number": null,
+      "start": null,
+      "start_seconds": null,
+      "browse_title": null,
+      "url": "https://www.zachbeach.com/poetry-books/"
     },
     {
       "title": "Educated",
@@ -203,7 +391,9 @@
       "start": null,
       "start_seconds": null,
       "browse_title": "The Last Saturday: Small Town Minds Evolving and An Attitude of Growth",
-      "guest": "Mack T & J Faul"
+      "guest": "Mack T & J Faul",
+      "author": "Tara Westover",
+      "bucket": "mentioned"
     },
     {
       "title": "Far Side of the Mountain",
@@ -227,7 +417,10 @@
       "start": null,
       "start_seconds": null,
       "browse_title": "Mental and Physical Tips To Maintain Health At Home",
-      "guest": "Spencer Hicks"
+      "guest": "Spencer Hicks",
+      "author": "Jean Craighead George",
+      "bucket": "mentioned",
+      "url": "https://www.penguinrandomhouse.com/books/319562/on-the-far-side-of-the-mountain-by-jean-craighead-george/"
     },
     {
       "title": "Five Senses For Success",
@@ -251,7 +444,11 @@
       "start": null,
       "start_seconds": null,
       "browse_title": "Personal Success",
-      "guest": "Juli Geske-Peer"
+      "guest": "Juli Geske-Peer",
+      "author": "Juli Geske-Peer",
+      "bucket": "authored",
+      "url": "https://juligeskepeer.com/5-senses-for-success/",
+      "authored_guest_slug": "juli-geske-peer"
     },
     {
       "title": "Full Voice",
@@ -275,7 +472,32 @@
       "start": null,
       "start_seconds": null,
       "browse_title": "Laughing Like a Hairy Oaf",
-      "guest": "Barbara McAfee"
+      "guest": "Barbara McAfee",
+      "author": "Barbara McAfee",
+      "bucket": "authored",
+      "url": "https://www.penguinrandomhouse.com/books/575193/full-voice-by-barbara-mcafee/",
+      "authored_guest_slug": "barbara-mcafee"
+    },
+    {
+      "title": "Good with Money",
+      "book_slug": "good-with-money",
+      "author": "Kerry Gold with John Lefebvre",
+      "bucket": "authored",
+      "authored_guest_slug": "john-lefebvre",
+      "mentions": [],
+      "mentioned_by": null,
+      "guest_slug": "john-lefebvre",
+      "guest": "John Lefebvre",
+      "episode_slug": null,
+      "episode_number": null,
+      "start": null,
+      "start_seconds": null,
+      "browse_title": null,
+      "authors": [
+        "Kerry Gold",
+        "John Lefebvre"
+      ],
+      "url": "https://www.amazon.com/Good-Money-Kerry-Gold/dp/1773271296"
     },
     {
       "title": "Holding On by Letting Go: A Memoir",
@@ -299,7 +521,45 @@
       "start": "00:02:06",
       "start_seconds": 126,
       "browse_title": "Seeing More Clearly",
-      "guest": "Heather Hutchison"
+      "guest": "Heather Hutchison",
+      "author": "Heather Hutchison",
+      "bucket": "authored",
+      "url": "https://www.amazon.com/Holding-Letting-Go-Heather-Hutchison-ebook/dp/B094674YMR",
+      "authored_guest_slug": "heather-hutchison"
+    },
+    {
+      "title": "Lifetime to Legacy",
+      "book_slug": "lifetime-to-legacy",
+      "author": "Nike Anani",
+      "bucket": "authored",
+      "authored_guest_slug": "nike-anani",
+      "mentions": [],
+      "mentioned_by": null,
+      "guest_slug": "nike-anani",
+      "guest": "Nike Anani",
+      "episode_slug": null,
+      "episode_number": null,
+      "start": null,
+      "start_seconds": null,
+      "browse_title": null,
+      "url": "https://nikeanani.com/"
+    },
+    {
+      "title": "Living An Awakened Life",
+      "book_slug": "living-an-awakened-life",
+      "author": "Julie Hoyle",
+      "bucket": "authored",
+      "authored_guest_slug": "julie-hoyle",
+      "mentions": [],
+      "mentioned_by": null,
+      "guest_slug": "julie-hoyle",
+      "guest": "Julie Hoyle",
+      "episode_slug": null,
+      "episode_number": null,
+      "start": null,
+      "start_seconds": null,
+      "browse_title": null,
+      "url": "https://www.amazon.com/Living-Awakened-Life-Julie-Hoyle-ebook/dp/B08V6HVJBW"
     },
     {
       "title": "Man's Search for Meaning",
@@ -323,7 +583,9 @@
       "start": null,
       "start_seconds": null,
       "browse_title": "Pondering The Beautiful Mysteries Of Being",
-      "guest": "John Lee"
+      "guest": "John Lee",
+      "author": "Viktor E. Frankl",
+      "bucket": "mentioned"
     },
     {
       "title": "Mind Gym",
@@ -347,7 +609,13 @@
       "start": null,
       "start_seconds": null,
       "browse_title": "Finding The Feel",
-      "guest": "Trevor May"
+      "guest": "Trevor May",
+      "author": "Gary Mack with David Casstevens",
+      "authors": [
+        "Gary Mack",
+        "David Casstevens"
+      ],
+      "bucket": "mentioned"
     },
     {
       "title": "Mind Training - Science of Self-Empowerment",
@@ -371,7 +639,32 @@
       "start": "00:00:55",
       "start_seconds": 55,
       "browse_title": "From Chronic Pain To Inner Power",
-      "guest": "Ravinder Taylor"
+      "guest": "Ravinder Taylor",
+      "author": "Ravinder K. Taylor and Eldon Taylor",
+      "authors": [
+        "Ravinder K. Taylor",
+        "Eldon Taylor"
+      ],
+      "bucket": "authored",
+      "url": "https://www.ravindertaylor.com/mind_training/mind_training.html",
+      "authored_guest_slug": "ravinder-taylor"
+    },
+    {
+      "title": "Negotiate With Yourself And Win!",
+      "book_slug": "negotiate-with-yourself-and-win",
+      "author": "Jeremy Sherman",
+      "bucket": "authored",
+      "authored_guest_slug": "jeremy-sherman",
+      "mentions": [],
+      "mentioned_by": null,
+      "guest_slug": "jeremy-sherman",
+      "guest": "Jeremy Sherman",
+      "episode_slug": null,
+      "episode_number": null,
+      "start": null,
+      "start_seconds": null,
+      "browse_title": null,
+      "url": "https://jeremysherman.com/"
     },
     {
       "title": "Neither Ghost Nor Machine",
@@ -395,7 +688,11 @@
       "start": null,
       "start_seconds": null,
       "browse_title": "The Trying Self",
-      "guest": "Jeremy Sherman"
+      "guest": "Jeremy Sherman",
+      "author": "Jeremy Sherman",
+      "bucket": "authored",
+      "url": "https://cup.columbia.edu/book/neither-ghost-nor-machine/9780231173339/",
+      "authored_guest_slug": "jeremy-sherman"
     },
     {
       "title": "Next Level Human",
@@ -419,7 +716,9 @@
       "start": null,
       "start_seconds": null,
       "browse_title": "Mental and Physical Tips To Maintain Health At Home",
-      "guest": "Spencer Hicks"
+      "guest": "Spencer Hicks",
+      "author": null,
+      "bucket": "mentioned"
     },
     {
       "title": "One Journey",
@@ -443,7 +742,28 @@
       "start": "00:47:56",
       "start_seconds": 2876,
       "browse_title": "Adding 'A Conscious Breathing Break' To Your Daily Vocabulary",
-      "guest": "Sigmar Berg"
+      "guest": "Sigmar Berg",
+      "author": "Sigmar Berg",
+      "bucket": "authored",
+      "url": "https://www.amazon.com/One-Journey-Lovetuner-Sigmar-Berg/dp/1960583743",
+      "authored_guest_slug": "sigmar-berg"
+    },
+    {
+      "title": "Pebbles",
+      "book_slug": "pebbles",
+      "author": "Zach Beach",
+      "bucket": "authored",
+      "authored_guest_slug": "zach-beach",
+      "mentions": [],
+      "mentioned_by": null,
+      "guest_slug": "zach-beach",
+      "guest": "Zach Beach",
+      "episode_slug": null,
+      "episode_number": null,
+      "start": null,
+      "start_seconds": null,
+      "browse_title": null,
+      "url": "https://www.zachbeach.com/poetry-books/"
     },
     {
       "title": "Potatoes Not Prozac",
@@ -467,7 +787,10 @@
       "start": null,
       "start_seconds": null,
       "browse_title": "Endorphins, Love, Quantum Medicine, & the Four Bodies Model",
-      "guest": "Dr. Cristine Hull"
+      "guest": "Dr. Cristine Hull",
+      "author": "Kathleen DesMaisons",
+      "bucket": "mentioned",
+      "url": "https://www.simonandschuster.com/books/Potatoes-Not-Prozac-Revised-and-Updated/Kathleen-DesMaisons/9781982106478"
     },
     {
       "title": "Psycho-Cybernetics",
@@ -491,7 +814,9 @@
       "start": null,
       "start_seconds": null,
       "browse_title": "Formulating Perspective From Behind The Lens, Cognitive Change With Intention, and Being A Creative Individual",
-      "guest": "Brandon Cruz"
+      "guest": "Brandon Cruz",
+      "author": "Maxwell Maltz",
+      "bucket": "mentioned"
     },
     {
       "title": "Tattooing the World: Pacific Designs in Print and Skin",
@@ -515,7 +840,14 @@
       "start": null,
       "start_seconds": null,
       "browse_title": "Be Still, As The Universe Plays Through You",
-      "guest": "Swami Nityananda"
+      "guest": "Swami Nityananda",
+      "author": "Juniper Ellis",
+      "authors": [
+        "Juniper Ellis (Swami Nityananda)"
+      ],
+      "bucket": "authored",
+      "url": "https://cup.columbia.edu/book/tattooing-the-world/9780231143691/",
+      "authored_guest_slug": "swami-nityananda"
     },
     {
       "title": "The 10X Rule",
@@ -539,7 +871,9 @@
       "start": null,
       "start_seconds": null,
       "browse_title": "Forward Is The Only Way",
-      "guest": "Ryan Baker"
+      "guest": "Ryan Baker",
+      "author": "Grant Cardone",
+      "bucket": "mentioned"
     },
     {
       "title": "The Body Keeps the Score",
@@ -573,7 +907,9 @@
       "start": null,
       "start_seconds": null,
       "browse_title": "Habit Change and Happiness Actualization",
-      "guest": "Rebecca Wyld"
+      "guest": "Rebecca Wyld",
+      "author": "Bessel van der Kolk",
+      "bucket": "mentioned"
     },
     {
       "title": "The Celestine Prophecy",
@@ -597,7 +933,9 @@
       "start": null,
       "start_seconds": null,
       "browse_title": "Awakening From The Lucid Dream",
-      "guest": "Julie Hoyle"
+      "guest": "Julie Hoyle",
+      "author": "James Redfield",
+      "bucket": "mentioned"
     },
     {
       "title": "The End of Your World",
@@ -621,7 +959,9 @@
       "start": null,
       "start_seconds": null,
       "browse_title": "A Kundalini Awakening Story",
-      "guest": "Brent Spirit"
+      "guest": "Brent Spirit",
+      "author": "Adyashanti",
+      "bucket": "mentioned"
     },
     {
       "title": "The Human Idea",
@@ -645,7 +985,11 @@
       "start": null,
       "start_seconds": null,
       "browse_title": "Always Evolution Occurs",
-      "guest": "Anne Riley"
+      "guest": "Anne Riley",
+      "author": "Anne Riley",
+      "bucket": "authored",
+      "url": "https://anne-riley-author.com/books/the-human-idea-earth-s-newest-ecosystem",
+      "authored_guest_slug": "anne-riley"
     },
     {
       "title": "The Light Eaters",
@@ -669,7 +1013,9 @@
       "start": null,
       "start_seconds": null,
       "browse_title": "Always Evolution Occurs",
-      "guest": "Anne Riley"
+      "guest": "Anne Riley",
+      "author": "Zoe Schlanger",
+      "bucket": "mentioned"
     },
     {
       "title": "The Power of Now",
@@ -693,7 +1039,9 @@
       "start": null,
       "start_seconds": null,
       "browse_title": "Turning The Lights On",
-      "guest": "Rebecca Wild"
+      "guest": "Rebecca Wild",
+      "author": "Eckhart Tolle",
+      "bucket": "mentioned"
     },
     {
       "title": "The Protestant Ethic and the Spirit of Capitalism",
@@ -717,7 +1065,9 @@
       "start": null,
       "start_seconds": null,
       "browse_title": "Break The Hammer",
-      "guest": "Spencer Hicks"
+      "guest": "Spencer Hicks",
+      "author": "Max Weber",
+      "bucket": "mentioned"
     },
     {
       "title": "The Road Less Traveled",
@@ -741,7 +1091,9 @@
       "start": null,
       "start_seconds": null,
       "browse_title": "Turning The Lights On",
-      "guest": "Rebecca Wild"
+      "guest": "Rebecca Wild",
+      "author": "M. Scott Peck",
+      "bucket": "mentioned"
     },
     {
       "title": "The Seven Lessons of Love",
@@ -765,7 +1117,11 @@
       "start": null,
       "start_seconds": null,
       "browse_title": "A Path Of Love",
-      "guest": "Zach Beach"
+      "guest": "Zach Beach",
+      "author": "Zach Beach",
+      "bucket": "authored",
+      "url": "https://www.zachbeach.com/thesevenlessonsoflove/",
+      "authored_guest_slug": "zach-beach"
     },
     {
       "title": "The Spiritual Awakening Guide",
@@ -789,7 +1145,10 @@
       "start": null,
       "start_seconds": null,
       "browse_title": "A Kundalini Awakening Story",
-      "guest": "Brent Spirit"
+      "guest": "Brent Spirit",
+      "author": "Mary Mueller Shutan",
+      "bucket": "mentioned",
+      "url": "https://www.simonandschuster.net/books/The-Spiritual-Awakening-Guide/Mary-Mueller-Shutan/9781844096718"
     },
     {
       "title": "The Symbolic Species",
@@ -813,7 +1172,10 @@
       "start": null,
       "start_seconds": null,
       "browse_title": "The Trying Self",
-      "guest": "Jeremy Sherman"
+      "guest": "Jeremy Sherman",
+      "author": "Terrence W. Deacon",
+      "bucket": "mentioned",
+      "url": "https://wwnorton.com/books/9780393317541"
     },
     {
       "title": "The War of Art",
@@ -837,7 +1199,9 @@
       "start": null,
       "start_seconds": null,
       "browse_title": "Rap music background & inspiration",
-      "guest": "Maxx V. Payne"
+      "guest": "Maxx V. Payne",
+      "author": "Steven Pressfield",
+      "bucket": "mentioned"
     },
     {
       "title": "The Will To Live Project",
@@ -861,7 +1225,11 @@
       "start": "00:09:24",
       "start_seconds": 564,
       "browse_title": "Turning The Lights On",
-      "guest": "Rebecca Wild"
+      "guest": "Rebecca Wild",
+      "author": "Rebecca Wild",
+      "bucket": "authored",
+      "url": "https://www.rebeccawild.org/books",
+      "authored_guest_slug": "rebecca-wild"
     },
     {
       "title": "The Wisdom of Insecurity",
@@ -885,7 +1253,60 @@
       "start": null,
       "start_seconds": null,
       "browse_title": "Break The Hammer",
-      "guest": "Spencer Hicks"
+      "guest": "Spencer Hicks",
+      "author": "Alan Watts",
+      "bucket": "mentioned"
+    },
+    {
+      "title": "Vocal Intelligence",
+      "book_slug": "vocal-intelligence",
+      "author": "Barbara McAfee",
+      "bucket": "authored",
+      "authored_guest_slug": "barbara-mcafee",
+      "mentions": [],
+      "mentioned_by": null,
+      "guest_slug": "barbara-mcafee",
+      "guest": "Barbara McAfee",
+      "episode_slug": null,
+      "episode_number": null,
+      "start": null,
+      "start_seconds": null,
+      "browse_title": null,
+      "url": "https://www.barbaramcafee.com/about.html"
+    },
+    {
+      "title": "Wake Up and Say Yes!",
+      "book_slug": "wake-up-and-say-yes",
+      "author": "Julie Hoyle",
+      "bucket": "authored",
+      "authored_guest_slug": "julie-hoyle",
+      "mentions": [],
+      "mentioned_by": null,
+      "guest_slug": "julie-hoyle",
+      "guest": "Julie Hoyle",
+      "episode_slug": null,
+      "episode_number": null,
+      "start": null,
+      "start_seconds": null,
+      "browse_title": null,
+      "url": "https://www.amazon.com/Practical-Guide-Lucid-Living-Dreaming-ebook/dp/B08SLBQC4W"
+    },
+    {
+      "title": "What's Up With Assholes?",
+      "book_slug": "whats-up-with-assholes",
+      "author": "Jeremy Sherman",
+      "bucket": "authored",
+      "authored_guest_slug": "jeremy-sherman",
+      "mentions": [],
+      "mentioned_by": null,
+      "guest_slug": "jeremy-sherman",
+      "guest": "Jeremy Sherman",
+      "episode_slug": null,
+      "episode_number": null,
+      "start": null,
+      "start_seconds": null,
+      "browse_title": null,
+      "url": "https://jeremysherman.com/"
     },
     {
       "title": "Who's Afraid of AI?",
@@ -909,7 +1330,10 @@
       "start": null,
       "start_seconds": null,
       "browse_title": "Hope, Ambition, Fortitude, Unlimited Beliefs, Putting Yourself On, Creating Hip-Hop, Producing Music and Reaching For Greatness",
-      "guest": "Ryan Reed"
+      "guest": "Ryan Reed",
+      "author": "Thomas Ramge",
+      "bucket": "mentioned",
+      "url": "https://theexperimentpublishing.com/catalogs/spring-2019/whos-afraid-of-ai/"
     }
   ]
 }

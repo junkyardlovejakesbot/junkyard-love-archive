@@ -244,20 +244,32 @@ def person_json_ld(name: str, slug: str, episodes: list[dict]) -> str:
     return f'<script type="application/ld+json">\n{blob}\n</script>'
 
 
-def books_for_guest(slug: str, books: list[dict]) -> list[dict]:
-    out = []
-    seen = set()
+def books_for_guest(slug: str, books: list[dict]) -> dict[str, list[dict]]:
+    """Split authored vs mentioned for a guest. Authored wins over mentioned for same slug."""
+    authored: list[dict] = []
+    mentioned: list[dict] = []
+    seen_a: set[str] = set()
+    seen_m: set[str] = set()
     for b in books:
-        hit = b.get("guest_slug") == slug
-        if not hit:
-            for m in b.get("mentions") or []:
-                if m.get("guest_slug") == slug:
-                    hit = True
-                    break
-        if hit and b.get("book_slug") not in seen:
-            seen.add(b.get("book_slug"))
-            out.append(b)
-    return out
+        bslug = b.get("book_slug")
+        if not bslug:
+            continue
+        if b.get("bucket") == "authored" and b.get("authored_guest_slug") == slug:
+            if bslug not in seen_a:
+                seen_a.add(bslug)
+                authored.append(b)
+            continue
+        hit = False
+        for m in b.get("mentions") or []:
+            if m.get("guest_slug") == slug:
+                hit = True
+                break
+        if not hit and b.get("guest_slug") == slug and b.get("bucket") != "authored":
+            hit = True
+        if hit and bslug not in seen_a and bslug not in seen_m:
+            seen_m.add(bslug)
+            mentioned.append(b)
+    return {"authored": authored, "mentioned": mentioned}
 
 
 def quotes_for_episodes(ep_slugs: set[str], quotes: list[dict]) -> list[dict]:
@@ -275,7 +287,7 @@ def render_guest_page(
     display_name: str,
     bio: str | None,
     episodes: list[dict],
-    books: list[dict],
+    books: dict[str, list[dict]] | list[dict],
     quotes: list[dict],
 ) -> str:
     ep_count = len(episodes)
@@ -360,22 +372,47 @@ def render_guest_page(
                 )
             parts.append("</blockquote>")
 
-    # Books
-    parts.append("<h2>Books on file</h2>")
-    if not books:
-        parts.append('<p class="note">(none in the books index for this guest)</p>')
+    # Books — authored vs mentioned
+    if isinstance(books, list):
+        # backward compat
+        authored_books = [b for b in books if b.get("bucket") == "authored"]
+        mentioned_books = [b for b in books if b.get("bucket") != "authored"]
     else:
+        authored_books = books.get("authored") or []
+        mentioned_books = books.get("mentioned") or []
+    if authored_books:
+        parts.append("<h2>Authored books</h2>")
         parts.append('<ul class="list book-list">')
-        for b in books:
+        for b in authored_books:
             bslug = b.get("book_slug")
             title = b.get("title") or bslug
+            author = b.get("author") or ""
+            extra = f' <span class="note">({text_esc(author)})</span>' if author else ""
             if bslug:
                 parts.append(
-                    f'<li class="book-item"><a href="books/{esc(bslug)}/index.html"><strong>{text_esc(title)}</strong></a></li>'
+                    f'<li class="book-item"><a href="books/{esc(bslug)}/index.html"><strong>{text_esc(title)}</strong></a>{extra}</li>'
                 )
             else:
-                parts.append(f"<li>{esc(title)}</li>")
+                parts.append(f"<li>{esc(title)}{extra}</li>")
         parts.append("</ul>")
+    if mentioned_books:
+        parts.append("<h2>Books mentioned</h2>")
+        parts.append('<ul class="list book-list">')
+        for b in mentioned_books:
+            bslug = b.get("book_slug")
+            title = b.get("title") or bslug
+            author = b.get("author") or ""
+            extra = f' <span class="note">— {text_esc(author)}</span>' if author else ""
+            if bslug:
+                parts.append(
+                    f'<li class="book-item"><a href="books/{esc(bslug)}/index.html"><strong>{text_esc(title)}</strong></a>{extra}</li>'
+                )
+            else:
+                parts.append(f"<li>{esc(title)}{extra}</li>")
+        parts.append("</ul>")
+    if not authored_books and not mentioned_books:
+        parts.append("<h2>Books on file</h2>")
+        parts.append('<p class="note">(none in the books index for this guest)</p>')
 
     # YouTube / archive links from episodes
     parts.append("<h2>Watch / archive</h2>")
