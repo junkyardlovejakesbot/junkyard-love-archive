@@ -1,7 +1,7 @@
 {
   "title": "Books on Junkyard Love — authored and mentioned",
-  "count": 53,
-  "authored_count": 29,
+  "count": 64,
+  "authored_count": 40,
   "mentioned_count": 24,
   "schema_note": "bucket=authored|mentioned; author=actual book author; mentions=show appearances",
   "books": [
@@ -21,6 +21,90 @@
       "start_seconds": null,
       "browse_title": null,
       "url": "https://www.zachbeach.com/poetry-books/"
+    },
+    {
+      "title": "A Time for Glory",
+      "book_slug": "a-time-for-glory",
+      "author": "M. L. Strong (Marty Strong)",
+      "bucket": "authored",
+      "authored_guest_slug": "marty-strong",
+      "mentions": [],
+      "mentioned_by": null,
+      "guest_slug": "marty-strong",
+      "guest": "Marty Strong",
+      "episode_slug": null,
+      "episode_number": null,
+      "start": null,
+      "start_seconds": null,
+      "browse_title": null,
+      "authors": [
+        "M. L. Strong",
+        "Marty Strong"
+      ],
+      "url": "https://www.mlstrongauthor.com/a-time-for-glory"
+    },
+    {
+      "title": "A Time for Honor",
+      "book_slug": "a-time-for-honor",
+      "author": "M. L. Strong (Marty Strong)",
+      "bucket": "authored",
+      "authored_guest_slug": "marty-strong",
+      "mentions": [],
+      "mentioned_by": null,
+      "guest_slug": "marty-strong",
+      "guest": "Marty Strong",
+      "episode_slug": null,
+      "episode_number": null,
+      "start": null,
+      "start_seconds": null,
+      "browse_title": null,
+      "authors": [
+        "M. L. Strong",
+        "Marty Strong"
+      ],
+      "url": "https://www.mlstrongauthor.com/books"
+    },
+    {
+      "title": "A Time for Rebellion",
+      "book_slug": "a-time-for-rebellion",
+      "author": "M. L. Strong (Marty Strong)",
+      "bucket": "authored",
+      "authored_guest_slug": "marty-strong",
+      "mentions": [],
+      "mentioned_by": null,
+      "guest_slug": "marty-strong",
+      "guest": "Marty Strong",
+      "episode_slug": null,
+      "episode_number": null,
+      "start": null,
+      "start_seconds": null,
+      "browse_title": null,
+      "authors": [
+        "M. L. Strong",
+        "Marty Strong"
+      ],
+      "url": "https://www.amazon.com/Time-Rebellion-Warrior-Sagas-Book-ebook/dp/B088FS7Q35"
+    },
+    {
+      "title": "A Time for Truth",
+      "book_slug": "a-time-for-truth",
+      "author": "M. L. Strong (Marty Strong)",
+      "bucket": "authored",
+      "authored_guest_slug": "marty-strong",
+      "mentions": [],
+      "mentioned_by": null,
+      "guest_slug": "marty-strong",
+      "guest": "Marty Strong",
+      "episode_slug": null,
+      "episode_number": null,
+      "start": null,
+      "start_seconds": null,
+      "browse_title": null,
+      "authors": [
+        "M. L. Strong",
+        "Marty Strong"
+      ],
+      "url": "https://www.mlstrongauthor.com/books"
     },
     {
       "title": "All's Well: Where Thou Art Earth and Why",
@@ -306,6 +390,27 @@
       "bucket": "mentioned"
     },
     {
+      "title": "Death Before Dawn",
+      "book_slug": "death-before-dawn",
+      "author": "M. L. Strong (Marty Strong)",
+      "bucket": "authored",
+      "authored_guest_slug": "marty-strong",
+      "mentions": [],
+      "mentioned_by": null,
+      "guest_slug": "marty-strong",
+      "guest": "Marty Strong",
+      "episode_slug": null,
+      "episode_number": null,
+      "start": null,
+      "start_seconds": null,
+      "browse_title": null,
+      "authors": [
+        "M. L. Strong",
+        "Marty Strong"
+      ],
+      "url": "https://www.amazon.com/Death-Before-Dawn-SEAL-STRIKE-ebook/dp/B07PCR6TG6"
+    },
+    {
       "title": "Decisive",
       "book_slug": "decisive",
       "mentioned_by": "Jerry Fu",
@@ -528,6 +633,48 @@
       "authored_guest_slug": "heather-hutchison"
     },
     {
+      "title": "In the Shadow of Evil",
+      "book_slug": "in-the-shadow-of-evil",
+      "author": "M. L. Strong (Marty Strong)",
+      "bucket": "authored",
+      "authored_guest_slug": "marty-strong",
+      "mentions": [],
+      "mentioned_by": null,
+      "guest_slug": "marty-strong",
+      "guest": "Marty Strong",
+      "episode_slug": null,
+      "episode_number": null,
+      "start": null,
+      "start_seconds": null,
+      "browse_title": null,
+      "authors": [
+        "M. L. Strong",
+        "Marty Strong"
+      ],
+      "url": "https://www.amazon.com/Shadow-Evil-SEAL-Strike-Book-ebook/dp/B08ZJGCWWB"
+    },
+    {
+      "title": "Kandahar Moon",
+      "book_slug": "kandahar-moon",
+      "author": "M. L. Strong (Marty Strong)",
+      "bucket": "authored",
+      "authored_guest_slug": "marty-strong",
+      "mentions": [],
+      "mentioned_by": null,
+      "guest_slug": "marty-strong",
+      "guest": "Marty Strong",
+      "episode_slug": null,
+      "episode_number": null,
+      "start": null,
+      "start_seconds": null,
+      "browse_title": null,
+      "authors": [
+        "M. L. Strong",
+        "Marty Strong"
+      ],
+      "url": "https://www.amazon.com/Kandahar-Moon-M-L-Strong-ebook/dp/B0B1C88XNJ"
+    },
+    {
       "title": "Lifetime to Legacy",
       "book_slug": "lifetime-to-legacy",
       "author": "Nike Anani",
@@ -542,7 +689,7 @@
       "start": null,
       "start_seconds": null,
       "browse_title": null,
-      "url": "https://nikeanani.com/"
+      "url": "https://www.amazon.com/Lifetime-Legacy-Vision-Multigenerational-Businesses/dp/1922357367"
     },
     {
       "title": "Living An Awakened Life",
@@ -586,6 +733,23 @@
       "guest": "John Lee",
       "author": "Viktor E. Frankl",
       "bucket": "mentioned"
+    },
+    {
+      "title": "Meeting the Shadow, Finding Your Self",
+      "book_slug": "meeting-the-shadow-finding-your-self",
+      "author": "Julie Hoyle",
+      "bucket": "authored",
+      "authored_guest_slug": "julie-hoyle",
+      "mentions": [],
+      "mentioned_by": null,
+      "guest_slug": "julie-hoyle",
+      "guest": "Julie Hoyle",
+      "episode_slug": null,
+      "episode_number": null,
+      "start": null,
+      "start_seconds": null,
+      "browse_title": null,
+      "url": "https://www.amazon.com/Meeting-Shadow-Finding-Your-Embracing/dp/B09XZC7777"
     },
     {
       "title": "Mind Gym",
@@ -717,8 +881,9 @@
       "start_seconds": null,
       "browse_title": "Mental and Physical Tips To Maintain Health At Home",
       "guest": "Spencer Hicks",
-      "author": null,
-      "bucket": "mentioned"
+      "author": "Jade Teta",
+      "bucket": "mentioned",
+      "url": "https://www.jadeteta.com/books"
     },
     {
       "title": "One Journey",
@@ -910,6 +1075,27 @@
       "guest": "Rebecca Wyld",
       "author": "Bessel van der Kolk",
       "bucket": "mentioned"
+    },
+    {
+      "title": "The Brotherhood",
+      "book_slug": "the-brotherhood",
+      "author": "M. L. Strong (Marty Strong)",
+      "bucket": "authored",
+      "authored_guest_slug": "marty-strong",
+      "mentions": [],
+      "mentioned_by": null,
+      "guest_slug": "marty-strong",
+      "guest": "Marty Strong",
+      "episode_slug": null,
+      "episode_number": null,
+      "start": null,
+      "start_seconds": null,
+      "browse_title": null,
+      "authors": [
+        "M. L. Strong",
+        "Marty Strong"
+      ],
+      "url": "https://www.amazon.com/Brotherhood-SEAL-Strike-Book-ebook/dp/B07ZHR9VL1"
     },
     {
       "title": "The Celestine Prophecy",
@@ -1124,6 +1310,26 @@
       "authored_guest_slug": "zach-beach"
     },
     {
+      "title": "The Shadow Work Diaries",
+      "book_slug": "the-shadow-work-diaries",
+      "author": "Julie Hoyle",
+      "bucket": "authored",
+      "authored_guest_slug": "julie-hoyle",
+      "mentions": [],
+      "mentioned_by": null,
+      "guest_slug": "julie-hoyle",
+      "guest": "Julie Hoyle",
+      "episode_slug": null,
+      "episode_number": null,
+      "start": null,
+      "start_seconds": null,
+      "browse_title": null,
+      "authors": [
+        "Julie Hoyle"
+      ],
+      "url": "https://www.amazon.com/Shadow-Work-Diaries-Darkness-Treasure-ebook/dp/B09V6JYGRT"
+    },
+    {
       "title": "The Spiritual Awakening Guide",
       "book_slug": "the-spiritual-awakening-guide",
       "mentioned_by": "Brent Spirit",
@@ -1202,6 +1408,27 @@
       "guest": "Maxx V. Payne",
       "author": "Steven Pressfield",
       "bucket": "mentioned"
+    },
+    {
+      "title": "The Warrior Code",
+      "book_slug": "the-warrior-code",
+      "author": "M. L. Strong (Marty Strong)",
+      "bucket": "authored",
+      "authored_guest_slug": "marty-strong",
+      "mentions": [],
+      "mentioned_by": null,
+      "guest_slug": "marty-strong",
+      "guest": "Marty Strong",
+      "episode_slug": null,
+      "episode_number": null,
+      "start": null,
+      "start_seconds": null,
+      "browse_title": null,
+      "authors": [
+        "M. L. Strong",
+        "Marty Strong"
+      ],
+      "url": "https://www.amazon.com/Warrior-Code-SEAL-Strike-Book/dp/B09JY24XXG"
     },
     {
       "title": "The Will To Live Project",

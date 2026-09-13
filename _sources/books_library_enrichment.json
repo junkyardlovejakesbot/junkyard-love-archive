@@ -10,7 +10,9 @@
     },
     "awake-the-yoga-of-pure-awareness": {
       "author": "Swami Nityananda Giri",
-      "authors": ["Swami Nityananda Giri"],
+      "authors": [
+        "Swami Nityananda Giri"
+      ],
       "bucket": "authored",
       "authored_guest_slug": "swami-nityananda",
       "url": "https://www.awakeyogameditation.org/store/p/awake-the-yoga-of-pure-awareness"
@@ -34,11 +36,15 @@
     "building-resilient-family-enterprises": {
       "author": null,
       "bucket": "mentioned",
-      "needs_jacob": "Episode bio names Nike Anani as author of this title, but public listings show her book as Lifetime to Legacy. Unverified whether this is a real/alternate title or a bio error."
+      "url": null,
+      "needs_jacob": "RESOLVED for published catalog: Nike’s bookstore title is Lifetime to Legacy (authored row). BRFE appears in older podcast bios (incl. episode) but no retail/publisher listing under that exact title found — keep as mentioned alias with no URL, or Jacob can drop it."
     },
     "decisive": {
       "author": "Chip Heath and Dan Heath",
-      "authors": ["Chip Heath", "Dan Heath"],
+      "authors": [
+        "Chip Heath",
+        "Dan Heath"
+      ],
       "bucket": "mentioned"
     },
     "educated": {
@@ -74,12 +80,18 @@
     },
     "mind-gym": {
       "author": "Gary Mack with David Casstevens",
-      "authors": ["Gary Mack", "David Casstevens"],
+      "authors": [
+        "Gary Mack",
+        "David Casstevens"
+      ],
       "bucket": "mentioned"
     },
     "mind-training-science-of-self-empowerment": {
       "author": "Ravinder K. Taylor and Eldon Taylor",
-      "authors": ["Ravinder K. Taylor", "Eldon Taylor"],
+      "authors": [
+        "Ravinder K. Taylor",
+        "Eldon Taylor"
+      ],
       "bucket": "authored",
       "authored_guest_slug": "ravinder-taylor",
       "url": "https://www.ravindertaylor.com/mind_training/mind_training.html"
@@ -91,9 +103,10 @@
       "url": "https://cup.columbia.edu/book/neither-ghost-nor-machine/9780231173339/"
     },
     "next-level-human": {
-      "author": null,
+      "author": "Jade Teta",
       "bucket": "mentioned",
-      "needs_jacob": "Title appears on shelf from Spencer Hicks episode; real author not confirmed (possible Jade Teta-related or another work). Do not invent."
+      "url": "https://www.jadeteta.com/books",
+      "needs_jacob": "Spencer episode shelf title is “Next Level Human.” Jade Teta founded the Next Level Human brand/podcast; no single hardcover verified under that exact primary title (related titles: Human 365, Next-Level Metabolism, Next Level Tribe). Author set to Jade Teta with books index link; confirm which title was meant on-mic."
     },
     "one-journey": {
       "author": "Sigmar Berg",
@@ -112,7 +125,9 @@
     },
     "tattooing-the-world-pacific-designs-in-print-and-skin": {
       "author": "Juniper Ellis",
-      "authors": ["Juniper Ellis (Swami Nityananda)"],
+      "authors": [
+        "Juniper Ellis (Swami Nityananda)"
+      ],
       "bucket": "authored",
       "authored_guest_slug": "swami-nityananda",
       "url": "https://cup.columbia.edu/book/tattooing-the-world/9780231143691/"
@@ -238,9 +253,9 @@
       "author": "Nike Anani",
       "bucket": "authored",
       "authored_guest_slug": "nike-anani",
-      "url": "https://nikeanani.com/",
+      "url": "https://www.amazon.com/Lifetime-Legacy-Vision-Multigenerational-Businesses/dp/1922357367",
       "mentions": [],
-      "source_note": "Verified published book by Nike Anani (Hambone Publishing). Episode bio instead named Building Resilient Family Enterprises — see NEEDS JACOB."
+      "source_note": "Verified published book by Nike Anani (Hambone Publishing / Amazon). Episode bio used “Building Resilient Family Enterprises” — likely pre-pub or bio alias; BRFE remains mentioned without retail URL."
     },
     {
       "title": "108 Savasana Poems",
@@ -316,7 +331,10 @@
       "title": "Good with Money",
       "book_slug": "good-with-money",
       "author": "Kerry Gold with John Lefebvre",
-      "authors": ["Kerry Gold", "John Lefebvre"],
+      "authors": [
+        "Kerry Gold",
+        "John Lefebvre"
+      ],
       "bucket": "authored",
       "authored_guest_slug": "john-lefebvre",
       "url": "https://www.amazon.com/Good-Money-Kerry-Gold/dp/1773271296",
@@ -374,44 +392,189 @@
       "url": "https://www.thehumanidea.com/",
       "mentions": [],
       "source_note": "Confirmed on Anne Riley author sites as her Socratic novel articulating Ideasphere theory alongside The Human Idea."
+    },
+    {
+      "title": "Meeting the Shadow, Finding Your Self",
+      "book_slug": "meeting-the-shadow-finding-your-self",
+      "author": "Julie Hoyle",
+      "bucket": "authored",
+      "authored_guest_slug": "julie-hoyle",
+      "url": "https://www.amazon.com/Meeting-Shadow-Finding-Your-Embracing/dp/B09XZC7777",
+      "mentions": [],
+      "source_note": "Verified on Amazon (Julie Hoyle). Completes five-title set named in her interviews."
+    },
+    {
+      "title": "The Shadow Work Diaries",
+      "book_slug": "the-shadow-work-diaries",
+      "author": "Julie Hoyle",
+      "authors": [
+        "Julie Hoyle"
+      ],
+      "bucket": "authored",
+      "authored_guest_slug": "julie-hoyle",
+      "url": "https://www.amazon.com/Shadow-Work-Diaries-Darkness-Treasure-ebook/dp/B09V6JYGRT",
+      "mentions": [],
+      "source_note": "Verified on Amazon; collaborative with nine contributors, Julie Hoyle as primary/listed author."
+    },
+    {
+      "title": "Death Before Dawn",
+      "book_slug": "death-before-dawn",
+      "author": "M. L. Strong (Marty Strong)",
+      "authors": [
+        "M. L. Strong",
+        "Marty Strong"
+      ],
+      "bucket": "authored",
+      "authored_guest_slug": "marty-strong",
+      "url": "https://www.amazon.com/Death-Before-Dawn-SEAL-STRIKE-ebook/dp/B07PCR6TG6",
+      "mentions": [],
+      "source_note": "SEAL Strike Book 1; Amazon + mlstrongauthor.com. Verified via mlstrongauthor.com and/or Amazon as M. L. Strong (Marty Strong)."
+    },
+    {
+      "title": "The Warrior Code",
+      "book_slug": "the-warrior-code",
+      "author": "M. L. Strong (Marty Strong)",
+      "authors": [
+        "M. L. Strong",
+        "Marty Strong"
+      ],
+      "bucket": "authored",
+      "authored_guest_slug": "marty-strong",
+      "url": "https://www.amazon.com/Warrior-Code-SEAL-Strike-Book/dp/B09JY24XXG",
+      "mentions": [],
+      "source_note": "SEAL Strike Book 2. Verified via mlstrongauthor.com and/or Amazon as M. L. Strong (Marty Strong)."
+    },
+    {
+      "title": "The Brotherhood",
+      "book_slug": "the-brotherhood",
+      "author": "M. L. Strong (Marty Strong)",
+      "authors": [
+        "M. L. Strong",
+        "Marty Strong"
+      ],
+      "bucket": "authored",
+      "authored_guest_slug": "marty-strong",
+      "url": "https://www.amazon.com/Brotherhood-SEAL-Strike-Book-ebook/dp/B07ZHR9VL1",
+      "mentions": [],
+      "source_note": "SEAL Strike Book 3. Verified via mlstrongauthor.com and/or Amazon as M. L. Strong (Marty Strong)."
+    },
+    {
+      "title": "In the Shadow of Evil",
+      "book_slug": "in-the-shadow-of-evil",
+      "author": "M. L. Strong (Marty Strong)",
+      "authors": [
+        "M. L. Strong",
+        "Marty Strong"
+      ],
+      "bucket": "authored",
+      "authored_guest_slug": "marty-strong",
+      "url": "https://www.amazon.com/Shadow-Evil-SEAL-Strike-Book-ebook/dp/B08ZJGCWWB",
+      "mentions": [],
+      "source_note": "SEAL Strike Book 4. Verified via mlstrongauthor.com and/or Amazon as M. L. Strong (Marty Strong)."
+    },
+    {
+      "title": "Kandahar Moon",
+      "book_slug": "kandahar-moon",
+      "author": "M. L. Strong (Marty Strong)",
+      "authors": [
+        "M. L. Strong",
+        "Marty Strong"
+      ],
+      "bucket": "authored",
+      "authored_guest_slug": "marty-strong",
+      "url": "https://www.amazon.com/Kandahar-Moon-M-L-Strong-ebook/dp/B0B1C88XNJ",
+      "mentions": [],
+      "source_note": "SEAL Strike Book 5. Verified via mlstrongauthor.com and/or Amazon as M. L. Strong (Marty Strong)."
+    },
+    {
+      "title": "A Time for Glory",
+      "book_slug": "a-time-for-glory",
+      "author": "M. L. Strong (Marty Strong)",
+      "authors": [
+        "M. L. Strong",
+        "Marty Strong"
+      ],
+      "bucket": "authored",
+      "authored_guest_slug": "marty-strong",
+      "url": "https://www.mlstrongauthor.com/a-time-for-glory",
+      "mentions": [],
+      "source_note": "Time Warrior Sagas Book 1; official author site. Verified via mlstrongauthor.com and/or Amazon as M. L. Strong (Marty Strong)."
+    },
+    {
+      "title": "A Time for Honor",
+      "book_slug": "a-time-for-honor",
+      "author": "M. L. Strong (Marty Strong)",
+      "authors": [
+        "M. L. Strong",
+        "Marty Strong"
+      ],
+      "bucket": "authored",
+      "authored_guest_slug": "marty-strong",
+      "url": "https://www.mlstrongauthor.com/books",
+      "mentions": [],
+      "source_note": "Time Warrior Sagas Book 2; listed on official author books page. Verified via mlstrongauthor.com and/or Amazon as M. L. Strong (Marty Strong)."
+    },
+    {
+      "title": "A Time for Truth",
+      "book_slug": "a-time-for-truth",
+      "author": "M. L. Strong (Marty Strong)",
+      "authors": [
+        "M. L. Strong",
+        "Marty Strong"
+      ],
+      "bucket": "authored",
+      "authored_guest_slug": "marty-strong",
+      "url": "https://www.mlstrongauthor.com/books",
+      "mentions": [],
+      "source_note": "Time Warrior Sagas Book 3; listed on official author books page. Verified via mlstrongauthor.com and/or Amazon as M. L. Strong (Marty Strong)."
+    },
+    {
+      "title": "A Time for Rebellion",
+      "book_slug": "a-time-for-rebellion",
+      "author": "M. L. Strong (Marty Strong)",
+      "authors": [
+        "M. L. Strong",
+        "Marty Strong"
+      ],
+      "bucket": "authored",
+      "authored_guest_slug": "marty-strong",
+      "url": "https://www.amazon.com/Time-Rebellion-Warrior-Sagas-Book-ebook/dp/B088FS7Q35",
+      "mentions": [],
+      "source_note": "Time Warrior Sagas Book 4; Amazon. Verified via mlstrongauthor.com and/or Amazon as M. L. Strong (Marty Strong)."
     }
   ],
   "needs_jacob": [
     {
-      "item": "Building Resilient Family Enterprises",
-      "guest": "Nike Anani",
-      "status": "unverified",
-      "note": "Named as her book in published episode bio and other podcast bios, but bookstore/publisher listings show Lifetime to Legacy. Is BRFE a real title, working title, or bio error?"
+      "item": "Wendy Cole books",
+      "guest": "Wendy Cole",
+      "note": "Her site says she is writing two books. No published title+URL found — not added. Different Goodreads Wendy Cole authors exist; do not merge."
     },
     {
-      "item": "Next Level Human (author)",
-      "guest": "Spencer Hicks (mentioned)",
-      "status": "unverified",
-      "note": "Shelf title from Spencer episode; author not confirmed. Do not guess Jade Teta or others without a show/source match."
-    },
-    {
-      "item": "Marty Strong novels (nine published novels)",
+      "item": "Marty Strong Seventh Sage",
       "guest": "Marty Strong",
-      "status": "unverified titles",
-      "note": "Episode bio says nine published novels (Time Warrior / SEAL Strike series mentioned on his site). Individual novel titles not verified for this ship — list titles before adding."
-    },
-    {
-      "item": "Julie Hoyle additional books beyond the three added",
-      "guest": "Julie Hoyle",
-      "status": "unverified",
-      "note": "Interview sources mention five books total; only three clear titles verified here."
-    },
-    {
-      "item": "Wendy Cole / other guests flagged as writers without clear published titles in notes",
-      "guest": "various",
-      "status": "unchecked exhaustively",
-      "note": "Preferred solid authored set for clear writers over rushing all 98 guests. Remaining guests not exhaustively web-checked for books."
+      "note": "Added 9 verified novels (5 SEAL Strike + 4 Time Warrior). Seventh Sage not added — not confirmed on official books page this pass."
     }
   ],
   "guests_checked_writerish": [
-    "sigmar-berg", "barbara-mcafee", "marty-strong", "jeremy-sherman", "nike-anani",
-    "ravinder-taylor", "swami-nityananda", "zach-beach", "anne-riley", "julie-hoyle",
-    "brent-spirit", "juli-geske-peer", "heather-hutchison", "john-lefebvre", "sean-blackwell",
-    "rebecca-wild", "ryan-reed", "jerry-fu", "spencer-hicks", "wendy-cole"
+    "sigmar-berg",
+    "barbara-mcafee",
+    "marty-strong",
+    "jeremy-sherman",
+    "nike-anani",
+    "ravinder-taylor",
+    "swami-nityananda",
+    "zach-beach",
+    "anne-riley",
+    "julie-hoyle",
+    "brent-spirit",
+    "juli-geske-peer",
+    "heather-hutchison",
+    "john-lefebvre",
+    "sean-blackwell",
+    "rebecca-wild",
+    "ryan-reed",
+    "jerry-fu",
+    "spencer-hicks",
+    "wendy-cole"
   ]
 }
