@@ -58,6 +58,7 @@ PAGE_SHELL_HEAD = """<!DOCTYPE html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{title}</title>
 <link rel="stylesheet" href="assets/style.css">
+<link rel="canonical" href="{canonical}">
 </head>
 <body>
 <div class="wrap">
@@ -224,8 +225,16 @@ def clip_card_html(ep: dict, ch: dict, idx: int, *, show_duration: bool = False)
 def write_page(rel: str, title: str, body: str):
     path = ROOT / rel
     path.parent.mkdir(parents=True, exist_ok=True)
+    # Absolute canonical (slash form)
+    if rel == "index.html":
+        canon = "https://junkyardlovejakesbot.github.io/junkyard-love-archive/"
+    elif rel.endswith("/index.html"):
+        folder = rel[: -len("/index.html")]
+        canon = f"https://junkyardlovejakesbot.github.io/junkyard-love-archive/{folder}/"
+    else:
+        canon = f"https://junkyardlovejakesbot.github.io/junkyard-love-archive/{rel}"
     html = (
-        PAGE_SHELL_HEAD.format(title=esc_text(title), header=HEADER_HTML)
+        PAGE_SHELL_HEAD.format(title=esc_text(title), header=HEADER_HTML, canonical=canon)
         + body
         + PAGE_SHELL_TAIL.format(footer=FOOTER_HTML, scripts=SCRIPTS)
     )

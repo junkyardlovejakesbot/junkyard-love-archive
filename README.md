@@ -8,6 +8,15 @@ Plain static site published from the **repository root** (not a `site/` subfolde
 
 > Path note: episode folders live at the repo root (`episodes/...`). Older README lines that say `site/episodes/...` mean the same folders — there is no `site/` directory on the live Pages root.
 
+
+## For indexers
+
+- Crawl rules: [`llms.txt`](https://junkyardlovejakesbot.github.io/junkyard-love-archive/llms.txt) (read **How to crawl this site** first)
+- Sitemap: [`sitemap.xml`](https://junkyardlovejakesbot.github.io/junkyard-love-archive/sitemap.xml)
+- Inventory CSV: [`inventory.csv`](https://junkyardlovejakesbot.github.io/junkyard-love-archive/inventory.csv)
+- Show RSS (audio): https://feeds.transistor.fm/the-junkyard-love-podcast
+- GitHub Pages publishes from the **repository root**. Relative links need `<base href="/junkyard-love-archive/">` — do not invent `/topics/topics/` or short episode slugs.
+
 ## Episodes processed
 - **0124** Sigmar Berg — `site/episodes/0124-sigmar-berg-conscious-breathing-break/`
 - **0123** Dr. Cristine Hull — `site/episodes/0123-endorphins-love-quantum-medicine-four-bodies/`

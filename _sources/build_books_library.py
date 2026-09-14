@@ -90,6 +90,7 @@ def seo_head(title: str, description: str, path: str) -> str:
 <meta property="og:type" content="website">
 <meta property="og:url" content="{esc(url)}">
 <link rel="stylesheet" href="assets/style.css">
+<link rel="canonical" href="{esc(url)}">
 </head>
 """
 

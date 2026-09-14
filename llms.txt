@@ -4,6 +4,28 @@
 
 Site: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 
+## How to crawl this site
+
+- Public origin: https://junkyardlovejakesbot.github.io/junkyard-love-archive/ — all relative HTML hrefs resolve from `<base href="/junkyard-love-archive/">`, **not** from the current folder.
+- Do **not** request `/topics/topics/...` or `/episodes/episodes/...` (those 404s mean the crawler ignored `<base>`).
+- Do **not** invent slugs. Use [`sitemap.xml`](https://junkyardlovejakesbot.github.io/junkyard-love-archive/sitemap.xml) or [`assets/episodes_index.json`](https://junkyardlovejakesbot.github.io/junkyard-love-archive/assets/episodes_index.json).
+- Early episodes use short slugs (example: `/episodes/0003-spencer-hicks/`). Later episodes use long title slugs (example: `/episodes/0124-sigmar-berg-conscious-breathing-break/`). `/episodes/0124-sigmar-berg/` is **not** a page.
+- Removed catalog numbers **0001, 0014, 0016, 0029** are intentional placeholder pages, not missing episodes.
+- Full transcripts live in each episode folder as `episode.md` and in the episode HTML. Deep links use `#t-HH-MM-SS`.
+- Published quotes only: [`assets/quotes_clean.json`](https://junkyardlovejakesbot.github.io/junkyard-love-archive/assets/quotes_clean.json) where `source=published`. Ignore Archive-picks / mined lines.
+- Clip `short_summary` / `long_summary` are intentionally empty.
+- Section indexes: `topics/`, `guests/`, `episodes/`, `books/`, `moods/`, `listen/`, `search/`, `clips/`, `radio/`, `start-here/`, `where-to-begin/`
+- Machine files (absolute):
+  - https://junkyardlovejakesbot.github.io/junkyard-love-archive/sitemap.xml
+  - https://junkyardlovejakesbot.github.io/junkyard-love-archive/inventory.csv
+  - https://junkyardlovejakesbot.github.io/junkyard-love-archive/assets/episodes_index.json
+  - https://junkyardlovejakesbot.github.io/junkyard-love-archive/assets/chapter_index.json
+  - https://junkyardlovejakesbot.github.io/junkyard-love-archive/assets/clips_index.json
+  - https://junkyardlovejakesbot.github.io/junkyard-love-archive/assets/quotes_clean.json
+  - https://junkyardlovejakesbot.github.io/junkyard-love-archive/assets/books_index.json
+- Official listen destinations: YouTube channel (https://www.youtube.com/@TheJunkyardLovePodcast), Spotify show (https://open.spotify.com/show/45J7CBdM8j29doqyBp2bFs), Apple show (https://podcasts.apple.com/us/podcast/the-junkyard-love-podcast/id1489118788), RSS [https://feeds.transistor.fm/the-junkyard-love-podcast](https://feeds.transistor.fm/the-junkyard-love-podcast)
+- This archive is the **canonical public website** for the show. Linktree is not the catalog.
+
 ## For bots / indexers (what this archive actually has)
 
 This site is a conversation archive for The Junkyard Love Podcast (host: Jacob / JacobFromTheInternet).

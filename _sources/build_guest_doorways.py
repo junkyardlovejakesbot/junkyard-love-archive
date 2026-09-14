@@ -116,6 +116,7 @@ HEADER = """<!DOCTYPE html>
 <meta property="og:type" content="website">
 <meta property="og:url" content="{og_url}">
 <link rel="stylesheet" href="assets/style.css">
+<link rel="canonical" href="{og_url}">
 {json_ld}
 </head>
 <body>

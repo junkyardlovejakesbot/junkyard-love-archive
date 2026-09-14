@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Layer B+C: JSON-LD, sitemap, llms.txt, YouTube/Opus reports, SHIP_DISCOVER.
+"""Pass-2 note: after regenerating schema/sitemap, re-run `_sources/pass2_crawler_survivability.py`
+for rel=canonical tags and full lastmod coverage if this builder's sitemap path differs.
+
+Layer B+C: JSON-LD, sitemap, llms.txt, YouTube/Opus reports, SHIP_DISCOVER.
 
 Uses only catalog fields. Does not post to YouTube. Does not invent IDs/bios.
 """
@@ -131,6 +134,18 @@ def update_homepage_jsonld() -> bool:
         "name": SHOW_NAME,
         "description": SHOW_DESC,
         "url": BASE_SITE + "/",
+        "webFeed": "https://feeds.transistor.fm/the-junkyard-love-podcast",
+        "sameAs": [
+            "https://www.youtube.com/@TheJunkyardLovePodcast",
+            "https://open.spotify.com/show/45J7CBdM8j29doqyBp2bFs",
+            "https://podcasts.apple.com/us/podcast/the-junkyard-love-podcast/id1489118788",
+            "https://www.instagram.com/jacobfromtheinternet/",
+        ],
+        "author": {
+            "@type": "Person",
+            "name": "Jacob Rhines",
+            "alternateName": "JacobFromTheInternet",
+        },
     }
     return replace_or_insert_jsonld(page, data)
 
@@ -181,14 +196,48 @@ def update_episode_jsonld(episodes: list[dict]) -> tuple[int, int]:
                 data["contributor"] = [{"@type": "Person", "name": p} for p in people]
         yid = ep.get("youtube_id")
         yurl = ep.get("youtube_url")
+        data["partOfSeries"]["webFeed"] = "https://feeds.transistor.fm/the-junkyard-love-podcast"
+        same_as = []
+        media = []
         if yid:
             if not yurl:
                 yurl = f"https://www.youtube.com/watch?v={yid}"
-            data["associatedMedia"] = {
+            same_as.append(yurl)
+            media.append({
                 "@type": "VideoObject",
                 "name": name,
                 "contentUrl": yurl,
                 "embedUrl": f"https://www.youtube.com/embed/{yid}",
+            })
+        # Transistor share link if present on page
+        page_text = page.read_text(encoding="utf-8")
+        sm = re.search(r"https://share\.transistor\.fm/s/[\w-]+", page_text)
+        if sm:
+            same_as.append(sm.group(0))
+        # Audio enclosure from inventory.csv when available
+        inv_path = DEPLOY / "inventory.csv"
+        if inv_path.exists():
+            import csv
+            num = str(ep.get("number") or "").zfill(4)
+            with inv_path.open(encoding="utf-8", newline="") as f:
+                for row in csv.DictReader(f):
+                    if (row.get("episode_number") or "").strip().zfill(4) == num:
+                        audio = (row.get("audio_enclosure_url") or "").strip()
+                        share = (row.get("rss_episode_url") or "").strip()
+                        if audio:
+                            media.append({"@type": "AudioObject", "contentUrl": audio})
+                        if share and share not in same_as:
+                            same_as.append(share)
+                        break
+        if same_as:
+            data["sameAs"] = same_as
+        if media:
+            data["associatedMedia"] = media if len(media) > 1 else media[0]
+        if (DEPLOY / "episodes" / slug / "episode.md").exists():
+            data["transcript"] = {
+                "@type": "CreativeWork",
+                "url": f"{BASE_SITE}/episodes/{slug}/episode.md",
+                "encodingFormat": "text/markdown",
             }
         if replace_or_insert_jsonld(page, data):
             touched += 1
