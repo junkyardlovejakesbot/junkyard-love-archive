@@ -27,6 +27,7 @@ This site is a conversation archive for The Junkyard Love Podcast (host: Jacob /
 - `assets/chapter_search/` — sharded verbatim chapter transcript corpus for on-site human search (not a summary layer)
 - `assets/books_index.json` — books library (authored + mentioned; author + bucket fields)
 - `guests/index.html` — guest doorway index (filterable)
+- `moods/index.html` — listen-by-mood doorway index
 - `llms.txt` — this file
 
 
@@ -164,6 +165,11 @@ Machine-readable: [assets/quotes_clean.json](https://junkyardlovejakesbot.github
 ## Guests
 
 Index: [https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/)
+
+## Moods
+
+Index: [https://junkyardlovejakesbot.github.io/junkyard-love-archive/moods/](https://junkyardlovejakesbot.github.io/junkyard-love-archive/moods/)
+
 
 - [Abrielle Dunn](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/abrielle-dunn/)
 - [Airik Makaio Hokulani Mobbs](https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/airik-makaio-hokulani-mobbs/)

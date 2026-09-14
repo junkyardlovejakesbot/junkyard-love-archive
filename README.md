@@ -1,6 +1,12 @@
 # Junkyard Love Conversation Archive (local static)
 
-Plain static site. No domain configured yet — open `site/index.html` locally, or deploy the `site/` folder to GitHub Pages / Netlify later.
+Plain static site published from the **repository root** (not a `site/` subfolder).
+
+- Live: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
+- Local preview: open `index.html` from this root (pages use `<base href="/junkyard-love-archive/">`).
+- GitHub Pages serves the published web root here — `index.html`, `episodes/`, `guests/`, `moods/`, etc. There is no separate `site/` publish tree.
+
+> Path note: episode folders live at the repo root (`episodes/...`). Older README lines that say `site/episodes/...` mean the same folders — there is no `site/` directory on the live Pages root.
 
 ## Episodes processed
 - **0124** Sigmar Berg — `site/episodes/0124-sigmar-berg-conscious-breathing-break/`
