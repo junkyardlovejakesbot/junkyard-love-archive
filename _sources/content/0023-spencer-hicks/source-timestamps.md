@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:02:00](#t-00-02-00) — Three kinds of empathy
 - [00:03:49](#t-00-03-49) — Sympathy vs empathy / social norms

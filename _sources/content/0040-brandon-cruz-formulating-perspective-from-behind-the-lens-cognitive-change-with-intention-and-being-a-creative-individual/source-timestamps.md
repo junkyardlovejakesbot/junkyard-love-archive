@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:01:47](#t-00-01-47) — Drink some water / hit record
 - [00:08:45](#t-00-08-45) — DJ / artistic side / parties

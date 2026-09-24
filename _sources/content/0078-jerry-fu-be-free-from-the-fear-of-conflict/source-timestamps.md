@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:01:36](#t-00-01-36) — Opening clip — leadership training Jerry wished he'd had
 - [00:02:55](#t-00-02-55) — Jacob welcome & Jerry bio

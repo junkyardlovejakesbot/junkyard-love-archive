@@ -1,6 +1,6 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
-- [00:01:37](#t-00-01-37) — Host open — Trauma and Healing and Mental Health
+- [00:01:37](#t-00-01-37) — Host open — Contempt, Country & Society
 - [00:06:08](#t-00-06-08) — Episode start — cheers / welcome Devon
 - [00:08:02](#t-00-08-02) — Skateboarding / identity / mental health
 - [00:11:22](#t-00-11-22) — Mind grooves / Paul Stamets sledding metaphor

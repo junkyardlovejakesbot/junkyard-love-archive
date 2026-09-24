@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:00:01](#t-00-00-01) — Opening — virtual/remote Junkyard Love
 - [00:01:51](#t-00-01-51) — Xbox / irritability / sleep schedule

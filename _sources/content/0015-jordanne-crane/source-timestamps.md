@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:00:00](#t-00-00-00) — Opening — Junkyard Love / Jordanne Crane
 - [00:00:56](#t-00-00-56) — C-Diff / how Jordanne reached out

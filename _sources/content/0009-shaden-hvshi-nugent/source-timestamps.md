@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:00:00](#t-00-00-00) — Opening — Junkyard Love / Shaden 'Hvshi' Nugent
 - [00:01:03](#t-00-01-03) — Rapper intro / Colorado skater kid origin

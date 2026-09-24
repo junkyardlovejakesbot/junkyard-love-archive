@@ -9,7 +9,7 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:01:49](#t-00-01-49) — Host open — Listening with Jessica and Mackenzie
+- [00:01:49](#t-00-01-49) — Host open — Listening, Jessica & Mackenzie
 - [00:02:43](#t-00-02-43) — Guest intro — Jessica & Mackenzie
 - [00:10:34](#t-00-10-34) — Once Week Ride
 - [00:15:23](#t-00-15-23) — J — mobile bartending / TheSipco origins

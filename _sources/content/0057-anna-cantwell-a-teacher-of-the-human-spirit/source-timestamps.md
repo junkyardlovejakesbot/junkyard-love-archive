@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:02:21](#t-00-02-21) — Guest intro — Anna Cantwell
 - [00:03:07](#t-00-03-07) — Conversation starts — sunrise / fires

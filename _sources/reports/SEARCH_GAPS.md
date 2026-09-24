@@ -1,11 +1,11 @@
 # Search gaps — Ask the Junkyard
 
-Generated: 2026-09-13T16:41:20Z
+Generated: 2026-09-24T16:34:22Z
 
-- Candidate chapters (non-host_open, non-bumper): **2349**
-- Indexed: **2349**
+- Candidate chapters (non-host_open, non-bumper): **2377**
+- Indexed: **2377**
 - Skipped: **0**
-- Search emit: **sharded ×2**
+- Search emit: **sharded ×3**
 
 ## Skip reasons
 

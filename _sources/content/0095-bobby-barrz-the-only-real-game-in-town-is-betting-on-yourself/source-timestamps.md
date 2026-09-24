@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:01:26](#t-00-01-26) — Building a Brand and Creativity
 - [00:05:45](#t-00-05-45) — Betting on yourself — thesis

@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:02:36](#t-00-02-36) — Live check / stream delay
 - [00:03:48](#t-00-03-48) — What is Glow In The Dark

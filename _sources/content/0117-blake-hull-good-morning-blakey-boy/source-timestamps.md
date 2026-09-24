@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:00:45](#t-00-00-45) — Opening — welcome Blake / Junkyard Love
 - [00:01:40](#t-00-01-40) — Therapy line: “I feel most connected when you’re feeling”

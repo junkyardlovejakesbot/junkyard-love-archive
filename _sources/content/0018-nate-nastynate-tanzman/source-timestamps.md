@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:00:00](#t-00-00-00) — Opening — Nate Tanzman returns
 - [00:04:22](#t-00-04-22) — Work and Money

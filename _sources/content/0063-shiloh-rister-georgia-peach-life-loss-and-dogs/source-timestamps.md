@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:02:46](#t-00-02-46) — Into the conversation
 - [00:05:58](#t-00-05-58) — COVID caretaker work

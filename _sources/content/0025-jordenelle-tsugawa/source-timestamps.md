@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:01:45](#t-00-01-45) — Embodied Practice and Healing
 - [00:03:50](#t-00-03-50) — Chakras / energy body

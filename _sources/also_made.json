@@ -156,7 +156,7 @@
     "label": "Academy for Spiritual Awakening",
     "url": "https://www.sanctuaryforawakening.com/",
     "kind": "practice",
-    "source_note": "Published episode source-links Academy for Spiritual Awakening → sanctuaryforawakening.com"
+    "source_note": "Published episode source-links Academy for Spiritual Awakening \u2192 sanctuaryforawakening.com"
   },
   "sigmar-berg": {
     "label": "Lovetuner",
@@ -229,5 +229,11 @@
     "url": "https://www.desmog.com/",
     "kind": "site",
     "source_note": "Published ep 0094 about: co-founded DeSmog.com"
+  },
+  "fran-frye": {
+    "label": "Fran Frye Counseling",
+    "url": "https://www.franfrye.com/",
+    "kind": "practice",
+    "source_note": "Published ep 0125 RSS/about: franfrye.com; IG franfryecounseling"
   }
 }

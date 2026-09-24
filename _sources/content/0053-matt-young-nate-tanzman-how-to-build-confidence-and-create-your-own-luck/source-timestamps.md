@@ -1,6 +1,6 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
-- [00:01:29](#t-00-01-29) — Host open — Addiction and Recovery and Community
+- [00:01:29](#t-00-01-29) — Host open — October, Yourself & Sober
 - [00:03:24](#t-00-03-24) — Note — three-person mix / first 55s
 - [00:04:09](#t-00-04-09) — Guest intro — Nate & Matt
 - [00:05:14](#t-00-05-14) — Matt — Vancouver Elite Outreach origin

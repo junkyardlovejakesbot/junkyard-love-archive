@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:00:00](#t-00-00-00) — Opening — growing up / age group / happiness
 - [00:06:02](#t-00-06-02) — Small town / high school friends / after graduation

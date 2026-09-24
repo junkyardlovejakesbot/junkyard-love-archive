@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:00:02](#t-00-00-02) — Live Friend
 - [00:01:06](#t-00-01-06) — Meditation and Ego

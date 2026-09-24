@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:01:13](#t-00-01-13) — Bio ask
 - [00:03:21](#t-00-03-21) — Is consciousness built through evolution?

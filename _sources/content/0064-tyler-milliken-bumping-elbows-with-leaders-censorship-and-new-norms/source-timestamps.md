@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:02:00](#t-00-02-00) — Social decorum after going digital
 - [00:03:07](#t-00-03-07) — Handshaking gone / elbow bumps

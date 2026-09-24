@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:01:37](#t-00-01-37) — Ask — Camp ReEducation origin
 - [00:02:38](#t-00-02-38) — Camp topic — reality TV

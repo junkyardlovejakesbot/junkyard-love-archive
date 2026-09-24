@@ -11,7 +11,7 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 
 ## Chapter-style timestamps
 
-- [00:01:43](#t-00-01-43) — Host open — Embodied Practice and Community
+- [00:01:43](#t-00-01-43) — Host open — Experience, Rikki & Sleep
 - [00:10:51](#t-00-10-51) — Life path — Canada / hockey
 - [00:12:27](#t-00-12-27) — Background — Woodland / Kalama
 - [00:20:22](#t-00-20-22) — Hawaii / LA years

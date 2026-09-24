@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:01:17](#t-00-01-17) — Nike bio — Legacy Enterprises; Austin from Lagos
 - [00:02:50](#t-00-02-50) — Deloitte to Nigeria — joining the family construction business

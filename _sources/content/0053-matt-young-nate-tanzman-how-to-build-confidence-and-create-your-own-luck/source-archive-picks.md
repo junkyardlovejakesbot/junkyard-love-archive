@@ -11,7 +11,7 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 
 ## Chapter-style timestamps
 
-- [00:01:29](#t-00-01-29) — Host open — Addiction and Recovery and Community
+- [00:01:29](#t-00-01-29) — Host open — October, Yourself & Sober
 - [00:03:24](#t-00-03-24) — Note — three-person mix / first 55s
 - [00:04:09](#t-00-04-09) — Guest intro — Nate & Matt
 - [00:05:14](#t-00-05-14) — Matt — Vancouver Elite Outreach origin

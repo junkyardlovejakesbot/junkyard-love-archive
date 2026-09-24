@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:01:07](#t-00-01-07) — Into cancel culture — pop vs politics
 - [00:10:19](#t-00-10-19) — Habits and Goals

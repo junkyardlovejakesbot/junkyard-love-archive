@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:01:26](#t-00-01-26) — Madi arrives — stoked to be here
 - [00:11:22](#t-00-11-22) — College / LCC / psychology sociology

@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:00:28](#t-00-00-28) — Opening — welcome / Jessica Faul
 - [00:01:29](#t-00-01-29) — Coffee shop mask / retail face

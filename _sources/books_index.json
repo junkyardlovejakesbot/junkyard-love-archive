@@ -1,8 +1,8 @@
 {
-  "title": "Books on Junkyard Love — authored and mentioned",
-  "count": 64,
+  "title": "Books on Junkyard Love \u2014 authored and mentioned",
+  "count": 66,
   "authored_count": 40,
-  "mentioned_count": 24,
+  "mentioned_count": 26,
   "schema_note": "bucket=authored|mentioned; author=actual book author; mentions=show appearances",
   "books": [
     {
@@ -1561,6 +1561,59 @@
       "author": "Thomas Ramge",
       "bucket": "mentioned",
       "url": "https://theexperimentpublishing.com/catalogs/spring-2019/whos-afraid-of-ai/"
+    },
+    {
+      "title": "The Myth of Sex Addiction",
+      "book_slug": "the-myth-of-sex-addiction",
+      "author": "David J. Ley",
+      "bucket": "mentioned",
+      "mentioned_by": "Fran Frye",
+      "guest_slug": "fran-frye",
+      "mentions": [
+        {
+          "mentioned_by": "Fran Frye",
+          "guest_slug": "fran-frye",
+          "guest": "Fran Frye",
+          "episode_slug": "0125-fran-frye-shame-sex-mens-mental-health",
+          "episode_number": "0125",
+          "start": "00:42:55",
+          "start_seconds": 2575,
+          "browse_title": "Shame, Sex, and Men's Mental Health"
+        }
+      ],
+      "episode_slug": "0125-fran-frye-shame-sex-mens-mental-health",
+      "episode_number": "0125",
+      "start": "00:42:55",
+      "start_seconds": 2575,
+      "browse_title": "Shame, Sex, and Men's Mental Health",
+      "guest": "Fran Frye",
+      "url": "https://www.amazon.com/Myth-Sex-Addiction-David-Ley/dp/1442212637"
+    },
+    {
+      "title": "The Existential Importance of the Penis",
+      "book_slug": "the-existential-importance-of-the-penis",
+      "author": "Daniel N. Watter",
+      "bucket": "mentioned",
+      "mentioned_by": "Fran Frye",
+      "guest_slug": "fran-frye",
+      "mentions": [
+        {
+          "mentioned_by": "Fran Frye",
+          "guest_slug": "fran-frye",
+          "guest": "Fran Frye",
+          "episode_slug": "0125-fran-frye-shame-sex-mens-mental-health",
+          "episode_number": "0125",
+          "start": "00:25:58",
+          "start_seconds": 1558,
+          "browse_title": "Shame, Sex, and Men's Mental Health"
+        }
+      ],
+      "episode_slug": "0125-fran-frye-shame-sex-mens-mental-health",
+      "episode_number": "0125",
+      "start": "00:25:58",
+      "start_seconds": 1558,
+      "browse_title": "Shame, Sex, and Men's Mental Health",
+      "guest": "Fran Frye"
     }
   ]
 }

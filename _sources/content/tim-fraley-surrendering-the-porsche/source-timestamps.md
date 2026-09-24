@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:00:20](#t-00-00-20) — Relationships and the Podcast Itself
 - [00:01:43](#t-00-01-43) — Curating community / spirituality vs self-improvement

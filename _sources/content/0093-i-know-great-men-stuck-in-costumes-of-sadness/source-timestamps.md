@@ -1,6 +1,6 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
-- [00:00:15](#t-00-00-15) — Host open — Mental Health and Community
+- [00:00:15](#t-00-00-15) — Host open — Health, Mental & Send
 - [00:05:18](#t-00-05-18) — Suffering, labels, depression & anxiety in the Western mind
 - [00:13:07](#t-00-13-07) — Cannot Sit Silence Cannot Sit
 - [00:16:42](#t-00-16-42) — Armor — the front we keep vs how we truly feel

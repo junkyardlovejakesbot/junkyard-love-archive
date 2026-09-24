@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:00:16](#t-00-00-16) — Opening — mustache check / no formal intro
 - [00:01:36](#t-00-01-36) — Cancel culture / parody / satire

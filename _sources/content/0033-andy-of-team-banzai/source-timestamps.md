@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:00:11](#t-00-00-11) — Open — COVID / Mask Off banter
 - [00:02:02](#t-00-02-02) — At Black Diamond Recording Studio

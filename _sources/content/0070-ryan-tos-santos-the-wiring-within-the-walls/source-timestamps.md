@@ -1,6 +1,6 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
-- [00:01:07](#t-00-01-07) — Host open — Bunch Covid
+- [00:01:07](#t-00-01-07) — Host open — Dealing, Beauty & Ryan
 - [00:02:13](#t-00-02-13) — Freedom of speech / platform risk
 - [00:08:56](#t-00-08-56) — Jacob intros Ryan 'Tos' Santos
 - [00:17:36](#t-00-17-36) — YouTube obsessions / anime

@@ -1,6 +1,6 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
-- [00:01:26](#t-00-01-26) — Host open — Breathwork and Meditation
+- [00:01:26](#t-00-01-26) — Host open — Year, Money & Water
 - [00:02:12](#t-00-02-12) — Guest intro — Jazz & Trev
 - [00:03:18](#t-00-03-18) — Into conversation — pandemic / stimulus
 - [00:07:10](#t-00-07-10) — Fatherhood and Relationships

@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:03:31](#t-00-03-31) — Jacob YouTube intro — late start / fasting note
 - [00:06:34](#t-00-06-34) — Coffee / vitamins / body as engine

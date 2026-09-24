@@ -11,7 +11,7 @@ Extracted from the YouTube auto-caption transcript and published About. Labeled 
 
 ## Chapter-style timestamps
 
-- [00:00:06](#t-00-00-06) — Host open — Mental Health
+- [00:00:06](#t-00-00-06) — Host open — Depression, Sadness & Record
 - [00:01:42](#t-00-01-42) — Depression is not (just) sadness
 - [00:05:19](#t-00-05-19) — Ram Dass — walking each other home
 - [00:13:33](#t-00-13-33) — What does a relaxed person look like

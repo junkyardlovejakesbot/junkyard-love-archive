@@ -1,11 +1,11 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:01:51](#t-00-01-51) — What have you been up to
 - [00:02:49](#t-00-02-49) — Director of sales / pivoting travel
 - [00:06:46](#t-00-06-46) — Self-confidence & purpose
 - [00:10:24](#t-00-10-24) — Brotherhood at work
 - [00:11:51](#t-00-11-51) — Without a college degree
-- [00:14:22](#t-00-14-22) — Open Sexuality
+- [00:14:22](#t-00-14-22) — Environment, Authentic & Pressures
 - [00:15:19](#t-00-15-19) — Pep talk / approaching people at bars
 - [00:21:20](#t-00-21-20) — Social media & authenticity
 - [00:24:47](#t-00-24-47) — The Velvet Rage

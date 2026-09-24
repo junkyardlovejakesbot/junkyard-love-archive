@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:00:00](#t-00-00-00) — Opening — Kokanee / Sasquatch / Castle Rock
 - [00:01:48](#t-00-01-48) — Wynonna / named after Mötley Crüe "Nona"

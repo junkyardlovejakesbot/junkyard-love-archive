@@ -9,7 +9,7 @@ Extracted from the YouTube auto-caption transcript and published links already o
 
 ## Chapter-style timestamps
 
-- [00:00:00](#t-00-00-00) — Host open — Meditation and Embodied Practice
+- [00:00:00](#t-00-00-00) — Host open — Communication, Listening & Every
 - [00:07:52](#t-00-07-52) — Karma Past Lives Comes
 - [00:17:28](#t-00-17-28) — Ghost in the Shell / cyberpunk thesis
 - [00:20:06](#t-00-20-06) — Baudrillard — hyperreality / semiotics

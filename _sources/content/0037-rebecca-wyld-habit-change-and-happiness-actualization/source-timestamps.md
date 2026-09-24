@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:02:07](#t-00-02-07) — Conversation open — editing / being a beginner
 - [00:07:15](#t-00-07-15) — Self-love / living well

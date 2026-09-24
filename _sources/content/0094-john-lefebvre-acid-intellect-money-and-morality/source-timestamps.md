@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:04:02](#t-00-04-02) — Jacob intro — delayed episode, Austin check-in
 - [00:07:59](#t-00-07-59) — Be still, yet still be — book line

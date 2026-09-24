@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:01:57](#t-00-01-57) — Music and Mentorship and Learning
 - [00:05:36](#t-00-05-36) — Fatherhood

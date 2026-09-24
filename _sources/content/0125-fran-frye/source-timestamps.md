@@ -1,0 +1,27 @@
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
+
+- [00:00:16](#t-00-00-16) — Who Fran is and the men she works with
+- [00:01:44](#t-00-01-44) — Why men
+- [00:06:20](#t-00-06-20) — Why don't you hate men?
+- [00:08:54](#t-00-08-54) — Movement as medicine
+- [00:11:26](#t-00-11-26) — Tucson, depression, and the cannabis turning point
+- [00:14:17](#t-00-14-17) — Jacob on cannabis, yoga, and coming back to the body
+- [00:18:31](#t-00-18-31) — What somatic actually means
+- [00:22:11](#t-00-22-11) — The brain and the body as coach and quarterback
+- [00:23:10](#t-00-23-10) — Boys can see their erections. Girls can't.
+- [00:25:58](#t-00-25-58) — The fifth F
+- [00:29:13](#t-00-29-13) — The body as a conduit for emotion
+- [00:31:21](#t-00-31-21) — Take the pause before you reach for your partner
+- [00:40:21](#t-00-40-21) — ADHD, dopamine, and compulsive behavior
+- [00:42:54](#t-00-42-54) — The Myth of Sex Addiction
+- [00:45:49](#t-00-45-49) — Porn and masturbation in the modern world
+- [00:50:51](#t-00-50-51) — You don't have a sex problem. You have a nervous system problem.
+- [00:52:05](#t-00-52-05) — When porn becomes a problem between partners
+- [00:56:47](#t-00-56-47) — Radical responsibility for your own pleasure
+- [00:59:56](#t-00-59-56) — Healing from rape through BDSM and power exchange
+- [01:04:20](#t-01-04-20) — How can anyone use me? That's for me to give.
+- [01:06:42](#t-01-06-42) — Asking for what you want is the hot part
+- [01:11:58](#t-01-11-58) — Fran's work as a death doula
+- [01:15:09](#t-01-15-09) — Intimacy and dignity at the end of life
+- [01:17:02](#t-01-17-02) — I've been accused of helping people live too long
+- [01:20:03](#t-01-20-03) — Paradox, and taking what resonates

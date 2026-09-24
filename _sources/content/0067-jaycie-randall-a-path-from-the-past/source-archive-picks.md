@@ -11,7 +11,7 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 
 ## Chapter-style timestamps
 
-- [00:01:30](#t-00-01-30) — Host open — Healing
+- [00:01:30](#t-00-01-30) — Host open — Yourself, Keep & Jaycie
 - [00:02:34](#t-00-02-34) — Conversation start — welcome back
 - [00:05:21](#t-00-05-21) — What's changed since the first episode
 - [00:07:14](#t-00-07-14) — Shadow work & healing language
@@ -32,7 +32,7 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 - [01:36:57](#t-01-36-57) — Healing and Community
 - [01:44:09](#t-01-44-09) — Ego and Healing
 - [01:53:05](#t-01-53-05) — What does the world need more of?
-- [02:01:15](#t-02-01-15) — Healing
+- [02:01:15](#t-02-01-15) — Intuitive, Finding & Healers
 
 ## Keywords
 

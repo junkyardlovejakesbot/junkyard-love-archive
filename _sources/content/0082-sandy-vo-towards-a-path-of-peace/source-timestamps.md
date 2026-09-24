@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:00:21](#t-00-00-21) — Work and Money
 - [00:03:29](#t-00-03-29) — Sandy's fascination with Einstein / authentic self

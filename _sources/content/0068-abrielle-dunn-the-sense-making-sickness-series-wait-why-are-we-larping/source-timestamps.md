@@ -1,6 +1,6 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
-- [00:01:18](#t-00-01-18) — Host open — Embodied Practice and Creativity
+- [00:01:18](#t-00-01-18) — Host open — Sense, Trying & Conversation
 - [00:07:24](#t-00-07-24) — Abrielles Note
 - [00:10:48](#t-00-10-48) — The Illusion of Conversation
 - [00:13:45](#t-00-13-45) — Abrielles Story

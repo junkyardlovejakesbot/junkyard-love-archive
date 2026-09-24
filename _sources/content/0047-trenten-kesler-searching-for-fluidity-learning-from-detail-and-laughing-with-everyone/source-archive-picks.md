@@ -8,7 +8,7 @@ Extracted from the faster-whisper transcript of the published MP3 and Jacob’s 
 
 ## Chapter-style timestamps
 
-- [00:00:51](#t-00-00-51) — Host open — Letterkenny bit and settling in
+- [00:00:51](#t-00-00-51) — Host open — Order, Universal & Entire
 - [00:06:24](#t-00-06-24) — Introduce Trenten / cheers
 - [00:10:56](#t-00-10-56) — Clean Machine / COVID businesses
 - [00:19:15](#t-00-19-15) — Building a Brand and Work and Money

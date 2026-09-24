@@ -4,6 +4,38 @@ For Jacob to paste into YouTube descriptions. Not published by this script.
 Bumpers / host-open style titles skipped (archive.js `isBumper` heuristics).
 First line forced to `0:00` when the first kept chapter starts later (YouTube requirement).
 
+## 0125 — Shame, Sex, and Men's Mental Health
+Guest: Fran Frye
+YouTube: https://www.youtube.com/watch?v=L1btIqbwNrE
+
+```
+0:00 Who Fran is and the men she works with
+1:44 Why men
+6:20 Why don't you hate men?
+8:54 Movement as medicine
+11:26 Tucson, depression, and the cannabis turning point
+14:17 Jacob on cannabis, yoga, and coming back to the body
+18:31 What somatic actually means
+22:11 The brain and the body as coach and quarterback
+23:10 Boys can see their erections. Girls can't.
+25:58 The fifth F
+29:13 The body as a conduit for emotion
+31:21 Take the pause before you reach for your partner
+40:21 ADHD, dopamine, and compulsive behavior
+42:54 The Myth of Sex Addiction
+45:49 Porn and masturbation in the modern world
+50:51 You don't have a sex problem. You have a nervous system problem.
+52:05 When porn becomes a problem between partners
+56:47 Radical responsibility for your own pleasure
+59:56 Healing from rape through BDSM and power exchange
+1:04:20 How can anyone use me? That's for me to give.
+1:06:42 Asking for what you want is the hot part
+1:11:58 Fran's work as a death doula
+1:15:09 Intimacy and dignity at the end of life
+1:17:02 I've been accused of helping people live too long
+1:20:03 Paradox, and taking what resonates
+```
+
 ## 0124 — Adding 'A Conscious Breathing Break' To Your Daily Vocabulary
 Guest: Sigmar Berg
 YouTube: https://www.youtube.com/watch?v=mKL9TmXlABo
@@ -362,7 +394,7 @@ YouTube: https://www.youtube.com/watch?v=rhIRCgycfvI
 42:07 “We just want to be” / acceptance over explanation
 46:02 Diagnostic code changed in 2012 / early-’70s history
 48:14 Mission to humanize being born transgender
-53:50 Open Perspective
+53:50 Change, Perspective & Believes
 55:06 Embrace change / life is about possibility
 58:54 Work-as-identity / repressing the real self
 1:02:14 Sacral feel-first / Rhode Island leap of trust
@@ -1349,7 +1381,8 @@ YouTube: https://www.youtube.com/watch?v=hSJOOH1IkP0
 38:31 How do you hold on through the dark moments
 42:22 Physical activity
 47:10 Healing and Community
-51:50 Healing
+51:50 Having, Health & Mental
+55:07 Heather, Website & Book
 ```
 
 ## 0075 — Being Most People Is Bad For Your Health
@@ -1518,7 +1551,8 @@ YouTube: https://www.youtube.com/watch?v=kOzOcXMLa-U
 1:20:40 Leaving the comfort zone
 1:24:44 Following intuition
 1:28:15 Fatherhood and Family
-1:35:38 Meditation
+1:35:38 Medication, Sometimes & Sharing
+1:39:02 Hard, Adjusting & Dose
 1:40:49 ADHD & medication changes
 1:46:05 No one will do it for you — go get it
 ```
@@ -1583,7 +1617,7 @@ YouTube: https://www.youtube.com/watch?v=L0HblK1MUt4
 1:36:57 Healing and Community
 1:44:09 Ego and Healing
 1:53:05 What does the world need more of?
-2:01:15 Healing
+2:01:15 Intuitive, Finding & Healers
 ```
 
 ## 0066 — Writin' Songs, Lentin' Booze and Upgradin' Society
@@ -1621,7 +1655,7 @@ YouTube: https://www.youtube.com/watch?v=ybdtawpUGes
 6:46 Self-confidence & purpose
 10:24 Brotherhood at work
 11:51 Without a college degree
-14:22 Open Sexuality
+14:22 Environment, Authentic & Pressures
 15:19 Pep talk / approaching people at bars
 21:20 Social media & authenticity
 24:47 The Velvet Rage
@@ -2045,7 +2079,8 @@ YouTube: https://www.youtube.com/watch?v=2s-kk9zGWZ4
 1:10:39 Conspiracy theories / seeing through facade
 1:18:39 Family and Shows and Releases
 1:22:49 Sincerely chillin'
-1:31:12 Sleep
+1:31:12 Every, Hours & Friends
+1:35:21 Weird, Feeling & Thought
 1:39:20 They'd Bring Mac
 1:47:45 Losing Sleep
 1:54:40 Give power to the positive

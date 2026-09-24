@@ -8,7 +8,7 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:00](#t-00-00-00) — Host open — Substances and Habits and the Podcast Itself
+- [00:00:00](#t-00-00-00) — Host open — Cannabis, World & Episodes
 - [00:01:50](#t-00-01-50) — Interview midstream — medicinal uses
 - [00:06:46](#t-00-06-46) — Washington Washington Cannabis Ind
 - [00:11:45](#t-00-11-45) — Addiction and Recovery and Building a Brand

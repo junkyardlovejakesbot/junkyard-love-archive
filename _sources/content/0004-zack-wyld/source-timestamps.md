@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:00:02](#t-00-00-02) — Opening — doctors / ADHD / medication stigmas
 - [00:06:04](#t-00-06-04) — Trauma and Healing and Healing

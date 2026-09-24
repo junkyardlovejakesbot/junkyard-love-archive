@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:01:15](#t-00-01-15) — Baseball song & meeting Rosetan
 - [00:04:58](#t-00-04-58) — How Rosetan formed — Erik and the trio

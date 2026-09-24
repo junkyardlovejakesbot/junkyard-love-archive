@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:01:31](#t-00-01-31) — Scott on mic
 - [00:06:02](#t-00-06-02) — Roots Basketball Academy origin

@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:01:43](#t-00-01-43) — Drink some water / let's roll
 - [00:02:42](#t-00-02-42) — Inflammation / mushrooms / collagen shake

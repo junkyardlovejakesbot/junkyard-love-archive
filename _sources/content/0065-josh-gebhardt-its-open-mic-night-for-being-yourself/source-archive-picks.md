@@ -16,7 +16,7 @@ Extracted from the YouTube auto-caption transcript and published About/quotes al
 - [00:06:46](#t-00-06-46) — Self-confidence & purpose
 - [00:10:24](#t-00-10-24) — Brotherhood at work
 - [00:11:51](#t-00-11-51) — Without a college degree
-- [00:14:22](#t-00-14-22) — Open Sexuality
+- [00:14:22](#t-00-14-22) — Environment, Authentic & Pressures
 - [00:15:19](#t-00-15-19) — Pep talk / approaching people at bars
 - [00:21:20](#t-00-21-20) — Social media & authenticity
 - [00:24:47](#t-00-24-47) — The Velvet Rage

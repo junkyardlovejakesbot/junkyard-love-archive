@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:01:39](#t-00-01-39) — Host intro / Joe Dispenza recommendation
 - [00:02:35](#t-00-02-35) — Conversation starts — voicemail / tech futures

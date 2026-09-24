@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:00:31](#t-00-00-31) — Opening — welcome Curtis / Junkyard Love
 - [00:06:44](#t-00-06-44) — RTF degree / favorite professor / mark of a good educator

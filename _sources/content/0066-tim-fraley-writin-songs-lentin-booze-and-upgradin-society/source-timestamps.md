@@ -1,6 +1,6 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
-- [00:00:00](#t-00-00-00) — Host open — Gratitude and Music
+- [00:00:00](#t-00-00-00) — Host open — Song, Background & Trying
 - [00:01:50](#t-00-01-50) — Tim performs an original song
 - [00:07:56](#t-00-07-56) — When Did You First Write Your First Song
 - [00:16:46](#t-00-16-46) — Brother Brother Law

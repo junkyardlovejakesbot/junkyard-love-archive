@@ -11,7 +11,7 @@ Extracted from the YouTube auto-caption transcript and published About. Labeled 
 
 ## Chapter-style timestamps
 
-- [00:00:00](#t-00-00-00) — Host open — Breathwork and Meditation
+- [00:00:00](#t-00-00-00) — Host open — Spiritual, Against & Whether
 - [00:01:48](#t-00-01-48) — Episode 100 welcome — solocast intro
 - [00:03:04](#t-00-03-04) — Mystical / Spiritual Awakening framing (kundalini)
 - [00:12:05](#t-00-12-05) — Ram Dass neurosis line / still just a dude

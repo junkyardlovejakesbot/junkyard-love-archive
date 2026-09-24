@@ -1,0 +1,8 @@
+Source: Transistor published SRT (share.transistor.fm/s/5167128e/transcript.srt)
+Video: https://www.youtube.com/watch?v=L1btIqbwNrE
+Turns: 99
+Word count: 14522
+Speaker map: Jacob / Fran from SRT labels; Outro when labeled.
+YouTube captions: timedtext empty at build time — used Transistor SRT.
+Cleanup: light merge of consecutive same-speaker cues; men and getting→men in getting; Daniel N. Water→Watter; Fran Fry→Fran Frye; bio bio→bio. No sentence rewriting.
+Published clock (not Zoom).

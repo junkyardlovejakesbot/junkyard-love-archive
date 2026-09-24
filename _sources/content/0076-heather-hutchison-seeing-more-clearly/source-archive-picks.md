@@ -22,7 +22,8 @@ Extracted from the YouTube auto-caption transcript and published About/links alr
 - [00:38:31](#t-00-38-31) — How do you hold on through the dark moments
 - [00:42:22](#t-00-42-22) — Physical activity
 - [00:47:10](#t-00-47-10) — Healing and Community
-- [00:51:50](#t-00-51-50) — Healing
+- [00:51:50](#t-00-51-50) — Having, Health & Mental
+- [00:55:07](#t-00-55-07) — Heather, Website & Book
 
 ## Keywords
 

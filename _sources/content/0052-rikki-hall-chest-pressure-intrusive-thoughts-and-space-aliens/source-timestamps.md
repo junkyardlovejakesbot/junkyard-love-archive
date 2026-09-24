@@ -1,6 +1,6 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
-- [00:01:43](#t-00-01-43) — Host open — Embodied Practice and Community
+- [00:01:43](#t-00-01-43) — Host open — Experience, Rikki & Sleep
 - [00:10:51](#t-00-10-51) — Life path — Canada / hockey
 - [00:12:27](#t-00-12-27) — Background — Woodland / Kalama
 - [00:20:22](#t-00-20-22) — Hawaii / LA years

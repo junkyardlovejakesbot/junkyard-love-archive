@@ -11,7 +11,7 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:00:34](#t-00-00-34) — Host open — Trauma and Healing and Presence
+- [00:00:34](#t-00-00-34) — Host open — Human, Each & Progress
 - [00:03:40](#t-00-03-40) — Mind virus / Western culture essay
 - [00:08:06](#t-00-08-06) — Sense-making apparatus / love in interaction
 - [00:09:27](#t-00-09-27) — Conversation starts — series framing

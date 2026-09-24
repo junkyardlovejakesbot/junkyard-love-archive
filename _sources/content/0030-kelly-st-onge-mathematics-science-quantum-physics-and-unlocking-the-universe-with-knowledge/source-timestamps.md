@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:01:40](#t-00-01-40) — Healing and Mental Health
 - [00:03:29](#t-00-03-29) — Topics — math / science / quantum

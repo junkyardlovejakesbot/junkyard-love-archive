@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:00:04](#t-00-00-04) — Opening — Kendall Johns / Dead Crown intro
 - [00:01:11](#t-00-01-11) — Metalcore genre / Dead Crown sound

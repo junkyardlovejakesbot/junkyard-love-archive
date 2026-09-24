@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:00:04](#t-00-00-04) — Opening — live / Junkyard Love / Ryan intro
 - [00:01:32](#t-00-01-32) — Tuxedo rental / Mister Formal friendship

@@ -11,7 +11,7 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:01:07](#t-00-01-07) — Host open — Bunch Covid
+- [00:01:07](#t-00-01-07) — Host open — Dealing, Beauty & Ryan
 - [00:02:13](#t-00-02-13) — Freedom of speech / platform risk
 - [00:08:56](#t-00-08-56) — Jacob intros Ryan 'Tos' Santos
 - [00:17:36](#t-00-17-36) — YouTube obsessions / anime

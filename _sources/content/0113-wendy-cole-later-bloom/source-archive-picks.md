@@ -29,7 +29,7 @@ Extracted from the YouTube auto-caption transcript and published About / links a
 - [00:42:07](#t-00-42-07) — “We just want to be” / acceptance over explanation
 - [00:46:02](#t-00-46-02) — Diagnostic code changed in 2012 / early-’70s history
 - [00:48:14](#t-00-48-14) — Mission to humanize being born transgender
-- [00:53:50](#t-00-53-50) — Open Perspective
+- [00:53:50](#t-00-53-50) — Change, Perspective & Believes
 - [00:55:06](#t-00-55-06) — Embrace change / life is about possibility
 - [00:58:54](#t-00-58-54) — Work-as-identity / repressing the real self
 - [01:02:14](#t-01-02-14) — Sacral feel-first / Rhode Island leap of trust

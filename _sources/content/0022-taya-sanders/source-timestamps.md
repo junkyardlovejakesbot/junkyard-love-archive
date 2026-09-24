@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:00:00](#t-00-00-00) — Opening — Taya Sanders of Clover+Tribe
 - [00:00:45](#t-00-00-45) — Taya intro — Kelso / Oregon State / Human Development

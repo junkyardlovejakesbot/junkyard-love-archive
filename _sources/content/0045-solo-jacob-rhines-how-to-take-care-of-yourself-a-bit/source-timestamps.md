@@ -1,6 +1,6 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
-- [00:02:32](#t-00-02-32) — Host open — Addiction and Recovery and Mental Health
+- [00:02:32](#t-00-02-32) — Host open — Might, Learning & Change
 - [00:04:55](#t-00-04-55) — Why take care of yourself — body & mind
 - [00:08:31](#t-00-08-31) — Habits / values / who you became
 - [00:11:27](#t-00-11-27) — Social media / comparison / Instagram

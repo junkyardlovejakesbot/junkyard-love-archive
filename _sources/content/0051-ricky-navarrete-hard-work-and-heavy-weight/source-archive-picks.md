@@ -8,7 +8,7 @@ Extracted from the YouTube auto-caption transcript and published About already o
 
 ## Chapter-style timestamps
 
-- [00:01:26](#t-00-01-26) — Host open — Rolled Ricky
+- [00:01:26](#t-00-01-26) — Host open — Grow, Towards & Choice
 - [00:04:02](#t-00-04-02) — Taking notes / remembering
 - [00:04:51](#t-00-04-51) — Tough upbringing / shaken baby aside
 - [00:07:35](#t-00-07-35) — Background — changing attitude / weight

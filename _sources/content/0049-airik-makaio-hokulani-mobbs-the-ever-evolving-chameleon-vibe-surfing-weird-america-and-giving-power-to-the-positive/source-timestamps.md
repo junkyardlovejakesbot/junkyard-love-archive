@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:02:50](#t-00-02-50) — Work and Money
 - [00:06:34](#t-00-06-34) — Chameleon personalities / vibe surfing
@@ -14,7 +14,8 @@
 - [01:10:39](#t-01-10-39) — Conspiracy theories / seeing through facade
 - [01:18:39](#t-01-18-39) — Family and Shows and Releases
 - [01:22:49](#t-01-22-49) — Sincerely chillin'
-- [01:31:12](#t-01-31-12) — Sleep
+- [01:31:12](#t-01-31-12) — Every, Hours & Friends
+- [01:35:21](#t-01-35-21) — Weird, Feeling & Thought
 - [01:39:20](#t-01-39-20) — They'd Bring Mac
 - [01:47:45](#t-01-47-45) — Losing Sleep
 - [01:54:40](#t-01-54-40) — Give power to the positive

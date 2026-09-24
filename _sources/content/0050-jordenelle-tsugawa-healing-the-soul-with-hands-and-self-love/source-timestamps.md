@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:13:07](#t-00-13-07) — Breathwork and Healing
 - [00:18:59](#t-00-18-59) — Channeling / higher self / manifestation

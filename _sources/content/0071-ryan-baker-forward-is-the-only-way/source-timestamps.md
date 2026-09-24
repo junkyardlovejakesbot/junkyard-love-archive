@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:01:16](#t-00-01-16) — What made you want to start this podcast
 - [00:10:22](#t-00-10-22) — The 10x Rule / breaking point comfort zone

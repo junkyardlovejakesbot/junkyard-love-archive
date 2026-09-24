@@ -1,5 +1,5 @@
 {
-  "guest_pages": 98,
+  "guest_pages": 99,
   "bios_kept": [
     "andy-of-team-banzai",
     "anne-riley",
@@ -10,6 +10,7 @@
     "crystal-nyman",
     "devon-sims",
     "erik-nordin",
+    "fran-frye",
     "heather-hutchison",
     "jeremy-sherman",
     "jerry-fu",
@@ -54,6 +55,7 @@
     "daniel-t-matalon",
     "david-hulse",
     "erwan-davon",
+    "fran-frye",
     "heather-hutchison",
     "jerry-fu",
     "john-lee",
@@ -140,7 +142,9 @@
     "yanis-kanideis-pisarchuk"
   ],
   "portraits_wired": [],
-  "needs_jacob": [],
+  "needs_jacob": [
+    "Guest folder `fran-frye` missing from prior index labels \u2014 left as `Fran Frye`"
+  ],
   "brandon_cruz": {
     "slug": "brandon-cruz",
     "display_name": "Brandon Cruz",

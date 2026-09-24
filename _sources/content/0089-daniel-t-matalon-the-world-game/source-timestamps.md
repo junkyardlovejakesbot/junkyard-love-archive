@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:01:21](#t-00-01-21) — Video Music
 - [00:03:31](#t-00-03-31) — Jacob reads published bio — elevator pitch

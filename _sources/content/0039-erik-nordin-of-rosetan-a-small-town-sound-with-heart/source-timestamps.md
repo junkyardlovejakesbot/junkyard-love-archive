@@ -1,6 +1,6 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
-- [00:01:53](#t-00-01-53) — Host open — Mental Health and Journaling
+- [00:01:53](#t-00-01-53) — Host open — Yourself, Feeling & Care
 - [00:04:15](#t-00-04-15) — Roll into conversation / virtual live music
 - [00:07:49](#t-00-07-49) — Introducing Erik / Rosetan context
 - [00:10:11](#t-00-10-11) — Small rooms / breweries / live-music limbo

@@ -1,6 +1,6 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
-- [00:01:26](#t-00-01-26) — Host open — Rolled Ricky
+- [00:01:26](#t-00-01-26) — Host open — Grow, Towards & Choice
 - [00:04:02](#t-00-04-02) — Taking notes / remembering
 - [00:04:51](#t-00-04-51) — Tough upbringing / shaken baby aside
 - [00:07:35](#t-00-07-35) — Background — changing attitude / weight

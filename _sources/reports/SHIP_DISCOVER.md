@@ -1,19 +1,19 @@
 # SHIP — Discover layer
 
-Date: 2026-09-13 (repo clock UTC; user zone America/Chicago)
+Date: 2026-09-24 (repo clock UTC; user zone America/Chicago)
 Live base: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 
 ## DONE
 
-- Guest doorways rebuilt: **98** pages + filterable `guests/index.html`
+- Guest doorways rebuilt: **99** pages + filterable `guests/index.html`
 - Guest JSON-LD (Person + episode ItemList) on each guest page
 - Homepage PodcastSeries JSON-LD
-- Episode PodcastEpisode JSON-LD refreshed: **120** pages
-- `sitemap.xml` rebuilt on GitHub Pages host — **294** `<loc>` entries
+- Episode PodcastEpisode JSON-LD refreshed: **121** pages
+- `sitemap.xml` rebuilt on GitHub Pages host — **325** `<loc>` entries
 - `llms.txt` guests section + machine file pointers updated
 - `_sources/reports/MISSING_YOUTUBE.md` — **1** episodes
-- `_sources/reports/YOUTUBE_CHAPTERS.md` — **119** episodes with paste-ready chapters
-- `_sources/reports/OPUS_SHOTLIST.md` — **2327** clipping rows
+- `_sources/reports/YOUTUBE_CHAPTERS.md` — **120** episodes with paste-ready chapters
+- `_sources/reports/OPUS_SHOTLIST.md` — **2355** clipping rows
 
 ### Live URLs (samples)
 - Guests index: https://junkyardlovejakesbot.github.io/junkyard-love-archive/guests/
@@ -42,6 +42,5 @@ Live base: https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 
 ### Confirmations
 - No invented bios / quotes / books
-- One-line bios kept only when existing guest notes already had a short identity sentence (24 guests); long episode-note essays removed from doorways
 - Guest quotes only from `assets/quotes_clean.json` published pool
 - Footer motto exact: `drink some water, stretch, love yourselves.`

@@ -10,7 +10,7 @@ Extracted from the YouTube auto-caption transcript and published notes already o
 
 ## Chapter-style timestamps
 
-- [00:01:14](#t-00-01-14) — Host open — Creativity
+- [00:01:14](#t-00-01-14) — Host open — Played, Yoga & Instagram
 - [00:02:43](#t-00-02-43) — Guest intro — Will Andes; knowledge is power
 - [00:10:35](#t-00-10-35) — East Coast vs West Coast minds / presence
 - [00:18:29](#t-00-18-29) — Mental Health and Masculinity and Vulnerability

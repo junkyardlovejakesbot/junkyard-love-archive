@@ -1,0 +1,4 @@
+Description source: Jacob About copy (episode page) + RSS HTML saved as source-rss-description.html
+YouTube oembed verified: L1btIqbwNrE
+RSS guid: 9b73270a-6841-43cc-b1e5-5167f9903e9b
+Archive picks: chapter windows from published chapters (promo 1:22:03→end included in chapters, not as clip target via rebuild).

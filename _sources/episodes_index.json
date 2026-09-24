@@ -11,9 +11,231 @@
     "0016",
     "0029"
   ],
-  "generated": "episodes-index-published-quotes",
-  "episode_count": 120,
+  "generated": "clip-index-rebuild",
+  "episode_count": 121,
   "episodes": [
+    {
+      "slug": "0125-fran-frye-shame-sex-mens-mental-health",
+      "number": "0125",
+      "browse_title": "Shame, Sex, and Men's Mental Health",
+      "canonical_title": "Shame, Sex, and Men's Mental Health - Episode 0125 with Fran Frye",
+      "guest": "Fran Frye",
+      "duration": "1:24:54",
+      "duration_seconds": 5094,
+      "date": "2026-09-24",
+      "youtube_id": "L1btIqbwNrE",
+      "youtube_url": "https://www.youtube.com/watch?v=L1btIqbwNrE",
+      "spotify_show": "https://open.spotify.com/show/45J7CBdM8j29doqyBp2bFs",
+      "apple_show": "https://podcasts.apple.com/us/podcast/the-junkyard-love-podcast/id1489118788",
+      "rss_url": "https://share.transistor.fm/s/5167128e",
+      "topics": [
+        {
+          "slug": "love-sex-relationships",
+          "title": "Love, Sex & Relationships"
+        },
+        {
+          "slug": "men-masculinity-fatherhood",
+          "title": "Men, Masculinity & Fatherhood"
+        },
+        {
+          "slug": "healing-trauma-therapy",
+          "title": "Healing, Trauma & Therapy"
+        },
+        {
+          "slug": "mind-mood-mental-health",
+          "title": "Mind, Mood & Mental Health"
+        }
+      ],
+      "chapters": [
+        {
+          "start": "00:00:16",
+          "start_seconds": 16,
+          "title": "Who Fran is and the men she works with"
+        },
+        {
+          "start": "00:01:44",
+          "start_seconds": 104,
+          "title": "Why men"
+        },
+        {
+          "start": "00:06:20",
+          "start_seconds": 380,
+          "title": "Why don't you hate men?"
+        },
+        {
+          "start": "00:08:54",
+          "start_seconds": 534,
+          "title": "Movement as medicine"
+        },
+        {
+          "start": "00:11:26",
+          "start_seconds": 686,
+          "title": "Tucson, depression, and the cannabis turning point"
+        },
+        {
+          "start": "00:14:17",
+          "start_seconds": 857,
+          "title": "Jacob on cannabis, yoga, and coming back to the body"
+        },
+        {
+          "start": "00:18:31",
+          "start_seconds": 1111,
+          "title": "What somatic actually means"
+        },
+        {
+          "start": "00:22:11",
+          "start_seconds": 1331,
+          "title": "The brain and the body as coach and quarterback"
+        },
+        {
+          "start": "00:23:10",
+          "start_seconds": 1390,
+          "title": "Boys can see their erections. Girls can't."
+        },
+        {
+          "start": "00:25:58",
+          "start_seconds": 1558,
+          "title": "The fifth F"
+        },
+        {
+          "start": "00:29:13",
+          "start_seconds": 1753,
+          "title": "The body as a conduit for emotion"
+        },
+        {
+          "start": "00:31:21",
+          "start_seconds": 1881,
+          "title": "Take the pause before you reach for your partner"
+        },
+        {
+          "start": "00:40:21",
+          "start_seconds": 2421,
+          "title": "ADHD, dopamine, and compulsive behavior"
+        },
+        {
+          "start": "00:42:54",
+          "start_seconds": 2574,
+          "title": "The Myth of Sex Addiction"
+        },
+        {
+          "start": "00:45:49",
+          "start_seconds": 2749,
+          "title": "Porn and masturbation in the modern world"
+        },
+        {
+          "start": "00:50:51",
+          "start_seconds": 3051,
+          "title": "You don't have a sex problem. You have a nervous system problem."
+        },
+        {
+          "start": "00:52:05",
+          "start_seconds": 3125,
+          "title": "When porn becomes a problem between partners"
+        },
+        {
+          "start": "00:56:47",
+          "start_seconds": 3407,
+          "title": "Radical responsibility for your own pleasure"
+        },
+        {
+          "start": "00:59:56",
+          "start_seconds": 3596,
+          "title": "Healing from rape through BDSM and power exchange"
+        },
+        {
+          "start": "01:04:20",
+          "start_seconds": 3860,
+          "title": "How can anyone use me? That's for me to give."
+        },
+        {
+          "start": "01:06:42",
+          "start_seconds": 4002,
+          "title": "Asking for what you want is the hot part"
+        },
+        {
+          "start": "01:11:58",
+          "start_seconds": 4318,
+          "title": "Fran's work as a death doula"
+        },
+        {
+          "start": "01:15:09",
+          "start_seconds": 4509,
+          "title": "Intimacy and dignity at the end of life"
+        },
+        {
+          "start": "01:17:02",
+          "start_seconds": 4622,
+          "title": "I've been accused of helping people live too long"
+        },
+        {
+          "start": "01:20:03",
+          "start_seconds": 4803,
+          "title": "Paradox, and taking what resonates"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "I support men in getting more of what they want in the bedroom.",
+          "source": "published"
+        },
+        {
+          "text": "I had to become dangerously competent.",
+          "source": "published"
+        },
+        {
+          "text": "What we look for, we find.",
+          "source": "published"
+        },
+        {
+          "text": "Men have changed my life drastically.",
+          "source": "published"
+        },
+        {
+          "text": "When I was raped, I stopped moving. And that was deliberate.",
+          "source": "published"
+        },
+        {
+          "text": "You don't have a sex problem. You have a nervous system dysregulation problem.",
+          "source": "published"
+        },
+        {
+          "text": "Take that pause.",
+          "source": "published"
+        },
+        {
+          "text": "How can anyone use me? That's for me to give.",
+          "source": "published"
+        },
+        {
+          "text": "You can only grow as much as you are honest with yourself.",
+          "source": "published"
+        },
+        {
+          "text": "We lack vocabulary for getting what it is that we want.",
+          "source": "published"
+        },
+        {
+          "text": "Porn is ideas, not information.",
+          "source": "published"
+        },
+        {
+          "text": "There's power in knowing your pleasures.",
+          "source": "published"
+        },
+        {
+          "text": "Sex and death are both states of transcendence.",
+          "source": "published"
+        },
+        {
+          "text": "I've been accused of helping people live a little too long.",
+          "source": "published"
+        },
+        {
+          "text": "Form is important.",
+          "source": "published"
+        }
+      ]
+    },
     {
       "slug": "0124-sigmar-berg-conscious-breathing-break",
       "number": "0124",
@@ -2259,7 +2481,7 @@
         {
           "start": "00:53:50",
           "start_seconds": 3230,
-          "title": "Open Perspective"
+          "title": "Change, Perspective & Believes"
         },
         {
           "start": "00:55:06",
@@ -4229,7 +4451,7 @@
         {
           "start": "00:00:00",
           "start_seconds": 0,
-          "title": "Host open — Trauma and Healing and Fatherhood"
+          "title": "Host open — Friends, Conversations & Keenan"
         },
         {
           "start": "00:05:28",
@@ -4404,7 +4626,7 @@
         {
           "start": "00:00:00",
           "start_seconds": 0,
-          "title": "Host open — Breathwork and Meditation"
+          "title": "Host open — Spiritual, Against & Whether"
         },
         {
           "start": "00:01:48",
@@ -5397,7 +5619,7 @@
         {
           "start": "00:00:15",
           "start_seconds": 15,
-          "title": "Host open — Mental Health and Community"
+          "title": "Host open — Health, Mental & Send"
         },
         {
           "start": "00:05:18",
@@ -5817,7 +6039,7 @@
         {
           "start": "00:01:14",
           "start_seconds": 74,
-          "title": "Host open — Creativity"
+          "title": "Host open — Played, Yoga & Instagram"
         },
         {
           "start": "00:02:43",
@@ -6062,7 +6284,7 @@
         {
           "start": "00:00:00",
           "start_seconds": 0,
-          "title": "Host open — Meditation and Embodied Practice"
+          "title": "Host open — Communication, Listening & Every"
         },
         {
           "start": "00:07:52",
@@ -6341,7 +6563,7 @@
         {
           "start": "00:00:01",
           "start_seconds": 1,
-          "title": "Host open — Building a Brand and Relationships"
+          "title": "Host open — Episodes, Life & Conversations"
         },
         {
           "start": "00:03:44",
@@ -6674,7 +6896,7 @@
         {
           "start": "00:00:06",
           "start_seconds": 6,
-          "title": "Host open — Mental Health"
+          "title": "Host open — Depression, Sadness & Record"
         },
         {
           "start": "00:01:42",
@@ -7450,7 +7672,7 @@
         {
           "start": "00:00:00",
           "start_seconds": 0,
-          "title": "Host open — Substances and Habits and the Podcast Itself"
+          "title": "Host open — Cannabis, World & Episodes"
         },
         {
           "start": "00:01:50",
@@ -7641,7 +7863,12 @@
         {
           "start": "00:51:50",
           "start_seconds": 3110,
-          "title": "Healing"
+          "title": "Having, Health & Mental"
+        },
+        {
+          "start": "00:55:07",
+          "start_seconds": 3307,
+          "title": "Heather, Website & Book"
         }
       ],
       "quotes": [],
@@ -8326,7 +8553,7 @@
         {
           "start": "00:01:07",
           "start_seconds": 67,
-          "title": "Host open — Bunch Covid"
+          "title": "Host open — Dealing, Beauty & Ryan"
         },
         {
           "start": "00:02:13",
@@ -8468,7 +8695,7 @@
         {
           "start": "00:01:32",
           "start_seconds": 92,
-          "title": "Host open — Cigarette High"
+          "title": "Host open — Smoking, Cigarette & Though"
         },
         {
           "start": "00:04:11",
@@ -8538,7 +8765,12 @@
         {
           "start": "01:35:38",
           "start_seconds": 5738,
-          "title": "Meditation"
+          "title": "Medication, Sometimes & Sharing"
+        },
+        {
+          "start": "01:39:02",
+          "start_seconds": 5942,
+          "title": "Hard, Adjusting & Dose"
         },
         {
           "start": "01:40:49",
@@ -8590,7 +8822,7 @@
         {
           "start": "00:01:18",
           "start_seconds": 78,
-          "title": "Host open — Embodied Practice and Creativity"
+          "title": "Host open — Sense, Trying & Conversation"
         },
         {
           "start": "00:07:24",
@@ -8772,7 +9004,7 @@
         {
           "start": "00:01:30",
           "start_seconds": 90,
-          "title": "Host open — Healing"
+          "title": "Host open — Yourself, Keep & Jaycie"
         },
         {
           "start": "00:02:34",
@@ -8877,7 +9109,7 @@
         {
           "start": "02:01:15",
           "start_seconds": 7275,
-          "title": "Healing"
+          "title": "Intuitive, Finding & Healers"
         }
       ],
       "quotes": [
@@ -8961,7 +9193,7 @@
         {
           "start": "00:00:00",
           "start_seconds": 0,
-          "title": "Host open — Gratitude and Music"
+          "title": "Host open — Song, Background & Trying"
         },
         {
           "start": "00:01:50",
@@ -9115,7 +9347,7 @@
         {
           "start": "00:14:22",
           "start_seconds": 862,
-          "title": "Open Sexuality"
+          "title": "Environment, Authentic & Pressures"
         },
         {
           "start": "00:15:19",
@@ -9815,7 +10047,7 @@
         {
           "start": "00:02:30",
           "start_seconds": 150,
-          "title": "Host open — Building a Brand and Sleep"
+          "title": "Host open — Coffee, Caffeine & Days"
         },
         {
           "start": "00:03:48",
@@ -9926,7 +10158,7 @@
         {
           "start": "00:00:34",
           "start_seconds": 34,
-          "title": "Host open — Trauma and Healing and Presence"
+          "title": "Host open — Human, Each & Progress"
         },
         {
           "start": "00:03:40",
@@ -10448,7 +10680,7 @@
         {
           "start": "00:01:26",
           "start_seconds": 86,
-          "title": "Host open — Breathwork and Meditation"
+          "title": "Host open — Year, Money & Water"
         },
         {
           "start": "00:02:12",
@@ -10845,7 +11077,7 @@
         {
           "start": "00:01:29",
           "start_seconds": 89,
-          "title": "Host open — Addiction and Recovery and Community"
+          "title": "Host open — October, Yourself & Sober"
         },
         {
           "start": "00:03:24",
@@ -11045,7 +11277,7 @@
         {
           "start": "00:01:43",
           "start_seconds": 103,
-          "title": "Host open — Embodied Practice and Community"
+          "title": "Host open — Experience, Rikki & Sleep"
         },
         {
           "start": "00:10:51",
@@ -11201,7 +11433,7 @@
         {
           "start": "00:01:26",
           "start_seconds": 86,
-          "title": "Host open — Rolled Ricky"
+          "title": "Host open — Grow, Towards & Choice"
         },
         {
           "start": "00:04:02",
@@ -11566,7 +11798,12 @@
         {
           "start": "01:31:12",
           "start_seconds": 5472,
-          "title": "Sleep"
+          "title": "Every, Hours & Friends"
+        },
+        {
+          "start": "01:35:21",
+          "start_seconds": 5721,
+          "title": "Weird, Feeling & Thought"
         },
         {
           "start": "01:39:20",
@@ -11634,7 +11871,7 @@
         {
           "start": "00:01:37",
           "start_seconds": 97,
-          "title": "Host open — Trauma and Healing and Mental Health"
+          "title": "Host open — Contempt, Country & Society"
         },
         {
           "start": "00:06:08",
@@ -11787,7 +12024,7 @@
         {
           "start": "00:00:51",
           "start_seconds": 51,
-          "title": "Host open — Letterkenny bit and settling in"
+          "title": "Host open — Order, Universal & Entire"
         },
         {
           "start": "00:06:24",
@@ -12103,7 +12340,7 @@
         {
           "start": "00:02:32",
           "start_seconds": 152,
-          "title": "Host open — Addiction and Recovery and Mental Health"
+          "title": "Host open — Might, Learning & Change"
         },
         {
           "start": "00:04:55",
@@ -12545,7 +12782,7 @@
         {
           "start": "00:01:49",
           "start_seconds": 109,
-          "title": "Host open — Listening with Jessica and Mackenzie"
+          "title": "Host open — Listening, Jessica & Mackenzie"
         },
         {
           "start": "00:02:43",
@@ -12955,7 +13192,7 @@
         {
           "start": "00:01:53",
           "start_seconds": 113,
-          "title": "Host open — Mental Health and Journaling"
+          "title": "Host open — Yourself, Feeling & Care"
         },
         {
           "start": "00:04:15",
@@ -17607,7 +17844,7 @@
       "slug": "healing-trauma-therapy",
       "title": "Healing, Trauma & Therapy",
       "blurb": "Trauma work, therapy, chronic pain, and recovery of the self.",
-      "count": 16
+      "count": 17
     },
     {
       "slug": "breath-body-practice",
@@ -17619,13 +17856,13 @@
       "slug": "men-masculinity-fatherhood",
       "title": "Men, Masculinity & Fatherhood",
       "blurb": "Men’s emotional life, fatherhood, and outgrown masculine costumes.",
-      "count": 10
+      "count": 11
     },
     {
       "slug": "love-sex-relationships",
       "title": "Love, Sex & Relationships",
       "blurb": "Intimacy, partnership, belonging, and relationship practice.",
-      "count": 11
+      "count": 12
     },
     {
       "slug": "music-creative-practice",
@@ -17649,7 +17886,7 @@
       "slug": "mind-mood-mental-health",
       "title": "Mind, Mood & Mental Health",
       "blurb": "Depression, anxiety, mania, intrusive thoughts, and sense-making.",
-      "count": 20
+      "count": 21
     },
     {
       "slug": "science-frequency-integral",

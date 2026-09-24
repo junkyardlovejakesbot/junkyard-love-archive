@@ -1,4 +1,4 @@
-(Archive picks chapter/clip list — regenerable via polish_clip_summaries.py / rebuild_clips_index.py)
+(Archive picks chapter/clip list — regenerable via rebuild_clips_index.py)
 
 - [00:01:37](#t-00-01-37) — Opening banter — headset, pilots, welcome back
 - [00:02:39](#t-00-02-39) — Meeting at 15, shared family trauma, dandelions through cement
