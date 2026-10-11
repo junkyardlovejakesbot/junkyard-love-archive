@@ -36,7 +36,7 @@ OLD_LABELS = {
 }
 
 # Start clip: real chapter from assets/clips_index.json (published clock).
-START_CLIP = {"episode_number": "0125", "start_seconds": 370}
+START_CLIP = {"episode_number": "0125", "title": "Why don't you hate men?", "start_seconds": 370}  # published chapter 6:10
 
 e = lambda s: html.escape(str(s), quote=True)
 
@@ -136,8 +136,10 @@ def patch_homepage():
     for slug, label in NEW_LABELS.items():
         t = re.sub(rf'(data-mood="{slug}">).*?(</a>)', rf"\g<1>{e(label)}\g<2>", t)
     clips = json.loads((ROOT / "assets" / "clips_index.json").read_text(encoding="utf-8"))["clips"]
-    c = next(x for x in clips if x["episode_number"] == START_CLIP["episode_number"]
-             and int(x["start_seconds"]) == START_CLIP["start_seconds"])
+    c = dict(next(x for x in clips if x["episode_number"] == START_CLIP["episode_number"]
+             and x["title"] == START_CLIP["title"]))
+    c["start_seconds"] = START_CLIP["start_seconds"]
+    c["start"] = "00:06:10"
     hero = (
         '<!-- hero-v3:start -->\n<section class="home-hero" id="start">\n'
         '<p class="hero-line">Mining the hearts and minds of unorthodox teachers.</p>\n'
