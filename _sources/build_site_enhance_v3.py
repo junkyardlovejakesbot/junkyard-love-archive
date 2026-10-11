@@ -18,7 +18,7 @@ NEW_LABELS = {
     "armors-on": "Feeling guarded",
     "need-my-body-back": "Body feels off",
     "on-the-floor": "At a low point",
-    "something-opened": "Something made sense",
+    "something-opened": "Seeing things differently",
     "want-a-friend-talking": "Need company",
 }
 OLD_LABELS = {
@@ -36,7 +36,7 @@ OLD_LABELS = {
 }
 
 # Start clip: real chapter from assets/clips_index.json (published clock).
-START_CLIP = {"episode_number": "0125", "title": "Why don't you hate men?", "start_seconds": 370}  # published chapter 6:10
+START_CLIP = {"episode_number": "0122", "title": "Laugh like a hairy oaf / yawn / children’s books", "start_seconds": 2406, "start": "00:40:06", "display_title": "Laugh, Yawn & Read Children’s Books: Easy Daily Practices to Open Your Voice"}  # published chapter 40:06
 
 e = lambda s: html.escape(str(s), quote=True)
 
@@ -139,7 +139,8 @@ def patch_homepage():
     c = dict(next(x for x in clips if x["episode_number"] == START_CLIP["episode_number"]
              and x["title"] == START_CLIP["title"]))
     c["start_seconds"] = START_CLIP["start_seconds"]
-    c["start"] = "00:06:10"
+    c["start"] = START_CLIP["start"]
+    c["title"] = START_CLIP["display_title"]
     hero = (
         '<!-- hero-v3:start -->\n<section class="home-hero" id="start">\n'
         '<p class="hero-line">Mining the hearts and minds of unorthodox teachers.</p>\n'

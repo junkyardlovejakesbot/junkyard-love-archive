@@ -110,7 +110,7 @@ MOOD_SEO = {
         "For nights when you’re on the floor and need a human voice.",
     ),
     "something-opened": (
-        "Something made sense — Listen by mood",
+        "Seeing things differently — Listen by mood",
         "When something opened and you need someone who’s been there.",
     ),
     "want-a-friend-talking": (
