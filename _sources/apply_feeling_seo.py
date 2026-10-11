@@ -86,7 +86,7 @@ MOOD_SEO = {
         "Conversations for after something big shifted and you’re still catching up.",
     ),
     "need-to-come-back-to-my-body": (
-        "Want to feel my body — Listen by mood",
+        "Not in my body — Listen by mood",
         "Breath, body, and coming back to yourself.",
     ),
     "having-a-really-hard-time": (
@@ -98,7 +98,7 @@ MOOD_SEO = {
         "When you just want a real conversation.",
     ),
     "armors-on": (
-        "Hard to open up — Listen by mood",
+        "Feeling guarded — Listen by mood",
         "Talks for men taking the armor off.",
     ),
     "need-my-body-back": (
@@ -110,11 +110,11 @@ MOOD_SEO = {
         "For nights when you’re on the floor and need a human voice.",
     ),
     "something-opened": (
-        "Something clicked — Listen by mood",
+        "Something made sense — Listen by mood",
         "When something opened and you need someone who’s been there.",
     ),
     "want-a-friend-talking": (
-        "Want someone talking — Listen by mood",
+        "Need company — Listen by mood",
         "When you want a friend talking in the room with you.",
     ),
 }

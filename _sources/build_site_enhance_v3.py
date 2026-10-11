@@ -12,14 +12,14 @@ NEW_LABELS = {
     "cant-sleep": "Can't sleep",
     "tired-of-holding-it-together": "Feeling overwhelmed",
     "something-big-shifted": "Life just changed",
-    "need-to-come-back-to-my-body": "Want to feel my body",
+    "need-to-come-back-to-my-body": "Not in my body",
     "having-a-really-hard-time": "Having a hard time",
     "just-want-a-real-conversation": "Want a real conversation",
-    "armors-on": "Hard to open up",
+    "armors-on": "Feeling guarded",
     "need-my-body-back": "Body feels off",
     "on-the-floor": "At a low point",
-    "something-opened": "Something clicked",
-    "want-a-friend-talking": "Want someone talking",
+    "something-opened": "Something made sense",
+    "want-a-friend-talking": "Need company",
 }
 OLD_LABELS = {
     "cant-sleep": ["Can't sleep", "Can’t sleep"],
