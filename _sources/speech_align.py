@@ -172,6 +172,12 @@ def folder_for(slug):
     return None
 
 
+def chapters_section(html):
+    """Only the published 'Chapters' list (not 'Chapter-style timestamps' archive picks)."""
+    m = re.search(r"<h[23][^>]*>\s*Chapters\s*</h[23]>(.*?)(?=<h[23][^>]*>)", html, re.S)
+    return m.group(1) if m else html
+
+
 def published_chapters(repo, slug):
     """Published chapter clock from the episode page chapter list -> {title: seconds}."""
     import html as H
@@ -179,7 +185,7 @@ def published_chapters(repo, slug):
     if not p.exists():
         return {}
     out = {}
-    for m in re.finditer(r'<a href="#t-[\d-]+">(\d\d):(\d\d):(\d\d)</a> — (.*?)</li>', p.read_text()):
+    for m in re.finditer(r'<a href="#t-[\d-]+">(\d\d):(\d\d):(\d\d)</a> — (.*?)</li>', chapters_section(p.read_text())):
         out.setdefault(H.unescape(m.group(4)).strip(), _ts(*m.groups()[:3]))
     return out
 

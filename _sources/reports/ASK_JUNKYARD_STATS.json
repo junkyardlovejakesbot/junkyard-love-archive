@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-24T16:34:22Z",
+  "generated": "2026-10-11T14:23:39Z",
   "indexed": 2377,
   "skipped": 0,
   "candidates": 2377,
   "shard_mode": true,
   "shard_count": 3,
-  "search_bytes": 15095391,
+  "search_bytes": 15094323,
   "reason_counts": {}
 }

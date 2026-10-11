@@ -374,8 +374,8 @@
   }
 
   function clipCardHtml(ep, ch, quote) {
-    var startSec = parseTs(ch.start_seconds != null ? ch.start_seconds : ch.start);
-    var hash = "#t-" + fmtTs(startSec);
+    var startSec = playSec(ch);
+    var hash = playHash(ch);
     var guest = ep.is_solo ? "Solo" : ep.guest || "Guest";
     var title = ep.browse_title || ep.canonical_title || "";
     var yt = ytUrl(ep, startSec);

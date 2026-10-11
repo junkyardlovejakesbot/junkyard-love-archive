@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-24T16:34:22Z",
+  "generated": "2026-10-11T14:23:39Z",
   "generator": "build_ask_junkyard.py",
   "chapter_count": 2377,
   "shard_count": 3,
@@ -10,11 +10,11 @@
     },
     {
       "file": "shard-01.json",
-      "chapter_count": 1284
+      "chapter_count": 1285
     },
     {
       "file": "shard-02.json",
-      "chapter_count": 24
+      "chapter_count": 23
     }
   ]
 }

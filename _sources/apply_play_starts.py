@@ -16,8 +16,10 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import speech_align as A
 
 REPO = A.HERE.parent
-FILES = ["clips_index.json", "chapter_index.json", "mood_doors.json"]
-DRIFT_FIX = {"0125"}
+FILES = ["clips_index.json", "chapter_index.json", "mood_doors.json", "episodes_index.json"]
+DRIFT_FIX = "all"  # any episode: unique title on page + unique in the index file -> published clock
+INTRO_RE = __import__("re").compile(r"^(intro|bumper|countdown|music)\b|intro music|countdown", __import__("re").I)
+_DUP = set()
 PROMO = {"0125": 4923}
 _pub, _anc, _fold = {}, {}, {}
 
@@ -34,6 +36,42 @@ def ctx(slug):
     return _pub[slug], _anc[slug], _fold[slug]
 
 
+_pc, _fs = {}, {}
+
+
+def _pagecount(slug):
+    if slug not in _pc:
+        import html as H
+        p = REPO / "episodes" / slug / "index.html"
+        cnt = {}
+        if p.exists():
+            for m in re.finditer(r'<a href="#t-[\d-]+">\d\d:\d\d:\d\d</a> — (.*?)</li>', A.chapters_section(p.read_text())):
+                t = H.unescape(m.group(1)).strip(); cnt[t] = cnt.get(t, 0) + 1
+        _pc[slug] = cnt
+    return _pc[slug]
+
+
+def first_speech(slug):
+    """Earliest published chapter mark that is not an intro/music bumper."""
+    if slug not in _fs:
+        # first speaker turn in the episode transcript (intro music / countdown /
+        # bumper is not transcribed as a turn); fallback: first non-intro chapter
+        pub, _, folder = ctx(slug)
+        md = (folder / "transcript.md") if folder else None
+        first = None
+        if md and md.exists():
+            m = re.search(r"^\[(\d\d):(\d\d):(\d\d)\]\s*[^:\n]{1,40}:", md.read_text(errors="ignore"), re.M)
+            if m:
+                first = int(m.group(1)) * 3600 + int(m.group(2)) * 60 + int(m.group(3))
+                if first > 180:
+                    first = None
+        if first is None:
+            ts = [int(v) for k, v in pub.items() if not INTRO_RE.search(k)]
+            first = min(ts) if ts else None
+        _fs[slug] = first
+    return _fs[slug]
+
+
 def fix_entry(d, stats):
     slug = slug_of(d)
     if not slug or d.get("start_seconds") is None:
@@ -41,7 +79,9 @@ def fix_entry(d, stats):
     pub, anc, folder = ctx(slug)
     num = slug[:4]
     title = d.get("title") or d.get("chapter_title")
-    if num in DRIFT_FIX and title in pub and int(pub[title]) != int(d["start_seconds"]):
+    page_titles = _pagecount(slug)
+    if (DRIFT_FIX == "all" or num in DRIFT_FIX) and title in pub and page_titles.get(title) == 1 \
+            and (slug, title) not in _DUP and int(pub[title]) != int(d["start_seconds"]):
         old = int(d["start_seconds"]); new = int(pub[title])
         d["start_seconds"] = new
         for k in ("start", "chapter_time"):
@@ -55,6 +95,10 @@ def fix_entry(d, stats):
         s, kind, _ = A.play_start(folder, p)
     if num in PROMO and p < PROMO[num] <= s:
         s = p
+    # never start inside intro music: no earlier than the first speech chapter
+    floor = first_speech(slug)
+    if floor is not None and s < floor <= p:
+        s = floor
     d["play_start_seconds"] = s
     d["play_start"] = A.hms(s)
     a = max([x for x in anc if x <= s], default=None)
@@ -65,6 +109,8 @@ def fix_entry(d, stats):
             d[k] = re.sub(r"#t-[\d-]+", "#" + d["play_anchor"], d[k])
     if isinstance(d.get("youtube_url"), str) and "t=" in d["youtube_url"]:
         d["youtube_url"] = re.sub(r"([?&]t=)\d+s?", lambda m: f"{m.group(1)}{s}s", d["youtube_url"])
+    if d.get("_drift_noted") is None and stats["drift_fixed"] and stats["drift_fixed"][-1][0] == num:
+        pass
     stats["n"] += 1
     stats["kinds"][kind] = stats["kinds"].get(kind, 0) + 1
     if p - s >= 1:
@@ -90,7 +136,26 @@ def new_stats():
 def process(path, stats):
     raw = path.read_text(encoding="utf-8")
     doc = json.loads(raw)
-    walk(doc, stats)
+    _DUP.clear()
+    seen = {}
+    def scan(o):
+        if isinstance(o, dict):
+            sl = slug_of(o); t = o.get("title") or o.get("chapter_title")
+            if sl and t and o.get("start_seconds") is not None:
+                seen[(sl, t)] = seen.get((sl, t), 0) + 1
+            for v in o.values(): scan(v)
+        elif isinstance(o, list):
+            for v in o: scan(v)
+    scan(doc)
+    _DUP.update(k for k, n in seen.items() if n > 1)
+    if path.name == "episodes_index.json":
+        for ep in doc.get("episodes", []):
+            for ch in ep.get("chapters") or []:
+                ch["episode_slug"] = ep["slug"]
+                fix_entry(ch, stats)
+                ch.pop("episode_slug", None)
+    else:
+        walk(doc, stats)
     compact = "\n" not in raw.strip()[:200]
     out = json.dumps(doc, ensure_ascii=False, separators=(",", ":")) if compact else json.dumps(doc, indent=2, ensure_ascii=False) + "\n"
     if out != raw:
@@ -133,7 +198,7 @@ def main():
     sh = sorted(stats["shifts"])
     print(json.dumps({"entries": stats["n"], "kinds": stats["kinds"], "shifted": len(sh),
                       "median_shift": sh[len(sh)//2] if sh else 0, "max_shift": sh[-1] if sh else 0,
-                      "no_captions": sorted(stats["nocap"]), "drift_fixed": len(stats["drift_fixed"]),
+                      "no_captions": sorted(stats["nocap"]), "drift_fixed": len(stats["drift_fixed"]), "drift_eps": sorted({x[0] for x in stats["drift_fixed"]}), "drift_detail": sorted({x for x in stats["drift_fixed"]}),
                       "changed": [str(c.relative_to(REPO)) for c in changed]}, indent=1))
     return stats
 

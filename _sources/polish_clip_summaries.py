@@ -1062,5 +1062,14 @@ def main() -> None:
     print(json.dumps({k: result[k] for k in ("polished", "titles_changed", "quality_ok", "after")}, indent=2))
 
 
+
+def _apply_play_starts():
+    """Speech-aligned play_start_seconds on every clip/chapter index (archive standard)."""
+    import importlib, sys as _s
+    from pathlib import Path as _P
+    _s.path.insert(0, str(_P(__file__).resolve().parent))
+    importlib.import_module("apply_play_starts").main()
+
 if __name__ == "__main__":
     main()
+    _apply_play_starts()
