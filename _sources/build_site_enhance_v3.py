@@ -36,7 +36,7 @@ OLD_LABELS = {
 }
 
 # Start clip: real chapter from assets/clips_index.json (published clock).
-START_CLIP = {"episode_number": "0122", "title": "Laugh like a hairy oaf / yawn / children’s books", "start_seconds": 2406, "start": "00:40:06", "display_title": "Laugh, Yawn & Read Children’s Books: Easy Daily Practices to Open Your Voice"}  # published chapter 40:06
+START_CLIP = {"episode_number": "0122", "title": "Laugh like a hairy oaf / yawn / children’s books", "start_seconds": 2406, "content_folder": "_sources/content/0122-barbara-mcafee", "display_title": "Laugh, Yawn & Read Children’s Books: Easy Daily Practices to Open Your Voice"}  # published chapter 40:06
 
 e = lambda s: html.escape(str(s), quote=True)
 
@@ -138,8 +138,8 @@ def patch_homepage():
     clips = json.loads((ROOT / "assets" / "clips_index.json").read_text(encoding="utf-8"))["clips"]
     c = dict(next(x for x in clips if x["episode_number"] == START_CLIP["episode_number"]
              and x["title"] == START_CLIP["title"]))
-    c["start_seconds"] = START_CLIP["start_seconds"]
-    c["start"] = START_CLIP["start"]
+    from snap_clip_start import snap
+    c["start_seconds"], _ = snap(ROOT / START_CLIP["content_folder"], START_CLIP["start_seconds"])
     c["title"] = START_CLIP["display_title"]
     hero = (
         '<!-- hero-v3:start -->\n<section class="home-hero" id="start">\n'
