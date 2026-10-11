@@ -53,6 +53,22 @@
       esc(fmtHuman(startSec)) +
       "</p>";
     // short_summary / long_summary intentionally hidden until a later extract pass
+    if (opts.embed) {
+      var h = '<div class="clip-card clip-card-embed"' + (opts.id ? ' id="' + esc(opts.id) + '"' : "") + "><h3>" + esc(c.title) + "</h3>";
+      h += '<p class="clip-ep">' + esc(guest) + " · Episode " + esc(c.episode_number || "") + " · starts " + esc(fmtHuman(startSec)) + "</p>";
+      if (c.youtube_id) {
+        h += '<div class="clip-embed"><iframe src="https://www.youtube-nocookie.com/embed/' + esc(c.youtube_id) +
+          "?start=" + Math.floor(startSec) + '&amp;rel=0" title="' + esc(c.title) + " — " + esc(guest) +
+          '" loading="lazy" frameborder="0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe></div>';
+      } else {
+        h += '<p class="note">No video is available for this one. Use the episode page below.</p>';
+      }
+      h += '<div class="btn-row">';
+      if (yt) h += '<a class="secondary" href="' + esc(yt) + '" target="_blank" rel="noopener">YouTube</a>';
+      h += '<a class="secondary" href="' + esc(epUrl + hash) + '">Transcript at this moment</a>';
+      h += '<a class="secondary" href="' + esc(epUrl) + '">Full episode</a>';
+      return h + "</div></div>";
+    }
     html += '<div class="btn-row">';
     if (yt) {
       html +=
@@ -409,7 +425,11 @@
         if (el) el.innerHTML = '<p class="search-empty">No chapters available yet.</p>';
         return;
       }
-      el.innerHTML = clipFromIndexCard(clip, {});
+      if (el.classList && el.classList.contains("clip-card")) {
+        el.outerHTML = clipFromIndexCard(clip, { embed: true, id: el.id });
+      } else {
+        el.innerHTML = clipFromIndexCard(clip, { embed: true });
+      }
     });
   }
 
@@ -1434,13 +1454,14 @@
         randomEpisode();
       });
     }
-    var shuffleBtn = document.querySelector("[data-shuffle-clip]");
-    if (shuffleBtn) {
+    var shuffleBtns = document.querySelectorAll("[data-shuffle-clip]");
+    Array.prototype.forEach.call(shuffleBtns, function (shuffleBtn) {
       shuffleBtn.addEventListener("click", function (e) {
         e.preventDefault();
-        shuffleClip("#shuffle-result");
+        var target = shuffleBtn.getAttribute("data-shuffle-target") || "#shuffle-result";
+        shuffleClip(target);
       });
-    }
+    });
     var searchForm = document.querySelector("[data-archive-search]");
     if (searchForm) {
       searchForm.addEventListener("submit", function (e) {

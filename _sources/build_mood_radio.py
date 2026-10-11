@@ -612,6 +612,9 @@ def main():
     nav_n = patch_nav_sitewide()
     update_sitemap(moods)
     write_notes(mood_counts, radio_sizes, playlist_n, nav_n)
+    # v3: plain mood labels, door paragraphs, homepage start-clip hero
+    import build_site_enhance_v3
+    build_site_enhance_v3.main()
 
     print("mood_counts", mood_counts)
     print("radio_sizes", radio_sizes)

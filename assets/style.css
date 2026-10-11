@@ -1033,3 +1033,12 @@ img.guest-portrait {
 .guest-alias { margin-top: -0.35rem; }
 .also-made-item { margin: 0.35rem 0 0.75rem; }
 .clip-permission { margin-top: 2rem; opacity: 0.85; }
+
+/* v3: homepage hero + embedded clip preview */
+.home-hero { margin: 1rem 0 1.5rem; }
+.home-hero .hero-line { font-size: 1.35rem; font-weight: 600; margin: 0 0 .25rem; }
+.home-hero .hero-sub { margin: 0 0 1rem; opacity: .85; }
+.hero-doors { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: .75rem; }
+.clip-embed { position: relative; width: 100%; aspect-ratio: 16 / 9; margin: .5rem 0; background: #000; border-radius: 8px; overflow: hidden; }
+.clip-embed iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+.door-for { margin: .25rem 0 1rem; }

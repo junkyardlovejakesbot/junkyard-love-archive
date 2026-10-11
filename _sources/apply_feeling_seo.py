@@ -74,47 +74,47 @@ PAGES = {
 
 MOOD_SEO = {
     "cant-sleep": (
-        "Can’t sleep — Listen by mood",
+        "Can't sleep — Listen by mood",
         "Long conversations when you can’t sleep.",
     ),
     "tired-of-holding-it-together": (
-        "Tired of holding it together — Listen by mood",
+        "Feeling overwhelmed — Listen by mood",
         "Talks for when you’re tired of holding it together.",
     ),
     "something-big-shifted": (
-        "Something big shifted — Listen by mood",
+        "Life just changed — Listen by mood",
         "Conversations for after something big shifted and you’re still catching up.",
     ),
     "need-to-come-back-to-my-body": (
-        "Need to come back to my body — Listen by mood",
+        "Want to feel my body — Listen by mood",
         "Breath, body, and coming back to yourself.",
     ),
     "having-a-really-hard-time": (
-        "Having a really hard time — Listen by mood",
+        "Having a hard time — Listen by mood",
         "Company for a really hard time — no clinic-speak.",
     ),
     "just-want-a-real-conversation": (
-        "Just want a real conversation — Listen by mood",
+        "Want a real conversation — Listen by mood",
         "When you just want a real conversation.",
     ),
     "armors-on": (
-        "Armor’s on — Listen by mood",
+        "Hard to open up — Listen by mood",
         "Talks for men taking the armor off.",
     ),
     "need-my-body-back": (
-        "Need my body back — Listen by mood",
+        "Body feels off — Listen by mood",
         "Conversations for getting back into your body.",
     ),
     "on-the-floor": (
-        "On the floor — Listen by mood",
+        "At a low point — Listen by mood",
         "For nights when you’re on the floor and need a human voice.",
     ),
     "something-opened": (
-        "Something opened — Listen by mood",
+        "Something clicked — Listen by mood",
         "When something opened and you need someone who’s been there.",
     ),
     "want-a-friend-talking": (
-        "Want a friend talking — Listen by mood",
+        "Want someone talking — Listen by mood",
         "When you want a friend talking in the room with you.",
     ),
 }
