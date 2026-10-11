@@ -248,6 +248,7 @@ def update_llms() -> None:
 
 - Public origin: {ORIGIN}/ — all relative HTML hrefs resolve from `<base href="/junkyard-love-archive/">`, **not** from the current folder.
 - Do **not** request `/topics/topics/...` or `/episodes/episodes/...` (those 404s mean the crawler ignored `<base>`).
+- Clip and chapter starts: in `assets/chapter_index.json`, `assets/clips_index.json` and `assets/chapter_search/`, `start_seconds` is the published chapter clock; `play_start_seconds` is the speech-aligned start for each chapter (where the speaker actually begins, from the episode's own captions, never later than the published mark and at most 30s earlier). `youtube_url` and `transcript_url` already point at it.
 - Do **not** invent slugs. Use [`sitemap.xml`]({ORIGIN}/sitemap.xml) or [`assets/episodes_index.json`]({ORIGIN}/assets/episodes_index.json).
 - Early episodes use short slugs (example: `/episodes/0003-spencer-hicks/`). Later episodes use long title slugs (example: `/episodes/0124-sigmar-berg-conscious-breathing-break/`). `/episodes/0124-sigmar-berg/` is **not** a page.
 - Removed catalog numbers **0001, 0014, 0016, 0029** are intentional placeholder pages, not missing episodes.

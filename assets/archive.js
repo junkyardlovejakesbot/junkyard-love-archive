@@ -33,10 +33,22 @@
       });
   }
 
+  // Speech-aligned start (play_start_seconds from _sources/apply_play_starts.py):
+  // embeds, YouTube t= and transcript anchors begin where the speaker starts,
+  // published chapter labels stay as published.
+  function playSec(c) {
+    if (!c) return 0;
+    if (c.play_start_seconds != null) return Number(c.play_start_seconds);
+    return parseTs(c.start_seconds != null ? c.start_seconds : c.start);
+  }
+  function playHash(c) {
+    return c && c.play_anchor ? "#" + c.play_anchor : "#t-" + fmtTs(playSec(c));
+  }
+
   function clipFromIndexCard(c, opts) {
     opts = opts || {};
-    var startSec = parseTs(c.start_seconds != null ? c.start_seconds : c.start);
-    var hash = "#t-" + fmtTs(startSec);
+    var startSec = playSec(c);
+    var hash = playHash(c);
     var epUrl = abs("episodes/" + c.episode_slug + "/index.html");
     var guest = c.guest || "Solo";
     var yt = c.youtube_id
@@ -729,8 +741,8 @@
   }
 
   function chapterHitHtml(ch) {
-    var startSec = parseTs(ch.start_seconds != null ? ch.start_seconds : ch.start);
-    var hash = "#t-" + fmtTs(startSec);
+    var startSec = playSec(ch);
+    var hash = playHash(ch);
     var epUrl = abs("episodes/" + ch.episode_slug + "/index.html");
     var guest = ch.guest || "Solo";
     var excerpt = ch.excerpt || "";
@@ -1015,6 +1027,7 @@
             guest: ref.guest || "",
             start: ref.chapter_time,
             start_seconds: ref.start_seconds != null ? ref.start_seconds : parseTs(ref.chapter_time),
+            play_start_seconds: ref.play_start_seconds != null ? ref.play_start_seconds : null,
             youtube_id: ref.youtube_id || "",
             host_open: false,
           };
@@ -1140,7 +1153,7 @@
 
   function clipEndSeconds(clip, allClips) {
     if (!clip) return null;
-    var startSec = Math.floor(parseTs(clip.start_seconds != null ? clip.start_seconds : clip.start));
+    var startSec = Math.floor(playSec(clip));
     var same = (allClips || []).filter(function (c) {
       return c.episode_slug === clip.episode_slug && c.youtube_id;
     });
@@ -1149,7 +1162,7 @@
         parseTs(b.start_seconds != null ? b.start_seconds : b.start);
     });
     for (var i = 0; i < same.length; i++) {
-      var s = Math.floor(parseTs(same[i].start_seconds != null ? same[i].start_seconds : same[i].start));
+      var s = Math.floor(playSec(same[i]));
       if (s > startSec) return s;
     }
     // Last chapter in episode: cap at ~10 minutes so radio keeps moving.
@@ -1168,8 +1181,8 @@
   }
 
   function radioCardHtml(c) {
-    var startSec = parseTs(c.start_seconds != null ? c.start_seconds : c.start);
-    var hash = "#t-" + fmtTs(startSec);
+    var startSec = playSec(c);
+    var hash = playHash(c);
     var epUrl = abs("episodes/" + c.episode_slug + "/index.html");
     var guest = c.guest || "Solo";
     var html = '<div class="clip-card radio-now-playing"><h3>' + esc(c.title) + "</h3>";
@@ -1255,7 +1268,7 @@
 
   function mountOrLoadRadio(clip, allClips) {
     if (!clip || !clip.youtube_id) return Promise.resolve();
-    var startSec = Math.floor(parseTs(clip.start_seconds != null ? clip.start_seconds : clip.start));
+    var startSec = Math.floor(playSec(clip));
     radioState.clipEndSec = clipEndSeconds(clip, allClips);
     var shell = document.querySelector("[data-radio-embed-shell]");
     if (shell) shell.removeAttribute("hidden");

@@ -138,8 +138,9 @@ def patch_homepage():
     clips = json.loads((ROOT / "assets" / "clips_index.json").read_text(encoding="utf-8"))["clips"]
     c = dict(next(x for x in clips if x["episode_number"] == START_CLIP["episode_number"]
              and x["title"] == START_CLIP["title"]))
-    from snap_clip_start import snap
-    c["start_seconds"], _ = snap(ROOT / START_CLIP["content_folder"], START_CLIP["start_seconds"])
+    from speech_align import play_start
+    c["start_seconds"], _, _ = play_start(ROOT / START_CLIP["content_folder"], START_CLIP["start_seconds"])
+    c["play_start_seconds"] = c["start_seconds"]
     c["title"] = START_CLIP["display_title"]
     hero = (
         '<!-- hero-v3:start -->\n<section class="home-hero" id="start">\n'

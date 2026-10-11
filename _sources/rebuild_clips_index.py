@@ -1419,5 +1419,16 @@ def main() -> int:
     return 0
 
 
+
+def _apply_play_starts():
+    """Speech-aligned play_start_seconds on every clip/chapter index (archive standard)."""
+    import importlib, sys as _s
+    from pathlib import Path as _P
+    _s.path.insert(0, str(_P(__file__).resolve().parent))
+    importlib.import_module("apply_play_starts").main()
+
 if __name__ == "__main__":
-    sys.exit(main())
+    _rc = main()
+    if "--dry-run" not in sys.argv:
+        _apply_play_starts()
+    sys.exit(_rc)
