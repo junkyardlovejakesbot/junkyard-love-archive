@@ -466,3 +466,6 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+    # Discovery v4 (meta/OG/JSON-LD/related) must run after pass2 so regenerations keep it.
+    import subprocess, sys as _sys
+    subprocess.run([_sys.executable, str(Path(__file__).with_name("build_discovery_v4.py"))], check=True)
