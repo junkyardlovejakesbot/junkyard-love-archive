@@ -36,7 +36,7 @@ OLD_LABELS = {
 }
 
 # Start clip: real chapter from assets/clips_index.json (published clock).
-START_CLIP = {"episode_number": "0084", "start_seconds": 2311}
+START_CLIP = {"episode_number": "0125", "start_seconds": 370}
 
 e = lambda s: html.escape(str(s), quote=True)
 
