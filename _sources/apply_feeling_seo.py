@@ -345,8 +345,9 @@ def ensure_robots() -> None:
 def main() -> None:
     ensure_robots()
     touched = []
+    REDIRECT_ALIASES = {"six-ways-in/index.html", "start-here/index.html"}
     for rel, meta in PAGES.items():
-        if meta is None:
+        if meta is None or rel in REDIRECT_ALIASES:
             continue
         title, desc, url_path = meta
         if patch_file(rel, title, desc, url_path):

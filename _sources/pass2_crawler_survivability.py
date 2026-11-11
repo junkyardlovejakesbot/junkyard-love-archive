@@ -361,44 +361,10 @@ def update_readme() -> None:
     p.write_text(t, encoding="utf-8")
 
 
-def rebuild_sitemap(pages: list[tuple[str, str]]) -> None:
-    required = [
-        "/",
-        "/moods/",
-        "/listen/",
-        "/search/",
-        "/llms.txt",
-        "/inventory.csv",
-        "/assets/chapter_index.json",
-        "/sitemap.xml",
-    ]
-    seen: set[str] = set()
-    entries: list[tuple[str, str]] = []
-    for path, lastmod in pages:
-        if not path.startswith("/"):
-            path = "/" + path
-        if path in seen or "transistor.fm" in path:
-            continue
-        seen.add(path)
-        entries.append((path, lastmod))
-    for path in required:
-        if path not in seen:
-            entries.append((path, TODAY))
-            seen.add(path)
-    entries.sort(key=lambda x: (x[0] != "/", x[0]))
-    lines = [
-        '<?xml version="1.0" encoding="UTF-8"?>',
-        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
-    ]
-    for path, lastmod in entries:
-        loc = ORIGIN + ("" if path == "/" else path)
-        lines.append("  <url>")
-        lines.append(f"    <loc>{xml_escape(loc)}</loc>")
-        lines.append(f"    <lastmod>{lastmod}</lastmod>")
-        lines.append("  </url>")
-    lines.append("</urlset>")
-    lines.append("")
-    (ROOT / "sitemap.xml").write_text("\n".join(lines), encoding="utf-8")
+def rebuild_sitemap(pages: list[tuple[str, str]] | None = None) -> None:
+    """Delegate to sitemap_build so full regenerations stay consistent."""
+    from sitemap_build import rebuild_sitemap as _rebuild
+    _rebuild()
 
 
 def main() -> None:
@@ -409,7 +375,11 @@ def main() -> None:
     update_readme()
 
     sitemap_pages: list[tuple[str, str]] = []
-    html_files = [p for p in ROOT.rglob("*.html") if ".git" not in p.parts]
+    html_files = [
+        p
+        for p in ROOT.rglob("*.html")
+        if ".git" not in p.parts and "_sources" not in p.parts
+    ]
     for p in sorted(html_files):
         rel = p.relative_to(ROOT).as_posix()
         if rel == "index.html":
@@ -417,7 +387,7 @@ def main() -> None:
             sitemap_path = "/"
         elif rel.endswith("/index.html"):
             folder = rel[: -len("/index.html")]
-            if folder == "six-ways-in":
+            if folder in {"six-ways-in", "start-here"}:
                 canon = ORIGIN + "/where-to-begin/"
             else:
                 canon = ORIGIN + "/" + folder + "/"
@@ -445,21 +415,7 @@ def main() -> None:
         p.write_text(text, encoding="utf-8")
         sitemap_pages.append((sitemap_path, git_date(p)))
 
-    for rel in (
-        "llms.txt",
-        "inventory.csv",
-        "assets/chapter_index.json",
-        "assets/episodes_index.json",
-        "assets/clips_index.json",
-        "assets/quotes_clean.json",
-        "assets/books_index.json",
-        "robots.txt",
-    ):
-        fp = ROOT / rel
-        if fp.exists():
-            sitemap_pages.append(("/" + rel, git_date(fp)))
-
-    rebuild_sitemap(sitemap_pages)
+    rebuild_sitemap()
     print(
         f"Pass 2 complete. HTML={len(html_files)} sitemap_paths={len(sitemap_pages)}"
     )
@@ -472,3 +428,5 @@ if __name__ == "__main__":
     subprocess.run([_sys.executable, str(Path(__file__).with_name("build_discovery_v4.py"))], check=True)
     # Speech-aligned play starts on clip/chapter indexes (see _sources/TIMING.md).
     subprocess.run([_sys.executable, str(Path(__file__).with_name("apply_play_starts.py"))], check=True)
+    subprocess.run([_sys.executable, str(Path(__file__).with_name("build_chapters_json.py"))], check=True)
+    subprocess.run([_sys.executable, str(Path(__file__).with_name("sitemap_build.py"))], check=True)

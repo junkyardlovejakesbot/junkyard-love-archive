@@ -1,0 +1,89 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 100,
+      "title": "Healing and Mental Health"
+    },
+    {
+      "startTime": 209,
+      "title": "Topics — math / science / quantum"
+    },
+    {
+      "startTime": 315,
+      "title": "Layers of abstraction"
+    },
+    {
+      "startTime": 403,
+      "title": "Bits / computing scaffold"
+    },
+    {
+      "startTime": 913,
+      "title": "Assembly language"
+    },
+    {
+      "startTime": 1110,
+      "title": "Machine code"
+    },
+    {
+      "startTime": 1290,
+      "title": "Compiling / debugging yourself"
+    },
+    {
+      "startTime": 1631,
+      "title": "Rick and Morty / quantum computing"
+    },
+    {
+      "startTime": 1831,
+      "title": "Schrödinger's cat"
+    },
+    {
+      "startTime": 1914,
+      "title": "Frequency and Science and Mortality and Grief"
+    },
+    {
+      "startTime": 2484,
+      "title": "Prime numbers"
+    },
+    {
+      "startTime": 2952,
+      "title": "Kung Fu Panda analogy"
+    },
+    {
+      "startTime": 3152,
+      "title": "Quantum computing / A.I."
+    },
+    {
+      "startTime": 3335,
+      "title": "The singularity"
+    },
+    {
+      "startTime": 3465,
+      "title": "Mandalorian"
+    },
+    {
+      "startTime": 3842,
+      "title": "Malicious compliance"
+    },
+    {
+      "startTime": 4043,
+      "title": "Linear algebra / coursework"
+    },
+    {
+      "startTime": 4291,
+      "title": "Induction"
+    },
+    {
+      "startTime": 4829,
+      "title": "Astronaut dreams"
+    },
+    {
+      "startTime": 5273,
+      "title": "Sleep and Relationships"
+    },
+    {
+      "startTime": 5747,
+      "title": "Archimedes / Eureka story"
+    }
+  ]
+}

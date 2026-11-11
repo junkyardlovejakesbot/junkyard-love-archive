@@ -247,91 +247,14 @@ def update_episode_jsonld(episodes: list[dict]) -> tuple[int, int]:
     return touched, skipped
 
 
-def rebuild_sitemap(episodes: list[dict]) -> int:
-    urls: list[str] = []
-
-    def add(path: str):
-        path = path.lstrip("/")
-        if path and not path.endswith("/") and not path.endswith(".txt") and not path.endswith(".xml") and not path.endswith(".html") and "." in Path(path).name:
-            loc = f"{BASE_SITE}/{path}"
-        elif path.endswith(".txt") or path.endswith(".json") or path.endswith(".xml") or path.endswith(".html"):
-            loc = f"{BASE_SITE}/{path}"
-        else:
-            loc = f"{BASE_SITE}/{path}".rstrip("/") + "/"
-        if path == "":
-            loc = BASE_SITE + "/"
-        urls.append(loc)
-
-    add("")
-    for section in [
-        "six-ways-in/",
-        "start-here/",
-        "radio/",
-        "topics/",
-        "guests/",
-        "episodes/",
-        "books/",
-        "search/",
-        "listen/",
-        "clips/",
-        "donate/",
-        "merch/",
-        "llms.txt",
-    ]:
-        add(section)
-
-    # moods
-    moods = DEPLOY / "moods"
-    if moods.exists():
-        add("moods/")
-        for d in sorted(moods.iterdir()):
-            if d.is_dir() and (d / "index.html").exists():
-                add(f"moods/{d.name}/")
-
-    # topics
-    for d in sorted((DEPLOY / "topics").iterdir()):
-        if d.is_dir() and (d / "index.html").exists():
-            add(f"topics/{d.name}/")
-
-    # guests
-    for d in sorted((DEPLOY / "guests").iterdir()):
-        if d.is_dir() and (d / "index.html").exists():
-            add(f"guests/{d.name}/")
-
-    # books
-    for d in sorted((DEPLOY / "books").iterdir()):
-        if d.is_dir() and (d / "index.html").exists():
-            add(f"books/{d.name}/")
-
-    # episodes (non-removed)
-    removed = set()
-    for ep in episodes:
-        if ep.get("removed"):
-            removed.add(ep["slug"])
-            continue
-        add(f"episodes/{ep['slug']}/")
-
-    # also include on-disk episode folders that aren't removed aliases? stick to index
-    # Dedupe preserve order
-    seen = set()
-    ordered = []
-    for u in urls:
-        if u not in seen:
-            seen.add(u)
-            ordered.append(u)
-
-    lines = [
-        '<?xml version="1.0" encoding="UTF-8"?>',
-        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
-    ]
-    for u in ordered:
-        lines.append("  <url>")
-        lines.append(f"    <loc>{html.escape(u)}</loc>")
-        lines.append("  </url>")
-    lines.append("</urlset>")
-    lines.append("")
-    (DEPLOY / "sitemap.xml").write_text("\n".join(lines), encoding="utf-8")
-    return len(ordered)
+def rebuild_sitemap(episodes: list[dict] | None = None) -> int:
+    """Delegate to sitemap_build (HTML pages only, trailing-slash homepage, lastmods)."""
+    import sys
+    src = Path(__file__).resolve().parent
+    if str(src) not in sys.path:
+        sys.path.insert(0, str(src))
+    from sitemap_build import rebuild_sitemap as _rebuild
+    return _rebuild()
 
 
 def update_llms_txt(episodes: list[dict], guest_index_names: dict[str, str]) -> None:

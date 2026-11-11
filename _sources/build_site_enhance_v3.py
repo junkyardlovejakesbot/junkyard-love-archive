@@ -40,6 +40,26 @@ START_CLIP = {"episode_number": "0122", "title": "Laugh like a hairy oaf / yawn 
 
 e = lambda s: html.escape(str(s), quote=True)
 
+SHOW_ART = "https://junkyardlovejakesbot.github.io/junkyard-love-archive/assets/show-art.jpg"
+
+
+def ensure_share_image(html: str, img_url: str = SHOW_ART) -> str:
+    """Keep homepage og:image and twitter:image pointing at official show art."""
+    def upsert(page, attr, key, val):
+        tag = f'<meta {attr}="{key}" content="{e(val)}">'
+        pat = re.compile(rf'<meta {attr}="{re.escape(key)}" content="[^"]*">\n?')
+        if pat.search(page):
+            return pat.sub(tag + "\n", page, count=1)
+        m = re.search(r'<link rel="canonical"[^>]*>\n', page) or re.search(r'<meta property="og:url"[^>]*>\n', page)
+        i = m.end() if m else page.find("</head>")
+        return page[:i] + tag + "\n" + page[i:]
+    html = upsert(html, "property", "og:image", img_url)
+    html = upsert(html, "name", "twitter:image", img_url)
+    if 'name="twitter:card"' not in html and "name='twitter:card'" not in html:
+        html = upsert(html, "name", "twitter:card", "summary_large_image")
+    return html
+
+
 
 def fmt_human(sec):
     h, r = divmod(int(sec), 3600); m, s = divmod(r, 60)
@@ -169,6 +189,7 @@ def patch_homepage():
         block = "<!-- below-fold-v3:start -->\n" + topics + pick + "<!-- below-fold-v3:end -->\n"
     t = t.replace('<div class="section-head">\n  <h2>Latest</h2>', '<div class="section-head" id="latest">\n  <h2>Latest</h2>', 1)
     t = re.sub(r'(<div class="card-grid" data-latest-cards[^>]*></div>\n)', lambda mm: mm.group(1) + "\n" + block, t, count=1)
+    t = ensure_share_image(t)
     p.write_text(t, encoding="utf-8")
     return c
 

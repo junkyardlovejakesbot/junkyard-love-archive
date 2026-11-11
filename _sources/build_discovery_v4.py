@@ -211,6 +211,8 @@ for rel in ["index.html", "guests/index.html"] + sorted(str(x.relative_to(ROOT))
     if rel == "index.html":
         m = re.search(r'<meta property="og:title" content="([^"]*)">', page); title = html.unescape(m.group(1)) if m else None
     img = None
+    if rel == "index.html":
+        img = SITE + "assets/show-art.jpg"
     if is_guest:
         name = h1_text(page)
         linked = [BY_SLUG[x] for x in re.findall(r'href="episodes/([^/"]+)/index.html"', page) if x in BY_SLUG and BY_SLUG[x].get("youtube_id")]
@@ -228,7 +230,7 @@ for rel in ["index.html", "guests/index.html"] + sorted(str(x.relative_to(ROOT))
 # ---- sitemap lastmod for changed pages
 sm = ROOT / "sitemap.xml"; s = sm.read_text()
 for c in changed:
-    loc = SITE + c if c else SITE.rstrip("/")
+    loc = SITE + c if c else SITE  # SITE already has a trailing slash
     for L in {loc, loc.rstrip("/"), loc.rstrip("/") + "/"}:
         s = re.sub(rf"(<loc>{re.escape(L)}</loc>\s*<lastmod>)[^<]*", rf"\g<1>{TODAY}", s)
 sm.write_text(s)

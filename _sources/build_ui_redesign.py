@@ -785,42 +785,14 @@ def build_homepage(index: dict):
 
 
 def build_start_here(index: dict):
-    topics = {t["slug"]: t for t in index["topics"]}
-    packs = [
-        ("Men / armor / fatherhood", "men-masculinity-fatherhood"),
-        ("Healing without clinic-speak", "healing-trauma-therapy"),
-        ("When the break might be a message", "awakening-mystical"),
-        ("Body first", "breath-body-practice"),
-        ("Second chances", "extreme-lives-second-chances"),
-    ]
-    # also mind-mood as related
-    cards = '<div class="card-grid">\n'
-    for label, slug in packs:
-        t = topics.get(slug, {})
-        cards += (
-            f'<a class="start-pack" href="topics/{esc(slug)}/index.html">'
-            f'<p class="pack-label">Topic pack</p>'
-            f"<h3>{esc_text(label)}</h3>"
-            f'<p>{esc_text(t.get("blurb", ""))} · {t.get("count", 0)} episodes</p>'
-            f"</a>\n"
-        )
-    mm = topics.get("mind-mood-mental-health")
-    if mm:
-        cards += (
-            f'<a class="start-pack" href="topics/mind-mood-mental-health/index.html">'
-            f'<p class="pack-label">Also nearby</p>'
-            f"<h3>Mind, mood &amp; mental health</h3>"
-            f'<p>{esc_text(mm.get("blurb", ""))} · {mm.get("count", 0)} episodes</p>'
-            f"</a>\n"
-        )
-    cards += "</div>\n"
-    body = f"""
-<h1>Start here</h1>
-<p class="lede">If the full catalog feels like too much, begin with one of these doors. Each pack is an existing topic page — same episodes, same transcripts.</p>
-{cards}
-<p class="note"><a href="search/index.html">Search</a> · <a href="clips/index.html">Pick a clip</a> · <a href="episodes/index.html">All episodes</a></p>
-"""
-    write_page("start-here/index.html", "Start here — The Junkyard Love Podcast", body)
+    """Keep /start-here/ as a single-hop redirect to /where-to-begin/."""
+    import sys
+    src = Path(__file__).resolve().parent
+    if str(src) not in sys.path:
+        sys.path.insert(0, str(src))
+    from where_to_begin_redirect import write_aliases
+    write_aliases()
+
 
 
 def build_search_page():
