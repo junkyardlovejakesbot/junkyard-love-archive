@@ -4,7 +4,7 @@ Paste the chapters URL into each episode in Transistor so the feed can emit a `p
 
 Each file is Podcasting 2.0 chapters JSON version 1.2.0. `startTime` is the published chapter clock from the archive, not the speech-aligned play start.
 
-Generated 2026-11-11. 121 episode files.
+Generated 2026-11-11. 122 episode files.
 
 | Episode | Guest | Title | Chapters | URL |
 |---|---|---|---:|---|
@@ -129,3 +129,4 @@ Generated 2026-11-11. 121 episode files.
 | 0004 | Brandon Cruz (Zack Wyld) | Community technology positive use | 17 | https://junkyardlovejakesbot.github.io/junkyard-love-archive/chapters/0004-zack-wyld.json |
 | 0003 | Spencer Hicks | Ego mindfulness and consciousness | 21 | https://junkyardlovejakesbot.github.io/junkyard-love-archive/chapters/0003-spencer-hicks.json |
 | 0002 | Rob Gonzalez of EYE Clothing | Growth hard work vision and raves | 13 | https://junkyardlovejakesbot.github.io/junkyard-love-archive/chapters/0002-rob-gonzalez-of-eye-clothing.json |
+| 0126 | Jess Soto | A Great Love Story | 28 | https://junkyardlovejakesbot.github.io/junkyard-love-archive/chapters/0126-jess-soto-a-great-love-story.json |

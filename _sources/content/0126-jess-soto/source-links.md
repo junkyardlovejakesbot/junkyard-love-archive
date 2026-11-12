@@ -1,0 +1,5 @@
+- Instagram: instagram.com/jess_flow444
+- Website (courses, coaching, free 30-day guide): beaconofhope.world
+- Book, Becoming HER: A Journey of Remembering (also on Audible, read by Jess): amazon.com/Becoming-HER-Remembering-Jess-Soto/dp/1971359955
+- Companion journal, Becoming HER Journal: 30 Day Journey of Remembering: us.amazon.com/Becoming-HER-Journal-Journey-Remembering/dp/B0GWCPKD6H
+- Jess Flow podcast (wherever you listen)

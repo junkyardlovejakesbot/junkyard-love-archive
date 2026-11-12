@@ -1,0 +1,30 @@
+(Published chapters — RSS/YouTube description)
+
+- [00:00:00](#t-00-00-00) — Welcome
+- [00:01:31](#t-00-01-31) — Mom at 15
+- [00:02:08](#t-00-02-08) — Raised by Her Grandmother
+- [00:03:23](#t-00-03-23) — "I Knew I Had a Choice"
+- [00:04:18](#t-00-04-18) — Chaos, Couch Surfing & Foster Care
+- [00:06:29](#t-00-06-29) — Abusive Relationships
+- [00:08:01](#t-00-08-01) — Easter Sunday & Choosing Herself
+- [00:10:52](#t-00-10-52) — The Manager Who Gave Her Courage
+- [00:11:48](#t-00-11-48) — Ending the Cycle
+- [00:14:41](#t-00-14-41) — Spiritual Awakening at 35
+- [00:16:59](#t-00-16-59) — Changing What You Consume
+- [00:19:31](#t-00-19-31) — Tony Robbins & Priming
+- [00:21:46](#t-00-21-46) — Grief Stored in the Body
+- [00:24:14](#t-00-24-14) — "Who Am I?" and "Are You Happy?"
+- [00:28:00](#t-00-28-00) — The Body Knew: A Stab in the Back
+- [00:29:16](#t-00-29-16) — Ayahuasca, Colombia & the Text Message
+- [00:34:33](#t-00-34-33) — Choose Love: A Great Love Story
+- [00:36:24](#t-00-36-24) — Feel It, But Don't Stay There
+- [00:41:20](#t-00-41-20) — Breath Work, Yoga & Sensual Bachata
+- [00:49:42](#t-00-49-42) — What Is Ayahuasca, Really?
+- [00:52:20](#t-00-52-20) — 30+ Ceremonies & Writing the Book
+- [00:54:58](#t-00-54-58) — The Real Ceremony Is Life
+- [00:57:35](#t-00-57-35) — Still Human: Triggers & Her Daughter
+- [01:06:30](#t-01-06-30) — What Projection Really Means
+- [01:09:06](#t-01-09-06) — Intuition & Muscle Testing
+- [01:13:26](#t-01-13-26) — Time Is an Illusion
+- [01:18:10](#t-01-18-10) — For Anyone Still in an Abusive Relationship
+- [01:23:10](#t-01-23-10) — You Are Not Broken + Where to Find Jess

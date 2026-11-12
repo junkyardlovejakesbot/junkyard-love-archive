@@ -57,6 +57,7 @@ This site is a conversation archive for The Junkyard Love Podcast (host: Jacob /
 https://junkyardlovejakesbot.github.io/junkyard-love-archive/
 
 ## Episodes (processed)
+- [0126 Jess Soto — A Great Love Story](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0126-jess-soto-a-great-love-story/) — 2026-11-11
 - [0125 Fran Frye — Shame, Sex, and Men's Mental Health](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0125-fran-frye-shame-sex-mens-mental-health/) — 2026-09-24
 - [0124 Sigmar Berg — Conscious Breathing Break](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0124-sigmar-berg-conscious-breathing-break/) — 2026-09-01
 - [0123 Dr. Cristine Hull — Endorphins, Love, Quantum Medicine & the Four Bodies](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0123-endorphins-love-quantum-medicine-four-bodies/) — 2026-07-25
@@ -399,6 +400,7 @@ Index: [https://junkyardlovejakesbot.github.io/junkyard-love-archive/moods/](htt
 - Apple: https://podcasts.apple.com/us/podcast/the-junkyard-love-podcast/id1489118788
 
 ## Episode markdown mirrors
+- [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0126-jess-soto-a-great-love-story/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0126-jess-soto-a-great-love-story/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0118-what-if-mania-is-a-message-sean-blackwell/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0118-what-if-mania-is-a-message-sean-blackwell/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0121-surrendering-the-porsche-tim-fraley/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0121-surrendering-the-porsche-tim-fraley/episode.md)
 - [https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0120-im-not-a-teacher-david-hulse/episode.md](https://junkyardlovejakesbot.github.io/junkyard-love-archive/episodes/0120-im-not-a-teacher-david-hulse/episode.md)

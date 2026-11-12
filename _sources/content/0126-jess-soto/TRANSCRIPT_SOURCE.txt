@@ -1,0 +1,7 @@
+Source: Transistor published SRT (share.transistor.fm/s/4eec7b74/transcript.srt); identical text to YouTube manual captions en-US.
+Video: https://www.youtube.com/watch?v=T6KpYZSV5GA
+Turns: 93
+Word count: 14519
+Speaker map: captions carry no speaker labels; Jacob / Jess assigned by reading the conversation (question/answer, names, content) at caption-cue level.
+Cleanup: [Intro music]/[Outro music] cues dropped; consecutive same-speaker cues merged. No sentence rewriting.
+Published clock (YouTube chapters = RSS chapters).

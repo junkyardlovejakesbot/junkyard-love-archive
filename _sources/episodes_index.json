@@ -12,7 +12,7 @@
     "0029"
   ],
   "generated": "clip-index-rebuild",
-  "episode_count": 121,
+  "episode_count": 122,
   "episodes": [
     {
       "slug": "0125-fran-frye-shame-sex-mens-mental-health",
@@ -25181,6 +25181,315 @@
       "is_solo": false,
       "url": "episodes/0002-rob-gonzalez-of-eye-clothing/index.html",
       "removed": false
+    },
+    {
+      "slug": "0126-jess-soto-a-great-love-story",
+      "number": "0126",
+      "browse_title": "A Great Love Story",
+      "canonical_title": "A Great Love Story - 30 Ayahuasca Ceremonies, a Sister's Betrayal, Pregnant at 15 - Episode 0126 with Jess Soto",
+      "guest": "Jess Soto",
+      "duration": "1:25:02",
+      "duration_seconds": 5102,
+      "date": "2026-11-11",
+      "youtube_id": "T6KpYZSV5GA",
+      "youtube_url": "https://www.youtube.com/watch?v=T6KpYZSV5GA",
+      "spotify_show": "https://open.spotify.com/show/45J7CBdM8j29doqyBp2bFs",
+      "apple_show": "https://podcasts.apple.com/us/podcast/the-junkyard-love-podcast/id1489118788",
+      "rss_url": "https://share.transistor.fm/s/4eec7b74",
+      "topics": [
+        {
+          "slug": "healing-trauma-therapy",
+          "title": "Healing, Trauma & Therapy"
+        },
+        {
+          "slug": "awakening-mystical",
+          "title": "Awakening & Mystical Experience"
+        },
+        {
+          "slug": "love-sex-relationships",
+          "title": "Love, Sex & Relationships"
+        }
+      ],
+      "chapters": [
+        {
+          "start": "00:00:00",
+          "start_seconds": 0,
+          "title": "Welcome",
+          "play_start_seconds": 0,
+          "play_start": "00:00:00",
+          "play_anchor": "t-00-00-00"
+        },
+        {
+          "start": "00:01:31",
+          "start_seconds": 91,
+          "title": "Mom at 15",
+          "play_start_seconds": 78,
+          "play_start": "00:01:18",
+          "play_anchor": "t-00-00-48"
+        },
+        {
+          "start": "00:02:08",
+          "start_seconds": 128,
+          "title": "Raised by Her Grandmother",
+          "play_start_seconds": 128,
+          "play_start": "00:02:08",
+          "play_anchor": "t-00-02-08"
+        },
+        {
+          "start": "00:03:23",
+          "start_seconds": 203,
+          "title": "\"I Knew I Had a Choice\"",
+          "play_start_seconds": 198,
+          "play_start": "00:03:18",
+          "play_anchor": "t-00-02-08"
+        },
+        {
+          "start": "00:04:18",
+          "start_seconds": 258,
+          "title": "Chaos, Couch Surfing & Foster Care",
+          "play_start_seconds": 258,
+          "play_start": "00:04:18",
+          "play_anchor": "t-00-04-18"
+        },
+        {
+          "start": "00:06:29",
+          "start_seconds": 389,
+          "title": "Abusive Relationships",
+          "play_start_seconds": 382,
+          "play_start": "00:06:22",
+          "play_anchor": "t-00-04-18"
+        },
+        {
+          "start": "00:08:01",
+          "start_seconds": 481,
+          "title": "Easter Sunday & Choosing Herself",
+          "play_start_seconds": 477,
+          "play_start": "00:07:57",
+          "play_anchor": "t-00-07-43"
+        },
+        {
+          "start": "00:10:52",
+          "start_seconds": 652,
+          "title": "The Manager Who Gave Her Courage",
+          "play_start_seconds": 650,
+          "play_start": "00:10:50",
+          "play_anchor": "t-00-10-27"
+        },
+        {
+          "start": "00:11:48",
+          "start_seconds": 708,
+          "title": "Ending the Cycle",
+          "play_start_seconds": 704,
+          "play_start": "00:11:44",
+          "play_anchor": "t-00-10-54"
+        },
+        {
+          "start": "00:14:41",
+          "start_seconds": 881,
+          "title": "Spiritual Awakening at 35",
+          "play_start_seconds": 881,
+          "play_start": "00:14:41",
+          "play_anchor": "t-00-14-41"
+        },
+        {
+          "start": "00:16:59",
+          "start_seconds": 1019,
+          "title": "Changing What You Consume",
+          "play_start_seconds": 1019,
+          "play_start": "00:16:59",
+          "play_anchor": "t-00-16-59"
+        },
+        {
+          "start": "00:19:31",
+          "start_seconds": 1171,
+          "title": "Tony Robbins & Priming",
+          "play_start_seconds": 1167,
+          "play_start": "00:19:27",
+          "play_anchor": "t-00-19-24"
+        },
+        {
+          "start": "00:21:46",
+          "start_seconds": 1306,
+          "title": "Grief Stored in the Body",
+          "play_start_seconds": 1304,
+          "play_start": "00:21:44",
+          "play_anchor": "t-00-19-32"
+        },
+        {
+          "start": "00:24:14",
+          "start_seconds": 1454,
+          "title": "\"Who Am I?\" and \"Are You Happy?\"",
+          "play_start_seconds": 1450,
+          "play_start": "00:24:10",
+          "play_anchor": "t-00-21-50"
+        },
+        {
+          "start": "00:28:00",
+          "start_seconds": 1680,
+          "title": "The Body Knew: A Stab in the Back",
+          "play_start_seconds": 1678,
+          "play_start": "00:27:58",
+          "play_anchor": "t-00-24-14"
+        },
+        {
+          "start": "00:29:16",
+          "start_seconds": 1756,
+          "title": "Ayahuasca, Colombia & the Text Message",
+          "play_start_seconds": 1756,
+          "play_start": "00:29:16",
+          "play_anchor": "t-00-29-16"
+        },
+        {
+          "start": "00:34:33",
+          "start_seconds": 2073,
+          "title": "Choose Love: A Great Love Story",
+          "play_start_seconds": 2073,
+          "play_start": "00:34:33",
+          "play_anchor": "t-00-34-33"
+        },
+        {
+          "start": "00:36:24",
+          "start_seconds": 2184,
+          "title": "Feel It, But Don't Stay There",
+          "play_start_seconds": 2184,
+          "play_start": "00:36:24",
+          "play_anchor": "t-00-36-24"
+        },
+        {
+          "start": "00:41:20",
+          "start_seconds": 2480,
+          "title": "Breath Work, Yoga & Sensual Bachata",
+          "play_start_seconds": 2480,
+          "play_start": "00:41:20",
+          "play_anchor": "t-00-41-20"
+        },
+        {
+          "start": "00:49:42",
+          "start_seconds": 2982,
+          "title": "What Is Ayahuasca, Really?",
+          "play_start_seconds": 2982,
+          "play_start": "00:49:42",
+          "play_anchor": "t-00-49-42"
+        },
+        {
+          "start": "00:52:20",
+          "start_seconds": 3140,
+          "title": "30+ Ceremonies & Writing the Book",
+          "play_start_seconds": 3137,
+          "play_start": "00:52:17",
+          "play_anchor": "t-00-52-17"
+        },
+        {
+          "start": "00:54:58",
+          "start_seconds": 3298,
+          "title": "The Real Ceremony Is Life",
+          "play_start_seconds": 3294,
+          "play_start": "00:54:54",
+          "play_anchor": "t-00-52-30"
+        },
+        {
+          "start": "00:57:35",
+          "start_seconds": 3455,
+          "title": "Still Human: Triggers & Her Daughter",
+          "play_start_seconds": 3454,
+          "play_start": "00:57:34",
+          "play_anchor": "t-00-57-34"
+        },
+        {
+          "start": "01:06:30",
+          "start_seconds": 3990,
+          "title": "What Projection Really Means",
+          "play_start_seconds": 3989,
+          "play_start": "01:06:29",
+          "play_anchor": "t-01-06-29"
+        },
+        {
+          "start": "01:09:06",
+          "start_seconds": 4146,
+          "title": "Intuition & Muscle Testing",
+          "play_start_seconds": 4145,
+          "play_start": "01:09:05",
+          "play_anchor": "t-01-09-05"
+        },
+        {
+          "start": "01:13:26",
+          "start_seconds": 4406,
+          "title": "Time Is an Illusion",
+          "play_start_seconds": 4405,
+          "play_start": "01:13:25",
+          "play_anchor": "t-01-13-25"
+        },
+        {
+          "start": "01:18:10",
+          "start_seconds": 4690,
+          "title": "For Anyone Still in an Abusive Relationship",
+          "play_start_seconds": 4685,
+          "play_start": "01:18:05",
+          "play_anchor": "t-01-17-34"
+        },
+        {
+          "start": "01:23:10",
+          "start_seconds": 4990,
+          "title": "You Are Not Broken + Where to Find Jess",
+          "play_start_seconds": 4990,
+          "play_start": "01:23:10",
+          "play_anchor": "t-01-23-10"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "The narrative that I'm going to give this is that this is a great love story. They gave me an opportunity to choose love in the face of betrayal.",
+          "source": "published"
+        },
+        {
+          "text": "There was something in me like I knew I had a choice to make.",
+          "source": "published"
+        },
+        {
+          "text": "I needed to end that cycle.",
+          "source": "published"
+        },
+        {
+          "text": "If you're not happy, what is it all for?",
+          "source": "published"
+        },
+        {
+          "text": "Forgiveness is not a one and done. It's a continual choice.",
+          "source": "published"
+        },
+        {
+          "text": "I allowed myself to feel it, but I didn't stay there.",
+          "source": "published"
+        },
+        {
+          "text": "The real ceremony is life.",
+          "source": "published"
+        },
+        {
+          "text": "How do I respond when life shows its teeth?",
+          "source": "published"
+        },
+        {
+          "text": "Earth is a school, right?",
+          "source": "published"
+        },
+        {
+          "text": "Everyone is in their own dance.",
+          "source": "published"
+        },
+        {
+          "text": "The love that you're seeking is within you.",
+          "source": "published"
+        },
+        {
+          "text": "You can turn your pain into purpose.",
+          "source": "published"
+        },
+        {
+          "text": "You are not broken. You are not too far gone.",
+          "source": "published"
+        }
+      ]
     }
   ],
   "topics": [
@@ -25188,13 +25497,13 @@
       "slug": "awakening-mystical",
       "title": "Awakening & Mystical Experience",
       "blurb": "Kundalini, mystical practice, spiritual emergency, and awakening stories.",
-      "count": 18
+      "count": 19
     },
     {
       "slug": "healing-trauma-therapy",
       "title": "Healing, Trauma & Therapy",
       "blurb": "Trauma work, therapy, chronic pain, and recovery of the self.",
-      "count": 17
+      "count": 18
     },
     {
       "slug": "breath-body-practice",
@@ -25212,7 +25521,7 @@
       "slug": "love-sex-relationships",
       "title": "Love, Sex & Relationships",
       "blurb": "Intimacy, partnership, belonging, and relationship practice.",
-      "count": 12
+      "count": 13
     },
     {
       "slug": "music-creative-practice",
